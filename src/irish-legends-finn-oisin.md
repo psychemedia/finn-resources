@@ -46,6 +46,15 @@ Irish Fairy Tales: Folklore and Legends
 Publisher Gibbings
 Publication date 1904
 
+https://archive.org/details/heroicromancesi00leahgoog/page/n5/mode/2up
+Heroic romances of Ireland; vol I
+by Leahy, Arthur Herbert, 1857-1928
+Publication date 1905
+
+https://archive.org/details/heroicromancesof02leah/page/n3/mode/2up
+Heroic romances of Ireland; vol II
+by Leahy, Arthur Herbert, 1857-1928
+Publication date 1905
 
 https://archive.org/details/oldcelticromance00joyciala
 Old Celtic romances
@@ -83,6 +92,15 @@ by Curtin, Jeremiah, 1835-1906
 Publication date 1890
 
 
+https://archive.org/details/laoioisnasirnang00coim
+Laoi Oisín as ṫir na n-óg = The lay of Oisín in the land of youth
+by Coimín, Micheál, 1676-1760; Flannery, Thomas, 1846-1916
+Publication date 1896 includes a narrative translation
+
+
+A different translation is found as
+https://archive.org/details/transactionsofos40ossi/page/234/mode/2up in Transactions of the Ossianic Society for 1856 vol IV p235+
+
 https://archive.org/details/high-deeds-of-finn-and-other-bardic-romances-of-ancient-ireland
 The High Deeds of Finn And Other Bardic Romances of Ancient Ireland
 by Rolleston, T. W., 1857-1920, Reid, Stephen, 1873-1948
@@ -99,6 +117,30 @@ by Rolleston, T.W.
 Publication date 1929
 eg tests of the fianna - https://archive.org/details/in.gov.ignca.11503/page/n333/mode/2up?q=knee
 He must be versed in the Twelve Books of Poetry, and must himself be skilled to make verse in the rime and metre of the masters of Gaelic poesy. Then he was buried to his middle in the earth, and must, with a shield and a hazel stick, there defend himself against nine warriors casting spears at him, and if he were wounded he was not accepted. Then his hair was woven into braids, and he was chased through the forest by the Fians. If he were ovetaken, or if a braid of his hair were disturbed, or if a dry stick cracked under his foot, he was not accepted. He must be able to leap over a lath level with his brow, and to run at full speed under one level with his knee, and he must he able white running to draw out a thorn from his foot and never slacken speed. He must take no dowry with a wife.
+
+
+It would probably make sense to index TRANSACTIONS OF THE OSSIANIC SOCIETY,
+
+eg Origin of the harp https://archive.org/details/transactionsoss00socigoog/page/n194/mode/2up Transactions of the Ossianic Society: for the years 1853-1858, 1860 p156
+
+
+
+https://archive.org/details/transactionsofos04ossiuoft/page/n17/mode/2up
+Transactions of the Ossianic society (for t)he year 1856 vol 4)
+Incl lay of oisin on the land of youth, dialogue between oisin and St Patrick, boyish exploits of finn mac cumhuill
+
+---
+
+https://archive.org/details/legendaryfictio00kenngoog
+Legendary Fictions of the Irish Celts
+by Patrick Kennedy
+Publication date 1866
+
+
+https://archive.org/details/fictionsofourfor01kenn
+Fictions of our forefathers : Fion Mac Cumhail and his warriors (Reprinted from the Irish Quarterly Review, No. XXXV., October 1859)
+by Kennedy, Patrick, 1801-1873; Ossianic Society
+Publication date 1859
 
 ---
 
@@ -117,7 +159,7 @@ Publication date 1910
 
 
 https://archive.org/details/bub_gb_dE7pMtIozskC
-FORAS FEASA AR EIRINN DO REIR AN ATHAR, SEATHRUN CEITING, OLLAMH RE DIADHACHTA.THE HISTORY OF IRELAND, FROM THE GAELIEST PERIOD TO THE ENGLISH INVASION.
+FORAS FEASA AR EIRINN DO REIR AN ATHAR, SEATHRUN CEITING, OLLAMH RE DIADHACHTA. THE HISTORY OF IRELAND, FROM THE GAELIEST PERIOD TO THE ENGLISH INVASION.
 by JOHN O'MAHONY
 Publication date 1866
 
