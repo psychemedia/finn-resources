@@ -7,4 +7,5 @@ parts:
   chapters:
   - file: backstory
 - caption: Resources
+  chapters:
   - file: irish-legends-finn-oisin
