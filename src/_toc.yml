@@ -1,0 +1,10 @@
+format: jb-book
+root: _preface
+parts:
+- chapters:
+  - file: intro
+- caption: In the Beginning
+  chapters:
+  - file: backstory
+- caption: Resources
+  - file: irish-legends-finn-oisin

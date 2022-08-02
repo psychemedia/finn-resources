@@ -1,0 +1,16 @@
+title: In Search of Fionn MacCumhaill and the Fianna
+author: Tony Hirst
+copyright: "2022" 
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: cache
+  timeout: 60  
+parse:
+  myst_dmath_double_inline: true
+
+sphinx:
+  config:
+    html_copy_source: false
+  extra_extensions:
+    - sphinxcontrib.youtube
