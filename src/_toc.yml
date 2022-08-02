@@ -1,5 +1,5 @@
 format: jb-book
-root: _preface
+root: preface
 parts:
 - chapters:
   - file: intro
@@ -9,3 +9,4 @@ parts:
 - caption: Resources
   chapters:
   - file: irish-legends-finn-oisin
+  - file: tales-told.md
