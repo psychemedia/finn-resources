@@ -3,9 +3,9 @@ root: preface
 parts:
 - chapters:
   - file: intro
-- caption: In the Beginning
+- caption: First Encounters
   chapters:
-  - file: backstory
+  - file: oisin-tir-na-nog
 - caption: Resources
   chapters:
   - file: irish-legends-finn-oisin
