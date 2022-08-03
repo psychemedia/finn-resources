@@ -77,6 +77,8 @@ https://archive.org/details/laoifiannuighea00univgoog
 Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
 by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
 Publication date 1859
+https://archive.org/details/laoifiannuighea00univgoog/page/n270/mode/2up?q=oisin
+Lay of Oisin
 Incl: Boyish exploits of Finn Mac Cumhaill https://archive.org/details/laoifiannuighea00univgoog/page/n316/mode/2up?q=boyish
 
 https://archive.org/details/riujournalschoo01acadgoog/page/n44/mode/2up?q=finn

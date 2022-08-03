@@ -6,11 +6,33 @@ The trigger was a Ladybird style book, [Irish Legends for Children](https://www.
 
 The gist of the story is this:
 
-> *Fionn and his band saw a lady riding towards them on a white horse with a silver bridle. The maiden was fair indeed and asked if there was one among them called Oisín. Indeed there was, and she bade him come with her to the land of eternal youth — Tír Na Nóg. He got on the horse and they road over the waves to a beautiful land. After a time, Oisín grew homesick, and pleaded to go home. He could return on the horse that brought him, as long as he did not place his foot on the earth of Ireland. He rode back, and came to where hs father's house had been; but there was nothing there. In the ditance, some men were working, struggling to move a rock. Oisín asked after hs father, Fionn, to hear he had been dead 300 years. Oisín leant to help the men but the strap on the bridle broke and Oisín fell to the floor, aging 300 years at once. The men were aghast, but helped him and took him to St Patrick. Whereupon Oisín told him the tales of FIonn and the Fianna.*
+> *Fionn and his band saw a lady riding towards them on a white horse with a silver bridle. The maiden was fair indeed and asked if there was one among them called Oisín. Indeed there was, and she bade him come with her to the land of eternal youth — Tír Na Nóg. He got on the horse and they road over the waves to a beautiful land. After a time, Oisín grew homesick, and pleaded to go home. He could return on the horse that brought him, as long as he did not place his foot on the earth of Ireland. He rode back, and came to where hs father's house had been; but there was nothing there. In the ditance, some men were working, struggling to move a rock. Oisín asked after hs father, Fionn, to hear he had been dead 300 years. Oisín leant to help the men but the strap on the bridle broke and Oisín fell to the floor, aging 300 years at once. The men were aghast, but helped him and took him to St Patrick. Whereupon Oisín told him the tales of Fionn and the Fianna.*
 
-That telling I first came across is still very much in copyright, but there are several versions from a hundred years or so more ago, albeit in a slightly longer form, that we can use to derive our own understanding of the story.
+That telling I first came across is still very much in copyright, but there are many versions from the late eighteenth and early nineteenth centuries that tell the tale that we can use to derive our own understanding of the story.
 
-This first version, by Lady Augusta Gregory, dates to 1904. The tale is told in two parts. First, we have Oisín's first meeting with Niamh, the fairy princess, and his introduction to Tír na Nóg, the Land of Youth:
+For example, this concise version from 1866, which captures the key points:
+
+```{admonition} In *Legendary Fictions of the Irish Celts*, by Patrick Kennedy, 1866
+:class: dropdown
+
+https://archive.org/details/legendaryfictio00kenngoog/page/n260/mode/2up?q=oisin
+Legendary Fictions of the Irish Celts
+by Patrick Kennedy
+
+Publication date 1866
+p240-1
+
+THE OLD AGE OF OISIN.
+
+After the fatal battle of Gavra the only surviving warrior, Oisin, son of Fion, was borne away on thie Atlantic waves by the Lady Niav of resplendent beauty, and for a hundred and fifty years he enjoyed her sweet society in the Land of Youth below the waters. Getting at last tired of this monotony of happiness, he expressed a wish to revisit the land where his youth and manhood had been spent, and the loving Niav was obliged to consent. She wept bitterly on seeing him mount the white steed, and warned him that if his feet touched earth, he would never see her nor Tir-na-n-Oge again, and that his strength would be no more than that of a newly-born child.
+
+Alas ! Fion and his heroes were scarcely remembered on the plains and by the streams of Erinn. The fortress of Almuin was a mound and moat overgrown with docks and thistles, and moss had covered the huge cast- ing-stones of the Fianna. Where strong mounds and ditches once secured armed warriors from their foes, he found unchecked entrance, and prayers and hymns recited and sung in stone buildings surmounted by cross and spire. He saw fewer spears and many more sickles than in the days of Fion, and near the Pass of Wattles (Dublin) he found Patrick the missionary raising a lowly house of worship. As he sorrowfully rode up the Glen of Thrushes (Giann-a-Smoii), a crowd of men striving to raise a huge stone on a low waggon, craved his aid. Stooping, he heaved the mass on to the car, but in doing so the girth snapped, the saddle turned round, away flew the white steed, and the last of the heroes lay on the liill-side, a grizzly-haired, feeble man.
+
+He was conveyed to Bal a Cliath, and St. Patrick gave him a kind reception, and kept him in his house. Many an attempt did he make to convert him to Christianity, but with little success ; and the conferences generally ended with Oisin's laments for the lost heroes. The saint, pitying the desolation of the brave old man, would then introduce some remark on past events, which would be sure to draw from the bard a rhymed narrative of a Fenian battle, or hunting, or invasion by the king of the world — at least of Greece — or an enchantment worked on Fion or Fergus by some Danaan Druid, such as the ones just told. The winding up would be a fresh lament over his own desolate state, and the faded glories of the once renowned Fianna.
+
+```
+
+In a more elaborate version by Lady Augusta Gregory, dated to 1904, the tale is told in two parts. First, we have Oisín's first meeting with Niamh, the fairy princess, and his introduction to Tír na Nóg, the Land of Youth:
 
 ```{admonition} In *Gods and fighting men* by Lady Gregory, 1904
 :class: dropdown
@@ -227,14 +249,13 @@ When the people saw that the doom that had been wrought was not for them they re
 
 So they brought him to Patrick, who entreated him gently and hospitably, and to Patrick he told the story of all that had befallen him. But Patrick bade his scribes write all carefully down, that the memory of the heroes whom Oisin had known, and of the joyous and free life they had led in the woods and glens and wild places of Erinn, should never be forgotten among men. And Oisin, during the short span of life that yet remained to him, told to Patrick many tales of the Fianna and their deeds, but of the three hundred years that he had spent with Niam in the Land of Youth he rarely spoke, for they seemed to him but as a vision or a dream of the night, set between a sunny and a rainy day.
 
-
 ```
+
 The bibliographic notes to the story lead us to an 18th century Gaelic poem recounting the tale, and its 19th century translation:
 
 > Oisin in the Land of Youth is based, as regards the outlines of this remarkable story, on the LAOI OISiN AR TIR NA N-OG, written by Michael Comyn about 1750, and edited with a translation by Thomas Flannery in 1896 (Gill & Son, Dublin). Comyn’s poem was almost certainly based on earlier traditional sources, either oral or written or both, but these have not hitherto been discovered.
 
-
-THE FOLLOWING VERSION... TO DO
+The following version is also presented as a personal account from Oisín to St Patrick as to how Oisín survived from the time of the Fianna to St Patrick's time. It includes an extended account of the journey to Tír na Nóg.
 
 ```{admonition} In *Old Celtic romances* by Patrick Joyce, 1920 (1907)
 :class: dropdown
@@ -252,7 +273,7 @@ OISIN IN TIR NA NOGE `[Tirnanoge, the Land of Youth. (See note 19 at the end.)]`
 
 [According to an ancient legend, Finn's son, Oisin, the hero-poet, survived to the time of St. Patrick, two hundred years (the legend makes it three hundred) after the other Fena. On a certain occasion, when the saint asked him how he had lived to such a great age, the old hero related the following story.]
 
-A SHORT time after the fatal battle of Gavra, `[Gavra, now Garristown, in the north-west of the county Dublin. (For an account of this battle, see note 28 at the end.) J Lough Lein, the Lakes of Killarney.]` where so many of our heroes fell, we were hunting on a dewy morning near the brink of Lough Lein.J where the trees and hedges around us were all fragrant with blossoms, and the little birds sang melodious music on the branches. We soon roused the deer from the thickets, and as they bounded over the plain, our hounds followed after them in full cry.
+A SHORT time after the fatal battle of Gavra, `[Gavra, now Garristown, in the north-west of the county Dublin. (For an account of this battle, see note 28 at the end.]` where so many of our heroes fell, we were hunting on a dewy morning near the brink of Lough Lein `[Lough Lein, the Lakes of Killarney]` where the trees and hedges around us were all fragrant with blossoms, and the little birds sang melodious music on the branches. We soon roused the deer from the thickets, and as they bounded over the plain, our hounds followed after them in full cry.
 
 We were not long so engaged, when we saw a rider coming swiftly towards us from the west ; and we soon perceived that it was a maiden on a white steed. We all ceased from the chase on seeing the lady, who reined in as she approached. And Finn and the Fena were greatly surprised, for they had never before seen so lovely a maiden. A slender golden diar'em encircled her head ; and she wore a brown robe of silk, spangled with stars of red gold, which was fastened in front by a golden brooch, and fell from her shoulders till it swept the ground. Her yellow hair flowed far down over her robe in bright, golden ringlets. Her blue eyes were as clear as the drops of dew on the grass; and while her small, white hand held the bridle and curbed her steed with a golden bit, she sat more gracefully than the swan on Lough Lein. The white steed was covered with a smooth, flowing mantle. He was shod with four shoes of pure yellow gold, and in all Erin a better or more beautiful steed could not be found.
 
@@ -268,7 +289,7 @@ She answered in a sweet and gentle voice, " Noble king of the Fena, I have had a
 
 When I heard these words, and when I looked on the lovely maiden with her glossy, golden hair, I was all over in love with her. I came near, and, taking her small hand in mine, I told her she was a mild star of brightness and beauty, and that I preferred her to all the princesses in the world for my wife.
 
-" Then," said she, " I place you under gesa,12 which true heroes never break through, to come with me on my white steed to Tirnanoge, the land of never-ending youth. It is the most delightful and the most re- nowned country under the sun. There is abundance of gold and silver and jewels, of honey and wine ; and the trees bear fruit and blossoms and green leaves together all the year round. You will get a hundred swords and a hundred robes of silk and satin, a hundred swift steeds, and a hundred slender, keen- scenting hounds. You will get herds of cows without number, and flocks of sheep with fleeces of gold; a coat of mail that cannot be pierced, and a sword that never missed a stroke and from which no one ever escaped alive. There are feasting and harmless pas- times each day. A hundred warriors fully armed shall always t await you at call, and harpers shall delight you with their sweet music. You will wear the diadem of the king of Tirnanoge, which he never yet gave to any one under the sun, and which will guard you day and night, in tumult and battle and danger of every kind. Lapse of time shall bring neither decay nor death, and you .shall be for ever young, and gifted with unfading beauty and strength. All these delights you shall enjoy, and many others that I do not mention ; and I myself will be your wile if you come with me to Tirnanoge."
+" Then," said she, " I place you under gesa, `[note 12]` which true heroes never break through, to come with me on my white steed to Tirnanoge, the land of never-ending youth. It is the most delightful and the most re-nowned country under the sun. There is abundance of gold and silver and jewels, of honey and wine ; and the trees bear fruit and blossoms and green leaves together all the year round. You will get a hundred swords and a hundred robes of silk and satin, a hundred swift steeds, and a hundred slender, keen- scenting hounds. You will get herds of cows without number, and flocks of sheep with fleeces of gold; a coat of mail that cannot be pierced, and a sword that never missed a stroke and from which no one ever escaped alive. There are feasting and harmless pas- times each day. A hundred warriors fully armed shall always t await you at call, and harpers shall delight you with their sweet music. You will wear the diadem of the king of Tirnanoge, which he never yet gave to any one under the sun, and which will guard you day and night, in tumult and battle and danger of every kind. Lapse of time shall bring neither decay nor death, and you shall be for ever young, and gifted with unfading beauty and strength. All these delights you shall enjoy, and many others that I do not mention ; and I myself will be your wile if you come with me to Tirnanoge."
 
 I replied that she was my choice above all the maidens in the world, and that I would willingly go with her to the Land of Youth.
 
@@ -276,23 +297,19 @@ When my father, Finn, and the Fena heard me say this, and knew that I was going 
 
 "Woe is me, my son, that you are going away from me, for I do not expect that you will ever return to me ! "
 
-The manly beauty of his countenance became quite dimmed with sorrow ; and though I promised to return after a little time, and fully believed that I should see him again, I could not check my tears, as I gently kissed my father's cheek. I then bade farewell to my dear companions, and mounted the white steed, while the lady kept her seat before me. She gave the signal, and the steed galloped swiftly and smoothly towards the west, till he reached the strand ; and when his gold-shod hoofs touched tha waves, he shook himself and neighed three times. He made no delay, but plunged forward at once, moving over the face of the sea with the speed of a cloud- shadow on a March day. The wind overtook the waves and we overtook the wind, so that we straight- way lost sight of land; and we saw nothing but billows tumbling before us and billows tumbling behind us.
+The manly beauty of his countenance became quite dimmed with sorrow ; and though I promised to return after a little time, and fully believed that I should see him again, I could not check my tears, as I gently kissed my father's cheek. I then bade farewell to my dear companions, and mounted the white steed, while the lady kept her seat before me. She gave the signal, and the steed galloped swiftly and smoothly towards the west, till he reached the strand ; and when his gold-shod hoofs touched tha waves, he shook himself and neighed three times. He made no delay, but plunged forward at once, moving over the face of the sea with the speed of a cloud-shadow on a March day. The wind overtook the waves and we overtook the wind, so that we straight-way lost sight of land; and we saw nothing but billows tumbling before us and billows tumbling behind us.
 
-Other shores came into view, and we saw many wonderful things on our journey — islands and cities, lime-white mansions, bright greenans* and lofty palaces. A hornless fawn once crossed our course, bounding nimbly along from the crest of one wave to the crest of another ; and close after, in full chase, a white hound with red ears. We saw also a lovely young maiden on a brown steed, with a golden apple in her hand ; and as she passed swiftly by, a young warrior on a white steed plunged after her, wearing a long, flowing mantle of yellow silk, and holding a gold- hilted sword in his hand.
+Other shores came into view, and we saw many wonderful things on our journey — islands and cities, lime-white mansions, bright greenans `[Greenan, a summer-house ; a house in a bright, sunny spot]` and lofty palaces. A hornless fawn once crossed our course, bounding nimbly along from the crest of one wave to the crest of another ; and close after, in full chase, a white hound with red ears. We saw also a lovely young maiden on a brown steed, with a golden apple in her hand ; and as she passed swiftly by, a young warrior on a white steed plunged after her, wearing a long, flowing mantle of yellow silk, and holding a gold- hilted sword in his hand.
 
 I knew naught of these things, and, marvelling much, I asked the princess what they meant; but she answered —
 
-" Heed not what you see here, Oisin ; for all these
-
-* Greenan, a summer-house ; a house in a bright, sunny spot.
- 
-wonders are as nothing compared with what you shall see in Tirnanoge."
+" Heed not what you see here, Oisin ; for all these wonders are as nothing compared with what you shall see in Tirnanoge."
 
 At last we saw at a great distance, rising over the waves on the very verge of the sea, a palace more splendid than all the others ; and, as we drew near, its front glittered like the morning sun. I asked the lady what royal house this was, and who was the prince that ruled over it.
 
 " This country is the Land of Virtues," she replied. " Its king is the giant, Fomor of the Blows, and its queen the daughter ot the king of the Land of Life.19 This Fomor brought the lady away by force from her own country, and keeps her in his palace ; but she has put him under gesa12 that he cannot break through, never to ask her to marry him till she can find a champion to fight him in single combat. But she still remains in bondage ; for no hero has yet come hither who has the courage to meet the giant."
 
-"A blessing on you, golden-haired Niam," I re- plied ; " I have never heard music sweeter than your voice; and although I feel pity for this princess, yet your story is pleasant to me to hear ; for of a certainty I will go to the palace, and try whether I cannot kill this Fomor, and free the lady."
+"A blessing on you, golden-haired Niam," I replied ; " I have never heard music sweeter than your voice; and although I feel pity for this princess, yet your story is pleasant to me to hear ; for of a certainty I will go to the palace, and try whether I cannot kill this Fomor, and free the lady."
 
 So we came to land ; and as we drew nigh to the palace, the lovely young queen met us and bade us welcome. She led us in and placed us on chairs of gold; after which choice food was placed before us, and drinking-horns filled with mead, and golden goblets of sweet wine.
 
@@ -303,7 +320,7 @@ When we had eaten and drunk, the mild young princess told us her story, while te
 When I heard her sad words, and saw her tears falling, I was moved with pity; and telling her to cease from her grief, I gave her my hand as a pledge that I would meet the giant, and either slay him .or fall myself in her defence.
 
 While we were yet speaking, we saw the giant coming towards the palace, large of body, and ugly and hateful in appearance, carrying a load of deerskins on his back, and holding a great iron club in his hand. He threw down his load when he saw us, turned a surly look on the princess, and, without greeting us or showing the least mark of courtesy, he forthwith challenged me to battle in a loud, rough voice. 
-It was not my wont to be dismayed by a call to battle, or to be terrified at the sight of an enemy ; and I went forth at once without the least fear in my heart. But though I had fought many battles in Erin against wild boars and enchanters and foreign in- vaders, never before did I find it so hard to preserve my life. We fought for three days and three nights without food or drink or sleep ; for the giant did not give me a moment for rest, and neither did I give him. At length, when I looked at the two princesses weeping in great fear, and when I called to mind my father's deeds in battle, the fury of my valour arose ; and with a sudden onset I felled the giant to the earth ; and instantly, before he could recover himself, I cut off his head.
+It was not my wont to be dismayed by a call to battle, or to be terrified at the sight of an enemy ; and I went forth at once without the least fear in my heart. But though I had fought many battles in Erin against wild boars and enchanters and foreign invaders, never before did I find it so hard to preserve my life. We fought for three days and three nights without food or drink or sleep ; for the giant did not give me a moment for rest, and neither did I give him. At length, when I looked at the two princesses weeping in great fear, and when I called to mind my father's deeds in battle, the fury of my valour arose ; and with a sudden onset I felled the giant to the earth ; and instantly, before he could recover himself, I cut off his head.
 
 When the maidens saw the monster lying on the ground dead, they uttered three cries of joy; and they came to me, and led me into the palace. For I was indeed bruised all over, and covered with gory wounds ; and a sudden dizziness of brain and feebleness of body seized me. But the daughter of the king of the Land of Life applied precious balsam and healing herbs to my wounds ; and in a short time I was healed, and my cheerfulness of mind returned.
 
@@ -336,16 +353,13 @@ I promised that I would faithfully attend to her words, and that I would not ali
 
 When I had mounted the white steed, he galloped straight towards the shore. We moved as swiftly as before over the clear sea. The wind overtook the waves and we overtook the wind, so that we straight- way left the Land of Youth behind ; and we passed by many islands and cities, till at length we landed on the green shores of Erin.
 
-As I travelled on through the country, I looked closely around me; but I scarcely knew the old places, for everything seemed strangely altered. I saw no sign of Finn and his host, and I began to dread that Niam's saying was coming true. At length, I espied at a distance a company of little men and women,* all mounted on horses as small as themselves ; and when I came near, they greeted me kindly and courteously. They looked at me with wonder and curiosity, and they marvelled much at my great size, and at the beauty and majesty of my person.
+As I travelled on through the country, I looked closely around me; but I scarcely knew the old places, for everything seemed strangely altered. I saw no sign of Finn and his host, and I began to dread that Niam's saying was coming true. At length, I espied at a distance a company of little men and women, `[The gigantic race of the Fena had all passed away, and Erin was now inhabited by people who looked very small in Oisin's eyes]` all mounted on horses as small as themselves ; and when I came near, they greeted me kindly and courteously. They looked at me with wonder and curiosity, and they marvelled much at my great size, and at the beauty and majesty of my person.
 
 I asked them about Finn and the Fena ; whether they were still living, or if any sudden disaster had swept them away. And one replied —
 
-" We have heard of the hero Finn, who ruled the Fena of Erin in times of old, and who never had an equal for bravery and wisdom. The poets of the Gaels have written many books concerning his deeds
-* The gigantic race of the Fena had all passed away, and Erin was now inhabited by people who looked very small in Oisin's eyes.
+" We have heard of the hero Finn, who ruled the Fena of Erin in times of old, and who never had an equal for bravery and wisdom. The poets of the Gaels have written many books concerning his deeds and the deeds of the Feua, which we cannot now relate ; but they are all gone long since, for they lived many ages ago. We have heard also, and we have seen it written in very old books, that Finn had a son named Oisin. Now this Oisin went with a young fairy maiden to Tirnanoge, and his father and his friends sorrowed greatly after him, and sought him long ; but he was never seen again."
 
-and the deeds of the Feua, which we cannot now relate ; but they are all gone long since, for they lived many ages ago. We have heard also, and we have seen it written in very old books, that Finn had a son named Oisin. Now this Oisin went with a young fairy maiden to Tirnanoge, and his father and his friends sorrowed greatly after him, and sought him long ; but he was never seen again."
-
-When I heard all this, I was filled with amaze- ment, and my heart grew heavy with great sorrow. I silently turned my steed away from the wondering people, and set forward straightway for Allen of the mighty deeds, on the broad, green plains of Leinster. It was a miserable journey to me ; and though my mind, being full of sadness at all I saw and heard, forecasted further sorrows, I was grieved more than ever when I reached Allen. For there, indeed, I found the hill deserted and lonely, and my father's palace all in ruins and overgrown with grass and weeds.
+When I heard all this, I was filled with amazement, and my heart grew heavy with great sorrow. I silently turned my steed away from the wondering people, and set forward straightway for Allen of the mighty deeds, on the broad, green plains of Leinster. It was a miserable journey to me ; and though my mind, being full of sadness at all I saw and heard, forecasted further sorrows, I was grieved more than ever when I reached Allen. For there, indeed, I found the hill deserted and lonely, and my father's palace all in ruins and overgrown with grass and weeds.
 
 I turned slowly away, and afterwards fared through the land in every direction in search of my friends. But I met only crowds of little people, all strangers, who gazed on me with wonder ; and none knew me. I visited every place throughout the country where I knew the Fena had lived; but I found their houses all like Allen, solitary and in ruins.
 
@@ -361,20 +375,26 @@ The moment the white steed felt himself free, he shook himself and neighed. Then
 
 The white steed was never seen again. I never recovered my sight, my youth, or my strength ; and I have lived in this manner, sorrowing without ceasing for my gentle, golden-haired wife, Niam, and thinking ever of my father, Finn, and of the lost companions of my youth.
 
-NOTE 19. — Land of the Living : Land of Life, etc.
+*NOTE 12.— Gesa.*
+
+" Gesa " (pronounced gessa, the g hard, as in gef) is plural : singular gets, plural geasa or gesa. Gesa means solemn vows, con- jurations, injunctions, prohibitions. " I put you under gesa " means, I adjure you solemnly, so solemnly that you dare not disobey. It would appear that individuals were often under gesa or solemn vows to observe, or to refrain from, certain lines of conduct — the vows being either taken on themselves voluntarily, or imposed on them, with their consent, by others. Thus Dermat O'Dyna was under gesa never to pass through a wicket gate when entering or leaving a palace (page 282); Finn was under gesa not to sleep at Allen more than nine nights in succession (page 337) ; Dermat put Oisin under gesa not to loose any one whom he bound (page 312). It would appear, also, that if one person went through the form of putting another under gesa to grant any reasonable request, the abjured person could not refuse without loss of honour and reputa- tion. Thus Midac places Finn under gesa to come to the banquet in the Fairy Palace of the Quicken Trees (page 189); and the witch-lady places gesa on Finn to search for the ring in the lake (page 354). And sometimes, on very solemn or urgent occasions, the gesa seem to have been imposed with spells, so as to draw down ill luck as well as loss of honour on the person who disregarded the injunction (page 281).
+
+Geis or gesa also means a charm or spell.
+
+*NOTE 19. — Land of the Living : Land of Life, etc.*
 
 The ancient Irish had a sort of dim, vague belief that there was a land where people were always youthful, and free from care and trouble, suffered no disease, and lived for ever. This country they called by various names : — Tir-na-mbeo, the land of the [ever-]living; Tir-na-nog, the land of the [ever-]youthful ; Moy-Mett, the pkin of pleasure, etc. It had its own inhabitants — fairies ; but mortals were sometimes brought there ; and while they lived in it, were gifted with the everlasting youth and beauty of the fairy people them- selves, and partook of their pleasures. As to the exact place whera Tirnanoge was situated, the references are shadowy and variable , but they often place it far out in the Atlantic Ocean, as far as the eye can reach from the high cliffs of the western coast. And here it is identical with O'Brasil, of which mention has been made in note 13.
 
 I have already remarked (see note 1) that the fairies were also supposed to live in palaces in the interior of pleasant green hills, and that they were hence called Aes-shee or Deena-shee, i.e. people of the shee or fairy hills ; and hence also the word " banshee " i.e. a woman (bean) of the fairy hills. Tirnanoge was often regarded as identical with these bright, subterranean palaces. In my boyhood days, the peasantry believed that the great limestone cavern near Mitchelstown, in the county Cork, was one of the entrances to Tirnanoge.
 
-NOTE 28.— Battle of Gavra.
+*NOTE 28.— Battle of Gavra.*
 
 When Carbri of the Liffey, son of Cormac Mac Art, ascended the throne of Ireland, one of his first acts was to disband and outlaw the Clann Baskin ; and he took into his service in their place their rivals and deadly enemies, the Clann Morna from Connaught. Whereupon the Clann Baskin marched southwards, and entered the service of Fercorb, king of Munster, Finn's grandson, in direct disobedience to king Carbri's commands. This led to the bloody battle of Gavra, celebrated in Ossianic literature, which was fought A.D. 284, at Garristown, in the north-west of the county Dublin, where the rival clanns slaughtered each other almost to annihilation. In the heat of the battle, Carbri and Oscar met in single combat ; and, after a long and terrible fight, the heroic Oscar fell pierced by Carbri's spear, and died on the evening of the same day. But Carbri himself was dreadfully wounded ; and, while retiring from vhe field, his own kinsman, Semeon, whom he had previously banished from Tara, fell on him, and despatched him with a single blow.
 This battle is the subject of a poem which the bards ascribe to Oisin, and which has been published, with translation, in the first volume of the Ossianic Transactions. In this poem there is an affecting description of the death of Oscar, surrounded by his few surviving companions, and in presence of his father Oisin.
 
 ```
 
-In this next version, the fairy princess Niamh is un-named, and sets out find and marry Oisin in order to remove a curse placed on her by her own father. When the time comes to leave the Land of Youth, Oisin is warned explicitly that the time he has spent there is much longer than he may have thought. In this variant, the stone that is to be Oisín's undoing also has a story attached to it.
+In this next version, the fairy princess Niamh is unnamed, and sets out find and marry Oisin in order to remove a curse placed on her by her own father. When the time comes to leave the Land of Youth, Oisin is warned explicitly that the time he has spent there is much longer than he may have thought. In this variant, the stone that is to be Oisín's undoing also has a story attached to it.
 
 ```{admonition} In *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
 :class: dropdown
@@ -460,6 +480,8 @@ Now Oisin lived a while in this way. The cook sent him provisions each day, and 
 The chapter also goes on to include another tale, in which Oisín helps St Patrick defeat an unknown foe that was destroying each night a new building that St Patrick was trying to have built.
 
 ```{admonition} In *Myths and folk-lore of Ireland* by Jeremiah Curtin, 1890
+:class: dropdown
+
 https://archive.org/details/mythsfolkloreofi00curtuoft/page/326/mode/2up?q=oisin
 Myths and folk-lore of Ireland
 by Curtin, Jeremiah, 1835-1906
@@ -585,33 +607,104 @@ Then Oisin raised his arm and swept the head off the cook with a stroke from the
 
 ```
 
+If look further back, as prompted by Patrick Joyce, to 1750, we find a version of the tale in poetic form written in Gaelic, and variously translated since then.
 
-```{admonition} In *Legendary Fictions of the Irish Celts*, by Patrick Kennedy, 1866
+A preface to one version, by Brian O 'Looney, provides some additional context regarding the geography of the "Land of the good people".
+
+```{admonition} Preface to *Lay of Oisin*, in *Laoithe Fiannuigheachta, Or, Fenian Poems*, 1859
 :class: dropdown
 
-https://archive.org/details/legendaryfictio00kenngoog/page/n260/mode/2up?q=oisin
-Legendary Fictions of the Irish Celts
-by Patrick Kennedy
+https://archive.org/details/laoifiannuighea00univgoog/page/n262/mode/2up?q=oisin
+Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
+by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
 
-Publication date 1866
-p240-1
+Publication date 1859
+p227-232
 
-THE OLD AGE OF OISIN.
+Tír Na Nóg — The Land of Youth
 
-After the fatal battle of Gavra the only surviving war- rior, Oisin, son of Fion, was borne away on thie Atlantic waves by the Lady Niav of resplendent beauty, and for a hundred and fifty years he enjoyed her sweet society in the Land of Youth below the waters. Getting at last tired of this monotony of happiness, he expressed a wish to revisit the land where his youth and manhood had been spent, and the loving Niav was obliged to consent. She wept bitterly on seeing him mount the white steed, and warned him that if his feet touched earth, he would never see her nor Tir-na-n-Oge again, and that his strength would be no more than that of a newly-born child.
+> The Council of the Ossianic Society do not hold them- ' selves responsible for the authenticity or antiquity of the following poem ; but print it as an interesting specimen of the most recent of the Fenian Stories. In the tract which follows it will be found one of the most ancient of the re- cords that describe the exploits of Finn Mac Gumhaill.
 
-Alas ! Fion and his heroes were scarcely remembered on the plains and by the streams of Erinn. The fortress of Almuin was a mound and moat overgrown with docks and thistles, and moss had covered the huge cast- ing-stones of the Fianna. Where strong mounds and ditches once secured armed warriors from their foes, he found unchecked entrance, and prayers and hymns recited and sung in stone buildings surmounted by cross and spire. He saw fewer spears and many more sickles than in the days of Fion, and near the Pass of Wattles (Dublin) he found Patrick the missionary raising a lowly house of worship. As he sorrowfully rode up the Glen of Thrushes {Giann-a-Smoii), a crowd of men striving to raise a huge stone on a low waggon, craved his aid. Stooping, he heaved the mass on to the car, but in doing so the girth snapped, the saddle turned round, away flew the white steed, and the last of the heroes lay on the liill-side, a grizzly-haired, feeble man.
+TO
+WILLIAM SMITH O'BRIEN, ESQ.,
+PRESIDENT OF THE OSSIANIC SOCIETY.
+Sim,— Pursuant to your wishes, and at your very kind suggestion,' I have undertaken the following translation of the Ossianic poem, on Cfti i)A ij-65 (" Land of Youth,") in the humble but confident hope that I may, however, unpretending as an Irish scholar, be in some measure instrumental in restoring our neglected lore to its former style and standard.
 
-He was conveyed to Bal a* Cliath, and St. Patrick gave him a kind reception, and kept him in his house. Many an attempt did he make to convert him to Chris- tianity, but with httle success ; and the conferences generally ended with Oisin's laments for the lost heroes. 'I'he saint, pitying the desolation of the brave old man, would then introduce some remark on past events, which Avould be sure to draw from the bard a rhymed narrative of a Fenian battle, or hunting, or invasion by the king of the world — at least of Greece — or an enchantment worked on Fion or Fergus by some Danaan Druid, such as the ones just told. The winding up would be a fresh lament over his own desolate state, and the faded glories of the once renowned Fianna.
+From my knowledge of the Fenian stories, and Ossianic poems which circulate in this country, I would classify them under three different and distinct heads, Ist, Fenian history, which comprises all based upon fact •nd supported by the ancient records and chronicles of our country, sucii as Cac 5A5ttA, Caz Cquca and the like, which it would be absurd to dis- credit against the forcible evidence of our trustworthy annals. 2nd, inventions and poetic Actions which are entertaining, and intended by the authors more to amuse the reader and to embellish history, than, as some say, to impose on liis understanding, and claim the credit of truth. 3rd, the poems and prophecies of f 101717, Coftt]oU, CAO^lce, and others of the flAiyi)^ 6}ftiooi9 (Irish Militia), which are very interesting, and I should think entitled to as much credit as the early traditions of any other nation.
+
+Some assume that the genuine old poems and stories cannot be dis- tinguished from the modem Actions, and consequently that they cannot be credited, but that all must be considered worthless. This is a very unjustifiable assumption. The Irish scholar will at once know the com- position of the Fenian period, as the language and style is different from that of latter times. From the fourteenth to the beginning of the eighteenth century* we bare another dais of poems and romantic tales, which exhibit a later stage of the language, bnt which are well worthy of attention. My own convlcton is that the Ossianic poem on the " Land of Youth'* is of this last class and date, and from the testimony of many corroborating facta supported by the result of an inquiry which I instituted at your suggestion, I believe it to hare been written by the learned Michael Comyn, contemporaneously with the romance of CotiolbtiiAc 5cAnti7» ie. (Toroly the son of Stam), about the year A.D. 1749. By comparing Cf tt v^ 19-05 with the occasionally interspersed rerses in the romance of Torolr the son of Stam, Sec, whose author is uniyersally acknowledged to be Michael Comyc, it will be perceired that there is such a similarity and almost identity of style in them as to leare no doubt that they are both the productions of the same master mind. As further proof of this I may state that an illiterate man of my acquaintance can repeat several verses of it, but knows it under no other name but that of lAO| Aif CojiqfDis (Comyn*s Lay)» and that his father had it from Comyn*s manuscript. Another man states in a letter to me, that his copy of it waa written in the year 1762 by a celebrated Irish scholar, who llTed in Ruan, County of Glare. In this poem we hare an aooount of Cf n 9A fh^Aome itfAjt^ (Land of the good people), the elyslum of the Pagan Irish as related to 8t. Patrick by Oisin, when he returned to Erin after a lapse of more than three hundred years, which he spent in the enjoyment of all bliss, with his charming spouse, the golden headed (haired) Niamh. While Oisin sojourned in the paradise of perpetual youth, it was (it seems falsely) said of him that he was dead, but as those who enter the '* Land of the Just" can never die, so Oisin lived until he returned to relate the history of his adventures, and of this happy elysium. The inhabitants, of the eastern ooun tries believed that in the west there was a happy final abode for the just which was called Cfti qa v-bAoi^e m^fce (Land of the good people.)
+
+This elysium is supposed to be divided into different states and provinces,, each governed by its own king or ruler, such asCfn i^a 9-65 (Land of youth) Cfn 9A ii>.beo (Land of the Living) C|ft i|a i9-bttA6A (Land of virtues) and several others. According to traditional geography and history tlie ** Land of Youth** is the most charming country to be found or imagined, abounding in all that fancy could suggest or man could desire, and bestowing the peculiar virtue of perpetual youth, and hence the name. In the *' Land of Virtues," or as some call it, the "Land of Victories" (but the latter name I suppose to be a mis-translation, as I have never heard of a battle or strife in this country); it is all peace, tranquility and happiness. As there is no conflict there can be no victory— and there is no virtue to be desired which is not to be had on entering this country ! The " Land of life" is supposed to give perpetual life to the departed spirits of the just. These are supposed to be located somewhere about the suu's setting point, and have means of approach, chiefly through the seas, lakes and rivers of this world, also through ruths, duns and forts. The seas, lakes and riyers act as cooling atmospheres, while the raths, duns and forts, serve as places of ingress and egress to and from them. There are besides, different grand-gates, as it were, through, out the world, such asQU ScuinQ (Kill Stuifin), situate in liscannor Bey, supposed to be one of the chief entrances into Cftt v^ 17-05 (" Land of youth.") This is said to be abeautiftil but small city, marked by the white breaking waves between Iaacc (Lahinch.) and lTor-CeAi)i7i&in (Liscannor). The white breaking wares, which are always seen in this part of the Bay, are said to be caused by the shallowness of the water over this enchanted little city, which is beliered to be seen once in seven years, and of which, it is observed, that those who see it shall depart this world be- fore the lapse of seven years to come ; but it is not supposed that those persons diCt but change their abode, and transmigrate from this world uf toil, into the elysium of the just, t,e, Cfn da i)-65 (** Land of Youth,") where they shall, at once, become sportire, young and happy, and con- tinue so for ever. It is also believed, that those who see those enchanted spots, are slightly endowed with the gift of prophecy, from the time they see it till they depart this world, and that they pass through this enchanted passage, so magically shewn them, {)rior to their departure. For further information on C|U 5cu|F|9 (Kill Stuifin), read Comyn*8 Ro- mance, called Qacz^a totto]lb n^Aic ScAttto A5Ar a cttiutt 19 ac (the adventures of Torolv Mac Starn and his three sons). Contiguous to this place is another spot called C90C oa nos^^e (Fairy Hill), this was the ancient name of Lahinch, before the death of the Chieftun, O'Connor of Dumhach, (the Sand pits), who had been treacherously slain there, and in memory of whom there had been raised a monument called leAcc uj Coq- cubATft (0*Connor*s monument), which in Irish is the present name of this little town, but in its anglicised form Lahinch, or Lahinchy, it has lost all sight of the old deriration. It was called Cooc pA 5105x60 (Fairy Hill), from its being the meeting place of the fairy nobles of this section of the country, who, it seems, lived on terms of intercourse with the nobles of Cffi 17A 0-65 ("Land of Youth,") and this hill is traditionally believed to be the place where both tribes met and held their periodical conferences. The nobles of this country are said to live in the great and large duns, for- tresses, lisses, and raths, and to act as agents to the nobles of Cfft 17A 9.65 (" Land of Youth,") and to those of all the states of the lower paradise. One of the duties of their station is to mark the persons suitable^ the lower country, and by their supernatural power they meet or send messengers to 232
+carry off those persons. It is in the shape of a beautiful lady, such as HrAib Cwt) Of ft, golden-headed, (haired) Niamh, that this messenger is generally seen. After the human creature whom she has visited has seen her, she vanishes in some magic way, and goes back to her own country. Ere long the person visited will pine away by some formal disease, and will be said to die, but fairy tradition proves that he or she (whichever it may be), does not die, but that they go into this elysium, where they will become young again and live for ever.
+
+There are several such passages in this country, to describe which, would be both needless and endless. Suffice it to mention a few of the greatest celebrity— 16 or fb bfteAfAl (0*Breasail*s country), lb lefcfij, (0*Leihin's country), Inchjquin and Lough Gur. The great Earl of Desmond is supposed to have been submerged in the latter, where he is seen once in every seven years, anxiously awaiting the destined hour of return to his country. On reference to the ancient records and Pagan history of different nations, it will be seen that they have their traditions of Pagan ely slums as well as Ireland.
+
+B. O'LOONEY. Montreal, October 6th , 1858.
+
+```
+
+The preface material also includes another legend that accounts for Oisín's longevity:
+
+```{admonition} Legend of the Grey Sheep's Cave at Coolagar-Bonroe
+:class: dropdown seealso
+
+https://archive.org/details/laoifiannuighea00univgoog/page/n262/mode/2up?q=oisin
+Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
+by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
+
+Publication date 1859
+p232-3
+
+> Since the above was written, the Honorary Secretary to the Ossianic Society has been furnished with a similar legend.
+> 
+> 9, Anglesea-st., Dublin Jan. 20th, 1859.
+> 
+> Sir,  
+> There is a similar legend to that related in the following poem told of Oisin's descent, and living for three hundred years in UAftb ija Caojiac 5lAffe (the cavern of the grey sheep), a large cave which is situated at C'oolagarronroe, Kilbenny, near Mitchclstown, in the county of Cork. After the printing of this poem had been decided upon, I wrote to Mr. William Williams of Dungarvan, who is a native of the district, for in- formation respecting any legendary lore connected with this cave, from whom I received the following answer, as being current among the peasantry.
+>
+> J. O'D.
+
+__LEGEND OF THE GREY SHEEP'S CAVE AT COOLAGAR-BONROE, NEAR KILBENNY.__
+
+" Oisin went into the cave, met a beautiful damsel, after crossing the stream, lived with her for (as he fancied) a few days, wished to revisit the Fenians, obtained consent at last, on condition of not alighting from the white steed with which she furnished him, stating that it was over 300 years since he came to the cave. He proceeded till he met a carrier, whose cart, containing a bag of sand, was upset ; he asked Oisin to help him ; unable to raise the bag with one hand, he alighted, on which the steed fled, leaving him a *withered, decrepid, blind old man*."
+
+" On a certain May morning long ago, a grey sheep was seen to come out of the cave, and to go to a neighbouring farmer's field, where she remained, until herself and her breed amounted to sixty grey sheep.
+
+" The boy who took care of the sheep, was a widow's only son, a disciple of Pan ; for he played on the bag-pipes.
+
+" His master, the farmer, ordered him one fine day to kill one of the sheep, he proceeded to the field for that purpose ; but the old sheep knowing his intention, and resolving to frustrate it, bleated three times, which instantly brought all the other black sheep around her, when they disappeared altogether into the cave. The boy followed them but having crossed the *enchanted stream* which runs through the cave, he was unable to return ; as no one ever re-crosscd it but Oisin. On reflecting on the anguish his loss and absence would cause his mother, he raised a mournful strain which he accompanied by the music of his bag-pipes. On every May day from that day to this, the lamentations of the boy, and the music of his pipes are heard in the cave."
+
+```
+
+```
+
+https://archive.org/details/laoifiannuighea00univgoog/page/n264/mode/2up?q=oisin
+Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
+by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
+Publication date 1859
+https://archive.org/details/laoifiannuighea00univgoog/page/n270/mode/2up?q=oisin
+Lay of Oisin
 
 ```
 
 
-Comprehensive telling - 
+```
 https://archive.org/details/laoioisnasirnang00coim
-Laoi Oisín as ṫir na n-óg = The lay of Oisín in the land of youth
+Laoi Oisín as ṫir na n-óg — The lay of Oisín in the land of youth
 by Coimín, Micheál, 1676-1760; Flannery, Thomas, 1846-1916
-Publication date 1896
+1896 includes a narrative translation
+
+
+```
+
+
+```
+https://archive.org/details/transactionsofos40ossi/page/234/mode/2up
+Transactions of the Ossianic Society for 1856 vol IV p235+
+
+
+```
+
 
 needs eg code to pull out appropriate pages; maybe also look at the notes.
 
