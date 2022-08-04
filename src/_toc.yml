@@ -6,6 +6,7 @@ parts:
 - caption: First Encounters
   chapters:
   - file: oisin-tir-na-nog
+  - file: lay-oisin-land-youth
 - caption: Resources
   chapters:
   - file: irish-legends-finn-oisin

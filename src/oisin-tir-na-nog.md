@@ -239,7 +239,7 @@ But Oisin's heart was high with pride and victory, and a longing uprose in his h
 
 So they fared back to the golden city, and next day Niam brought to Oisin the white steed that had borne them from Erinn, and bade him farewell. 'This our steed,' she said, 'will carry thee across the sea to the land where I found thee, and whithersoever thou wilt, and what folk are there thou shalt see, and what tale thou hast to tell can be told. But never for even a moment must thou alight from his back, for if thy foot once touch again the soil of earth, thou shalt never win to me and to the Land of Youth again. And sorely do I fear some evil chance. Was not the love of Niam of the Head of Gold enough to fill a mortal's heart? But if thou must go, then go, and blessing and victory be thine.'
 
-Then Oisin held her long in his arms and kissed her, and vowed to make no long stay and never to alight from the fairy steed. And then he shook the golden reins and the horse threw its head aloft and snorted and bore him away in a pace like that of flowing water for speed and sone ® Anon they came to the margin of the blue sea, and still the white steed galloped on, brushing the crests of the waves into glittering spray. The sun glared upon the sea and Oisin's head swam with the heat and motion, and in mist and dreams he rode where no day was, nor night, nor any thought of time, till at last his horse's hoofs ploughed through wet, , yellow sands, and he saw black rocks rising up at each side of a little bay, and inland were fields green or brown, and white cottages thatched with reeds, and men and women, toil-worn and clad in earth-coloured garments, went to and fro about their tasks or stopped gazing at the rider in his crimson cloak and at the golden trappings of his horse. But among the cottages was a small house of stone such as Oisin had never seen in the land of Erinn; stone was its roof as well as the walls, very steep and high, and near-by from a rude frame of timber there hung a bell of bronze. Into this house there passed one whom from his shaven crown Oisin guessed to be a druid, and behind him two lads in white apparel. The druid having seen the horseman turned his eyes again to the ground and passed on, regarding him not, and the lads did likewise. And Oisin rode on, eager to reach the Dun upon the Hill of Allen and to see the faces of his kin and his friends.
+Then Oisin held her long in his arms and kissed her, and vowed to make no long stay and never to alight from the fairy steed. And then he shook the golden reins and the horse threw its head aloft and snorted and bore him away in a pace like that of flowing water for speed and sone ® Anon they came to the margin of the blue sea, and still the white steed galloped on, brushing the crests of the waves into glittering spray. The sun glared upon the sea and Oisin's head swam with the heat and motion, and in mist and dreams he rode where no day was, nor night, nor any thought of time, till at last his horse's hoofs ploughed through wet, yellow sands, and he saw black rocks rising up at each side of a little bay, and inland were fields green or brown, and white cottages thatched with reeds, and men and women, toil-worn and clad in earth-coloured garments, went to and fro about their tasks or stopped gazing at the rider in his crimson cloak and at the golden trappings of his horse. But among the cottages was a small house of stone such as Oisin had never seen in the land of Erinn; stone was its roof as well as the walls, very steep and high, and near-by from a rude frame of timber there hung a bell of bronze. Into this house there passed one whom from his shaven crown Oisin guessed to be a druid, and behind him two lads in white apparel. The druid having seen the horseman turned his eyes again to the ground and passed on, regarding him not, and the lads did likewise. And Oisin rode on, eager to reach the Dun upon the Hill of Allen and to see the faces of his kin and his friends.
 
 At length, coming from the forest path into the great clearing where the Hill of Allen was wont to rise broad and green, with its rampart enclosing many white-walled dwellings, and the great hall towering high in the midst, he saw but grassy mounds overgrown with rank weeds and whin bushes, and among them pastured a peasant's kine.
 
@@ -606,108 +606,3 @@ Oisin now took out the rowan berry and asked : " Which is larger, this berry or 
 Then Oisin raised his arm and swept the head off the cook with a stroke from the edge of his hand, saying, " You 'll never give the lie to an honest man again."
 
 ```
-
-If look further back, as prompted by Patrick Joyce, to 1750, we find a version of the tale in poetic form written in Gaelic, and variously translated since then.
-
-A preface to one version, by Brian O 'Looney, provides some additional context regarding the geography of the "Land of the good people".
-
-```{admonition} Preface to *Lay of Oisin*, in *Laoithe Fiannuigheachta, Or, Fenian Poems*, 1859
-:class: dropdown
-
-https://archive.org/details/laoifiannuighea00univgoog/page/n262/mode/2up?q=oisin
-Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
-by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
-
-Publication date 1859
-p227-232
-
-Tír Na Nóg — The Land of Youth
-
-> The Council of the Ossianic Society do not hold them- ' selves responsible for the authenticity or antiquity of the following poem ; but print it as an interesting specimen of the most recent of the Fenian Stories. In the tract which follows it will be found one of the most ancient of the re- cords that describe the exploits of Finn Mac Gumhaill.
-
-TO
-WILLIAM SMITH O'BRIEN, ESQ.,
-PRESIDENT OF THE OSSIANIC SOCIETY.
-Sim,— Pursuant to your wishes, and at your very kind suggestion,' I have undertaken the following translation of the Ossianic poem, on Cfti i)A ij-65 (" Land of Youth,") in the humble but confident hope that I may, however, unpretending as an Irish scholar, be in some measure instrumental in restoring our neglected lore to its former style and standard.
-
-From my knowledge of the Fenian stories, and Ossianic poems which circulate in this country, I would classify them under three different and distinct heads, 1st, Fenian history, which comprises all based upon fact aand supported by the ancient records and chronicles of our country, such as Cac 5A5ttA, Caz Cquca and the like, which it would be absurd to discredit against the forcible evidence of our trustworthy annals. 2nd, inventions and poetic Actions which are entertaining, and intended by the authors more to amuse the reader and to embellish history, than, as some say, to impose on his understanding, and claim the credit of truth. 3rd, the poems and prophecies of f 101717, Coftt]oU, CAO^lce, and others of the flAiyi)^ 6}ftiooi9 (Irish Militia), which are very interesting, and I should think entitled to as much credit as the early traditions of any other nation.
-
-Some assume that the genuine old poems and stories cannot be distinguished from the modern Actions, and consequently that they cannot be credited, but that all must be considered worthless. This is a very unjustifiable assumption. The Irish scholar will at once know the composition of the Fenian period, as the language and style is different from that of latter times. From the fourteenth to the beginning of the eighteenth century, we bare another dais of poems and romantic tales, which exhibit a later stage of the language, but which are well worthy of attention. My own convlcton is that the Ossianic poem on the " Land of Youth" is of this last class and date, and from the testimony of many corroborating facts supported by the result of an inquiry which I instituted at your suggestion, I believe it to have been written by the learned Michael Comyn, contemporaneously with the romance of CotiolbtiiAc 5cAnti7» ie. (Toroly the son of Stam), about the year A.D. 1749. By comparing Cf tt v^ 19-05 with the occasionally interspersed verses in the romance of Torolr the son of Stam, Sec, whose author is universally acknowledged to be Michael Comyc, it will be perceived that there is such a similarity and almost identity of style in them as to leave no doubt that they are both the productions of the same master mind. As further proof of this I may state that an illiterate man of my acquaintance can repeat several verses of it, but knows it under no other name but that of lAO| Aif CojiqfDis (Comyn*s Lay)» and that his father had it from Comyn*s manuscript. Another man states in a letter to me, that his copy of it was written in the year 1762 by a celebrated Irish scholar, who lived in Ruan, County of Glare. In this poem we have an account of Cf n 9A fh^Aome itfAjt^ (Land of the good people), the elysium of the Pagan Irish as related to St. Patrick by Oisin, when he returned to Erin after a lapse of more than three hundred years, which he spent in the enjoyment of all bliss, with his charming spouse, the golden headed (haired) Niamh. While Oisin sojourned in the paradise of perpetual youth, it was (it seems falsely) said of him that he was dead, but as those who enter the " Land of the Just" can never die, so Oisin lived until he returned to relate the history of his adventures, and of this happy elysium. The inhabitants, of the eastern countries believed that in the west there was a happy final abode for the just which was called Cfti qa v-bAoi^e m^fce (Land of the good people.)
-
-This elysium is supposed to be divided into different states and provinces, each governed by its own king or ruler, such asCfn i^a 9-65 (Land of youth) Cfn 9A ii>.beo (Land of the Living) C|ft i|a i9-bttA6A (Land of virtues) and several others. According to traditional geography and history the "Land of Youth" is the most charming country to be found or imagined, abounding in all that fancy could suggest or man could desire, and bestowing the peculiar virtue of perpetual youth, and hence the name. In the " Land of Virtues," or as some call it, the "Land of Victories" (but the latter name I suppose to be a mis-translation, as I have never heard of a battle or strife in this country); it is all peace, tranquility and happiness. As there is no conflict there can be no victory— and there is no virtue to be desired which is not to be had on entering this country ! The " Land of life" is supposed to give perpetual life to the departed spirits of the just. These are supposed to be located somewhere about the sun's setting point, and have means of approach, chiefly through the seas, lakes and rivers of this world, also through raths, duns and forts. The seas, lakes and riyers act as cooling atmospheres, while the raths, duns and forts, serve as places of ingress and egress to and from them. There are besides, different grand-gates, as it were, through, out the world, such asQU ScuinQ (Kill Stuifin), situate in liscannor Bey, supposed to be one of the chief entrances into Cftt v^ 17-05 (" Land of youth.") This is said to be abeautiftil but small city, marked by the white breaking waves between Iaacc (Lahinch.) and lTor-CeAi)i7i&in (Liscannor). The white breaking wares, which are always seen in this part of the Bay, are said to be caused by the shallowness of the water over this enchanted little city, which is beliered to be seen once in seven years, and of which, it is observed, that those who see it shall depart this world before the lapse of seven years to come ; but it is not supposed that those persons die but change their abode, and transmigrate from this world of toil, into the elysium of the just, t,e, Cfn da i)-65 (** Land of Youth,") where they shall, at once, become sportive, young and happy, and continue so for ever. It is also believed, that those who see those enchanted spots, are slightly endowed with the gift of prophecy, from the time they see it till they depart this world, and that they pass through this enchanted passage, so magically shewn them, prior to their departure. For further information on C|U 5cu|F|9 (Kill Stuifin), read Comyn's Romance, called Qacz^a totto]lb n^Aic ScAttto A5Ar a cttiutt 19 ac (the adventures of Torolv Mac Starn and his three sons). Contiguous to this place is another spot called C90C oa nos^^e (Fairy Hill), this was the ancient name of Lahinch, before the death of the Chieftain, O'Connor of Dumhach, (the Sand pits), who had been treacherously slain there, and in memory of whom there had been raised a monument called leAcc uj Coq- cubATft (0*Connor*s monument), which in Irish is the present name of this little town, but in its anglicised form Lahinch, or Lahinchy, it has lost all sight of the old derivation. It was called Cooc pA 5105x60 (Fairy Hill), from its being the meeting place of the fairy nobles of this section of the country, who, it seems, lived on terms of intercourse with the nobles of Cffi 17A 0-65 ("Land of Youth,") and this hill is traditionally believed to be the place where both tribes met and held their periodical conferences. The nobles of this country are said to live in the great and large duns, fortresses, lisses, and raths, and to act as agents to the nobles of Cfft 17A 9.65 (" Land of Youth,") and to those of all the states of the lower paradise. One of the duties of their station is to mark the persons suitable to the lower country, and by their supernatural power they meet or send messengers to carry off those persons. It is in the shape of a beautiful lady, such as HrAib Cwt) Of ft, golden-headed, (haired) Niamh, that this messenger is generally seen. After the human creature whom she has visited has seen her, she vanishes in some magic way, and goes back to her own country. Ere long the person visited will pine away by some formal disease, and will be said to die, but fairy tradition proves that he or she (whichever it may be), does not die, but that they go into this elysium, where they will become young again and live for ever.
-
-There are several such passages in this country, to describe which, would be both needless and endless. Suffice it to mention a few of the greatest celebrity— 16 or fb bfteAfAl (0*Breasail*s country), lb lefcfij, (0*Leihin's country), Inchiquin and Lough Gur. The great Earl of Desmond is supposed to have been submerged in the latter, where he is seen once in every seven years, anxiously awaiting the destined hour of return to his country. On reference to the ancient records and Pagan history of different nations, it will be seen that they have their traditions of Pagan elysiums as well as Ireland.
-
-B. O'LOONEY. Montreal, October 6th , 1858.
-
-```
-
-The preface material also includes another legend that accounts for Oisín's longevity:
-
-```{admonition} Legend of the Grey Sheep's Cave at Coolagar-Bonroe
-:class: dropdown seealso
-
-https://archive.org/details/laoifiannuighea00univgoog/page/n262/mode/2up?q=oisin
-Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
-by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
-
-Publication date 1859
-p232-3
-
-> Since the above was written, the Honorary Secretary to the Ossianic Society has been furnished with a similar legend.
-> 
-> 9, Anglesea-st., Dublin Jan. 20th, 1859.
-> 
-> Sir,  
-> There is a similar legend to that related in the following poem told of Oisin's descent, and living for three hundred years in UAftb ija Caojiac 5lAffe (the cavern of the grey sheep), a large cave which is situated at C'oolagarronroe, Kilbenny, near Mitchclstown, in the county of Cork. After the printing of this poem had been decided upon, I wrote to Mr. William Williams of Dungarvan, who is a native of the district, for in- formation respecting any legendary lore connected with this cave, from whom I received the following answer, as being current among the peasantry.
->
-> J. O'D.
-
-__LEGEND OF THE GREY SHEEP'S CAVE AT COOLAGAR-BONROE, NEAR KILBENNY.__
-
-" Oisin went into the cave, met a beautiful damsel, after crossing the stream, lived with her for (as he fancied) a few days, wished to revisit the Fenians, obtained consent at last, on condition of not alighting from the white steed with which she furnished him, stating that it was over 300 years since he came to the cave. He proceeded till he met a carrier, whose cart, containing a bag of sand, was upset ; he asked Oisin to help him ; unable to raise the bag with one hand, he alighted, on which the steed fled, leaving him a *withered, decrepid, blind old man*."
-
-" On a certain May morning long ago, a grey sheep was seen to come out of the cave, and to go to a neighbouring farmer's field, where she remained, until herself and her breed amounted to sixty grey sheep.
-
-" The boy who took care of the sheep, was a widow's only son, a disciple of Pan ; for he played on the bag-pipes.
-
-" His master, the farmer, ordered him one fine day to kill one of the sheep, he proceeded to the field for that purpose ; but the old sheep knowing his intention, and resolving to frustrate it, bleated three times, which instantly brought all the other black sheep around her, when they disappeared altogether into the cave. The boy followed them but having crossed the *enchanted stream* which runs through the cave, he was unable to return ; as no one ever re-crosscd it but Oisin. On reflecting on the anguish his loss and absence would cause his mother, he raised a mournful strain which he accompanied by the music of his bag-pipes. On every May day from that day to this, the lamentations of the boy, and the music of his pipes are heard in the cave."
-
-```
-
-```
-
-https://archive.org/details/laoifiannuighea00univgoog/page/n264/mode/2up?q=oisin
-Laoithe Fiannuigheachta, Or, Fenian Poems: Fenian Poems
-by John O'Daly, Brian O 'Looney, Duke University Library . Jantz Collection , Jantz Collection , John O'Donovan , Library, Ossianic Society, Duke University
-Publication date 1859
-https://archive.org/details/laoifiannuighea00univgoog/page/n270/mode/2up?q=oisin
-Lay of Oisin
-
-```
-
-
-```
-https://archive.org/details/laoioisnasirnang00coim
-Laoi Oisín as ṫir na n-óg — The lay of Oisín in the land of youth
-by Coimín, Micheál, 1676-1760; Flannery, Thomas, 1846-1916
-1896 includes a narrative translation
-
-
-```
-
-
-```
-https://archive.org/details/transactionsofos40ossi/page/234/mode/2up
-Transactions of the Ossianic Society for 1856 vol IV p235+
-
-
-```
-
-
-needs eg code to pull out appropriate pages; maybe also look at the notes.
-
-TO DO - look at notes for all the works
-
-
-AN ASIDE - THOMAS THE RHYMER

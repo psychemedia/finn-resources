@@ -81,6 +81,12 @@ https://archive.org/details/laoifiannuighea00univgoog/page/n270/mode/2up?q=oisin
 Lay of Oisin
 Incl: Boyish exploits of Finn Mac Cumhaill https://archive.org/details/laoifiannuighea00univgoog/page/n316/mode/2up?q=boyish
 
+
+https://archive.org/details/laoidoisinairtir00coim
+LaoiḊ Oisín air Ṫír na n-Óg = The lay of Oisin on the Land of the Young
+by Coimín, Mícheál, 1676-1760; Coimín, Dáithí; Society for the Preservation of the Irish Language
+Publication date 1880
+
 https://archive.org/details/riujournalschoo01acadgoog/page/n44/mode/2up?q=finn
 Boyish Exploits of Finn
 Ériu: The Journal of the School of Irish Learning, Dublin
@@ -179,3 +185,27 @@ Key legends: https://www.theirishroadtrip.com/fionn-mac-cumhaill/
 ---
 
 goat cat diarmuid https://sacred-texts.com/neu/celt/gafm/gafm66.htm
+
+? from  https://archive.org/details/ansgealuidhegae00hydegoog An sgʹealuidhe gaedhealach
+by Hyde, Douglas, 1860-1949
+Publication date 1901
+
+Proceeding of Ossianic Society
+Vol https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up
+VOl II https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up
+VOl III https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up
+Vol IV https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up
+VOl V https://archive.org/details/transactionsofos05ossi/
+Vol VI https://archive.org/details/transactionsofos06ossi/
+
+
+https://archive.org/details/ossianossianicli00nuttiala/
+Ossian and the Ossianic literature
+by Nutt, Alfred Trübner, 1856-1910
+1910
+
+
+https://books.google.co.uk/books/about/Tir_na_n_Og_The_Land_of_Youth_an_Ossiani.html?id=Uh5eAAAAcAAJ&redir_esc=y
+Tir na n-Og. The Land of Youth, an Ossianic poem, ... translated by a member of the Ossianic Society. Irish & Eng
+Ossian
+1863
