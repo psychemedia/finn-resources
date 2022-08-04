@@ -1,7 +1,7 @@
 
 ## The Lay of Oisín in the Land of Youth
 
-It is likely that the tale as told by the late 19th century and early twentieth century folklorists derives from renditions of , Coulmin's 18th century poem *The lay of Oisín in the land of youth*, though the legend is undoubtedly older.
+It is likely that the tale as told by the late 19th century and early twentieth century folklorists derives from renditions of, Coulmin's 18th century poem *The lay of Oisín in the land of youth*, though the legend is undoubtedly older.
 
 Several out-of-copyright translations of the poem can be readily found via `archive.org`.
 
@@ -1368,7 +1368,7 @@ p232-3
 > 9, Anglesea-st., Dublin Jan. 20th, 1859.
 > 
 > Sir,  
-> There is a similar legend to that related in the following poem told of Oisin's descent, and living for three hundred years in UAftb ija Caojiac 5lAffe (the cavern of the grey sheep), a large cave which is situated at C'oolagarronroe, Kilbenny, near Mitchclstown, in the county of Cork. After the printing of this poem had been decided upon, I wrote to Mr. William Williams of Dungarvan, who is a native of the district, for in- formation respecting any legendary lore connected with this cave, from whom I received the following answer, as being current among the peasantry.
+> There is a similar legend to that related in the following poem told of Oisin's descent, and living for three hundred years in UAftb ija Caojiac 5lAffe (the cavern of the grey sheep), a large cave which is situated at C'oolagarronroe, Kilbenny, near Mitchelstown, in the county of Cork. After the printing of this poem had been decided upon, I wrote to Mr. William Williams of Dungarvan, who is a native of the district, for in- formation respecting any legendary lore connected with this cave, from whom I received the following answer, as being current among the peasantry.
 >
 > J. O'D.
 
