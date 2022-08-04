@@ -19,11 +19,11 @@ Flannery also reviews an additional scene included in the poem that is essential
 
 > This is the story. An episode is thrown in of a giant and a captive príncess, who is gallantly rescued by Oisín. Whilst the episode is somewhat tedious, it is of a character frequent enough in the mediaeval tales of Europe, and it has two or three points in it of special interest.
 
-FLannery's translation of the poem is presented in two ways: in a metrical style that attempted to recapture something of the rhyming nature of the origina language version, and in a more literal form.
+Flannery's translation of the poem is presented in two ways: in a metrical style that attempted to recapture something of the rhyming nature of the original language version, and in a more literal form.
 
 > The present edition contains the whole poem lopped of some excrescences and lightened of some interpolations ; it gives a literal translation for the sake of students and a new mefcrical version in the style and manner of the original — which the editor believes has not been attempted before. The divisions have been made and headings adopted to make the scope of the poem more clear, and they will it m hoped also make the poem •easier to learn and to remember. For any who may think the word for word prose version not literal enough, there is a prettv full vocabulary of the text of the poem at the end of the book, all nicely arranged in alphabetical order, from whicb they can make a translation as literal — and as bald — as they like.
 
-```{admonition} *The lay of Oisín in the land of youth*, M Coimin, Transl. T Flannery, 1896
+```{admonition} *The lay of Oisín in the land of youth*, M Coimín, transl. T Flannery, 1896
 :class: dropdown
 
 https://archive.org/details/laoioisnasirnang00coim
@@ -979,7 +979,7 @@ Literally :
 
 8. There was a royal crown upon her head and (she had) a dark-brown mantle of costly silk stamped with stars of red gold, covering her shoes down to the grass.
 
-9. Literally : A ringlet of gold was hanging down from each yellow tress of her golden hair — her blue eyes (were) clear and cloudless as a dew-drop on a blade of grass.
+9. A ringlet of gold was hanging down from each yellow tress of her golden hair — her blue eyes (were) clear and cloudless as a dew-drop on a blade of grass.
 
 10. Her cheek was redder than the rose, her complexion fairer than (hue of) the swan upon the wave, sweeter yet was the taste of her little mouth than honey that is taken (mixed) with red wine.
 
@@ -987,7 +987,7 @@ Literally :
 
 12. Four shapely shoes were under him of yellow gold of the finest quality, a wreath of silver (he had) in the back of his head — not in the world was thero a better steed.
 
-Literally : 13. She came into the presence of Finn and spoke in a tone gentle and earnest, and said : " O king of the Fianns, long and from afar has been my journey ! "
+13. She came into the presence of Finn and spoke in a tone gentle and earnest, and said : " O king of the Fianns, long and from afar has been my journey ! "
 
 14. " Who art thou thyself, O young queen, O woman best in figure, beauty, and countenance ? Relate to us now thy story from the beginning and tell us thy name and thy land ! "
 
@@ -995,15 +995,15 @@ Literally : 13. She came into the presence of Finn and spoke in a tone gentle an
 
 16. " Tell us, O gentle queen, the cause of thy coming over the sea from afar — is it thy husband who has gone from thee, or what is the trouble that is on thee? "
 
-Literally: 17. " It is not that husband has gone from me — never yet have I been pledged to any man, O Fenian King of the highest fame — but affection and love I have given to thy son."
+17. " It is not that husband has gone from me — never yet have I been pledged to any man, O Fenian King of the highest fame — but affection and love I have given to thy son."
 
 18. " To which of my sons O blooming maid, hast thou given love and liking? Do not hide from us now the (whole) cause, but tell us thy trouble, O woman! "
 
-Literally : 19. "I myself will tell thee that, O Finn — it is thy lovable, handsome son, of the hard weapons, high-minded Oisín of the strong arms — he is the hero that I now speak of."
+19. "I myself will tell thee that, O Finn — it is thy lovable, handsome son, of the hard weapons, high-minded Oisín of the strong arms — he is the hero that I now speak of."
 
 20. " What is the cause for which thou hast given love — O beautiful maid of the glossy hair — to my own fair Oisín beyond all others, (seeing that there are) so many high princes under the sun ? "
 
-Literally : 21 . " Not without cause O king of the Fenians, have I come from afar for him, but I received an account of him, of his excellence of body and mind.
+21. " Not without cause O king of the Fenians, have I come from afar for him, but I received an account of him, of his excellence of body and mind.
 
 22. "It is many a king's son and high prince have offered me love and lasting affection, I never consented to (accept) any man till I gave love to the valiant Oisín ! "
 
@@ -1011,7 +1011,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 24. I took her hand in mine and said moreover with sweet-toned voice " The kindest welcome I give thee to this land O lovely youthful queen ! "
 
-25, Literally : " Thou art the brightest and fairest of bloom, 'tis thou I should prefer for wife – thou art my choice above the women of the world, O kindly star of the brightest look ! "
+25. " Thou art the brightest and fairest of bloom, 'tis thou I should prefer for wife – thou art my choice above the women of the world, O kindly star of the brightest look ! "
 
 26. "Commands that true heroes do not disregard I impose on thee now, O generous Oisín, to come with me on my horse and (thus) go away to *Tír na n-Óg*.
 
@@ -1019,7 +1019,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 28. " Abundant in it are (the) honey and wine and everything (good) that eye hath seen, decay shalL not come upon thee with thou shalt not see failure or death !
 
-29. Literally : " Thou shalt get feasting, play, and drinking, thou shalt get music most sweet on harp-string, thou shalt get silver and gold, and thou shalt get also ahundance of jewels.
+29. " Thou shalt get feasting, play, and drinking, thou shalt get music most sweet on harp-string, thou shalt get silver and gold, and thou shalt get also ahundance of jewels.
 
 30. " Thou shalt have a hundred swords and no deceit, and a hundred mantles of satin of costly quality, thou shalt have a hundred steeds most swift in battle, thou shalt have with them a hundred keen hounds.
 
@@ -1027,7 +1027,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 32. " Thou shalt have a hundred handmaids young and mirthful, bright and glorious as the sun, of the best features, figure, and complexion, whose voices are sweeter than the song of birds.
 
-33. Literally : "Thou shalt have a hundrad warriors most brave in battle, most aceomplished too in feats of activitY, armed and equipped before thee if thou comest with me to the Land of Youth.
+33. "Thou shalt have a hundrad warriors most brave in battle, most aceomplished too in feats of activitY, armed and equipped before thee if thou comest with me to the Land of Youth.
 
 34. "Thou shalt have a protecting, well-fitting corslet, and a gold-hilted sword of most cunning stroke, worth a hundred (swords) in the hand of a true hero – its like on land thou hast never seen.
 
@@ -1035,7 +1035,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 36. "Thou shalt have everything that I have said to thee, and other delight without sorrow, without weeping, thou shalt have beauty, strength, and power, and myself thou shalt have for wife ! "
 
-37. Literallv : " Refusal at all I will not give, O pleasant queen of the tresses of gold, thou art my choice beyond the women of the world, and I will go with delight to the Land of the Young ! "
+37. " Refusal at all I will not give, O pleasant queen of the tresses of gold, thou art my choice beyond the women of the world, and I will go with delight to the Land of the Young ! "
 
 38. On the steed's back we went away together, before me sat the maiden, who said " O Oisín let us go softly at first till we reach the opening into the great sea."
 
@@ -1043,7 +1043,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 40. When Finn and the Fenians saw the steed swiftly (going) in his course and turning his face to the strong sea, they uttered three cries of grief.
 
-41. Literally : " O Oisín " said Finn weak and faint, " my grief is that thou art going away, (leaving) me without a hope to see thee come back again to me all triumphant ! "
+41. " O Oisín " said Finn weak and faint, " my grief is that thou art going away, (leaving) me without a hope to see thee come back again to me all triumphant ! "
 
 42. His features and beauty [=his beautiful features] changed and he let fall showers of tears, which drowned his bright face and bosom, and he said " My woe, O Oisín, thy going from me ! "
 
@@ -1051,15 +1051,15 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 44. I kissed my father tenderly, lovingly, and the same (mark of) affection I received from him, I bade farewell also to the Fenians, whilst the tears poured down my cheek.
 
-45. Literally : Many a delightful day I and Finn and the Fenians with us in full glory were playing chess and carousing and listening to music — a gallant company !
+45. Many a delightful day I and Finn and the Fenians with us in full glory were playing chess and carousing and listening to music — a gallant company !
 
-46 . [Or] hunting in tbe pleasant glens, our sweet-voiced hounds being with us — another time we were in the rough battle slaughtering warriors full vigorously !
+46. [Or] hunting in tbe pleasant glens, our sweet-voiced hounds being with us — another time we were in the rough battle slaughtering warriors full vigorously !
 
 47. O vain Oisín, quietly leave (treating) of thy valiant deeds amongst the Fenians — How didst thou go to the Land of the Young? Continue now for us thy story without a lie.
 
 48. We turned our back to the land and our face directly to the west, the smooth sea ebbed hefore us, and filled in swelling waves in our rear.
 
-49. Literally : We saw wonders on our way, — cities, courts and castles — bright palaces and fortresses, splendid sunny mansions and royal dwellings.
+49. We saw wonders on our way, — cities, courts and castles — bright palaces and fortresses, splendid sunny mansions and royal dwellings.
 
 50. We saw also by our side a hornless doe bounding swiftly, apd a red-eared, vigorous, white hound hunting it boldly in the chase.
 
@@ -1067,7 +1067,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 52. We saw a short distance behind her, a young horseman on a steed most white, (dressed) in cloth of purple and red satin, with a gold-hilted sword in his right hand.
 
-53. Literally : " Who are those two I see yonder ? O gentle queen, let me know — that woman of the beautiful countenance, and that graceful horseman on steed most white ? "
+53. " Who are those two I see yonder ? O gentle queen, let me know — that woman of the beautiful countenance, and that graceful horseman on steed most white ? "
 
 54. Take no notice of what thou shalt see O gentle Oisín, nor (mind) what thou hast yet seen, they are all as nothing till we reach in earnest the Land of the Young."
 
@@ -1075,7 +1075,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 56. " What kingly, most bright fortress, most beautiful of all eye has seen, are we approaching now, and who is the high-prince over that fortress ? "
 
-57. Lifcerally : " It is the daughter of the king of the Land of the Living who is queen now in yonder fortress, whom Fovor-of-the-Blows of Druim-loghach took away with him by the great strength of his arms and (by) might.
+57. " It is the daughter of the king of the Land of the Living who is queen now in yonder fortress, whom Fovor-of-the-Blows of Druim-loghach took away with him by the great strength of his arms and (by) might.
 
 58. " Bonds she imposed on that robber never to make her his wife, till she should find a knight or true hero who would give him battle hand to hand. "
 
@@ -1083,7 +1083,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 60. " Let us go now to visit her in that fortress and it may be for me it is fated to slay that mighty warrior by feats of strength as was my custom. "
 
-61. Literally: We went then to the fortress and there came (out) to us the young princess whose splendour was equal to the sun's, and she gave us a hundred welcomes.
+61. We went then to the fortress and there came (out) to us the young princess whose splendour was equal to the sun's, and she gave us a hundred welcomes.
 
 62. There was a robe of yellow silk on this queen of the lovely complexion, her skin was fair as the swan upon the wave, her cheeks of the colour of the rose.
 
@@ -1091,7 +1091,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 
 64. We then sat down, each of us in a chair of gold — much food was placed before us, with drinking horns filled with *beoir*.
 
-65. Literally : When we had eaten enough of food and tasted many sweet wines, the gentle young queen spoke and said " Listen to me quietly ! "
+65. When we had eaten enough of food and tasted many sweet wines, the gentle young queen spoke and said " Listen to me quietly ! "
 
 66. She told us her whole story fully and fairly and the tears fell on her cheek, and said she could never return to her own country whilst the mighty giant was alive.
 
@@ -1100,7 +1100,7 @@ Literally : 21 . " Not without cause O king of the Fenians, have I come from afa
 68. " There is no hero at all to be found now— however great his repute for valour throughout the world — who would give battle hand to hand to this fierce giant — alas
 me ! "
 
-9. Literaily : "I tell thee O fair queen, that not terrible to me is his coming against me, and if he fall not by the strength of my arms, then I will fall in thy defence. "
+69. "I tell thee O fair queen, that not terrible to me is his coming against me, and if he fall not by the strength of my arms, then I will fall in thy defence. "
 
 70. Not long till we saw coming the mighty giant most hateful of look, clothed in skins of deer, with a club of iron in his hand.
 
@@ -1108,7 +1108,7 @@ me ! "
 
 72. For the space of three nights and three days we were (engaged) in that tough struggle, but though stout was that great giant, at last I cut his head off him.
 
-73. Literally : When the two young maids saw the great giant lying powerless on the ground, they uttered three cries of delight with great exultation and rejoicing.
+73. When the two young maids saw the great giant lying powerless on the ground, they uttered three cries of delight with great exultation and rejoicing.
 
 74. We then went into the castle — I was bruised, weak and faint, my blood flowing full freshly , and coming swift and hot from my wounds.
 
@@ -1116,7 +1116,7 @@ me ! "
 
 76. We buried the big man in a grave earth-deep, wide, and clear, I raised his head-stone over his grave, and wrote his name upon it in the Ogham-of-Branches.
 
-77. Literally : We took our meal joyfully, and merry were we then after it, and in the castle warmly-covered beds of the feathers of birds were prepared for us.
+77. We took our meal joyfully, and merry were we then after it, and in the castle warmly-covered beds of the feathers of birds were prepared for us.
 
 78. On its morrow at break of day we awoke from our slumber, " It is fitting for me" said the king's daughter " to set out without further rest to my own land."
 
@@ -1124,15 +1124,15 @@ me ! "
 
 80. It is not known to me, O gentle Patrick, what happened that young queen (afterwards) from the day we parted from her, or even if she ever returned to the Land-of-the-Living.
 
-81 . Literally: We turned our back to the castle, with our steed under us in full course — swifter to our mind that white steed than a March wind over a mountain's ridge.
+81. We turned our back to the castle, with our steed under us in full course — swifter to our mind that white steed than a March wind over a mountain's ridge.
 
-82 . It was not long till the sky darkened, and the wind rose (and blew) in every direction, the great mad sea kindled terribly, but there was no glimpse to be seen of tha sun.
+82. It was not long till the sky darkened, and the wind rose (and blew) in every direction, the great mad sea kindled terribly, but there was no glimpse to be seen of tha sun.
 
 83. A while we were anxiously gazing at the dark clouds and on the stars that sometimes showed — when suddenly the wind and storm abated and brightly shone Phoebus above our heads.
 
 84. We saw then at our side a most lovely land all blooming — beautiful, smooth, clear plains, and a royal castle very splendid.
 
-85. Literally : — There was not a colour (of all) eye had seen — of bright blue, of green, and of white — of purple, of red, and of yellow — but was (to be found) in that royal palace that I am speaking of.
+85. — There was not a colour (of all) eye had seen — of bright blue, of green, and of white — of purple, of red, and of yellow — but was (to be found) in that royal palace that I am speaking of.
 
 86. There were on the other eide of this castle, bright, sun-warmed dwellings and mansions all made of precious stones by the hands of cunning craftsmen and noble artists.
 
@@ -1140,7 +1140,7 @@ me ! "
 
 88. " It is indeed, O generous Oisín ! no untruth have I told thee about it — there is nothing of all that I have promised thee, but may be seen by thee for ever ! "
 
-89. Literally : It was not long till we saw coming towards us from the castle to meet us thrice fiíty warriors the strongest and handsomest, and of highest fame and character.
+89. It was not long till we saw coming towards us from the castle to meet us thrice fiíty warriors the strongest and handsomest, and of highest fame and character.
 
 90. There came to us after that a hundred young maids of the greatest beauty, in silken garments adorned with gold, welcoming us to their own land.
 
@@ -1148,7 +1148,7 @@ me ! "
 
 92. A yellow shirt of the smoothest silk (was) on him, and over it a bright cloak adorned with gold — and on his head a glittering crown of gold, shining and brilliant.
 
-93. Literally : We saw coming next the young queen of the highest fame, and fifty maidens sweet-voiced, modest, of the fairest form, in her train.
+93. We saw coming next the young queen of the highest fame, and fifty maidens sweet-voiced, modest, of the fairest form, in her train.
 
 94. When they had all come into one place thus kindly spoke the King of Youth and said — " Here is Oisín the son of Finn, the chosen spouse of Gold-haired Niamh ! "
 
@@ -1156,7 +1156,7 @@ me ! "
 
 96. " This land in which thou hast arrived — its virtues I will not hide from thee, truly long and lasting shail thy life he, and thou shalt be young for ever.
 
-97. Literally : " There is no delight of all the heart has ever imagined that is not in this country for thee, — thou mayest O Oisín truly believe me, for I am King of the Land of Youth ! "
+97. " There is no delight of all the heart has ever imagined that is not in this country for thee, — thou mayest O Oisín truly believe me, for I am King of the Land of Youth ! "
 
 98. " Here is our fair queen, and here our daughter Niamh the Golden-haired, who crossed the smooth sea for thee, to have thee for her husband for ever! "
 
@@ -1164,7 +1164,7 @@ me ! "
 
 100. (Then) came the nobles of that fair city both men and women to greet us — there was feasting and festivity there continuously for the space of ten nights and ten days.
 
-101. Literallj: I was married (then) to Gold-haired Niamh — O Patrick from Rome, of the white croziers, — thus was it I went to the Land of Youth, though sad and sorrowful for me to treat of it.
+101. I was married (then) to Gold-haired Niamh — O Patrick from Rome, of the white croziers, — thus was it I went to the Land of Youth, though sad and sorrowful for me to treat of it.
 
 102. Continue thy story further, O Oisín of the golden words, O Oisín of the warlike arms, how didst thou leave the Land of Youth ? I feel it long till thou revealest the reason.
 
@@ -1172,7 +1172,7 @@ me ! "
 
 104. I had by Gold-haired Niamh children of the fairest complexion and greatest beauty — best featured, best shaped, brightest hued — two young sons and one fair daughter.
 
-105. Literally : O pleasant Oisín, continue thy story and tell me where thy children are, tell me their names without delay, and the country they are (now) living in.
+105. O pleasant Oisín, continue thy story and tell me where thy children are, tell me their names without delay, and the country they are (now) living in.
 
 106. Niamh held for them the Land-of-Youth, the Land-of-the-Living, and the Land-of-Virtues, a rod of lordship [sceptre] and crown of kingly gold and a wealth of gems I do not mention.
 
@@ -1180,7 +1180,7 @@ me ! "
 
 108. I myself gave to my fair daughter with the consent of most lovable Niamh, in virtue of her beauty and great sweetness the true name — Flower-of-women.
 
-109. Literally : I spent (there) a long-lasting period — three hundred years apparently and more — till (at length) I thought within myself I should like to see (once more) Finn and the Fenians alive.
+109. I spent (there) a long-lasting period — three hundred years apparently and more — till (at length) I thought within myself I should like to see (once more) Finn and the Fenians alive.
 
 110. One day I asked leave of the king and of my gentle wife, Golden-haired Niamh, to go back to Erin again to see my father Finn and his great host
 
@@ -1188,7 +1188,7 @@ me ! "
 
 112. "What cause for fear have we, O sunny queen, when the white steed shall be at my will ? He will easily ahow me the qay, and I shall return to thee safe ! "
 
-113. Literally : " Remember, O Oisín, what I am saying — if thou layest foot to smooth ground there is no return for thee ever again to this lovely land where I am !
+113. " Remember, O Oisín, what I am saying — if thou layest foot to smooth ground there is no return for thee ever again to this lovely land where I am !
 
 114. " I tell thee again without falsehood, if thou alightest from the white steed, thou shalt never come (again) to the Land of Youth — O golden Oisín of the victorious arms ! "
 
@@ -1196,7 +1196,7 @@ me ! "
 
 116. "I think it woeful, dear Oisín, that thou shouldst ever go to green Erin again, she is not now as she was (of old) and thou never shalt see Finn of the hosts !
 
-117. Literally: " Thou wilt not find now in Erin eastward (any) but fathers of orders and troops of saints — then beloved Oisín, here is my kiss to thee — to the Land of Youth, woe, woe ! I fear thou never wilt return ! "
+117. " Thou wilt not find now in Erin eastward (any) but fathers of orders and troops of saints — then beloved Oisín, here is my kiss to thee — to the Land of Youth, woe, woe ! I fear thou never wilt return ! "
 
 118. I looked with sorrow into her face, and a shower of tears fell from my eyes — O stern Patrick, even thou wouldst have pitied her, to see her tearing the tresses of her soft, golden hair ! "
 
@@ -1204,7 +1204,7 @@ me ! "
 
 120. I promised her everything faithfully — that I would do all she told me — I mounted the back of the white steed, and bade fareweil to the people of the castle.
 
-121. Literally : I kissed my gentle wife, and melancholy were we at the parting — (I kissed also) my two sons and young daughter, who were in grief shedding tears.
+121. I kissed my gentle wife, and melancholy were we at the parting — (I kissed also) my two sons and young daughter, who were in grief shedding tears.
 
 122. I then prepared myself for the journey and turned my back to the Land of Youth — swiftly the horse rushed away with me, as he had done (before) with me and Goldhaired Niamh.
 
@@ -1212,7 +1212,7 @@ me ! "
 
 124. If I could get abundance of bread, as I used to get at all times from Finn, I would pray to the King of Graces that thou mightst be saved for ever on account of it.
 
-125. Literally: Thou shalt have food and drink ail unstinted now from me — sweet to me the words of thy lips — continue thy story still for me.
+125. Thou shalt have food and drink ail unstinted now from me — sweet to me the words of thy lips — continue thy story still for me.
 
 126. Our tale is not told minutely about everything that happened to me — till I came back again to green Erin of the many gems.
 
@@ -1220,7 +1220,7 @@ me ! "
 
 128. Not long and no great while was I (standing) till I saw coming towards me up from the west a great cavalcade of men and women, and they came up to me.
 
-129. Literally : They greeted me kindly and sweetly and wonder seized each one of them, on seeing the size of my body, my figure, my look, and my countenance.
+129. They greeted me kindly and sweetly and wonder seized each one of them, on seeing the size of my body, my figure, my look, and my countenance.
 
 130. I inquired then of them if they had heard that Finn was alive, or if any one else of the Fenians still lived — or what calamity had happened to them.
 
@@ -1228,7 +1228,7 @@ me ! "
 
 132. " Many a book is there to be found amongst the sweet, melodious bards of the Gael, of which we could not easily tell thee — that speaks of the deeds of Finn and the Fenians.
 
-133. Literally : " We have heard that Finn had a son of distinguished beauty and form, that a young maid came hither for him, and that he went away with her to the Land of Youth."
+133. " We have heard that Finn had a son of distinguished beauty and form, that a young maid came hither for him, and that he went away with her to the Land of Youth."
 
 134. When I heard that speech — that neither Finn nor one of the Fenians (now) lived — a faintness and great grief seized me, and full gloomy was I after them.
 
@@ -1236,7 +1236,7 @@ me ! "
 
 136. Great was my amazement then that I could not see the court of Finn of the hosts — there was nothing in its place truly, but weeds, chickweed and nettles.
 
-137. Literally : Alas, O Patrick, and alas, my woe ! an empty (useless) visit was it for me, with no tidings (whatever) to be got of Finn or of the Fenians ! 'tis that has left me in sorrow for (the rest of) my days !
+137. Alas, O Patrick, and alas, my woe ! an empty (useless) visit was it for me, with no tidings (whatever) to be got of Finn or of the Fenians ! 'tis that has left me in sorrow for (the rest of) my days !
 
 138. I will follow up the story for thee, O Patrick — after I had left Alvin of Leinster, there was no dwelling-place in which the Fiann had ever lived that I did not visit eagerly and anxiously.
 
@@ -1244,7 +1244,7 @@ me ! "
 
 140. One of the herd then spoke to me, and said with loud voice " Come to our assistance O kingly hero, and release us from this dire difficulty ! "
 
-141. Literally : I then came up to the spot, and there the crowd were labouring under a great flag of marble — the weight of the flag was bearing down upon them and to cast it away from them they had no power.
+141. I then came up to the spot, and there the crowd were labouring under a great flag of marble — the weight of the flag was bearing down upon them and to cast it away from them they had no power.
 
 142. Some of them who were down under the flag were being miserably crushed — with the distressing weight of the great load many of them lost their senses.
 
@@ -1252,7 +1252,7 @@ me ! "
 
 144. " It is a shameful word now to say — seeing the number of men there are here — that they could not with the entire strength of the crowd lift that stone full stoutly !
 
-145. Literally : "If Oscar son of Oisín lived he would seize that stone in his right hand, he would send it with a cast over (the heads of) this crowd — no falsehood am I accustomed to speak ! "
+145. "If Oscar son of Oisín lived he would seize that stone in his right hand, he would send it with a cast over (the heads of) this crowd — no falsehood am I accustomed to speak ! "
 
 146. I leaned to my right side and seized the flag in one hand — with the strength and vigour of my arms I cast it seven perches írom that spot !
 
@@ -1260,7 +1260,7 @@ me ! "
 
 148. No sooner had I come down than fear seized the white steed — he ran off then away, and I in grief (left) weak and helpless
 
-149. Literally : I lost the sight of my eyes, my figure, my (fair) countenance, and my bloom — (and) I was a poor, blind old man, powerless^ witless, unhonoured !
+149. I lost the sight of my eyes, my figure, my (fair) countenance, and my bloom — (and) I was a poor, blind old man, powerless^ witless, unhonoured !
 
 150. O Patrick, there is for thee my story — as (everything) happened to me without any falsehood — my going away, my adventures in full, and my return from the Land of the Young !
 

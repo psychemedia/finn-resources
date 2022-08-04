@@ -1,6 +1,6 @@
-# To Begin At The End
+# Oisin and Tír na nÓg
 
-My journey starts towards the end of the cycle, with the story of how it became possible for St Patrick to record many of the tales of Fionn MacCumhaill and the Fianna from Oisín, Fionn's son.
+Our journey starts towards the end of the Fenian cycle, with the story of how it became possible for St Patrick to record many of the tales of Fionn MacCumhaill and the Fianna from Oisín, Fionn's son.
 
 The trigger was a Ladybird style book, [Irish Legends for Children](https://www.amazon.co.uk/Irish-Legends-Children-Yvonne-Carroll/dp/0717125513), loaned to me by Maureen Shaw, a follow participant at the Waverley folk club in Newport, Isle of Wight. The book included six tales: *Children of Lir*, *Deirdre of the Sorrows*, *Setanta*, *The Salmon of Knowledge*, *Fionn and the Dragon* and *Oisín and Tír Na Nóg* (at the time of writing, I have still only read *The Salmon of Knowledge* and *Oisín and Tír Na Nóg*). The latter story was the one that first jumped out at me, and provided me with my way in.
 

@@ -3,7 +3,7 @@ root: preface
 parts:
 - chapters:
   - file: intro
-- caption: First Encounters
+- caption: To Begin At The End
   chapters:
   - file: oisin-tir-na-nog
   - file: lay-oisin-land-youth
