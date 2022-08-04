@@ -1,3 +1,11 @@
 # Introduction
 
-A great many...
+A great many tales are there to be told of Fionn MacCumhaill and the Fianna, the roving band of warriors who had sworn to protect all Ireland. The same characters appear across many of the stories, which means their characters must remain consistent across the tales. If, like me, you have *not* been brought up in the tradition of Fianna stories, this raises an interesting question: how do we come to have a sense of the characters and the connected stories that they repeatedly feature in. Where should we start?
+
+This living unbook project[^unbook] is intended to capture my own personal journey into, and through, the tales of the Fianna. As with other storynotes projects, the same tales may well appear multiple times, demonstrating different ways in which the same tale has been told and providing a way to triangulate towards the core story points, as well as providing alternative tellings with which to get started on a particular tale.
+
+In some respects, then, this work will become something of a reference book for me to look up notes on stories I have told and will hopefully tell again. It will also provide a reference to help me keep things consistent, particular if I tell several of the tales to the same audience over an extended period of time. The characters will have their own histories, and their own personalities, and if I am to keep referring them to the same audiences, truth will have to be maintained and the world and its characters will have to remain consistent.
+
+My own tellings will remain *unwritten*. I may well end up with particular ways of telling the same story that essentially unchanged from a previous telling, but that will be as much an artefact of memory and momentum rather than having learned a particular telling from a written down gold master version.
+
+[^unbook]: *Unbook*: a made up term that distinguishes this work from a *book*; firstly, it is a living work, and as such is likely to remain *un*finished for some considerable time yet; each time you visit it, I have hadd aded more sections, I may have moved some around, I may even have deleted some; secondly, it is effectively *un*printable: there are are likely to be various stylistic tricks that make it hard for the maerials to be printed out easily or efficiently: great use will be made of dropdowns to "hide" conent, and whilst there various ways in which we could attempt to render such content in a print work, that is not currently my focus.
