@@ -7,6 +7,9 @@ parts:
   chapters:
   - file: oisin-tir-na-nog
   - file: lay-oisin-land-youth
+- caption: Fionn Mac Cumhaill
+  chapters:
+  - file: finn-childhood
 - caption: Resources
   chapters:
   - file: irish-legends-finn-oisin
