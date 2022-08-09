@@ -144,3 +144,9 @@ Find and Goll concluded peace after that ; and the eric of his father was given 
 19. *Slanga-pig*. The Slanga-pigs, like the *mucca Drebrend*, or " pigs of Drebriu, " and the *mucca Manannain*, or " pigs of Manannan " (the Irish Neptune), were magical swine, which reappeared as often as they were killed and eaten. Irish romance is full of them; and in an account preserved in the Book of Fermoy, fol. 215, b. 2, it is stated that the last Slanga-pig distributed to the men of Ireland, satisfied 25 battalions!
 
 ```
+
+```{admonition} Fionn's Father, Cumhall
+:class: seealso dropdown
+
+See also: see also: https://en.wikipedia.org/wiki/Cumhall
+```
