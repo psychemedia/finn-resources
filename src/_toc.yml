@@ -9,8 +9,8 @@ parts:
   - file: lay-oisin-land-youth
 - caption: Fionn Mac Cumhaill
   chapters:
-  - file: finn-pedigree
   - file: finn-childhood
+  - file: finn-pedigree
   - file: salmon-of-knowledge
 - caption: Resources
   chapters:
