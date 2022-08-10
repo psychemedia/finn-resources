@@ -158,6 +158,7 @@ An earlier translation appears in the transactions of the Ossianic Society, vol.
 This earlier version is prefaced by a letter from O'Dohnovan to the Editor, that describes the manuscript and some context regarding the translation. A genealoogy of Fionn is also provided.
 
 ```{admonition} Letter, prefacing "Boyish Exploits", John O' Donovan, 1858
+:class: dropdown
 
 https://archive.org/details/transactionsofos40ossi/page/288/mode/2up
 
