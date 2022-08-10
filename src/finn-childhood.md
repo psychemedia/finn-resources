@@ -405,7 +405,7 @@ Kuno Meyer
 > " Goll, son of Daire the Red, with fame,  
 > Son of Echaid the Fair, of valour fair,  
 > Son of Cairpre the Valorous with valour.  
-Son of Muiredach from Findmag." `[A plain in the barony of Athlone, Co. Roscommon," O'D.]`
+> Son of Muiredach from Findmag." `[A plain in the barony of Athlone, Co. Roscommon," O'D.]`
 >  
 > " Goll slew Luchet of the hundreds  
 > In the battle of Cnucha, 'tis no falsehood :  
@@ -522,6 +522,196 @@ Thereupon the spear is thrown out, and Finn takes it with him to where Fiacail w
 27. Thereupon Finn and Fiacail went onward. Now, Fiacail had a tryst with the *fian* at Inver Colptha. `[The estuary of the Boyne. ]` Then he said to Finn that they should go home ... `[I cannot translate *gid daimh*.]` since their business was finished. Said Finn : " Let me go with thee," says he. " I do not wish thee to go with me," says Fiacail, " lest thy strength should fail thee." " I shall find out," says Finn. Then they went forth. Twelve balls of lead were round the neck of Fiacail to hem his vigour, such was his swiftness. He would throw one ball after another from him, and Finn took them with him, and (yet) Fiacail's running was no swifter than Finn's.
 
 28. They reach Inver Colptha. Then Finn brought all the twelve balls of lead to him, and he was pleased. That night they slept there. Then they make Finn keep watch that night, and he was told to wake the warrior if he heard any [cry of] outrage. Now, one hour of the night, as Finn was watching, he heard a cry from the north, and did not wake the warrior. He went alone in the direction of the cry to Slieve Slanga. `[Now Slieve Donard, County Down.]` While Finn was there, among the men of Ulster, at the hour of midnight, `[This I take to be the meaning of *tráth nóna do aidchi*.]` he overtook three women before him, at a green mound, with horns (?) of fairy-women. As they were wailing on that mound, they would all put their hands on the mound. Then the women flee into the fairy-mound before Finn. Finn caught one of the women as she was going into the fairy-knoll of Slanga, and snatched her brooch out of her cloak. The woman went after him, and besought Finn to give her back the brooch of her cloak, and said it was not fit for her to go into the fairy-knoll with a blemish, and she promises a reward ... `[As we learn from Gilla in Chomded's poem (LL. 145 b 8), the fairy presented Finn with a vessel full of gold and silver, which he divided among the *fian*.]`
+
+```
+
+An earlier translation appears in the transactions of the Ossianic Society, vol. iv. 1853 (1859), by John O' Donovan, the "O'D" referenced in several footnotes by Kuno Meyer.
+
+This earlier version is prefaced by a letter from O'Dohnovan to the Editor, that describes the manuscript and some context regarding the translation.
+
+```{admonition} Letter, prefacing "Boyish Exploits", John O' Donovan, 1858
+
+https://archive.org/details/transactionsofos40ossi/page/288/mode/2up
+
+THE BOYISH EXPLOITS OF FINN MAC CUMHAILL.
+
+EDITED BY JOHN O'DONOVAN, LL.D., M.R.I.A.
+
+CORRESPONDING MEMBER OF THE ROYAL ACADEMY OF SCIENCES, BERLIN. 
+
+DUBLIN :
+
+PRINTED FOR THE OSSIANIC SOCIETY.
+
+1859. 
+
+
+Letter addressed by Dr. John O'Donovan, to the President of the Ossianic Society.
+
+Dublin, Dec. 27th, 1858.
+
+Dear Sir— Having, at your request, undertaken to translate into English — to lengthen out the abbreviations, and to fix the grammatical endings of the contracted words, in this notice of the boyish exploits of the celebrated Finn Mac Cumhaill, the Fingal of Mac Pherson's Ossian, — I beg to offer you a few obserrations on the age and importance of the little tract, as well as of the manuscript from which it has been taken. This tract was copied letter for letter, and contraction for contraction from a fragment of the Psalter of Cashel now preserved in the Bodleian Library at Oxford (*Laud.* 610), by the Rev. Euseby D. Cleayer, M. A., of Christ Church, Oxford, in 1854, and now curate of S. Barnabas, Pimlico, London, whose progress in the study of the Irish language is truly wonderful, considering the slight advantages of oral instruction which he has possessed. He has copied this little tract so faithfully that I was able to understand it as well as if I had the original manuscript before me. No artist ever copied a portrait or inscription more accurately. This manuscript was examined in the year 1844 by the Rev. Dr. Todd, S.F.T.C.D., who published a full account of its contents in the Proceedings of the Royal Irish Academy, vol. 2, p. 336, sq. `[archive.org:proceedingsofroy02proc]` In 1846 I examined it again with the most anxious care, and published a brief notice of its more important contents in the introduction to Leabhar na g-Ceart. It consists of 292 pages folio, vellum, and was transcribed in 1453 by John Boy O'Clery and others at Pottlerath, in the barony of Crannagh, and county of Kilkenny, for Edmund Butler, the head of the sept of Mac Richard, who afterwards became Earls of Ormonde. This manuscript remained in the possession of Mac Richard Butler till the year 1462, when Ormonde aod he were defeated in a battle fought at Baile-an-phoill, now Pilltown, in the barony of Iverk, county of Kilkenny, by Thomas, Earl of Desmond, to whom he was obliged to give up this very copy of the Psalter of Cashel, together with another manuscript (now unknown), called the Book of Carrick-on-Suir. This fact appears from a memorandum on foL 110, p. b, of which the followiog is a literal translation :—
+
+" This was the Psalter of Mac Richard Butler, until the defeat at Baile-an phoill, was giren to the Earl of Ormonde, and to Mac Richard by the Earl of Desmond (Thomas), when this book and the book of Carrick, were obtained in the redemption of Mac Richard ; and it was this Mac Richard that had these books transcribed for his own use ; and they remained in his possession until Thomas, Earl of Desmond, wrested them from him."
+
+The foregoing memorandum was written in the manuscript, while it was in the possession of Thomas, Earl of Desmond, whose name " Thomas, of Desmond," appears in English, in his own hand, on fol. 92, a., See *Leahhar na g-Ceart*, Introduction, pp. xxviii—xxx. The publication of this manuscript, as it stands, would be a great desideratum in Irish literature, and I trust that Sir John Romilly will not think it unworthy of his attention.
+
+I am of opinion that this little tract is of great antiquity, and contains, perhaps, the oldest account we have remaining of Finn and his cotemporaries. You will observe that the style is extremely simple, and altogether devoid of that redundancy of epithets which characterises the prose compositions of later ages, which are equalled only by those of _"Ei famoso Feliciano de Silva."_
+
+The celebrated Irish antiquary, Duald Mac Firbis, in his genealogical work, pp. 435, 436, gives various pedigrees of the famous Irish hero, Finn Mac Cumhaill. Some deduce his descent from the Orbhraighe of Druim Inmocht, others from the Coroo Oiche, a sept of the ni-Fidhgeinte, who were seated in the present county of Limerick. Some state that he sprung fh>m the Ui-Tairsigh of Ui-Failghe, a plebeian sept, while other genealogists maintain that he came of the Ui-Tairsigh of the Luaighni Teamhrach of Fera-Cul in Bregia, which was one of the three septs from whom the chief leader of the Fians, or Irish militiai was elected. Mac Firbis, however, states that this discrepancy must have arisen from mistaking one Finn for another ; but that by far the greater number of the authentic Irish authorities agree in deducing the pedigree of the famous Finn Mac Cumhaill from Nuada Neacht, the fourth son of Sedna Sithbhaic, the ancestor of the kings of Leinster.
+
+By the mother's side, Finn Mac Cumhaill was descended from Tadhg, son of Nuadhat, son of Aice, son of Daite, son of Brocan, son of Fintan of Tuath-Daite in Bregia. This Mac Firbis believes to be his true maternal descent, though others state that his mother was Torba, daughter of Echuman of the Ernaans of Dun-Cearmna (the old head of Kinsale, in the county of Cork), and that he had a half-brother by the mother's side, who was called Finn Mac Gleoir.
+
+Mac Firbis adds that Finn Mac Camhaill possessed, in right of his office of leader of the Fians, seven hallys, or townlands, out of every tricha-ched, or hundred, in Ireland ; that he was bom in the third year of the reign of Conn of the Hundred Battles, and died in the year 283.
+
+Some genealogical books give the pedigree of our hero thus : — Finn, son of Cumhall, son of Trénmor, son of Subalt, son of Ealtan, son of Baiscne, son of Nuada Necht : others, Finn, son of Cumhall, son of Baiscne, son of Trénmor, son of Ferdarath, son of Goll, son of Forgall, son of Daire, son of Deaghaidh, son of Sin ; but of the yarious pedigrees of our hero which Mac Firbis has copied from Irish authorities, the following is the only one that can be considered authentic : —
+
+1. Nuada Necht,
+
+2. Fergus Fallge, ancestor of the Kings of Leinster,
+
+3. Boesa Buadh, 3. So-alt,
+
+4. Finn, the poet, king of Leinster, 4. Alt,
+
+5. Conchobhar Abhraruadh, 5. Cairbre Qarbhroin,
+
+6. Moghcorb, king of Leinster, 6. Baeiscne,
+
+7. Cucorb, king of Leinster, 7. Modh,
+
+8. Nia Corb, 8. Buan,
+
+9. Cormac Gealtagaoith, 9. Fergus,
+
+10. Feilimidh Firurglais, 10. Trendorn,
+
+11. Cathaeir Mor (A.D., 177.), monarch of Ireland, 11. Trenmor,
+
+12. Cumhall,
+
+I3. Finn Mac Cumhaill, sl. 284.
+
+He had a sister named *Sidh*, who was proverbial in Ireland for her fleetness of foot, and who was the mother of Caoilte Mac Ronain, also famous in the Fenian tales for his agility. He had another sister, Seogen, who was the mother of Cobhthach, son of Crunnchu.
+
+I have always believed that Finn Mac Cumhaill was a real historical personage, and not a myth or god of war, like the Hercules of the Greeks, the Odin of the Scandinavians, or the Siegfried of the Germans. He was the son-in-law of the famous Cormac Mac Airt monarch of Ireland, and the general of his standing army. He was slain in the year A.D., 284, according to the Annals of Tighemach, a period to which our authentic history unquestionably reaches. (See Ogygia, part iii, c. 70).
+
+This celebrated warrior was, as we have seen, of the regal line of the kings of Leinster, of the Milesian or Scotic race (for my ingenious friend Mr. Herbert F. Hore has theorised in vain to prove him of Scandinavian origin) ; he had two residences in Leinster, one at Allen ( Almhain,) in the present county of Kildare, and the other at Moyelly in the (now) King's County, both of which descended to him from his ancestors. Pinkerton, the most critical and sceptical writer that has ever treated of Irish and Scottish history, has the following remarkable words, in which he expresses his conviction of Finn's undoubted historical existence : —
+
+" He seems," says he, "to have been a man of great talents for the age, and of celebrity in arms. His formation of a regular standing army, trained to war, in which all the Irish accounts agree, seems to have been a rude imitation of the Roman legions in Britain. The idea, though simple enough, shows prudence, for such a force alone, could have coped with the Romans had they invaded Ireland. But this machine, which surprised a rude age, and seems the basis of all Finn's fame, like some other great schemes, only lived in its author, and expired soon after him." — Inquiry into the History of Scotland, vol. ii, p. 77.
+
+Our own poet and historian, Moore, who read all that had been written by the Mac Phersons and the modern critics on the history of Finn, expresses his conviction that he was a real man of flesh and blood, and no god of war or poetical creation. He concludes his account of him in tlie following poetical strain.
+
+" It has been the fate of this popular Irish hero, after a long course of traditional renown in his country, where his name still lives, not only in legends and songs, but yet in the more indelible record of scenery connected with his memory, to have been all at once transferred by adoption to another country (Scotland), and start under a new but false shape, into a fresh career of fame." — History of Ireland, vol. i. p. 133.
+
+The only known descendants of our hero, now known to exist, are the Dal-Cais Le. O'Briens of Munster and their correlatives. Cormac Gas, king of Munster, who married Samhair (Samaria), the daughter of Finn by Gráinè, daughter of Cormac Mac Airt, monarch of Ireland, and had by her, according to the Irish genealogists, three sons, Tinnè and Connla, of whose race nothing is known, and Fearcorb, the progenitor of the Dal Cais, the hereditary enemies of the race of Conn of the Hundred Battles. After the death of Finn, the monarch Cairbre Liffechair, son of Cormac, the grandson of Conn of the Hundred Battles, disbanded and outlawed the Clanna-Baeiscnè, of whom Finn was then the head, and retained in his service their enemies, the Clanna-Morna, a military tribe of the Firbolgs of Connacht. The Clanna-Baeiscè then repaired to Munster to their relative, Fearcorb, who retained them in his service, contrary to the orders of the Irish monarch. This led to the bloody battle of Gabhra (near the Boyne in Meath), in which the two rival military tribes slaughtered each other almost to extermination. In the heat of the action, Oscar, the grandson of Finn (and son of Oisin,) met the monarch in single combat ; but fell, and the monarch retiring from the combat, was met by his own relative Semeon, one of the Fotharta, (a tribe that had been expelled into Leinster) who fell upon him after being severely wounded in the dreadful combat with Oscar, and despatched him by a single blow.
+
+Oisin and Caeilte Mac Ronain survived all the followers of our hero, and are fabled to have lived down to the time of St. Patrick (A.D. 432), to whom they related the wonderful exploits of Finn and his cotemporaries. This, however, is incredible ; but it is highly probable that both lived to converse with some Christian missionaries who preceded the great apostle of Ireland, and who found it difficult to convert them from their pagan notions.
+
+There is a very curious dialogue, partly preserved in the book of Lismore, and partly in a MS. in the Bodleian Library at Oxford, said to have been carried on between Caeilte, son of Ronan, and St. Patrick. This dialogue, notvithstanding ita anachronism, or perhaps rather misnomer, is of great value to the Irish linguist, topographer, and antiquary, on account of the curious ancient forms of the language which it preserves, and the various forts, mounds, sepulchres, plains, mountains, estuaries and rivers which it mentions by their primitive and mediaeval names.
+
+Hoping that this tract will soon see the light under your auspices, as President of our Society,
+
+I remain, dear Sir,
+
+Yours very truly,
+
+JOHN O'DONOVAN.
+
+To
+
+William Smith O'Brien, Esq.  
+*President of the Ossianic Society.*
+
+```
+
+The translation then follows:
+
+```{admonition} The Boyish Exploits of Finn, transl. John O'Donovan, 1858(?)
+:class: dropdown
+THE BOYISH EXPLOITS OF FINN, DOWN HERE.
+
+THERE happened a meeting of valour and contention of battle, respecting the chieftainship of the Fians `[i.e. tbe leadership of the Irish militia.]` and the head-stewardship of Erin, between Cumhall, `[The best account of the military leader will be found in thie battle of Cnucha, preserved in the book of Lismore]` son of Tréanmór, and Uirgrenn, son of Lughaidh Corr, [one] of the Luaighne `[a famous military lept in Menth descended from Luaighni. one of the brothers of Conn of the hundred battles, *Oggyia*, part iii. c, 57.]`,  i.e. this Cumhaall was of the Corca-oiche of Cuil-contuinn `[a territory situated on the borders of the present counties of Meath and Cavan]`, for of these the Hui-Tarsigh his tribe were [a subsection]. Torba, daughter of Eochaman [one] of the Ernaans, had been the wife of Cumhall, untll he married Muireann Muncbaeinh, [Murinda of the fair neck]. The battle of Cnucha `[Connell Magheoghegan statsa in his translation of the annals of Clonmacnoiie, A.D. 726. that this is the place called Cattleknock, [near the river Liffey, county of Dublin.]]` was afterwards fougbt between them, i.e. between Cumhall and Uirgren.
+
+Daire Dearg, son of Eochaidh Finn, son of Coirpre Galach, son of Mniredhach Muinderg, and his Bon Aedh, were fighting the battle along with Muirgrenn. Another name for this Daire was Morna Munchaim. The battle was then fought, Laichet and Aedh son of this Morna met together [in single combat] in the battle ; Luichet wounded Aedh, and destroyed one of his eyes, so that from this the name of Goll `[*Goll* is glossed *Caèch*, and means one-eyed, the same the the latin *luscus*.]` [Luscus] adhered to him from that time forth. Luichet fell by Goll. The keeper of his own corrhbolg `[I.e. a round bag, *sed* means a jewel or any article of value.]` of séds [treasure bag] wounded Cumhall, and Cumhall fell by Goll son of Morna in the battle, and carried off his arms and his head ; and from this there was a fundamental hatred between Finn and the sons of Morna, concerning which the historian sang: —
+
+" Goll was son of Daire Dearg of fame,  
+Son of Eochaidh Finn of valiant deeds,  
+Son of Cairbre Galach of prowess,  
+Son of Muireadhach of Finnmhagh. `[*Finnmhagh*, otherwise Maghfinn, a plain in the barony of Athlone, county of Roscommon, at this period possessed by the Firbolgs, of whom the Clanna-Morna were a sept.]`
+
+This Goll slew Luichet of hundreds.  
+In the battle of Cnucha, no falsehood,—  
+Luichet Finn of noble chivalry,  
+By the son of Morna fell !  
+
+It was by him fell Cumhall the Great,  
+In the battle of Cnucha of embattled hosts  
+What they fought this stout battle for,  
+Was for the Fian leadership in Erin.  
+
+The Clanna Morna were in the battle,  
+And the Luaighni of Teamhair  
+For the Fiannship of the men of Fail was theirs  
+Under the hand of each valiant king.  
+
+The victorious Cumhall had a son ;  
+The blood shedding Finn of hard weapons,  
+Finn and Goll of great fame.  
+Mightily they waged war.  
+
+After this they made peace  
+Finn and Goll, of the hundred deeds,  
+Until the Banbh Sinna fell  
+On the plain at Teamhair Luachra, `[Teamhair Luachra, a place in Kerry not far from Castle Island, in the district of Sliabh Luacbra.]`  
+
+Aedh was the name of Daire's son.  
+Until Luichet wounded him with dexterity.  
+But since the stout son of Luaighne wounded him  
+He was called by the name of Goll."
+
+Cumhall left his wife pregnant, i. e. Muirenn, `[Muireann. This was very common as the proper proper name of a woman among the ancient Irish. It is explained in Cormac's Glossary, as meaning *mor-fhinn*, long-haired.]` and she brought forth a son, and gave him the name of Deimne. Fiacail the son of Guchenn, and Bodhmall the Druidess and Liath Luachra came to Muirenn and carried away the son, for his mother durst not keep him with her. Muirenn afterwards married Gleoir the Bedhanded, king of Lamhraighe, `[a people of Kerry in the west of Munster]` from which Finn is called the son of Gleoir. However Bodhmall and Liath taking the boy with them went to the forests of Sliabh Bladma, [*Sliabh Bladhma*, i.e. the mountain of Bladhma, (Ogygia III, 16.) now Slieve Bloom on the confines of the King's and Queen's Counties. It is sometimes called *Sliabh Smoil*. The summit of this mountain is called Mullach Eireann), the summit of Erin, and from it, the O'Dunnes have taken the motto of *Mallach Eireann aba*]` where the boy was nursed secretly. This was indeed necessary, for many a sturdy stalworth youth, and many a venomous inimical hero and angry morose champion of the warriors of Luaighni, and of the sons of Morna, were ready to despatch that boy, and [also] Tulcha the son of Cumhall. But however the two heroines nursed him for a long time in this manner.
+
+His mother came at the end of six years after this to visit her son, for it was told to her, that he was at that place, and she feared the sons of Morna for him, i.e. [might kill him.] But however, she passed from one solitude to another, until she reached the forest of Sliabh Bladhma [Slieve Bloom,] and she found the hunting booth [hut] and the boy asleep therein, and she afterwards lifted him and pressed him to her bosom, and she then pregnant [from her second husband,] and then she composed these quatrains caressing her son :
+
+" Sleep with gentle pleasant slumber, &c." `[The rest of this Lullaby is ls t. Indeed it vould appear from the shortness of the sentences, and the abrupt and flighty nature of the composition, that the whole story has been very much condensed, and in some places mutilated.]`
+
+The woman afterwards bids farewell to the heroines, and asked them if they would take charge of him till he should be of heroic age ; and the son was afterwards reared by them till he was fit for hunting.
+
+The boy came forth alone on a certain day, and saw the [the *pras lacha* with her brood of] ducks upon the lake. He made a shot at them, `[The original Irish is defective here. The words obviously omitted are supplied in brackets. In *Feis tighe Chonain* p. 129, it is stated that Finn in his first chase killed the *pras-lacha* (widgeon ?), and her clutch of twelve young birds.]` and cut off her feathers and wings, so that she died, and he afterwards took her to the hunting booth : and this was Finn's first chase.
+
+He afterwards went away with certain poets to flee from the sons of Morna ; and they had him [concealed] about Crotta.`[i.e. Crotta Cliach, now the Galty mountains in the south of the county of Tipperary.]` These were their names, Futh and Ruth, and Regna of Mad Feada, and Teimle, and Oilpe, and Rogein. Here he was seized with the scurvy, so that he became a carrach [scald,] and was thence called Deimne Mael. There was a plunderer in Leinster at this time, by name Fiacuil, son of Codhna. Fiacuil came into Fidh Gaibhle `[now Feegile, in the parish of Cloonsast, north of Portarlington, in the King's County. This was the name of a famous wood in Leinster, in which St. Berchan, the Irish prophet, erected his church of Cloonsast, the ruins of which still remain.]` upon the poets, and killed them all except Deimne alone, who was afterwards with Fiacuil (in his house in a cold sheskin [marsh]. The two heroines came southwards to the house of Fiacuil, son of Codhna, in search of Deimne, and he was given to them ; and they took him from the south to the same place [where they had him previously].
+
+He went forth one day alone [and never halted] till Ijo reached Magh Life, `[i.e., the plain of the Liffey; a very level plain in the county of Kildare, through which the river Liffey winds its course.]` and on the green of a certain Dun [*fort*] there he saw youths hurling. He went to contend in agility or to hurl along with them. He came with them next day, and they sent the fourth of their number against him. He came again, and they sent the third of their number against him, and finally they went all against him, and he won one game from them all. What is thy name said they?
+
+Deimne replied he. The youths tell this to the owner of the dun [*fort*J] " Do ye kill him if he comes again, if ye are able," said he. We are not able to do aught unto him, replied they ; Deinme is his name. What is his appearance ? said he. He is a well-shaped fair [*finn*] youth, replied they, Deimne shall be named Finn therefore, said he. And hence these young men used to call him Finn,
+
+He came the next day to them, and joined them in their game, they attacked him all together, with their hurlets, but he made at them and prostrated seven of them, and [then] made off from them into the forests of Sliabh Bladhma.
+
+He afterwards returned at the end of a week to the same place. What the youths were at [then] was swimming in the lake which was close by [the dun.] The youths challenged him to swim with them. He plunged into the lake to them, and afterwards drowned nine of them in the lake, and then made to Bliabh Bladhma himself. Who drowned the youths ? enquired all. Finn, replied they [i.e. the survivors]. And from this the name of Finn clung to him [among all who heard of this deed of drowning.]
+
+He came forth on one occasion out beyond Sliabh Bladhma, the two heroines being along with him, and they perceived a fleet herd of the wild deer of the forest of the mountain. Alas ; said the two old women, that we cannot detain one of these with us. I can, [said Finn] and he ran upon them, and catching two bucks of them, brings them with him to his hunting booth. After this he used to himt for them constantly. Depart from us now, young man, said the female warriors to him, for the sons of Morna are watching to kill thee.
+
+He went away from them alone [and halted not,] till he reached Loch Lein `[*Loch Lein*, now the Lakes at Killamey in Kerry.]`, and over Luachair `[*Luachra*, i.e., Luachair Deaghaidh, a district in the now county of Kerry, containing the two Pap mountains.]`, till he hired in military service, with the king of Bentraighe. `[a district in South Munster, believed to have been coextensive with the barony of Bantry in the county of Cork.]` He did not go by any name here, but there was not at this time a hunter like him, and so the king said to him : if Cumhall had left any son, methinks thou art he, but we have not heard of Cumhall having left any son, but Tulcha Mac Cumhaill, but he is in military service with the king of Albain. `[Albain*, i.e., Scotland.]`
+
+He afterwards bids farewell to the king, and goes away from him to Cairbrighe, at this day called Ciarraighe `[*Ciarraighe*, now Kerry. The territory so called extended in ancient times only from Tralee to the Shannon. Its more ancient names would appear to have been Cairbrighe, or Corbraighe.]` [Kerry], and he staid with this king in military service. The king came one day to play chess. He [Finn] played against him, and won seven games in succession. Who art thou 7 said the king. The son of a peasant of the Luaighni of Teamhair, replied he ; Not so, said the king ; but thou art the son whom Muirenn [my present wife] brought forth for Cumhall ; and do not be here any longer, that thou mayest not be killed while under my protection. After this he went to Guilleann g-Guanach `[*Cuilleann O' g-Cuanach*. This is the present name of Cullen, in the county of Tipperary, near the borders of the county of Limerick. It originally belonged to the territory of Coonagh, now a barony, in the north-east of the county of Limerick.]` to the house of Lochan, a chief smith : he had a very comely daughter, Cruithne by name ; she fell in love with the youth. I will give thee my daughter, said the smith, although I know not who thou art. The daughter then cohabited with the unknown youth. Make lances for me, said the youth, to the smith. Lochan then made two spears for him. He then bade farewell to Lochan, and went his way. My son, said Lochan, do not go on the passage on which the boar called Beo is usually [to be] seen ; it has devastated the [whole of] Middle Munster. But the youth happened to go on the very pass where the pig was. The pig afterwards rushed at him ! but he made a thrust of his spear at it, and drove it through it, so that he left it lifeless, and he brought the head of the pig with him to the smith as a dower for his daughter. From this is derived Sliabh muice `[*Sliabh Muice*, i.e., the Pig's mountain, now Slieve Muck, situated between the town of Tipperary and the glen of Aherlow.]` in Munster.
+
+The youth then went into Connaught to look for [his uncle] Crimall, son of Trenmor. As he went on his way he heard the wail of one [solitary] woman. He went towards her, and viewed the woman : The first tear she shed was a tear of blood; and the other was a gush of blood, so that her mouth was red. " Thy mouth is red, woman !" said he- I have cause for it, said she : my only son was killed by a huge ugly hero, who came to me. What is thy son's name ? said he. Glonda is his name, said she. From him Ath-Glonda and Tochar-Olondain Maenmhagh `[*Maenmhagh*, Moinmoy, a territory lying round Lough Reagh in the present county of Galway ; but the aitiiations of *Ath-Glonda*, i. e. the ford of Glonda, and of *Tochar Glonda*, the causeway of Glonda, are now unknown by these names.]` are called, and from this Belderg the name Ath-beldeirg `[*Ath'Beldeirg*, i.e., ford of Red mouth, not identified unless it be Ballyderg.]` remains ever since. Finn then went in pursuit of the hero, and they fought a combat, in which he fell by him [Finn.] The way he was situated was, he had the treasure bag with him, i.e., the [bag containing the] treasures of Cumhall. The person who fell here was Liath Luachra, he who first wounded Cumhall in the battle of Cnucha.
+
+He now proceeds into Connaught, and finds Crimall, then an old man, in a desert there, and some of the old Fianns along with him, who were wont to chase for him. He gave him the Corrbholg, and told him the news from beginning to end :-— how he had killed the possessor of the treasures. He bids farewell to Crimall, and goes forward to *Finicés* [who lived at the Boinn `[i.e. the river Boyne in Meath.]` ] to learn poetry. He durst not remain in any part of Ireland until he took to learn poetry, from fear of the sons of Uirgrenn, and the sons of Morna. `[Here ends folio 119 of the original MS. and on the upper margin of folio 120, in the handwriting of the scribe, is the following observation :— *O Mary [VirginJ it is long till Edmund comes from the meeting.* This was Edmund Butler for whom the MS. was transcribed.]`
+
+Seven years Finn-eges remained at the Boinn [Boyne] watching the salmon of linn-Feic, `[*Linn Feic* i. e. the pool of Fee, a deep pool in the Rirer Boyne, near *Ferta fer fecc*, the ancient name of the village of Slane, on this river.]` for it had been prophesied that he would eat the [sacred] salmon of Fee, and that he would be ignorant of nothing afterwards ! He caught the salmon, and ordered [his pupil] Deinme to roast it, and the poet told him not to eat of the salmon. The young man brought him the salmon after cooking it. Hast thou eaten any part of the salmon, young man ? said the poet, " No," replied the young man, but I burned my thumb, and put it into my mouth afterwards. What name is upon thee, youth ? said he. Deimne, replied the youth. " Finn is thy name, `[It appears that our hero had concealed from his master Finn-Egés that he had been known by the name of Finn, after he had drowned the nine boys in Magh-Liffe. But the poet finding that be had first tasted of the salmon of *Linn Feic* without intending it, saw that the ancient prophecy was fulfilled in him, and that his real name must be Finn. O'Flaherty states that our hero assisted his father-in-law Cormac son of Art, in compiling codes of laws ; and the Life of St Columkille compiled by Manus O'Donnell, states that he possessed the gift of prophecy, and foretold the birth and future greatness of St. Columbkille.]` O youth," said he, and it was to thee the salmon was [really] given, [in the prophecy] to be eaten [not to me], and thou art the Finn truly. The youth afterwards consumed the salmon, and it was from this the [preternatural] knowledge was given to Finn, i.e., when he used to put his thumb in his mouth, and not through Teinm Laegha [poetical incantation,] whatever he had been ignorant of used to be revealed to him.
+
+He learned the three compositions which signify the poets, namely the *Teinm Laegha*, `[For a curious account of this poetical incantation as given in Cormac's glossary, the reader is referred to the " *Battle oMagh Rath*," printed for the Archaeological Society, p. 46. It is said that St. Patrick abolished the *Teinm Laegha* and the *Imbas for Osna*, as being profane rites, and allowed the poets to use another called *Dichedal do chendaibh* which was in itself not repugnant to Christianity, as requiring no offering to false gods or demons.]` the *Imus for Osna*, and the *Dicedul dicennaib* ; and it was then Finn composed this poem to prove his poetry :
+
+May-day `[May-day, *cettemain*, is glossed *belltaine* by O'Clery. It signifies the beginning of summer.]` delightful time ! how beautiful the color `[color, [but also] face, countenance, mien.]  
+The blackbirds sing their full lay, would that Laighaig were here  
+The cuckoos  sing in constant^ strains, how welcome is the noble  
+Brilliance of the seasons ever; on the margin of the branchy woods  
+The summer suaill `[gl. the swallows. The words of this fragment, which was considered to be the first composition of Finn, after having eaten the salmon of the Boyne, is very ancient and exceedingly obscure. The translation is only offered for the consideration of Irish scholars, for it is certain that the meaning of some of the lines are doubtful. The poem obyiously wants some lines at the end ; and Mr. Cleayer states, that the remaining portion of the manuscript is so defaced as to render it totally illegible.]` skim the stream, the swift horses seek the pool,  
+The heath spreads out its long hair, the weak fair bogdown grows.  
+Sudden consternation attacks the signs, the planets in their courses running exert an influence :  
+The sea is lulled to rest, flowers cover the earth.
 
 ```
 
