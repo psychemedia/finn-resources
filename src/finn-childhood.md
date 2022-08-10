@@ -226,7 +226,7 @@ The woods at that may have seemed haunted. A stone might sling at one from a tre
 Fionn went to seek his fortune, to match himself against all that might happen, and to carve a name for himself that will live while Time has an ear and knows an Irishman.
 ```
 
-
+In the next part of the story, Finn meets a band of youths, and betters them in various physical challenges:
 
 ```{admonition} Boyhood of Fion, Chapter VIII, Stephens, 1920
 :class: dropdown
@@ -269,7 +269,7 @@ That was Fionn.
 
 ```
 
-The narrative then diverges slightly with an example of Fionn's character from later in his lif:
+The narrative then diverges from the main thread, with a description of an example of Fionn's character from later in his life:
 
 ```{admonition} The Character of Fionn
 :class: dropdown
