@@ -5,7 +5,6 @@ The legend of Fionn Mac Cumhaill typically seems to start with Fionn, orphaned b
 But just in case there is som colour we can add to our tal that stems from the death of Fionn's father, or perhaps his mother's backstory, let's hear the tale of how his father, Uail (Cumhaill, "Cool"), lost his life at the battle of Cnuchna, killed by Goll mac Morna, who also lost an eye at the same time.
 
 ```{admonition} The Battle of Cnuchna, in Revue Celtique, transl:
-W. M. Hennessey, 1875
 :class: dropdown
 
 https://archive.org/details/revueceltiqu02pari/page/86/mode/2up
@@ -14,6 +13,7 @@ Tome 2
 1871-1875
 
 The Battle of Cnucha ; a médiéval Irish text, with a translation, by W. M. Hennessy
+W. M. Hennessey, 1875
 
 pp.86-91
 
