@@ -11,6 +11,7 @@ parts:
   chapters:
   - file: finn-pedigree
   - file: finn-childhood
+  - file: salmon-of-knowledge
 - caption: Resources
   chapters:
   - file: irish-legends-finn-oisin
