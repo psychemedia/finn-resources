@@ -9,3 +9,7 @@ In some respects, then, this work will become something of a reference book for 
 My own tellings will remain *unwritten*. I may well end up with particular ways of telling the same story that essentially unchanged from a previous telling, but that will be as much an artefact of memory and momentum rather than having learned a particular telling from a written down gold master version.
 
 [^unbook]: *Unbook*: a made up term that distinguishes this work from a *book*; firstly, it is a living work, and as such is likely to remain *un*finished for some considerable time yet; each time you visit it, I have hadd aded more sections, I may have moved some around, I may even have deleted some; secondly, it is effectively *un*printable: there are are likely to be various stylistic tricks that make it hard for the maerials to be printed out easily or efficiently: great use will be made of dropdowns to "hide" conent, and whilst there various ways in which we could attempt to render such content in a print work, that is not currently my focus.
+
+--Tony Hirst, Isle of Wight, August, 2022 and thereafter...
+
+[__Please support this and other related *Storynotes* initiatives via `Patreon`.__](https://www.patreon.com/bePatron?u=3266916)
