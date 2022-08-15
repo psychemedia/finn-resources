@@ -22,6 +22,7 @@ We begin with a translation by Kuno Meyer from 1904, around the time that Lady G
 
 `````{admonition} The Boyish Exploits of Finn, transl. Kuno Meyer, in Ériu, 1904.
 :class: dropdown
+
 https://archive.org/details/riujournalschoo01acadgoog/page/n44/mode/2up
 THE BOYISH EXPLOITS OF FINN
 
