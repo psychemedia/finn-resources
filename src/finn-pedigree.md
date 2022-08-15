@@ -202,7 +202,7 @@ pp.86-91
 
 THE BATTLE OF CNUCHA.
 
-[The principal value of the following story from *Lebor na huidre*, an Irish Ms. written circa A. D, 1100, is that it presents probably the oldest written form of one important fragment of the legendary history so widely extended among the Celtic family in the British Islands, in which Find mac Cumhaill (or Fingal) occupies the part of principal hero, and Oisin, or Ossian, the part of narrator. The style of the narrative, so terse and simple, is in favourable contrast with the prosy, redundant, oftentimes absurdly bombastic compositions of a later period, and justifies the opinion of scholars that it was written some centuries earlier than the date of the Ms. from which the présent text has been copied. The language, also, is singularly pure; on which account care has been taken to print in different type the portions of words represented by abbreviations in the original.
+[The principal value of the following story from *Lebor na huidre*, an Irish Ms. written circa A. D, 1100, is that it presents probably the oldest written form of one important fragment of the legendary history so widely extended among the Celtic family in the British Islands, in which Find mac Cumhaill (or Fingal) occupies the part of principal hero, and Oisin, or Ossian, the part of narrator. The style of the narrative, so terse and simple, is in favourable contrast with the prosy, redundant, oftentimes absurdly bombastic compositions of a later period, and justifies the opinion of scholars that it was written some centuries earlier than the date of the Ms. from which the present text has been copied. The language, also, is singularly pure; on which account care has been taken to print in different type the portions of words represented by abbreviations in the original.
 
 The admirers of Mac Pherson's ambitious attempt to localize the Ossianic legend within the narrow limits of North Britain, now happily through the growth of a more independent and unselfish spirit of criticism fast becoming fewer in number, will see with surprise that all the characters in this most ancient fragment of the literature of which he would rob all other branches of the Celtic race, are purely Irish. The places mentioned are likewise Irish. But though the Irish may justly claim to have nursed Find, or at least to have stood to him in the traditional relationship of God-parents, they cheerfully allow all their tribal connections (and foremost among them the Scotch people) to share the glory of his manhood.
 
@@ -285,6 +285,6 @@ Find and Goll concluded peace after that ; and the eric of his father was given 
 
 > Afterwards they made peace —  
 > Find and Goll of mighty deeds —  
-> Until Banb-Sinna was slain
+> Until Banb-Sinna was slain  
 > Regarding the pig, in Temhair-Luachra. 
 ```
