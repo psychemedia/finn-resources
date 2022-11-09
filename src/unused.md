@@ -3,6 +3,35 @@
 
 Counterpoint - Scottish tals
 
+https://youtu.be/ceMwvbLXrYc?t=686
+
+fi-un
+
+allien mac mithna
+allyan mac meerna
+fee uck a
+
+Myths and legends ; the Celtic race
+by Rolleston, T. W. (Thomas William), 1857-1920
+Publication date 1910
+https://archive.org/details/mythslegendscelt00roll/page/n11/mode/2up
+
+Incl love spot p291-2
+
+How Dermot Got the Love Spot
+
+He was called Dermot of the Love Spot, and a curious and beautiful folk-tale recorded by Dr. Douglas Hyde `[Taken down from the recital of a peasant in Co. Galway and published at Rennes in Dr. Hyde's " An Sgeuluidhe Gaodhalach," vol. ii. (no translation).]` tells how he got this appellation. With three comrades, Goll, Conan, and Oscar, he was hunting one day, and late at night they sought a resting-place. They soon found a hut, in which were an old man, a young girl, a wether sheep, and a cat. Here they asked for hospitality, and it was granted to them. But, as usual in these tales, it was a house of mystery.
+
+When they sat down to dinner the wether got up and mounted on the table. One after another the Fianna strove to throw it off, but it shook them down on the floor. At last Goll succeeded in flinging it off the table, but him too it vanquished in the end, and put them all under its feet.   Then the old man bade the cat lead tne wether back and fasten it up, and it did so easily. The four champions, overcome with shame, were for leaving the house at once ; but the old man explained that they had suffered no discredit — the wether they had been fighting with was the World, and the cat was the power that would destroy the world itself, namely, Death.
+
+At night the four heroes went to rest in a large chamber, and the young maid came to sleep in the same room ; and it is said that her beauty made a light on the walls of the room like a candle. One after another the Fianna went over to her couch, but she repelled them all. "I belonged to you once," she said to each, "and I never will again." Last of all Dermot went. " O Dermot," she said, " you, also, I belonged to once, and I never can again, for I am Youth ; but come here and I will put a mark on you so that no woman can ever see you without loving you." Then she touched his forehead, and left the Love Spot there ; and that drew the love of women to him as long as he lived.
+
+------
+
+Tara and Fionn https://www.youtube.com/watch?v=zKuLDDPe_Cw
+
+History https://www.youtube.com/watch?v=M9mrpRtunfc 
+
 ```
 Leabhar na Feinne. Vol. I. Gaelic texts: Heroic Gaelic ballads collected in Scotland chiefly ...
 by John Francis Campbell
@@ -10,9 +39,6 @@ by John Francis Campbell
 Publication date 1872
 
 pp.33-37
-
-
-
 
 IV. THE STORY OF FIONN AND THE FEINNE. 
 
@@ -60,7 +86,7 @@ J. F. C.
 
 to himself ; he was mnning away from his pursuer, and his nurse was turning weary, he took her and put her over his shoulder and was running through thorns and brìers, rocks and stony places, when he stop in the middle of the wood his nurse was dead on his back, and her head dashed against rocks with the jumping ; in such a manner that one half of her was lost, and he cast the other half in a water loch in the same wood called Lochluirgin, He was then alone in the wood, and nobody with him, he did not know where his father was, but that he heard his nurse saying that his father's name was Comhal. He met a man at a place called Eas-ruaidh one day and a salmon in his hand, he said into Fingal if thou wilt roast this fish without burning a spot of his skin, I will tell you where your father is, Fingal began the fish, but there was some spots bumed on the fish, and he was refusing to tell him anything about his f ather, then Fingal took hold of him and laid him down, the man was then obliged to tell him where his father was. Fingal went to his father to the army, and this is Fingal's descent, and that he was nourished according as we are told by the oldest men who are in the country at the present time.
 
-The King of Denmark heard in his own kingdom that,  it was said by some prophecies, ... named Fingal that would conquer Ireland to himself, sometimes afterwards he heard that Fingal was in the army among the Heroes ; and he ordered a great reward to be given to any one of his own men that would kill Fingal, and take his head to him. Sometimes after that Comhal's poet happened to meet the King of Denmark's poet, and they began to drink; before they departed Denmark's poet told to Comhal's poet that there was a remarkable person in their army named Fingal, and that their King had offered a great reward for his head. Immediately this was told to Comhal by his Bard, then Comhal sends his son Fingal to his mother and her friends named Chlanna Morna, who inhabited all the westem coast of Scotland then, a very famous set of people who was remarkable, in strength and bigness, and accordingly good warrìors, to take care of him, and to leam him the art of war and himting, which was their chief education at that time.
+The King of Denmark heard in his own kingdom that, it was said by some prophecies, ... named Fingal that would conquer Ireland to himself, sometimes afterwards he heard that Fingal was in the army among the Heroes ; and he ordered a great reward to be given to any one of his own men that would kill Fingal, and take his head to him. Sometimes after that Comhal's poet happened to meet the King of Denmark's poet, and they began to drink; before they departed Denmark's poet told to Comhal's poet that there was a remarkable person in their army named Fingal, and that their King had offered a great reward for his head. Immediately this was told to Comhal by his Bard, then Comhal sends his son Fingal to his mother and her friends named Chlanna Morna, who inhabited all the westem coast of Scotland then, a very famous set of people who was remarkable, in strength and bigness, and accordingly good warrìors, to take care of him, and to leam him the art of war and himting, which was their chief education at that time.
 
 When Comhal died the heroes heard of Fingal's fame, likewise his wisdom and bravery, and that he would get a compleat victory over any enemy, they send for him to Scotland to be their King. Fingal succeeded his father, and continued in war against Denmark, till he had almost conquered Ireland ; for they fought several battles, and Fingal would always gain the victory. Then the King thought that he would get a wife from the heroes. She would tell them how they might conquer Fingal. Then the King send to Fingal for to ask of him, if he pleased that they would make peace, and that he would take one of their virgins to be his wife. Then Fingal imderstood his design, he ordered the King for to come to visit him, and that he would get his choice of their women in marrìage, and that he would appoint a day for to make a feast, which they settled, and before the appointed day came Fingal ordered his snàth to make a set of good knives, then the smith asked of him how he would make them, and Fingal directed him as it is set down in the following verse : —
 
@@ -88,11 +114,11 @@ Fingal says likewise, 'My arm was the support of the injured ; the weak rested b
 
 TO DO FROM HERE
 
-Fingal and his heroes combined in strength, wealth, and n>|mtation till decripit old age was coming upon them, tlion they were decreasing daily. Fingal in his latter days had his dwelling-placo in the Isle of Sky (which was called at that time the Isle of Mist), and the house was built on a hill above the place where Mac Kinivin's old castle licB, the north-west side of Caol reth, and they wcre still hunting through Sky since it was the best place for hunting at that tinie, for vanis«»n was very scarce then for a while in both Scotland and Ireland, and they begun to tiU the top of the mountains where it was bare without wood to support them ; then the Heroes became lean and i)oor, but the women were not so, thoy wondered how comely and fair the wonien looked besides themselves. The women were always making their drink of the dccoction of Southeni wood, raspberries, and the like, and supposed that drink was the reason of their complexion being so fair, and besides thoy were keeping the f)C8t pieces of the venison and drcssing it for themselves unknown to the Heroes when they would be absent. One diiy they went to the continent opi>o8Ìte to them to hunf, and they left Garbh unknown to their women in the house for to see what entertainments they would have, bcsides themselves. Garbh was in his bed after the
+Fingal and his heroes combined in strength, wealth, and n>|mtation till decripit old age was coming upon them, tlion they were decreasing daily. Fingal in his latter days had his dwelling-placo in the Isle of Sky (which was called at that time the Isle of Mist), and the house was built on a hill above the place where Mac Kinivin's old castle licB, the north-west side of Caol reth, and they wcre still hunting through Sky since it was the best place for hunting at that tinie, for vanis«»n was very scarce then for a while in both Scotland and Ireland, and they begun to tiU the top of the mountains where it was bare without wood to support them ; then the Heroes became lean and i)oor, but the women were not so, thoy wondered how comely and fair the wonien looked besides themselves. The women were always making their drink of the dccoction of Southeni wood, raspberries, and the like, and supposed that drink was the reason of their complexion being so fair, and besides thoy were keeping the f)C8t pieces of the venison and dressing it for themselves unknown to the Heroes when they would be absent. One day they went to the continent opi>o8Ìte to them to hunf, and they left Garbh unknown to their women in the house for to see what entertainments they would have, bcsides themselves. Garbh was in his bed after the
 
 
 
-rest went off for to watch the women, he fell into a deep sleep, and snored, the women heard him and immedÌiately camo to him, and tied his hair on both sides of his heiidy and wove it again into three plaits, and fastened it to wooden pins, and put it in the ground ; they went ont of the house, then every one of them cried, * Huza, huMM^ huza,' wìth a loud voice, then Garbh wakened suddenly out of his sleep (for he thought that the enemy waa at hand) and left all his hair of his head with the Bkin to the pins, and came out in that pitiful condition, and Bome of the women were laughing at him. Wben he had seen how he was with their contrivance, and how heartily they were laughing at his calamity, he went immediately to the wood, pulled trees out of their roott and made faggots of them, and brought them home with all speed. VVheu he came he found the women in the hoiue, he locked them in and put a faggot buming in every conieE of the house till he set it on fire and all the women within it. Afterwards Garbh ran away into a cave to hide himself from the Heroes ; Fingal had seen the houae on fire, he called all his men together, and they ran in hopee that they would quench it, and jumped over the smidl Soand (that is betwixt Sky and the Und) on their shiolda (acoept one of them who was cilled Mac Reth, he was dròwned there, and they callod that sound Caolreth since thai day). When the house could not be quenched but destroved with the fìre, and all their women, children, and furniture ruined, they searched all places about for Garbh (when Fingal told them by soutlisaying who was the destroyer), and found him in a cave, they conjured him to come out, and examined him about the matter, he told them the truth how all things happened. Then Fingal condemned him to be put to death. Garhh asked a petition of Fingal before he would be baniahed, that was granted him (for Fingal nevor refused a petition to any person, and particularly the distressed). Garbh's petition was that he would be beheaded on Fingal's thigh by Fingal's own sword, by the hand of Oacar (the strongest man), then they were all afraid that Finsal would loose his leg, theu they thought proper to let Garbh away than to kill him uiK>n Fingal's thigh ; then some of them ordered Fingars thigh to be buried seven feet deep in the earth, and to laid lùs head above Fingal's thigh upon the earth (since it would not break Fingal's promise) then Oscar cut his head off, and with the force of the struke Fingal's leg was cut above the knee. Then he went to Rome with his attendance for to cure his leg, and left Oscar in his stead. Before he came home the battle of Cathcabhara was fought between Oscar and Cairdaidh, the King of Ireland. Oscar and almost all his men were slain ; a few days after the battle was fought Fingal came home and found a few number of his famous champions alive lamenting Oscar ; and we hear no more of their deeds afterwards.
+rest went off for to watch the women, he fell into a deep sleep, and snored, the women heard him and immedÌiately camo to him, and tied his hair on both sides of his heiidy and wove it again into three plaits, and fastened it to wooden pins, and put it in the ground ; they went ont of the house, then every one of them cried, * Huza, huMM^ huza,' wìth a loud voice, then Garbh wakened suddenly out of his sleep (for he thought that the enemy waa at hand) and left all his hair of his head with the Bkin to the pins, and came out in that pitiful condition, and Bome of the women were laughing at him. Wben he had seen how he was with their contrivance, and how heartily they were laughing at his calamity, he went immediately to the wood, pulled trees out of their roott and made faggots of them, and brought them home with all speed. VVheu he came he found the women in the hoiue, he locked them in and put a faggot burning in every conieE of the house till he set it on fire and all the women within it. Afterwards Garbh ran away into a cave to hide himself from the Heroes ; Fingal had seen the houae on fire, he called all his men together, and they ran in hope that they would quench it, and jumped over the smidl Soand (that is betwixt Sky and the Und) on their shiolda (acoept one of them who was cilled Mac Reth, he was dròwned there, and they callod that sound Caolreth since thai day). When the house could not be quenched but destroved with the fìre, and all their women, children, and furniture ruined, they searched all places about for Garbh (when Fingal told them by soutlisaying who was the destroyer), and found him in a cave, they conjured him to come out, and examined him about the matter, he told them the truth how all things happened. Then Fingal condemned him to be put to death. Garhh asked a petition of Fingal before he would be baniahed, that was granted him (for Fingal nevor refused a petition to any person, and particularly the distressed). Garbh's petition was that he would be beheaded on Fingal's thigh by Fingal's own sword, by the hand of Oacar (the strongest man), then they were all afraid that Finsal would loose his leg, theu they thought proper to let Garbh away than to kill him uiK>n Fingal's thigh ; then some of them ordered Fingars thigh to be buried seven feet deep in the earth, and to laid lùs head above Fingal's thigh upon the earth (since it would not break Fingal's promise) then Oscar cut his head off, and with the force of the struke Fingal's leg was cut above the knee. Then he went to Rome with his attendance for to cure his leg, and left Oscar in his stead. Before he came home the battle of Cathcabhara was fought between Oscar and Cairdaidh, the King of Ireland. Oscar and almost all his men were slain ; a few days after the battle was fought Fingal came home and found a few number of his famous champions alive lamenting Oscar ; and we hear no more of their deeds afterwards.
 
 After so particular examination of Fingal, I procced to make some observations on Ossian.
 
@@ -126,7 +152,7 @@ grho was called Terror of Battle), undertook to kill him. e chased him through w
 
 ...
 
-Then they departed, and Caoilte retumed to the He- roes with the Boar's head ; when Fingal saw that he had it, he was vexed that he promised him his choice of their women, for he was sure that Caoilte would choose his own wife. Then he thought proper to cover all their heads, and to put them out one by one, and to let him take his choice thus, (since it would not break his pro- nìise). They put out Fingal's wìfe first, in hopes that Caoilte would stop until a good number of them would come out ; but Caoilte took the fìrst according to his familiar love's advice
+Then they departed, and Caoilte retumed to the Heroes with the Boar's head ; when Fingal saw that he had it, he was vexed that he promised him his choice of their women, for he was sure that Caoilte would choose his own wife. Then he thought proper to cover all their heads, and to put them out one by one, and to let him take his choice thus, (since it would not break his pro- nìise). They put out Fingal's wìfe first, in hopes that Caoilte would stop until a good number of them would come out ; but Caoilte took the fìrst according to his familiar love's advice
 
 
 ...
@@ -144,7 +170,7 @@ H. 4, HOW CAOILTE KILLED A GIANT. 128 lines
 Kemiedy, Ist Collection, page 79. Advocates' Library. December 12, 1871. Copied by Malcolm Macphail. "
 NoTE.— December 17, 1871, Dublin. Not known to Hen- nessy, but very hke the style of current popular tales in Ireland.
 
-The Heroes were hunting on a mountain called White Mountain ; the day being fair and the air favourable ; but before the night came great mist overshadowed all the Hills and valleys below, so that the darkness separated the oue from the other. They use to bind Caoilte's knees, because he was so swift in mnning, that none of them could not be up with him, ao that he would wjdk slowly, but they forgot to bind him that day, and when he went astray once, he made a great way through hiUs, rocks, mountains, and unknown valleys, and about the Twilight he saw a Hermitage far off in a Glen ; he ran towards it, went in, and there was none in it, but a young dame, he was trembUng with fear, for it was glittering with arms, but she invited and conforted him, and made him sit down, and was verj' kindly entertained and lay with her during the night, and told him tliat she was a King's Daughter, and that a Giant stoFd her away, and that she inchanted him not to touch her as a ^-ife for a year and a day, the said time was expired when Caoilte came ; she awakeued him very early, and said that the Genie was coming from of shore and that it was better for him to die than to go to fight with hini. Caoilte rose and made himself ready and niet him at the door, the Duel began and lasted tUl sun setting, then Caoilte kiUed him, the wife carried his arnis, and went both together to one of Fingal's Forts, named White Hill.
+The Heroes were hunting on a mountain called White Mountain ; the day being fair and the air favourable ; but before the night came great mist overshadowed all the Hills and valleys below, so that the darkness separated the oue from the other. They use to bind Caoilte's knees, because he was so swift in mnning, that none of them could not be up with him, so that he would wjdk slowly, but they forgot to bind him that day, and when he went astray once, he made a great way through hiUs, rocks, mountains, and unknown valleys, and about the Twilight he saw a Hermitage far off in a Glen ; he ran towards it, went in, and there was none in it, but a young dame, he was trembUng with fear, for it was glittering with arms, but she invited and conforted him, and made him sit down, and was verj' kindly entertained and lay with her during the night, and told him tliat she was a King's Daughter, and that a Giant stoFd her away, and that she inchanted him not to touch her as a ^-ife for a year and a day, the said time was expired when Caoilte came ; she awakeued him very early, and said that the Genie was coming from of shore and that it was better for him to die than to go to fight with hini. Caoilte rose and made himself ready and niet him at the door, the Duel began and lasted tUl sun setting, then Caoilte kiUed him, the wife carried his arnis, and went both together to one of Fingal's Forts, named White Hill.
 
 
 ...
@@ -154,7 +180,7 @@ p57
 H. 5. HOW A CHAKMER CAME TO THE HEROES,
 NAMED HaBD ScUL, TO SINO A TiMBREL TO THEM.
 60 Unes.
-Kennedy, Ist CoIIection, page 66. Advocates' Library.
+Kennedy, 1st Collection, page 66. Advocates' Library.
 December 9, 1871. Copied by Malcolm Macphail. Note. — ^December 17, 1871, Dublin. Not known to Hen-
 nessy in Irish manuscripts ; not known to me orally
 preserved. — J. F. C
@@ -162,3 +188,99 @@ preserved. — J. F. C
 A MUSiciAN came to the Heroes, whom they called Claigean Mac Choin a chinn chruaidh, (that is, Hard Head or Hard Scul,) to sing a timbrel to them ; and he would play so hard and loud that none of them could stay to hear it. Caoilte was watching ; he came where he was and asked of him, how many Heroes had Fingal ; he told him that they were dÌTÌded into seven Cathaims, (that is, into sevcn Regiments or Companies, but it is not known how many were in each, but supposed to be 500,) and that every one had a wife, a servant-man, and two dogs ; he went then to the house and played on the Timbrel. Since they coidd not stay to hear it, Fingal excused him- self, saying that their women were . . . sorrowful, and that they do not like any music at present ; but he would not give over playing unless he would get his own dog, named Bran, his two spears, and his sword ; but Fing^ refused that, sa^òng that his music was not pleasant, and that he would not get his request, since he do not deserve it ; then hc gave three sounds, and the Heroes were deaf a long while afterward. They sent all their dogs after him, but in vain till they loosed Bran, who overtook him at a cave in Beinn Eùdain, and kiUed him. Though the Heroes did not ever get victory by human strength over any sort of evil spirits, sorcerers, and the like ; yet Fingal was inchanted and happy among mortals, so that he would get the better of any sort of spirits, conspirators, inchauters, aud brutal force.
 
 ```
+
+
+---
+
+
+https://archive.org/details/heroesofdawn00russiala/page/n12/mode/1up?q=aillen
+Heroes of the dawn
+by Russell, Violet
+Publication date 1914
+Misc tales of Fionn etc
+eg THE ENCHANTMENT OF TARA
+
+https://archive.org/details/historicaltalesl00mackuoft/page/n8/mode/1up
+Historical tales and legends of the Highlands
+by Mackenzie, Alexander, 1838-1898
+Publication date 1878
+
+
+https://archive.org/details/celticwondertale00younrich
+Celtic wonder-tales
+by Young, Ella, 1867-1956; Gonne, Maud, 1866-1953, ill
+Publication date 1910
+
+
+Waifs and strays of Celtic tradition 1889
+https://archive.org/details/waifsstraysofcel01lond Vol 1
+eg Finn's questions https://archive.org/details/waifsstraysofcel01lond/page/82/mode/2up p82
+
+https://archive.org/details/waifsstraysofcel20lond vol 2 eg Feunn Mac Cüail and the Bent Grey Lad.
+
+https://archive.org/details/waifsstraysofcel30lond vol 3 eg finding Bran; House standing up/lying down
+
+https://archive.org/details/waifsstraysofcel40lond vol 4 lots of Finn and his band tales
+https://archive.org/details/waifsstraysofcel05lond Vol 5 folk tales nd fables
+
+
+https://archive.org/details/celtictwilight00yeatrich/page/n5/mode/2up
+The Celtic twilight
+by Yeats, W. B. (William Butler), 1865-1939
+Publication date 1902
+
+
+https://archive.org/details/morecelticfairyt00jacouoft/page/xi/mode/1up
+More Celtic fairy tales
+by Jacobs, Joseph, 1854-1916
+Publication date 1894
+incl powel prince of dyfed
+incl HOW FIN WENT TO THE KINGDOM OF THE BIG MEN
+
+https://archive.org/details/laughterofpeterk00maclrich/page/n3/mode/2up
+The laughter of Peterkin : a retelling of old tales of the Celtic wonderworld
+by Macleod, Fiona, 1855-1905; Rollinson, Sunderland
+Publication date 1897
+
+https://archive.org/details/completehistoryo00ohaluoft/
+The complete history of Ireland, from the earliest times: being compiled from a connected continuation by approved standard writers
+by O'Halloran, Sylvester, 1728-1807; Dolby, William
+Publication date [1845?]
+
+
+
+https://archive.org/details/irishmiscellany00onei/page/132/mode/1up?q=%22mac+morna%22
+Irish miscellany
+by O'Neill, Thomas
+Publication date 1858
+p132
+LEGEND OF OSSHEEN, THE SON OF FIONN
+
+https://archive.org/details/fictionsofourfor01kenn/
+Fictions of our forefathers : Fion Mac Cumhail and his warriors (Reprinted from the Irish Quarterly Review, No. XXXV., October 1859)
+by Kennedy, Patrick, 1801-1873; Ossianic Society
+Publication date 1859
+
+https://archive.org/details/lecturesonmanus00ocur/
+Lectures on the manuscript materials of ancient Irish history
+by O'Curry, Eugene, 1796-1862
+Publication date 1861
+
+https://archive.org/details/cu31924062545052
+Legendary fictions of the Irish Celts
+by Kennedy, Patrick, 1801-1873
+Publication date 1866
+incl Qualifications and Duties of the Fianna Eirionn , p209
+ovens p211 https://archive.org/details/cu31924062545052/page/n231/mode/1up?q=fire
+
+https://archive.org/details/originhistoryofi00joyc_0
+The origin and history of Irish names of places
+by Joyce, P. W. (Patrick Weston), 1827-1914
+Publication date 1869
+
+https://archive.org/details/onmannersandcus02ocugoog vol 1
+https://archive.org/details/in.ernet.dli.2015.48339/ vol 2
+https://archive.org/details/in.ernet.dli.2015.48340 vol3
+On the manners and customs of the ancient Irish
+by O'Curry, Eugene, 1796-1862
+Publication date 1873
