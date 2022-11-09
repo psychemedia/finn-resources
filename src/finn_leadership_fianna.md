@@ -1,7 +1,7 @@
 # Fionn's Leadership of the Fianna
 
 ```{admonition} James Stephens
-
+```
 
 Irish Fairy Tales
 by James Stephens
@@ -242,11 +242,9 @@ GroU could do a thing that would be hard for another person, and he could do it 
 
 And he twinkled at the stem, young eyes that gazed on him as he made his submission.
 
-```
 
 
 
-```
 
 https://archive.org/details/godsfightingmens00gregrich/page/164/mode/1up?q=cat
 
@@ -304,10 +302,9 @@ And when the charms that used to bring good luck had done their work, the chief 
 And Finn kept the headship of the Fianna until the end ; and the place he lived in was Almhuin of Leinster, where the white dun was made by Nuada of the Tuatha de Danaan, that was as white as if all the lime in Ireland was put on it, and that got its name from the great herd of cattle that died fighting one time around the well, and that left their horns there, speckled horns and white.
 
 And as to Finn himself, he was a king and a seer and a poet ; a Druid and a knowledgeable man ; and everything he said was sweet-sounding to his people. And a better fighting man than Finn never struck his hand into a king's hand, and whatever any one ever said of him, he was three times better. And of his justice it used to be said, that if his enemy and his own son had come before him to be judged, it is a fair judgment he would have given between them. And as to his generosity it used to be said, he never denied any man as long as he had a mouth to eat with, and legs to bring away what he gave him ; and he left no woman without her bride-price, and no man without his pay ; and he never promised at night what he would not fulfil on the morrow, and he never promised in the day what he would not fulfil at night, and he never forsook his right-hand friend. And if he was quiet in peace he was angry in battle, and Oisin his son and Osgar his son's son followed him in that. There was a young man of Ulster came and claimed kinship with them one time, saying they were of the one blood. " If that is so," said Oisin, " it is from the men of Ulster we took the madness and the angry heart we have in battle." " That is so indeed," said Finn.
-```
 
 
-```
+
 https://archive.org/details/mythslegendscelt00roll/page/257/mode/1up
 Myths and legends ; the Celtic race
 by Rolleston, T. W. (Thomas William), 1857-1920
@@ -321,5 +318,3 @@ At this time Goll son of Morna was the captain of the Fianna of Erin, but Finn, 
 Now there were among the men-at-arms an old follower of Finn's father, Cumhal, who possessed a magic spear with a head of bronze and rivets of Arabian gold. The head was kept laced up in a leathern case ; and it had the property that when the naked blade was laid against the forehead of a man it would fill him with a strength and a battle-fury that would make him invincible in every combat. This spear the man Fiacha gave to Finn, and taught him how to use it, and with it he awaited the coming of the goblin on the ramparts of Tara. As night fell and mists began to gather in the wide plain around the Hill he saw a shadowy form coming swiftly towards him, and heard the notes of the magic harp. But laying the spear to his brow he shook off the spell, and the phantom fled before him to the Fairy Mound of Slieve Fuad, and there Finn overtook and slew him, and bore back his head to Tara.
 
 Then Cormac the King set Finn before the Fianna, and bade them all either swear obedience to him as their captain or seek service elsewhere. And first of all Goll mac Morna swore service, and then all the rest followed, and Finn became Captain of the Fianna of Erin, and ruled them till he died.
-
-```
