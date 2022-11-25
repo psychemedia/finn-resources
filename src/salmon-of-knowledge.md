@@ -2,9 +2,10 @@
 
 The *Salmon of Knowlege* is a widely told fragment from the Fenian Cycle. As we have seen, it forms part of the narrative of the "Boyhood of Fionn", although in many story collections, as in here, it is often told as a standalone tale.
 
-```{admonition} Fionn and the Salmon of Knowledge, in James Stephens, *
+There are parallels to the tale of the birth of Taliesin in Welsh folklore, in which the boy Gwion Bach is burned by three scalding drops on his hand that burst from a bubbling cauldron. The cauldron belongs to Ceridwen, the sorceress, who is brewing a potion of knowledge for the benefit of her son. In  putting his hand to his mouth to alleviate the pain of the burn, he tastes the drops, and the magic is done: Gwion Bach receives the knowledge, and the cauldron's contents turn to poison, bursting the cauldron as they do so.
+
+```{admonition} Fionn and the Salmon of Knowledge, in James Stephens, *Irish Fairy Tales*, 1920
 :class: dropdown
-Irish Fairy Tales*, 1920
 
 Irish Fairy Tales
 by James Stephens
