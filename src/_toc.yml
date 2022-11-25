@@ -12,6 +12,9 @@ parts:
   - file: finn-childhood
   - file: finn-pedigree
   - file: salmon-of-knowledge
+- caption: The Fianna
+  chapters:
+  - file: dermot_love_spot
 - caption: Resources
   chapters:
   - file: irish-legends-finn-oisin
