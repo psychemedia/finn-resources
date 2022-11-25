@@ -1,6 +1,6 @@
 # How Dermot Got the Love Spot
 
-I first heard this tale from Kate Corkery at Festival at the Edge, 2022, though I tend to remember it by the name of *The Cottage" or "The Cottage, the Cat and the Goat*.
+I first heard this tale from Kate Corkery at Festival at the Edge, 2022, though I tend to remember it by the name of *The Cottage", "Woodland Cottage", or "The Cottage, the Cat and the Goat*.
 
 My recall is that the version I heard featured Goll Mac Morna, Conan, Diarmuid and *Cuilthe* rather than *Oscar* (I think I prefer the story with Cuilthe in it).
 
