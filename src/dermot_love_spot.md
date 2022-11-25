@@ -1,4 +1,4 @@
-# How Dermot Got the Love Spot
+# How Dermot Got His Love Spot
 
 I first heard this tale from Kate Corkery at Festival at the Edge, 2022, though I tend to remember it by the name of *The Cottage", "Woodland Cottage", or "The Cottage, the Cat and the Goat*.
 
