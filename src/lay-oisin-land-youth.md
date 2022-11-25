@@ -22,7 +22,7 @@ Flannery's translation of the poem is presented in two ways: in a metrical style
 
 > The present edition contains the whole poem lopped of some excrescences and lightened of some interpolations ; it gives a literal translation for the sake of students and a new metrical version in the style and manner of the original — which the editor believes has not been attempted before. The divisions have been made and headings adopted to make the scope of the poem more clear, and they will it m hoped also make the poem easier to learn and to remember. For any who may think the word for word prose version not literal enough, there is a prettv full vocabulary of the text of the poem at the end of the book, all nicely arranged in alphabetical order, from which they can make a translation as literal — and as bald — as they like.
 
-`````{admonition} *The lay of Oisín in the land of youth*, M Coimín, transl. T Flannery, 1896
+`````{admonition} *The lay of Oisín in the land of youth*, M Coimín, transl. T. Flannery, 1896
 :class: dropdown
 ```{include} includes/lay_oisin_coimin_flannery.md
 ```
