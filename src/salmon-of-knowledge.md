@@ -202,6 +202,7 @@ Fionn then ate the Salmon of Knowledge, and when it had disappeared a great joll
 
 ```
 
+Here also is Lady Gregory's telling:
 
 ```{admonition} Finn Learns the art of poetry from Finegas, Lady Gregory, in *Gods and Fighting Men*, 1904
 :class: dropdown
@@ -256,5 +257,55 @@ And he learned the three ways of poetry ; and this is the poem he made to show h
 " I have another story for you ; the ox is lowing, the winter is creeping in, the summer is gone. High and cold the wind, low the sun, cries are about us ; the sea is quarrelling.
 
 " The ferns are reddened and their shape is hidden ; the cry of the wild goose is heard ; the cold has caught the wings of the birds; it is the time of ice-frost, hard, unhappy."
+
+```
+
+Jeremiah Curtin's telling of the Salmon of Knowledge in *Myths and folk-lore of Ireland* is quite different.
+
+```{admonition} *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
+:class: dropdown
+https://archive.org/details/mythsfolkloreofi00curtuoft/page/209/mode/1up
+Myths and folk-lore of Ireland
+by Curtin, Jeremiah, 1835-1906
+Publication date 1890
+
+p210-213
+
+Fin and Bran went on till they came to a great cave, in which they found a herd of goats. At the further end of the cave was a smouldering fire. The two lay down to rest.
+
+A couple of hours later, in came a giant with a salmon in his hand. This giant was of awful height, he had but one eye, and that in the mid- dle of his forehead, as large as the sun in heaven.
+
+When he saw Fin, he called out: " Here, take this salmon and roast it ; but be careful, for if you raise a single blister on it I '11 cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world."
+The giant lay down to sleep in the middle of the cave. Fin spitted the salmon, and held it over the fire.
+
+The minute the giant closed the one eye in his head, he began to snore. Every time he drew breath into his body, he dragged Fin, the spit, the salmon, Bran, and all the goats to his mouth ; and every time he drove a breath out of himself, he threw them back to the places they were in before. Fin was drawn time after time to the mouth of the giant with such force, that he was in dread of going down his throat.
+
+When partly cooked, a blister rose on the salmon. Fin pressed the place with his thumb, to know could he break the blister, and hide from the giant the harm that was done. But he burned his thumb, and, to ease the pain, put it between his teeth, and gnawed the skin to the flesh, the flesh to the bone, the bone to the marrow; and when he had tasted the marrow, he received the knowledge of all things. Next moment, he was drawn by the breath of the giant right up to his face, and, knowing from his thumb what to do, he plunged the hot spit into the sleeping eye of the giant and destroyed it.
+
+That instant the giant with a single bound was at the low entrance of the cave, and, standing with his back to the wall and a foot on each side of the opening, roared out: "You'll not leave this place alive."
+
+Now Fin killed the largest goat, skinned him as quickly as he could, then putting the skin on himself he drove the herd to where the giant stood ; the goats passed out one by one between his legs. When the great goat came the giant took him by the horns. Fin slipped from the skin, and ran out.
+
+" Oh, you've escaped, " said the giant, " but before we part let me make you a present."
+
+" I 'm afraid to go near you," said Fin ; " if you wish to give me a present, put it out this way, and then go back."
+
+The giant placed a ring on the ground, then went back. Fin took up the ring and put it on the end of his little finger above the first joint. It clung so firmly that no man in the world could have taken it off.
+
+The giant then called out, " Where are you?"
+
+" On Fin's finger, " cried the ring. That instant the giant sprang at Fin and almost came down on his head, thinking in this way to crush him to bits. Fin sprang to a distance. Again the giant asked, " Where are you? "
+
+" On Fin's finger," answered the ring.
+
+Again the giant made a leap, coming down just in front of Fin. Many times he called and many times almost caught Fin, who could not escape with the ring on his finger. While in this terrible struggle, not knowing how to escape, Bran ran up and asked :
+
+" Why don't you chew your thumb? "
+
+Fin bit his thumb to the marrow, and then knew what to do. He took the knife with which he had skinned the goat, cut off his finger at the first joint, and threw it, with the ring still on, into a deep bog near by.
+
+Again the giant called out, " Where are you?" and the ring answered, " On Fin's finger."
+
+Straightway the giant sprang towards the voice, sank to his shoulders in the bog, and stayed there.
 
 ```

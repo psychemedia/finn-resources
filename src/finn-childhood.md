@@ -381,8 +381,9 @@ A slightly different account of Fionn's childhood is provided in Curtin's *Myths
 
 > All the tales in my collection, of which those printed in this volume form but a part, were taken down from the mouths of men who, with one or two exceptions, spoke only Gaelic, or but little English, and that imperfectly. These men belong to a group of persons, all of whom are well ad- vanced in years, and some very old ; with them will pass away the majority of the story-tellers of Ireland, unless new interest in the ancient language and lore of the country is roused
 
-```{admonition}
+```{admonition} "Birth of Fin MacCumhail", in *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
 
+:class: dropdown
 https://archive.org/details/mythsfolkloreofi00curtuoft/page/205/mode/1up
 
 Myths and folk-lore of Ireland

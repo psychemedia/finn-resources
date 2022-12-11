@@ -8,7 +8,8 @@ The core of the story is this:
 
 > It is Sammhain Eve, and Fionn sits among the nobles. He is asked who he is: son of Uail. During the festivities, Conn asks who will defend them against the monster that will come that night. Fionn takes up the challenge. He is given a spear that will keep him awake. When the fire breathing Aillen approaches, charming all to sleep with its music, Fionn uses the spear to stay awake, and defeats Aillen. His reward, anything reasonably asked, is to become leader of thre Fianna. Goll is given the choice to leavee or show allegiance to Fionn, as new leader. He shows allegiance.
 
-```{admonition} James Stephens
+```{admonition} "The Boyhood of Fionn", *Irish Fairy Tales*, James Stephens, 1920
+:class: dropdown
 
 Irish Fairy Tales
 by James Stephens
@@ -249,7 +250,8 @@ And he twinkled at the stern, young eyes that gazed on him as he made his submis
 
 ```
 
-```{admonition} In *Gods and Fighting Men*, Lady Gregory, 1904
+```{admonition} In "The Coming of Finn", in *Gods and Fighting Men*, Lady Gregory, 1904
+:class: dropdown
 
 https://archive.org/details/godsfightingmens00gregrich/page/164/mode/1up?q=cat
 
@@ -328,7 +330,9 @@ Then Cormac the King set Finn before the Fianna, and bade them all either swear 
 
 Once again, Jeremiah Curtin's telling of the tale is significantly different.
 
-```{admonition} *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
+```{admonition} "Birth of Fin MacCumhail", in *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
+:class: dropdown
+
 https://archive.org/details/mythsfolkloreofi00curtuoft/page/212/mode/1up
 Myths and folk-lore of Ireland
 by Curtin, Jeremiah, 1835-1906

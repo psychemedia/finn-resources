@@ -297,7 +297,7 @@ Find and Goll concluded peace after that ; and the eric of his father was given 
 A brief, and slightly different, retelling of the pedigree of Fionn is also provided by Jeremiah Curtin in *Myths and folk-lore of Ireland*:
 
 ```{admonition} *Myths and folk-lore of Ireland*, Jeremiah Curtin , 1890
-
+:class: dropdown
 Myths and folk-lore of Ireland
 by Curtin, Jeremiah, 1835-1906
 
@@ -333,6 +333,7 @@ When the king heard that the old woman had escaped with his daughter's son, he f
 Some filler material regarding the travails of Cumhall's men betweem the death of Fionn's father and Fionn's ascent to the leadership of the Fianna is provided by Standish O'Grady:
 
 ```{admonition} "Finn and His Companions". Standish O'Grady, 1892
+:class: dropdown
 https://archive.org/details/finnhiscompanion00ogra_0/page/125/mode/1up
 Finn and his companions
 by O'Grady, Standish, 1846-1928

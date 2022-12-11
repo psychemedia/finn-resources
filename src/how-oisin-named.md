@@ -4,12 +4,12 @@ Oisín's downfall, if we can call it such, was a consequnce of returning from th
 
 Perhaps in part, the answer lays with Oisín's parentage. He was, of course, the son of Fionn Mac Cumhail, but what of his mother? Thereby lays a tale, of course...
 
-Briefly told, the stroy is as follows:
+Briefly told, the story is as follows:
 
 > Fionn and the Fianna are out hunting one day, when the dogs give chase to a deer. Bran and Sceolan lead out, as if they don't want the rest of the pack to follow. Fionn finds them protecting the deer, nuzzling it as it nuzzles Fionn. He takes it to the camp. That night a beautiful maiden, Saeve, appears. She seeks protection from an evil wizard. They fall in love. One day, Fionn goes to battle. Afterwards he returns home but his wife is not there: she was tempted out by a sorcerer who looked like FIonn, hit her with a hazel stick and turned her into a deer. Fionn hunts for  her in vain. Some years later, out hunting again, the dogs run off and sound to be protecting something: a small, mute boy. The boy is named Oisín, little fawn. After some time, he speaks, and tells of being protected by a dear, and there being an evil wizard.
 
 ```{admonition} In *Gods and Fighting Men*, Lady Gregory, 1904
-
+:class: dropdown
 https://archive.org/details/godsfightingmens00gregrich/page/174/mode/1up?q=oisin
 
 Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland
