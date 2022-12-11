@@ -2,7 +2,7 @@
 
 I first heard this tale from Kate Corkery at Festival at the Edge, 2022, though I tend to remember it by the name of *"The Cottage"*, *"Woodland Cottage"*, or *"The Cottage, the Cat and the Goat"*.
 
-My recall is that the version I heard featured Goll Mac Morna, Conan, Diarmuid and *Cuilthe* rather than *Oscar* (I think I prefer the story with Cuilthe in it).
+My recollection is that the version I heard featured Goll Mac Morna, Conan, Diarmuid and *Cuilthe* rather than *Oscar* (I think I prefer the story with Cuilthe in it).
 
 As a tale to tell, the story provides a great way of allowing a quick character sketch of four leading lights of the Fianna as their actions and responses play out to the various events. It's also quite fun!
 
