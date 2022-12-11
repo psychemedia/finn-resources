@@ -130,7 +130,7 @@ __LEGEND OF THE GREY SHEEP'S CAVE AT COOLAGAR-BONROE, NEAR KILBENNY.__
 
 In the preface to his literal translation (_"the first attempt made to suit the work to the use of schools"_), Comyn observes that the poem forms *'the prologue as it were to all the poems of the " Ossianic" school'* by providing an account of how Oisin was able to bridge the gap between Fionn's time and St Patrick's.
 
-```{admonition} Preface to David COmyn's Translation, 1880
+```{admonition} Preface to David Comyn's Translation, 1880
 :class: dropdown
 https://archive.org/details/laoidoisinairtir00coim
 
@@ -152,7 +152,7 @@ The age of any of the compositions forming this Ossianic literature cannot be ex
 The present has a great many of the characteristics of the early Ossianic poems, and is a very faithful reproduction of the style and of the ideas expressed in them, if indeed, its author has not embodied some ancient rhymes, now perhaps lost, except the portions in this work. This poem of " Oisin, in the land of perpetual youth," to the authorship or date of which we have no record, is, in its present form, considered by some authorities to be the work of Michael Comyn, a poet of the county Clare, and author of several Irish poems and romances, who flourished in the early part of the last century. The legend at any rate is very familiar and popular among the Irish speaking people of his native district, many of whom can repeat considerable portions of this favourite poem. It has also been long known in the Highlands of Scotland. It has been several times published and frequently translated into English, both in metre and in prose ; but the present is the first attempt made to suit the work to the use of schools, by giving a translation exactly literal rather than elegant, yet at the same time not unreadable, and by annexing a copious vocabulary, as was done in the three lesson books issued by the society, yet of necessity more exhaustive in the present instance. Few notes have been given, but the information which would be contained in notes is embodied in the vocabulary " under each word requiring explanation. The genitive and plural of nouns, comparative of adjectives, and infinitive of verbs have also been given under each root word, with the addition of any other inflected forms which happened to occur in the text.
 ```
 
-Before providing the translation, Comyn briefly summarises the key narrative points, along with the corresponding vers number:
+Before providing the translation, Comyn briefly summarises the key narrative points, along with the corresponding verse number:
 
 ```{admonition} The "Argument"
 :class: dropdown
