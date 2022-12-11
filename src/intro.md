@@ -19,7 +19,7 @@ My own tellings will remain *unwritten*. I may well end up with particular ways 
 For the early tales, I have tended to rely on:
 
 - James Stephens, [*Irish Fairy Tales*](https://archive.org/details/irishfairytales00stepgoog), 1920
-- Lady Gregory, [*Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Irelan*](https://archive.org/details/godsfightingmens00gregrich/page/436/mode/2up), 1904
+- Lady Gregory, [*Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland*](https://archive.org/details/godsfightingmens00gregrich/page/436/mode/2up), 1904
 - T. W. Rolleston, [*The High Deeds Of Finn*](https://archive.org/details/in.ernet.dli.2015.178478), 1910
 - Standish O'Grady, [*Finn and his companions*](https://archive.org/details/finnhiscompanio00ogra/page/n205/mode/2up), 1892
 - Jeremiah Curtin, [*Myths and folk-lore of Ireland*](https://archive.org/details/mythsfolkloreofi00curtuoft), 1890
