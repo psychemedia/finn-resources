@@ -294,6 +294,42 @@ Find and Goll concluded peace after that ; and the eric of his father was given 
 > Regarding the pig, in Temhair-Luachra. 
 ```
 
+A brief, and slightly different, retelling of the pedigree of Fionn is also provided by Jeremiah Curtin in *Myths and folk-lore of Ireland*:
+
+```{admonition} *Myths and folk-lore of Ireland*, Jeremiah Curtin , 1890
+
+Myths and folk-lore of Ireland
+by Curtin, Jeremiah, 1835-1906
+
+Publication date 1890
+
+p204-5
+
+BIRTH OF FIN MACCUMHAIL. `[Cumhail, genitive of Cumhal, after Mac = son; pro- nounced Cool.]`
+
+CUMHAL MACART was a great champion in the west of Erin, and it was prophesied of him that if ever he married he would meet death in the next battle he fought.
+
+For this reason he had no wife, and knew no woman for a long time ; till one day he saw the king's daughter, who was so beautiful that he forgot all fear and married her in secret.
+
+Next day after the marriage, news came that a battle had to be fought.
+
+Now a Druid had told the king that his daughter's son would take the kingdom from him ; so he made up his mind to look after the daughter, and not let any man come near her.
+
+Before he went to the battle, Cumhal told his mother everything, told her of his relations with the king's daughter.
+
+He said, " I shall be killed in battle to-day, according to the prophecy of the Druid, and I 'm afraid if his daughter has a son the king will kill the child, for the prophecy is that he will lose the kingdom by the son of his own daughter. Now, if the king's daughter has a son do you hide and rear him, if you can ; you will be his only hope and stay."
+
+Cumhal was killed in the battle, and within that year the king's daughter had a son.
+
+By command of his grandfather, the boy was thrown out of the castle window into a loch, to be drowned, on the day of his birth.
+
+The boy sank from sight; but after remaining a while under the water, he rose again to the surface, and came to land holding a live salmon in his hand.
+The grandmother of the boy, Cumhal's mother, stood watching on the shore, and said to herself as she saw this : " He is my grandson, the true son of my own child," and seizing the boy, she rushed away with him, and vanished, before the king's people could stop her.
+
+When the king heard that the old woman had escaped with his daughter's son, he fell into a terrible rage, and ordered all the male children born that day in the kingdom to be put to death, hoping in this way to kill his own grandson, and save the crown for himself.
+
+```
+
 Some filler material regarding the travails of Cumhall's men betweem the death of Fionn's father and Fionn's ascent to the leadership of the Fianna is provided by Standish O'Grady:
 
 ```{admonition} "Finn and His Companions". Standish O'Grady, 1892
