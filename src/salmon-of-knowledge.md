@@ -8,6 +8,78 @@ In essence, the story is as follows:
 
 There are parallels to the tale of the birth of Taliesin in Welsh folklore, in which the boy Gwion Bach is burned by three scalding drops on his hand that burst from a bubbling cauldron. The cauldron belongs to Ceridwen, the sorceress, who is brewing a potion of knowledge for the benefit of her son. In  putting his hand to his mouth to alleviate the pain of the burn, he tastes the drops, and the magic is done: Gwion Bach receives the knowledge, and the cauldron's contents turn to poison, bursting the cauldron as they do so.
 
+Rolleston's account is, as ever, concise and to the point:
+
+
+```{admonition}
+:class: dropdown
+https://archive.org/details/in.ernet.dli.2015.178478/page/n123/mode/2up?q=salmon
+The High Deeds Of Finn
+by T.w.rolleston
+
+Publication date 1910
+p113-
+
+Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he ha*d been used to have the eye of a young man but now he had the eye of a sage. Finegas said, "Hast thou eaten of the salmon ? "
+
+" Nay," said Finn, " but it burnt me as I turned it upon the spit and I put my thumb in my mouth." 
+
+And Finegas smote his hands together and was silent for a while. Then he said to the lad who stood by obediently, "Take the salmon and eat it, Finn, son of Cumhal, for to thee the prophecy is come. And now go hence, for I can teach thee no more, and blessing and victory be thine."
+
+With Finegas, Finn learned the three things that make a poet, and they are Fire of Song, and Light of Knowledge, and the Art of Extempore Recitation. Before he departed he made this lay to prove his art, and it is called " The Song of Finn in Praise of May "
+
+May Day ! delightful day !  
+Bright colours play the vales along.  
+Now wakes at morning’s slender ray,  
+Wild and gay, the blackbird’s song.
+
+Now comes the bird of dusty hue.  
+The loud cuckoo, the summer-lover ;  
+Branching trees are thick with leaves  
+The bitter, evil time is over.
+
+Swift horses gather nigh  
+Where half dry the river goes ;  
+Tufted heather crowns the height ;  
+Weak and white the bogdown blows.
+
+Corncrake sings from eve till morn,  
+Deep in corn, a strenuous bard !  
+Sings the virgin waterfall,  
+White and tall, her one sweet word.
+
+Loaded bees of little power  
+Goodly flower-harvest win ;  
+Cattle roam with muddy flanks ;  
+Busy ants go out and in.
+
+Through the wild harp of the wood  
+Making music roars the gale —  
+Now it slumbers without motion,  
+On the ocean sleeps the sail.
+
+Men grow mighty in the May,  
+Proud and gay the maidens grow ;  
+Fair is every wooded height ;  
+Fair and bright the plain below.
+
+A bright shaft has smit the streams,  
+With gold gleams the water-flag ;  
+Leaps the fish, and on the hills  
+Ardour thrills the flying stag.
+
+Carols loud the lark on high,  
+Small and shy, his tireless lay,  
+Singing in wildest, merriest mood  
+Of delicate-hued, delightful May.
+
+`[I am much indebted to the beautiful prose translation of this song, published by Dr Kuno Meyer in Ériu (the Journal of the School of Irish Learning), Vol. I. Part II. In my poetic version an attempt has been made to render the riming and metrical effect of the original, which is believed to date from about the ninth century.]`
+
+```
+
+
+Stephens' account adds rather more colour to it:
+
 ```{admonition} Fionn and the Salmon of Knowledge, in James Stephens, *Irish Fairy Tales*, 1920
 :class: dropdown
 
@@ -311,74 +383,5 @@ Fin bit his thumb to the marrow, and then knew what to do. He took the knife wit
 Again the giant called out, " Where are you?" and the ring answered, " On Fin's finger."
 
 Straightway the giant sprang towards the voice, sank to his shoulders in the bog, and stayed there.
-
-```
-
-Rolleston's account is, as ever, concise and to the point:
-
-
-```{admonition}
-:class: dropdown
-https://archive.org/details/in.ernet.dli.2015.178478/page/n123/mode/2up?q=salmon
-The High Deeds Of Finn
-by T.w.rolleston
-
-Publication date 1910
-p113-
-
-Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he ha*d been used to have the eye of a young man but now he had the eye of a sage. Finegas said, "Hast thou eaten of the salmon ? "
-
-" Nay," said Finn, " but it burnt me as I turned it upon the spit and I put my thumb in my mouth." 
-
-And Finegas smote his hands together and was silent for a while. Then he said to the lad who stood by obediently, "Take the salmon and eat it, Finn, son of Cumhal, for to thee the prophecy is come. And now go hence, for I can teach thee no more, and blessing and victory be thine."
-
-With Finegas, Finn learned the three things that make a poet, and they are Fire of Song, and Light of Knowledge, and the Art of Extempore Recitation. Before he departed he made this lay to prove his art, and it is called " The Song of Finn in Praise of May "
-
-May Day ! delightful day !  
-Bright colours play the vales along.  
-Now wakes at morning’s slender ray,  
-Wild and gay, the blackbird’s song.
-
-Now comes the bird of dusty hue.  
-The loud cuckoo, the summer-lover ;  
-Branching trees are thick with leaves  
-The bitter, evil time is over.
-
-Swift horses gather nigh  
-Where half dry the river goes ;  
-Tufted heather crowns the height ;  
-Weak and white the bogdown blows.
-
-Corncrake sings from eve till morn,  
-Deep in corn, a strenuous bard !  
-Sings the virgin waterfall,  
-White and tall, her one sweet word.
-
-Loaded bees of little power  
-Goodly flower-harvest win ;  
-Cattle roam with muddy flanks ;  
-Busy ants go out and in.
-
-Through the wild harp of the wood  
-Making music roars the gale —  
-Now it slumbers without motion,  
-On the ocean sleeps the sail.
-
-Men grow mighty in the May,  
-Proud and gay the maidens grow ;  
-Fair is every wooded height ;  
-Fair and bright the plain below.
-
-A bright shaft has smit the streams,  
-With gold gleams the water-flag ;  
-Leaps the fish, and on the hills  
-Ardour thrills the flying stag.
-
-Carols loud the lark on high,  
-Small and shy, his tireless lay,  
-Singing in wildest, merriest mood  
-Of delicate-hued, delightful May.
-
-`[I am much indebted to the beautiful prose translation of this song, published by Dr Kuno Meyer in Ériu (the Journal of the School of Irish Learning), Vol. I. Part II. In my poetic version an attempt has been made to render the riming and metrical effect of the original, which is believed to date from about the ninth century.]`
 
 ```
