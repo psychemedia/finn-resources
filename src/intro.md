@@ -13,3 +13,15 @@ My own tellings will remain *unwritten*. I may well end up with particular ways 
 --Tony Hirst, Isle of Wight, August, 2022 and thereafter...
 
 [__Please support this and other related *Storynotes* initiatives via `Patreon`.__](https://www.patreon.com/bePatron?u=3266916)
+
+## Source Books
+
+For the early tales, I have tended to rely on:
+
+- James Stephens, [*Irish Fairy Tales*](https://archive.org/details/irishfairytales00stepgoog), 1920
+- Lady Gregory, [*Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Irelan*](https://archive.org/details/godsfightingmens00gregrich/page/436/mode/2up), 1904
+- T. W. Rolleston, [*The High Deeds Of Finn*](https://archive.org/details/in.ernet.dli.2015.178478), 1910
+- Standish O'Grady, [*Finn and his companions*](https://archive.org/details/finnhiscompanio00ogra/page/n205/mode/2up), 1892
+- Jeremiah Curtin, [*Myths and folk-lore of Ireland*](https://archive.org/details/mythsfolkloreofi00curtuoft), 1890
+
+Many of the tellings are translations or retellings of the same, earlier works, and so there is a certain amount of duplication. This may be useful, however, when rying to find a telling that works as a good basis for my own telling, triangulating on common stroy points, and also discovering particular turns of phrase that add colour or help elucidate or move the story along in an interesting or engaging way.
