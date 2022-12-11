@@ -1,6 +1,6 @@
 # Fionn's Leadership of the Fianna
 
-Fionn's father, ??, had been the leader of the Fianna until Goll Mac Morna killed him at ?? the batle of Cnuchna and took over the leadership. So how did Fionn regain the leadership of that brave band of warriors?
+Fionn's father, Uail, had been the leader of the Fianna until Goll Mac Morna killed him at the battle of Cnuchna and took over the leadership. So how did Fionn regain the leadership of that brave band of warriors?
 
 The tale that is told brings a close to the tales of Fionn's youth. Having been brought up to be finest the athletes, having acquired the gifts of poetry and knowledge after his apprenticeship to Finegas, and his eating of the Samlmon of Knpowledge, and after a period of acting as a mercenary for many of the Lords of Ireland, Fionn came at last to the court of Conn of the Hundred Battles, at Tara.
 
