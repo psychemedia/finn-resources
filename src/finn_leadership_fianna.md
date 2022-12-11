@@ -6,7 +6,7 @@ The tale that is told brings a close to the tales of Fionn's youth. Having been 
 
 The core of the story is this:
 
-> It is Sammhain Eve, and Fionn sits among the nobles. He is asked who he is: son of Uail. During the festivities, Conn asks who will defend them against the monster that will come that night. Fionn takes up the challenge. He is given a spear that will keep him awake. When the fire breathing Aillen approaches, charming all to sleep with its music, Fionn uses the spear to stay awake, and defeats Aillen. His reward, anything reasonably asked, is to become leader of thre Fianna. Goll is given the choice to leavee or show allegiance to Fionn, as new leader. He shows allegiance.
+> It is Sammhain Eve, and Fionn sits among the nobles. He is asked who he is: son of Uail. During the festivities, Conn asks who will defend them against the monster that will come that night. Fionn takes up the challenge. He is given a spear that will keep him awake. When the fire breathing Aillen approaches, charming all to sleep with its music, Fionn uses the spear to stay awake, and defeats Aillen. His reward, anything reasonably asked, is to become leader of thre Fianna. Goll is given the choice to leave, or to show allegiance to Fionn, as new leader. He shows allegiance.
 
 ```{admonition} "The Boyhood of Fionn", *Irish Fairy Tales*, James Stephens, 1920
 :class: dropdown
@@ -328,7 +328,35 @@ Then Cormac the King set Finn before the Fianna, and bade them all either swear 
 
 ```
 
-Once again, Jeremiah Curtin's telling of the tale is significantly different.
+The telling in Rolleston's *The High Deeds Of Finn* is quite a concise one:
+
+```{admonition} The Coming of Finn", in *The High Deeds Of Finn*, T. W. Rolleston, 1910
+:class: dropdown
+
+The High Deeds Of Finn
+by T.w.rolleston
+Publication date 1910
+p116-119
+
+CHAPTER X
+
+The Coming of Finn
+
+And now we tell how Finn came to the captaincy of the Fianna of Erinn.
+
+At this time Ireland was ruled by one of the mightiest of her native kings, Conn, son of Felimy, who was surnamed Conn of the Hundred Battles. And Conn sat in his great banqueting hall at Tara, while the yearly Assembly of the lords and princes of the Gael went forward, during which it was the inviolable law that no quarrel should be raised and no weapon drawn, so that every man who had a right to come to that Assembly might come there and sit next his deadliest foe in peace. Below him sat at meat the provincial kings and the chiefs of clans, and the High King’s officers and fighting- men of the Fianna, with Goll and the sons of Morna at their head. And there, too, sat modestly a strange youth, tall and fair, whom no one had seen in that place before. Conn marked him with the eye of a king that is accustomed to mark men, and by and by he sent him a horn full of wine from his own table and bade the youth declare his name and lineage. " I am Finn, son of Cumhal," said the youth, standing among them, tall as a warrior’s spear, and a start and a low murmur ran through the Assembly while the captains of the Fianna stared upon him like men who see a vision of the dead, " What seek you here ? " said Conn, and Finn replied, "To be your man, O King, and to do you service in war as my father did." "It is well," said the King. "Thou art a friend’s son and the son of a man of trust." So Finn put his hand in the King’s and swore fealty and service to him, and Conn set him beside his own son Art, and all fell to talking again and wondering what new things that day would bring forth, and the feasting went merrily forward.
+
+Now at this time the people of the royal burg of Tara were sorely afflicted by a goblin of the Fairy Folk, who was wont to approach the place at night- fall, there to work what harm to man, or beast, or dwelling that he found in his evil mind to do. And he could not be resisted, for as he came he played on a magic harp a strain so keen and sweet, that each man who heard it must needs stand entranced and motionless until the fairy music had passed away. The King proclaimed a mighty reward to any man who would save Tara from the goblin, and Finn thought in his heart, " I am the man to do that." So he said to the King, " Shall I have my rightful heritage as captain of the Fianna of Erin if I slay the goblin ? " Conn said, " I promise thee that," and he bound himself by the sureties of all the provincial Kings of Ireland and of the Druid Kithro and his magicians.
+
+Now there was among the following of Conn a man named Fiacha, who had been as a youth a trusty friend and follower of Cumhal. He came to Finn and brought with him a spear having a head of dark bronze with glittering edges, and fastened with thirty rivets of Arabian gold, and the spear- head was laced up within a leathern case, " By this weapon of enchantment," said Fiacha, "you shall overcome the enchanter," and he taught Finn what to do with it when the hour of need should come.
+
+So Finn took the spear, and left the strings of the case loose, and he paced with it towards night- fall around the ramparts of royal Tara. And when he had once made the circuit of the rampart, and the light had now almost quite faded from the summer sky, and the wide low plains around the Hill of Tara were a sea of white mist, he heard far off in the deepening gloom the first notes of the fairy harp. Never such music was made by mortal hand, for it had in it sorrows that man has never felt, and joys for which man has no name, and it seemed as if a man listening to that music might burst from time into eternity and be as one of the Immortals for evermore. And Finn listened, amazed and rapt, till at last as the triumphant melody grew nearer and louder he saw dimly a Shadow Shape playing as it were on a harp, and coming swiftly towards him. Then with a mighty effort he roused himself from dreams, and tore the cover from the spear-head and laid the metal to his brow. And the demoniac energy that had been beaten into the blade by the hammers ..of unearthly craftsmen in ancient days thrilled through him and made him fighting-mad, and he rushed forward shouting his battle-cry, and swinging the spear aloft. But the Shadow turned and fled before him, and Finn chased it northward to the Fairy Mound of Slieve Fuad, and there he drove the spear through its back. And what it was that fell there in the night, and what it was that passed like the shadow of a shadow into the Fairy Mound, none can tell, but Finn bore back with him next day a pale, sorrowful head on the point of Fiacha’s spear, and the goblin troubled the folk of royal Tara no more.
+
+But Conn of the Hundred Battles called the Fianna together, and he set Finn at his right hand and said, " Here is your Captain by birth-right and by sword-right. Let who will now obey him hence- forward, and who will not, let him go in peace and serve Arthur of Britain or Arist of Alba, or whatsoever King he will." And Goll, son of Morna, said, "For my part I will be Finn’s man under thee, O King," and he swore obedience and loyalty to Finn before them all. Nor was it hard for any man to step where Goll had gone before, so they all took their oaths of Fian service to Finn mac Cumhal. And thus it was that Finn came to the captaincy of the Fianna of Erinn, and he ruled the Fianna many a year till he died in battle with the Clan Urgrenn at Brea upon the Boyne.
+
+```
+
+And once again, Jeremiah Curtin's telling of the tale is significantly different.
 
 ```{admonition} "Birth of Fin MacCumhail", in *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
 :class: dropdown
