@@ -33,7 +33,7 @@ However it may be, when Uail died, Muirne got married again to the King of Kerry
 
 It is likely the women were fond of him, for other than Fionn there was no life about them. He would be their life; and their eyes may have seemed as twin benedictions resting on the small fair head. He was fair-haired, and it was for his fairness that he was afterwards called Fionn; but at this period he was known as Deimne. They saw the food they put into his little frame reproduce itself lengthways and sideways in tough inches, and in springs and energies that crawled at first, and then toddled, and then ran. He had birds for playmates, but all the creatures that live in a wood must have been his comrades. There would have been for little Fionn long hours of lonely sunshine, when the world seemed just sunshine and a sky. There would have been hours as long, when existence passed like a shade among shadows, in the multitudinous tappings of rain that dripped from leaf to leaf in the wood, and slipped so to the ground. He would have known little snaky paths, narrow enough to be filled by his own small feet, or a goat's; and he would have wondered where they went, and have marvelled again to find that, wherever They went, they came at last, through loops and twists of the branchy wood, to his own door. He may have thought of his own door as the beginning and end of the world, whence all things went, and whither all things came.
 
-Perhaps he did not see the lark for a long time, but he would have heard him, far out of sight in the endless sky, thrilling and thrilling imtil the world seemed to have no other soimd but that clear sweetness; and what a world it was to make that sound! Whistles and chirps; cooes and caws and croaks, would have grown familiar to him. And he could at last have told which brother of the great brotherhood was making the noise he heard at any moment. The wind too: he would have listened to its thousand voices as it moved in all seasons and in all moods. Perhaps a horse would stray into the thick screen about his home, and would look as solemnly on Fionn as Fionn did on it. Or, coming suddenly on him, the horse might stare, all a-cock with eyes and ears and nose, one long-drawn facial extension, ere he turned and bounded away with manes all over him and hoofs all under him and tails all round him. A solemn-nosed, stern-eyed cow would amble and stamp in his wood to find a flyless shadow; or a strayed sheep would poke its gentle muzzle through leaves.
+Perhaps he did not see the lark for a long time, but he would have heard him, far out of sight in the endless sky, thrilling and thrilling imtil the world seemed to have no other sound but that clear sweetness; and what a world it was to make that sound! Whistles and chirps; cooes and caws and croaks, would have grown familiar to him. And he could at last have told which brother of the great brotherhood was making the noise he heard at any moment. The wind too: he would have listened to its thousand voices as it moved in all seasons and in all moods. Perhaps a horse would stray into the thick screen about his home, and would look as solemnly on Fionn as Fionn did on it. Or, coming suddenly on him, the horse might stare, all a-cock with eyes and ears and nose, one long-drawn facial extension, ere he turned and bounded away with manes all over him and hoofs all under him and tails all round him. A solemn-nosed, stern-eyed cow would amble and stamp in his wood to find a flyless shadow; or a strayed sheep would poke its gentle muzzle through leaves.
 
 "A boy," he might think, as he stared on a staring horse, "a boy cannot wag his tail to keep the flies off," and that lack may have saddened him. He may have thought that a cow can snort and be dignified at the one moment, and that timidity is comely in a sheep. He would have scolded the jackdaw, and tried to out-whistle the throstle, and wondered why his pipe got tired when the blackbird's didn't.
 
@@ -296,11 +296,10 @@ And the other champions told their delight : the belling of a stag across water,
 
 ```
 
-This aside provides some context for another example of Fioon's character, as he plays chess with the King. 
+This aside provides some context for another example of Fionn's character, as he plays chess with the King.
 
 ```{admonition} Playing Chess with the King
 :class: dropdown
-*continues*
 
 He loved "what happened," and would not evade it by the swerve of a hair; so on this occasion what was occurring he would have occur, although a king was his rival and his master. It may be that his mother was watching the match and that he could not but exhibit his skill before her. He committed the enormity of winning seven games in succession from the king himself !!!
 
@@ -377,3 +376,66 @@ And Finn took the treasure-bag and brought it with him till he found Crimall, th
 ```
 
 Lady Gregory's version appears to be based on an original Gaelic poem, which we shall meet in the next chapter.
+
+A slightly different account of Fionn's childhood is provided in Curtin's *Myths and folk-lore of Ireland*. In his introduction to the book, Curtin claims that _"[the] myth tales in the present volume were collected by me personally in the West of Ireland, in Kerry, Galway, and Donegal, during the year 1887."_
+
+> All the tales in my collection, of which those printed in this volume form but a part, were taken down from the mouths of men who, with one or two exceptions, spoke only Gaelic, or but little English, and that imperfectly. These men belong to a group of persons, all of whom are well ad- vanced in years, and some very old ; with them will pass away the majority of the story-tellers of Ireland, unless new interest in the ancient language and lore of the country is roused
+
+```{admonition}
+
+https://archive.org/details/mythsfolkloreofi00curtuoft/page/205/mode/1up
+
+Myths and folk-lore of Ireland
+by Curtin, Jeremiah, 1835-1906
+Publication date 1890
+
+p205-210
+
+After she had disappeared from the bank of the loch, the old woman, Cumhal's mother, made her way to a thick forest, where she spent that night as best she could. Next day she came to a great oak tree. Then she hired a man to cut out a chamber in the tree.
+
+When all was finished, and there was a nice room in the oak for herself and her grandson, and a whelp of the same age as the boy, and which she had brought with her from the castle, she said to the man: " Give me the axe which you have in your hand, there is something here that I want to fix."
+
+The man gave the axe into her hand, and that minute she swept the head off him, saying: " You'll never tell any man about this place now."
+
+One day the whelp ate some of the fine chip- pings (bran) left cut by the carpenter from the inside of the tree. The old woman said: " You '11 be called Bran from this out."
+
+All three lived in the tree together, and the old woman did not take her grandson out till the end of five years ; and then he could n't walk, he had been sitting so long inside.
+
+When the old grandmother had taught the boy to walk, she brought him one day to the brow of a hill from which there was a long slope. She took a switch and said : " Now, run down this place. I will follow and strike you with this switch, and coming up I will run ahead, and you strike me as often as you can."
+
+The first time they ran down, his grandmother struck him many times. In coming up the first time, he did not strike her at all. Every time they ran down she struck him less, and every time they ran up he struck her more.
+
+They ran up and down for three days ; and at the end of that time she could not strike him once, and he struck her at every step she took. He had now become a great runner.
+
+When he was fifteen years of age, the old woman went with him to a harling match between the forces of his grandfather and those of a neighboring king. Both sides were equal in skill ; and neither was able to win, till the youth opposed his grandfather's people. Then, he won every game. When the ball was thrown in the air, he struck it coming down, and so again and again, never letting the ball touch the ground till he had driven it through the barrier.
+
+The old king, who was very angry, and greatly mortified, at the defeat of his people, exclaimed, as he saw the youth, who was very fair and had white hair: "
+
+Who is that *Fin cumhal* `[Cumhal, the name of Fin's father. Denotes also a cap or head-covering, fin = white. The punning resemblance suggested to the old woman the full name, Fin MacCumhail.]` [white cap] ? "
+
+" Ah, that is it ; Fin will be his name, and Fin MacCumhail he is," said the old woman.
+
+The king ordered his people to seize and put the young man to death, on the spot. The old woman hurried to the side of her grandson. They slipped from the crowd and away they went, a hill at a leap, a glen at a step, and thirty-two miles at a running-leap. They ran a long distance, till Fin grew tired ; then the old grandmother took him on her back, putting his feet into two pockets which were in her dress, one on each side, and ran on with the same swiftness as before, a hill at a leap, a glen at a step, and thirty-two miles at a running- leap.
+
+After a time, the old woman felt the approach of pursuit, and said to Fin: "Look behind, and tell me what you see."
+
+" I see," said he, " a white horse with a cham- pion on his back."
+
+" Oh, no fear," said she; " a white horse has no endurance ; he can never catch us, we are safe from him." And on they sped. A second time she felt the approach of pursuit, and again she said : " Look back, and see who is coming."
+
+Fin looked back, and said : " I see a warrior riding on a brown horse."
+
+"Never fear," said the old woman; "there is never a brown horse but is giddy, he cannot overtake us." She rushed on as before. A third time she said : " Look around, and see who is coming now."
+
+Fin looked, and said : " I see a black warrior on a black horse,, following fast."
+
+" There is no horse so tough as a black horse," said the grandmother. " There is no escape from this one. My grandson, one or both of us must die. I am old, my time has nearly come. I will die, and you and Bran save yourselves. (Bran had been with them all the time.) Right here ahead is a deep bog; you jump off my back, and escape as best you can. I'll jump into the bog up to my neck; and when the king's men come, I '11 say that you are in the bog before me, sunk out of sight, and I 'm trying to find you. As my hair and yours are the same color, they will think my head good enough to carry back. They will cut it off, and take it in place of yours, and show it to the king; that will satisfy his anger."
+
+Fin slipped down, took farewell of his grandmother, and hurried on with Bran. The old woman came to the bog, jumped in, and sank to her neck. The king's men were soon at the edge of the bog, and the black rider called out to the old woman: "Where is Fin?"
+
+" He is here in the bog before me, and I 'm trying can I find him."
+
+As the horsemen could not find Fin, and thought the old woman's head would do to carry back, they cut it off, and took it with them, saying : "This will satisfy the king."
+
+
+```
