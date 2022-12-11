@@ -325,3 +325,107 @@ Now there were among the men-at-arms an old follower of Finn's father, Cumhal, w
 Then Cormac the King set Finn before the Fianna, and bade them all either swear obedience to him as their captain or seek service elsewhere. And first of all Goll mac Morna swore service, and then all the rest followed, and Finn became Captain of the Fianna of Erin, and ruled them till he died.
 
 ```
+
+Once again, Jeremiah Curtin's telling of the tale is significantly different.
+
+```{admonition} *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
+https://archive.org/details/mythsfolkloreofi00curtuoft/page/212/mode/1up
+Myths and folk-lore of Ireland
+by Curtin, Jeremiah, 1835-1906
+Publication date 1890
+
+p213-220
+
+Fin with Bran now went on his way, and travelled till he reached a deep and thick wood, where a thousand horses were drawing timber, and men felling and preparing it.
+
+"What is this?" asked Fin of the overseer of the workmen.
+
+" Oh, we are building a dun (a castle) for the king; we build one everyday, and every night it is burned to the ground. Our king has an only daughter ; he will give her to any man who will save the dun, and he '11 leave him the kingdom at his death. If any man undertakes to save the dun and fails, his life must pay for it; the king will cut his head off. The best champions in Erin have tried and failed ; they are now in the king's dun- geons, a whole army of them, waiting the king's pleasure. He 's going to cut the heads off them all in one day."
+
+"Why don't you chew your thumb?" asked Bran.
+
+Fin chewed his thumb to the marrow, and then knew that on the eastern side of the world there lived an old hag with her three sons, and every evening at nightfall she sent the youngest of these to burn the king's dun.
+
+" I will save the king's dun," said Fin.
+
+" Well," said the overseer, " better men than you have tried and lost their lives."
+
+"Oh," said Fin, "I'm not afraid; I'll try for the sake of the king's daughter."
+Now Fin, followed by Bran, went with the overseer to the king. " I hear you will give your daughter to the man who saves your dun," said Fin.
+
+" I will," said the king; "but if he fails I must have his head."
+
+" Well," said Fin, " I '11 risk my head for the sake of your daughter. If I fail I 'm satisfied." The king gave Fin food and drink; he supped, and after supper went to the dun.
+
+" Why don't you chew your thumb? " said Bran ; " then you'll know what to do." He did. Then Bran took her place on the roof, waiting for the old woman's son. Now the old woman in the east told her youngest son to hurry on with his torches, burn the dun, and come back without delay; for the stirabout was boiling and he must not be too late for supper.
+
+He took the torches, and shot off through the air with a wonderful speed. Soon he was in sight of the king's dun, threw the torches upon the thatched roof to set it on fire as usual.
+
+That moment Bran gave the torches such a push with her shoulders, that they fell into the stream which ran around the dun, and were put out. " Who is this," cried the youngest son of the old hag, " who has dared to put out my lights, and interfere with my hereditary right? "
+
+" I," said Fin, who stood in front of him. Then began a terrible battle between Fin and the old woman's son. Bran came down from the dun to help Fin ; she bit and tore his enemy's back, strip- ping the skin and flesh from his head to his heels.
+
+After a terrible struggle such as had not been in the world before that night, Fin cut the head off his enemy. But for Bran, Fin could never have conquered.
+The time for the return of her son had passed ; supper was ready. The old woman, impatient and angry, said to the second son : " You take torches and hurry on, see why your brother loiters. I '11 pay him for this when he comes home ! But be careful and don't do like him, or you '11 have your pay too. Hurry back, for the stirabout is boiling and ready for supper."
+
+He started off, was met and killed exactly as his brother, except that he was stronger and the battle fiercer. But for Bran, Fin would have lost his life that night.
+
+The old woman was raging at the delay, and said to her eldest son, who had not been out of the house for years : (It was only in case of the greatest need that she sent him. He had a cat's head, and was called Pus an Chuine, " Puss of the Corner;" he was the eldest and strongest of all the brothers.) " Now take torches, go and see what delays your brothers ; I '11 pay them for this when they come home."
+
+The eldest brother shot off through the air, came to the king's dun, and threw his torches upon the roof. They had just singed the straw a little, when Bran pushed them off with such force that they fell into the stream and were quenched.
+" Who is this," screamed Cat-head, " who dares to interfere with my ancestral right? "
+
+" I," shouted Fin. Then the struggle began fiercer than with the second brother. Bran helped from behind, tearing the flesh from his head to his heels; but at length Cat-head fastened his teeth into Fin's breast, biting and gnawing till Fin cut the head off. The body fell to the ground, but the head lived, gnawing as terribly as before. Do what they could it was impossible to kill it. Fin hacked and cut, but could neither kill nor pull it off. When nearly exhausted, Bran said  Why don't you chew your thumb? "
+
+Fin chewed his thumb, and reaching the marrow knew that the old woman in the east was ready to start with torches to find her sons, and burn the dun herself, and that she had a vial of liquid with which she could bring the sons to life; and that nothing could free him from Cat-head but the old woman's blood.
+After midnight the old hag, enraged at the delay of her sons, started and shot through the air like lightning, more swiftly than her sons. She threw her torches from afar upon the roof of the dun ; but Bran as before hurled them into the stream.
+
+Now the old woman circled around in the air looking for her sons. Fin was getting very weak from pain and loss of blood, for Cat-head was biting at his breast alt the time.
+
+Bran called out: " Rouse yourself, oh, Fin; use all your power or we are lost! If the old hag gets a drop from the vial upon the bodies of her sons, they will come to life, and then we're done for."
+
+Thus roused, Fin with one spring reached the old woman in the air, and swept the bottle from her grasp ; which falling upon the ground was emptied.
+
+The old hag gave a scream which was heard all over the world, came to the ground and closed with Fin. Then followed a battle greater than the world had ever known before that night, or has ever seen since. Water sprang out of gray rocks, cows cast their calves even when they had none, and hard rushes grew soft in the remotest corner of Erin, so desperate was the fighting and so awful, between Fin and the old hag. Fin would have died that night but for Bran.
+
+Just as daylight was coming Fin swept the head off the old woman, caught some of her blood, and rubbed it around Cat-head, who fell off dead.
+
+He rubbed his own wounds with the blood and was cured ; then rubbed some on Bran, who had been singed with the torches, and she was as well as ever. Fin, exhausted with fighting, dropped down and fell asleep.
+
+While he was sleeping the chief steward of the king came to the dun, found it standing safe and sound, and seeing Fin lying there asleep knew that he had saved it. Bran tried to waken Fin, pulled and tugged, but could not rouse him.
+The steward went to the king, and said : " I have saved the dun, and I claim the reward."
+
+" It shall be given you," answered the 'king; and straightway the steward was recognized as the king's son-in-law, and orders were given to make ready for the wedding.
+
+Bran had listened to what was going on, and when her master woke, exactly at midday, she told him of all that was taking place in the castle of the king.
+Fin went to the king, and said : " I have saved your dun, and I claim the reward."
+
+" Oh," said the king, " my steward claimed the reward, and it has been given to him."
+
+" He had nothing to do with saving the dun ; I saved it," said Fin.
+
+" Well," answered the king, " he is the first man who told me of its safety and claimed the reward."
+
+" Bring him here : let me look at him," said Fin.
+
+He was sent for, and came. " Did you save the king's dun ? " asked Fin. " I did," said the steward.
+
+" You did not, and take that for your lies," said Fin ; and striking him with the edge of his open hand he swept the head off his body, dashing it against the other side of the room, flattening it like paste on the wall.
+
+" You are the man," said the king to Fin, " who saved the dun; yours is the reward. All the champions, and there is many a man of them, who have failed to save it are in the dungeons of my fortress; their heads must be cut off before the wedding takes place."
+
+"Will you let me see them? " asked Fin.
+
+" I will," said the king.
+
+Fin went down to the men, and found the first champions of Erin in the dungeons.
+
+" Will you obey me in all things if I save you from death?" said Fin. "We will," said they. Then he went back to the king and asked:
+
+" Will you give me the lives of these champions of Erin, in place of your daughter's hand?"
+
+" I will," said the king.
+
+All the champions were liberated, and left the king's castle that day. Ever after they followed the orders of Fin, and these were the beginning of his forces and the first of the Fenians of Erin.
+
+```
