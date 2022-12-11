@@ -24,4 +24,10 @@ For the early tales, I have tended to rely on:
 - Standish O'Grady, [*Finn and his companions*](https://archive.org/details/finnhiscompanio00ogra/page/n205/mode/2up), 1892
 - Jeremiah Curtin, [*Myths and folk-lore of Ireland*](https://archive.org/details/mythsfolkloreofi00curtuoft), 1890
 
-Many of the tellings are translations or retellings of the same, earlier works, and so there is a certain amount of duplication. This may be useful, however, when rying to find a telling that works as a good basis for my own telling, triangulating on common stroy points, and also discovering particular turns of phrase that add colour or help elucidate or move the story along in an interesting or engaging way.
+Many of the tellings are translations or retellings of the same, earlier works, and so there is a certain amount of duplication. This may be useful, however, when rying to find a telling that works as a good basis for my own telling, triangulating on common story points, and also discovering particular turns of phrase that add colour or help elucidate or move the story along in an interesting or engaging way.
+
+## A Note on the Irish *Fenian Cycle* Versus the Scottish *Ossianic* Versions of the Tales
+
+Source books of tales relating to Fionn Mac Cumhail come to us from both Irish and Scottish Gaelic traditions. I have tended to focus on the Irish tradition. The Scottish tradition is based heavily on a set of Gaelic Poems, the [*Ossian*](https://en.wikipedia.org/wiki/Ossian) poems, supposedly discovered by [James Macpherson](https://en.wikipedia.org/wiki/James_Macpherson) in the 18th century. This was a hoax, and I really need to add a chapter about it.
+
+In collecting the various tales together in thus unbook, my intention is to put together an Irish traditional collection that can act as a set of storynotes to support my own tellings. If any stories leak in from the Scottish Ossian tradition, perhaps becuase they are stories that I like so much I want to tell them, or that give me a hook or jigsaw piece I feel I can use to pull some of th eother pieces together, please forgive — and let me know...
