@@ -12,6 +12,7 @@ parts:
   - file: finn-childhood
   - file: finn-pedigree
   - file: salmon-of-knowledge
+  - file: finn_leadership_fianna
 - caption: The Fianna
   chapters:
   - file: dermot_love_spot

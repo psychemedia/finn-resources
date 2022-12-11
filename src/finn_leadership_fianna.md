@@ -1,7 +1,14 @@
 # Fionn's Leadership of the Fianna
 
+Fionn's father, ??, had been the leader of the Fianna until Goll Mac Morna killed him at ?? the batle of Cnuchna and took over the leadership. So how did Fionn regain the leadership of that brave band of warriors?
+
+The tale that is told brings a close to the tales of Fionn's youth. Having been brought up to be finest the athletes, having acquired the gifts of poetry and knowledge after his apprenticeship to Finegas, and his eating of the Samlmon of Knpowledge, and after a period of acting as a mercenary for many of the Lords of Ireland, Fionn came at last to the court of Conn of the Hundred Battles, at Tara.
+
+The core of the story is this:
+
+> It is Sammhain Eve, and Fionn sits among the nobles. He is asked who he is: son of Uail. During the festivities, Conn asks who will defend them against the monster that will come that night. Fionn takes up the challenge. He is given a spear that will keep him awake. When the fire breathing Aillen approaches, charming all to sleep with its music, Fionn uses the spear to stay awake, and defeats Aillen. His reward, anything reasonably asked, is to become leader of thre Fianna. Goll is given the choice to leavee or show allegiance to Fionn, as new leader. He shows allegiance.
+
 ```{admonition} James Stephens
-```
 
 Irish Fairy Tales
 by James Stephens
@@ -202,9 +209,7 @@ But Fionn's eye was the eye of a wild creature that spies on darkness and moves 
 
 Fionn bent to his spear and unloosed its coverings.
 
-Then from the darkness there came another sound; a low, sweet soimd; thrillingly joyous, thrillingly low; so low the ear could scarcely note it, so sweet the ear wished to
-
-catch nothing else and would strive to hear ' it rather than all sounds that may be heard by man: the music of another world! the unearthly, dear melody of the Shi! So sweet it was that the sense strained to it, and having reached must follow drowsily in its wake, and would merge in it, and could not return again to its own place imtil that strange harmony was finished and the ear restored to freedom.
+Then from the darkness there came another sound; a low, sweet soimd; thrillingly joyous, thrillingly low; so low the ear could scarcely note it, so sweet the ear wished to catch nothing else and would strive to hear ' it rather than all sounds that may be heard by man: the music of another world! the unearthly, dear melody of the Shi! So sweet it was that the sense strained to it, and having reached must follow drowsily in its wake, and would merge in it, and could not return again to its own place imtil that strange harmony was finished and the ear restored to freedom.
 
 But Fionn had taken the covering from his spear, and with his brow pressed close to it he kept his mind and all his senses engaged on that sizzling, murderous point.
 
@@ -236,15 +241,15 @@ On that morning all were astir early. They wished to see what destruction had be
 
 "Make your choice," said Conn to Goll Mor; "you will leave Ireland, or you will place your hand in the hand of this champion and be his man."
 
-GroU could do a thing that would be hard for another person, and he could do it so beautifully that he was not diminished by any action.
+Goll could do a thing that would be hard for another person, and he could do it so beautifully that he was not diminished by any action.
 
 "Here is my hand," said Goll.
 
-And he twinkled at the stem, young eyes that gazed on him as he made his submission.
+And he twinkled at the stern, young eyes that gazed on him as he made his submission.
 
+```
 
-
-
+```{admonition} In *Gods and Fighting Men*, Lady Gregory, 1904
 
 https://archive.org/details/godsfightingmens00gregrich/page/164/mode/1up?q=cat
 
@@ -318,3 +323,5 @@ At this time Goll son of Morna was the captain of the Fianna of Erin, but Finn, 
 Now there were among the men-at-arms an old follower of Finn's father, Cumhal, who possessed a magic spear with a head of bronze and rivets of Arabian gold. The head was kept laced up in a leathern case ; and it had the property that when the naked blade was laid against the forehead of a man it would fill him with a strength and a battle-fury that would make him invincible in every combat. This spear the man Fiacha gave to Finn, and taught him how to use it, and with it he awaited the coming of the goblin on the ramparts of Tara. As night fell and mists began to gather in the wide plain around the Hill he saw a shadowy form coming swiftly towards him, and heard the notes of the magic harp. But laying the spear to his brow he shook off the spell, and the phantom fled before him to the Fairy Mound of Slieve Fuad, and there Finn overtook and slew him, and bore back his head to Tara.
 
 Then Cormac the King set Finn before the Fianna, and bade them all either swear obedience to him as their captain or seek service elsewhere. And first of all Goll mac Morna swore service, and then all the rest followed, and Finn became Captain of the Fianna of Erin, and ruled them till he died.
+
+```
