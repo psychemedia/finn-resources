@@ -7,24 +7,6 @@ https://youtu.be/ceMwvbLXrYc?t=686
 
 fi-un
 
-allien mac mithna
-allyan mac meerna
-fee uck a
-
-Myths and legends ; the Celtic race
-by Rolleston, T. W. (Thomas William), 1857-1920
-Publication date 1910
-https://archive.org/details/mythslegendscelt00roll/page/n11/mode/2up
-
-Incl love spot p291-2
-
-How Dermot Got the Love Spot
-
-He was called Dermot of the Love Spot, and a curious and beautiful folk-tale recorded by Dr. Douglas Hyde `[Taken down from the recital of a peasant in Co. Galway and published at Rennes in Dr. Hyde's " An Sgeuluidhe Gaodhalach," vol. ii. (no translation).]` tells how he got this appellation. With three comrades, Goll, Conan, and Oscar, he was hunting one day, and late at night they sought a resting-place. They soon found a hut, in which were an old man, a young girl, a wether sheep, and a cat. Here they asked for hospitality, and it was granted to them. But, as usual in these tales, it was a house of mystery.
-
-When they sat down to dinner the wether got up and mounted on the table. One after another the Fianna strove to throw it off, but it shook them down on the floor. At last Goll succeeded in flinging it off the table, but him too it vanquished in the end, and put them all under its feet.   Then the old man bade the cat lead tne wether back and fasten it up, and it did so easily. The four champions, overcome with shame, were for leaving the house at once ; but the old man explained that they had suffered no discredit — the wether they had been fighting with was the World, and the cat was the power that would destroy the world itself, namely, Death.
-
-At night the four heroes went to rest in a large chamber, and the young maid came to sleep in the same room ; and it is said that her beauty made a light on the walls of the room like a candle. One after another the Fianna went over to her couch, but she repelled them all. "I belonged to you once," she said to each, "and I never will again." Last of all Dermot went. " O Dermot," she said, " you, also, I belonged to once, and I never can again, for I am Youth ; but come here and I will put a mark on you so that no woman can ever see you without loving you." Then she touched his forehead, and left the Love Spot there ; and that drew the love of women to him as long as he lived.
 
 ------
 

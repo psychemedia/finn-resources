@@ -382,8 +382,8 @@ A slightly different account of Fionn's childhood is provided in Curtin's *Myths
 > All the tales in my collection, of which those printed in this volume form but a part, were taken down from the mouths of men who, with one or two exceptions, spoke only Gaelic, or but little English, and that imperfectly. These men belong to a group of persons, all of whom are well ad- vanced in years, and some very old ; with them will pass away the majority of the story-tellers of Ireland, unless new interest in the ancient language and lore of the country is roused
 
 ```{admonition} "Birth of Fin MacCumhail", in *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
-
 :class: dropdown
+
 https://archive.org/details/mythsfolkloreofi00curtuoft/page/205/mode/1up
 
 Myths and folk-lore of Ireland
@@ -398,9 +398,9 @@ When all was finished, and there was a nice room in the oak for herself and her 
 
 The man gave the axe into her hand, and that minute she swept the head off him, saying: " You'll never tell any man about this place now."
 
-One day the whelp ate some of the fine chip- pings (bran) left cut by the carpenter from the inside of the tree. The old woman said: " You '11 be called Bran from this out."
+One day the whelp ate some of the fine chippings (*bran*) left cut by the carpenter from the inside of the tree. The old woman said: " You'll be called Bran from this out."
 
-All three lived in the tree together, and the old woman did not take her grandson out till the end of five years ; and then he could n't walk, he had been sitting so long inside.
+All three lived in the tree together, and the old woman did not take her grandson out till the end of five years ; and then he couldn't walk, he had been sitting so long inside.
 
 When the old grandmother had taught the boy to walk, she brought him one day to the brow of a hill from which there was a long slope. She took a switch and said : " Now, run down this place. I will follow and strike you with this switch, and coming up I will run ahead, and you strike me as often as you can."
 
@@ -420,7 +420,7 @@ The king ordered his people to seize and put the young man to death, on the spot
 
 After a time, the old woman felt the approach of pursuit, and said to Fin: "Look behind, and tell me what you see."
 
-" I see," said he, " a white horse with a cham- pion on his back."
+" I see," said he, " a white horse with a champion on his back."
 
 " Oh, no fear," said she; " a white horse has no endurance ; he can never catch us, we are safe from him." And on they sped. A second time she felt the approach of pursuit, and again she said : " Look back, and see who is coming."
 
@@ -430,7 +430,7 @@ Fin looked back, and said : " I see a warrior riding on a brown horse."
 
 Fin looked, and said : " I see a black warrior on a black horse,, following fast."
 
-" There is no horse so tough as a black horse," said the grandmother. " There is no escape from this one. My grandson, one or both of us must die. I am old, my time has nearly come. I will die, and you and Bran save yourselves. (Bran had been with them all the time.) Right here ahead is a deep bog; you jump off my back, and escape as best you can. I'll jump into the bog up to my neck; and when the king's men come, I '11 say that you are in the bog before me, sunk out of sight, and I 'm trying to find you. As my hair and yours are the same color, they will think my head good enough to carry back. They will cut it off, and take it in place of yours, and show it to the king; that will satisfy his anger."
+" There is no horse so tough as a black horse," said the grandmother. " There is no escape from this one. My grandson, one or both of us must die. I am old, my time has nearly come. I will die, and you and Bran save yourselves. (Bran had been with them all the time.) Right here ahead is a deep bog; you jump off my back, and escape as best you can. I'll jump into the bog up to my neck; and when the king's men come, I'll say that you are in the bog before me, sunk out of sight, and I'm trying to find you. As my hair and yours are the same color, they will think my head good enough to carry back. They will cut it off, and take it in place of yours, and show it to the king; that will satisfy his anger."
 
 Fin slipped down, took farewell of his grandmother, and hurried on with Bran. The old woman came to the bog, jumped in, and sank to her neck. The king's men were soon at the edge of the bog, and the black rider called out to the old woman: "Where is Fin?"
 

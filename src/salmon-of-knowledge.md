@@ -4,18 +4,18 @@ The *Salmon of Knowlege* is a widely told fragment from the Fenian Cycle. As we 
 
 In essence, the story is as follows:
 
-> Fionn seeks the knowledge of poetry, and apprentices to Finegas, who lives by the Botne and desires nothing more than to eat the Salmon of the Knowledge. One day he catches it, and asks Fionn, called Deimne (*Djev-nuh*) to cook it but not to eat it. Unbeknownst to Fionn, Finegas knows a prophcy that suggests one called Fionn will eat the fish and receive the gift of knowledge. As he cooks the fish, a blister appears on it. Fionn bursts the blister and a spot of hot jiuce burns his hamd. He sucks it, and receives the gift of knowledge. Thereafter, if he holds his thumb to hs back tooth, he will know the answer to his question.
+> Fionn seeks the knowledge of poetry, and apprentices to Finegas, who lives by the Boyne and desires nothing more than to eat the Salmon of the Knowledge. One day he catches it, and asks Fionn, called Deimne (*Djev-nuh*) to cook it but not to eat it. Unbeknownst to Fionn, Finegas knows a prophcy that suggests one called Fionn will eat the fish and receive the gift of knowledge. As he cooks the fish, a blister appears on it. Fionn bursts the blister and a spot of hot jiuce burns his hamd. He sucks it, and receives the gift of knowledge. Thereafter, if he holds his thumb to hs back tooth, he will know the answer to his question.
 
 There are parallels to the tale of the birth of Taliesin in Welsh folklore, in which the boy Gwion Bach is burned by three scalding drops on his hand that burst from a bubbling cauldron. The cauldron belongs to Ceridwen, the sorceress, who is brewing a potion of knowledge for the benefit of her son. In  putting his hand to his mouth to alleviate the pain of the burn, he tastes the drops, and the magic is done: Gwion Bach receives the knowledge, and the cauldron's contents turn to poison, bursting the cauldron as they do so.
 
 Rolleston's account is, as ever, concise and to the point:
 
-
-```{admonition}
+```{admonition} In *The High Deeds of Finn*, T. W. Rolleston, 1910
 :class: dropdown
 https://archive.org/details/in.ernet.dli.2015.178478/page/n123/mode/2up?q=salmon
 The High Deeds Of Finn
-by T.w.rolleston
+
+by T. W. Rolleston
 
 Publication date 1910
 p113-
@@ -76,7 +76,6 @@ Of delicate-hued, delightful May.
 `[I am much indebted to the beautiful prose translation of this song, published by Dr Kuno Meyer in Ériu (the Journal of the School of Irish Learning), Vol. I. Part II. In my poetic version an attempt has been made to render the riming and metrical effect of the original, which is believed to date from about the ninth century.]`
 
 ```
-
 
 Stephens' account adds rather more colour to it:
 
