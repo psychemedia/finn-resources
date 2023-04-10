@@ -1,12 +1,12 @@
 # How Oisín Got His Name
 
-Oisín's downfall, if we can call it such, was a consequnce of returning from the eternal land of youth and setting foot on the ground of Ireland, at which point the weight of human years fell upon him. It was the fair lady Niamh who had seduced him into visiting Tír Na Nóg, of course, but how had Oísin come to the attention of this fairy maiden?
+Oisín's downfall, if we can call it such, was a consequence of returning from the eternal land of youth and setting foot on the ground of Ireland, at which point the weight of human years fell upon him. It was the fair lady Niamh who had seduced him into visiting Tír Na Nóg, of course, but how had Oísin come to the attention of this fairy maiden?
 
 Perhaps in part, the answer lays with Oisín's parentage. He was, of course, the son of Fionn Mac Cumhail, but what of his mother? Thereby lays a tale, of course...
 
 Briefly told, the story is as follows:
 
-> Fionn and the Fianna are out hunting one day, when the dogs give chase to a deer. Bran and Sceolan lead out, as if they don't want the rest of the pack to follow. Fionn finds them protecting the deer, nuzzling it as it nuzzles Fionn. He takes it to the camp. That night a beautiful maiden, Saeve, appears. She seeks protection from an evil wizard. They fall in love. One day, Fionn goes to battle. Afterwards he returns home but his wife is not there: she was tempted out by a sorcerer who looked like FIonn, hit her with a hazel stick and turned her into a deer. Fionn hunts for  her in vain. Some years later, out hunting again, the dogs run off and sound to be protecting something: a small, mute boy. The boy is named Oisín, little fawn. After some time, he speaks, and tells of being protected by a dear, and there being an evil wizard.
+> Fionn and the Fianna are out hunting one day, when the dogs give chase to a deer. Bran and Sceolan lead out, as if they don't want the rest of the pack to follow. Fionn finds them protecting the deer, nuzzling it as it nuzzles Fionn. He takes it to the camp. That night a beautiful maiden, Saeve, appears. She seeks protection from an evil wizard. They fall in love. One day, Fionn goes to battle. Afterwards he returns home but his wife is not there: she was tempted out by a sorcerer who looked like Fionn, hit her with a hazel stick and turned her into a deer. Fionn hunts for  her in vain. Some years later, out hunting again, the dogs run off and sound to be protecting something: a small, mute boy. The boy is named Oisín, little fawn. After some time, he speaks, and tells of being protected by a dear, and there being an evil wizard.
 
 ```{admonition} In *Gods and Fighting Men*, Lady Gregory, 1904
 :class: dropdown
@@ -45,7 +45,8 @@ And the name the Fianna gave him was Oisin, and it is he was their maker of poem
 
 ```
 
-```{admonition} "Oisín's Mother", Jems Stephns, 1920
+```{admonition} "Oisín's Mother", James Stephnes, 1920
+:class: dropdown
 
 Irish Fairy Tales
 by James Stephens
