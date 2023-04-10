@@ -7,7 +7,7 @@ So what, then, was the childhood of this mighty warrior like?
 > He was a king, a seer, and a poet. He was a lord with a manifold and great train. He was our magician, our knowledgeable one, our soothsayer. All that he did was sweet with him. And, however ye deem my testimony of Fionn excessive, and, although ye hold my praising overstrained, nevertheless, and by the King that is above me, he was three times better than all I say.
 > —Saint Patrick.
 
-The story bgins with the death of Uail (Cumhall, "Cool"), Fionn's father, and the actions of his mother, Muirne, to keep Fionn safe by placing him into the care of two women. Fionn's early upgringing by them is also described.
+The story begins with the death of Uail (Cumhall, "Cool"), Fionn's father, and the actions of his mother, Muirne, to keep Fionn safe by placing him into the care of two women. Fionn's early upbringing by them is also described.
 
 ```{admonition} Boyhood of Fion, Chapters I-IV, Stephens, 1920
 :class: dropdown
@@ -120,7 +120,7 @@ You cannot catch a fish by swimming, but you can try, and Fionn tried. He got a 
 So the time went, and Fionn grew long and straight and tough like a sapling; limber as a willow, and with the flirt and spring of a young bird. One of the ladies may have said, "He is shaping very well, my dear," and the other replied, as is the morose privilege of an aunt, "He will never be as good as his father," but their hearts must have overflowed in the night, in the silence, in the darkness, when they thought of the living swiftness they had fashioned, and that dear, fair head.
 ```
 
-With Fionn's location discovered by the clan Morna, who had killed Fionn's father, it was time for the boy to lave his childhood home.
+With Fionn's location discovered by the clan Morna, who had killed Fionn's father, it was time for the boy to leave his childhood home.
 
 ```{admonition} Boyhood of Fion, Chapter V, Stephens, 1920
 :class: dropdown
@@ -437,6 +437,5 @@ Fin slipped down, took farewell of his grandmother, and hurried on with Bran. Th
 " He is here in the bog before me, and I 'm trying can I find him."
 
 As the horsemen could not find Fin, and thought the old woman's head would do to carry back, they cut it off, and took it with them, saying : "This will satisfy the king."
-
 
 ```
