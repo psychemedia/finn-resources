@@ -461,3 +461,12 @@ Fin went down to the men, and found the first champions of Erin in the dungeons.
 All the champions were liberated, and left the king's castle that day. Ever after they followed the orders of Fin, and these were the beginning of his forces and the first of the Fenians of Erin.
 
 ```
+
+
+TO DO -  last 3(?) chapters also tell the tale in https://archive.org/details/finnhiscompanion00ogra_0/page/125/mode/1up
+Finn and his companions
+by O'Grady, Standish, 1846-1928
+p126-132
+
+Also to do - when Fionn meets the men as hinted in finn childhood?
+
