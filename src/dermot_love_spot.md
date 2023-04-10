@@ -24,7 +24,7 @@ The men rose up then, but they had no mind to go on eating, for there was shame 
 They were talking together then, and they had their food eaten, and the old man said their beds were ready for them that they could go to sleep. The four of them went then into the one room, and when they were in their beds the young girl came to sleep in the same room with them, and the light of her beauty was shining on the walls like as if it was the light of a candle.
 
 And when Conan saw her he went over to the side of the bed where she was.
-Now, it was Youth the young girl was, and when sh£ saw Conan coming to her : " Go back to your bed, Conan," she said ; " I belonged to you once, and I will never belong to you again." Conan went back to his bed then, and Osgar had a mind to go over where she was. Then she said to him : " Where are you going ? " " I am going over to yourself for a while," said he.
+Now, it was Youth the young girl was, and when she saw Conan coming to her : " Go back to your bed, Conan," she said ; " I belonged to you once, and I will never belong to you again." Conan went back to his bed then, and Osgar had a mind to go over where she was. Then she said to him : " Where are you going ? " " I am going over to yourself for a while," said he.
 
 " Go back again, Osgar," she said ; " I belonged to you once, and I will never belong to you again."
 
