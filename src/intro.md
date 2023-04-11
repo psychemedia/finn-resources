@@ -4,7 +4,9 @@ A great many tales are there to be told of Fionn MacCumhaill and the Fianna, the
 
 This living unbook project[^unbook] is intended to capture my own personal journey into, and through, the tales of the Fianna. As with other storynotes projects, the same tales may well appear multiple times, demonstrating different ways in which the same tale has been told and providing a way to triangulate towards the core story points, as well as providing alternative tellings with which to get started on a particular tale.
 
-In some respects, then, this work will become something of a reference book for me to look up notes on stories I intend to tell, or have told and will hopefully tell again. It will also provide a reference to help me keep things consistent, particular if I tell several of the tales to the same audience over an extended period of time. The characters will have their own histories, and their own personalities, and if I am to keep referring them to the same audiences, truth will have to be maintained and the world and its characters will have to remain consistent.
+In some respects, then, this work will become something of a reference book for me to look up notes on stories I intend to tell, or have told and will hopefully tell again. The books referred to are, in the main, out of copyright works that date back one hundred years or more: as a teller of *traditional* tales, part of my aim is to retell stories that contemporary to a time before now, and one of doing that is to forego a reliance on more recent references.
+
+This work will also provide a reference to help me keep things consistent, particularly if I tell several of the tales to the same audience over an extended period of time. The characters will have their own histories, and their own personalities, and if I am to keep referring them to the same audiences, truth will have to be maintained and the world and its characters will have to remain consistent.
 
 My own tellings will remain *unwritten*. I may well end up with particular ways of telling the same story that essentially unchanged from a previous telling, but that will be as much an artefact of memory and momentum rather than having learned a particular telling from a written down gold master version.
 
@@ -28,6 +30,19 @@ Many of the tellings are translations or retellings of the same, earlier works, 
 
 ## A Note on the Irish *Fenian Cycle* Versus the Scottish *Ossianic* Versions of the Tales
 
-Source books of tales relating to Fionn Mac Cumhail come to us from both Irish and Scottish Gaelic traditions. I have tended to focus on the Irish tradition. The Scottish tradition is based heavily on a set of Gaelic Poems, the [*Ossian*](https://en.wikipedia.org/wiki/Ossian) poems, supposedly discovered by [James Macpherson](https://en.wikipedia.org/wiki/James_Macpherson) in the 18th century. This was a [likely fraud](https://www.historicmysteries.com/james-macpherson-ossian-fraud/), and I really need to add a chapter about it.
+Source books of tales relating to Fionn Mac Cumhail come to us from both Irish and Scottish Gaelic traditions. I have tended to focus on the Irish tradition. The Scottish tradition incorporates a set of Gaelic Poems, the [*Ossian*](https://en.wikipedia.org/wiki/Ossian) poems, supposedly discovered by [James Macpherson](https://en.wikipedia.org/wiki/James_Macpherson) in the 18th century. This was a [literary fraud](https://www.historicmysteries.com/james-macpherson-ossian-fraud/), as for example described in John Smart's [*James Macpherson : an episode in literature*](https://archive.org/details/jamesmacphersone00smar/), 1905.
+
+---
+TO DO 
+
+https://archive.org/details/ossianossianicli00nuttiala
+Ossian and the Ossianic literature, 2nd dition
+by Nutt, Alfred Trübner, 1856-1910
+
+Publication date 1910 
+(first edition 1899)
+
+
+---
 
 In collecting the various tales together in thus unbook, my intention is to put together an Irish traditional collection that can act as a set of storynotes to support my own tellings. If any stories leak in from the Scottish Ossian tradition, perhaps because they are stories that I like so much I want to tell them, or that give me a hook or jigsaw piece I feel I can use to pull some of the other pieces together, please forgive — and let me know...
