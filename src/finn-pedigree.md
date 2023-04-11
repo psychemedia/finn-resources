@@ -150,7 +150,7 @@ William Smith O'Brien, Esq.
 
 ```
 
-The translation then follows. We note that in the translation of the pernultimate stanza of the song claimed to be sung about Fionn and the sons of Morna, the footnote only provides a geohraphical, rather than explanatory context regarding their final meeting at Teamhair Luachra (Tara Luachra in Kuno Meyer's account). Which is to say: no mention of the pigs, that we will hear about from another translated poem.
+The translation then follows. We note that in the translation of the pernultimate stanza of the song claimed to be sung about Fionn and the sons of Morna, the footnote only provides a geographical, rather than explanatory context regarding their final meeting at Teamhair Luachra (Tara Luachra in Kuno Meyer's account). Which is to say: no mention of the pigs, that we will hear about from another translated poem.
 
 `````{admonition} The Boyish Exploits of Finn, transl. John O'Donovan, 1858(?)
 :class: dropdown
@@ -324,6 +324,7 @@ Cumhal was killed in the battle, and within that year the king's daughter had a 
 By command of his grandfather, the boy was thrown out of the castle window into a loch, to be drowned, on the day of his birth.
 
 The boy sank from sight; but after remaining a while under the water, he rose again to the surface, and came to land holding a live salmon in his hand.
+
 The grandmother of the boy, Cumhal's mother, stood watching on the shore, and said to herself as she saw this : " He is my grandson, the true son of my own child," and seizing the boy, she rushed away with him, and vanished, before the king's people could stop her.
 
 When the king heard that the old woman had escaped with his daughter's son, he fell into a terrible rage, and ordered all the male children born that day in the kingdom to be put to death, hoping in this way to kill his own grandson, and save the crown for himself.
