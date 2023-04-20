@@ -112,7 +112,7 @@ This was also told of Keelta after he had seen St Patrick and received the Faith
 
 ```
 
-I forget where I first heard this tale that describes just how swiftly Cuilthe was said to be able to run, but I love it for the comic potential.
+I forget where I first heard the following tale, which describes just how swiftly Cuilthe was said to be able to run, but I love it for the comic potential.
 
 ```{admonition} Cuilthe and the Sands of Ireland
 :class: dropdown
