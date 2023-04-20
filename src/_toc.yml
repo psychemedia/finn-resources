@@ -16,6 +16,8 @@ parts:
   - file: finn_leadership_fianna
 - caption: The Fianna
   chapters:
+  - file: entry-tests
+  - file: meet-the-heroes
   - file: dermot_love_spot
 - caption: Resources
   chapters:
