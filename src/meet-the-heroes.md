@@ -36,7 +36,7 @@ Though Conan was a coward and rarely adventured himself in battle with the Fiann
 
 Dermot, about whom the saga of his romance with Grainne forms another, significant, tale, is briefly characterised:
 
-```{amonotion} Dermot of the Love-Spot
+```{admonition} Dermot of the Love-Spot
 :class: dropdown
 
 In *CHAPTER XI: Finn's Chief Men*, of [*The High Deeds Of Finn*](https://archive.org/details/in.ernet.dli.2015.178478/page/n131/mode/2up), T. W. Rolleston, 1910, pp120-128.
