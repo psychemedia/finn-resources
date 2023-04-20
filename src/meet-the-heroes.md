@@ -1,6 +1,6 @@
 # Meet the Heroes
 
-The tale I tend to refer to as *The Cottage, the cat and the goat* (based on the variant I first heard) provides a great frame for describing some of the characteristics of several of the Fianna heroes.
+The tale I tend to refer to as *The Cottage, the cat and the goat* (based on the variant I first heard), but which is perhaps better known as *How Dermot Got His Love-Spot*, as described elsewhere, provides a great frame for describing some of the characteristics of several of the Fenian heroes.
 
 So let's meet some of them, starting with various accounts given by Thomas Rolleston in the chapter XI, "*Finn's Chief Men*" of [*The High Deeds Of Finn*](https://archive.org/details/in.ernet.dli.2015.178478/page/n131/mode/2up), published in 1910.
 
