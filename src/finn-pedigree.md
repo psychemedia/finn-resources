@@ -18,27 +18,19 @@ The legend of Fionn Mac Cumhaill typically seems to start with Fionn, orphaned b
 
 But just in case there is some colour we can add to our tale in accounts that describe the death of Fionn's father, Uail (Cumhaill, "Cool"), or perhaps his mother, Muirne's, backstory.
 
-The gist of the story seems to be this:
+The gist of the story is this:
 
 > Cumhall fell in love with Muirna of the fair neck, daughter of Tadhg, and elopes with her. Tadgh appeals to Conn of the Hundred Battles, who tells Cumhall to leave Ireland or return Muirne. Conn sent Urgriu and Morna Wryneck (along with Morna's sone, Aed) into batlle at Cnuchna. Luchet wounded Aed, blinding him in one eye, from which he gets his name, Goll (one-eyed). Goll then killed Cumhall. But Muirne was pregnant with Cumhall's child...
 
-So let's see what some rather more literal translations of the source material have to say. We begin with a translation by Kuno Meyer from 1904, around the time that Lady Gregory published _"Gods and fighting men"_. Several footnotes cite `O'D.`, which refers to an earlier translation of the same source maerial by John O'Donovan, which we shall also meet below.
+Let's see what rather more literal translations of the source material — the *Saltair of Cashael* — have to say. We begin with a translation by Kuno Meyer from 1904, around the time that Lady Gregory published _"Gods and fighting men"_. Several footnotes cite `O'D.`, which refers to an earlier translation of the same source material by John O'Donovan, which we shall also meet below.
 
 *The following translation includes not just a summary of the causes and outcome of the battle of Cnuchna, but also the birth of Fionn, his childhood exploits and his defeat of Aillen, following which he took on the leadership of the Fianna and won Goll's allegiance.*
 
 `````{admonition} The Boyish Exploits of Finn, transl. Kuno Meyer, in Ériu, 1904.
 :class: dropdown
 
-https://archive.org/details/riujournalschoo01acadgoog/page/n44/mode/2up
-THE BOYISH EXPLOITS OF FINN
-
-Ériu: The Journal of the School of Irish Learning, Dublin
-by School of Irish Learning (Dublin , Ireland), Royal Irish Academy
-Publication date 1904
-
-pp180-190
-
-Kuno Meyer
+In Kuno Meyer, [THE BOYISH EXPLOITS OF FINN](https://archive.org/details/riujournalschoo01acadgoog/page/n44/mode/2up) in *Ériu: The Journal of the School of Irish Learning*, Dublin
+by School of Irish Learning (Dublin , Ireland), Royal Irish Academy, 1904, pp180-190:
 
 THE BOYISH EXPLOITS OF FINN `[Translated from the original Irish in *Revue Celtique* v., p. 197 ff. Cf. Archiv fiir Celtische Lezikographie, vol. I., p. 482.]`
 
@@ -150,7 +142,7 @@ William Smith O'Brien, Esq.
 
 ```
 
-The translation then follows. We note that in the translation of the pernultimate stanza of the song claimed to be sung about Fionn and the sons of Morna, the footnote only provides a geographical, rather than explanatory context regarding their final meeting at Teamhair Luachra (Tara Luachra in Kuno Meyer's account). Which is to say: no mention of the pigs, that we will hear about from another translated poem.
+The translation then follows. We note that in the translation of the penultimate stanza of the song claimed to be sung about Fionn and the sons of Morna, the footnote only provides a geographical, rather than explanatory context regarding their final meeting at Teamhair Luachra (Tara Luachra in Kuno Meyer's account). Which is to say: no mention of the pigs, that we will hear about from another translated poem.
 
 `````{admonition} The Boyish Exploits of Finn, transl. John O'Donovan, 1858(?)
 :class: dropdown
@@ -188,6 +180,8 @@ for sent_a, sent_b in zip(a, b):
 
 display(HTML(html_sidebyside(out_a,out_b)))
 ```
+
+Another translation is given by David Comyn, in *The youthful exploits of Fionn. The original text, from the "Saltair of Cashel,"* of 1881. `See the Boyish Exploits of Finn Mac Cumhaill chapter.`
 
 ## The Battle of Cnucha
 
