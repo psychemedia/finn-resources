@@ -375,11 +375,11 @@ And Finn took the treasure-bag and brought it with him till he found Crimall, th
 
 ```
 
-Lady Gregory's version appears to be based on an original Gaelic poem, which we shall meet in the next chapter.
+Lady Gregory's version appears to be rather more closely translated from the original Gaelic sources.
 
 A slightly different account of Fionn's childhood is provided in Curtin's *Myths and folk-lore of Ireland*. In his introduction to the book, Curtin claims that _"[the] myth tales in the present volume were collected by me personally in the West of Ireland, in Kerry, Galway, and Donegal, during the year 1887."_
 
-> All the tales in my collection, of which those printed in this volume form but a part, were taken down from the mouths of men who, with one or two exceptions, spoke only Gaelic, or but little English, and that imperfectly. These men belong to a group of persons, all of whom are well ad- vanced in years, and some very old ; with them will pass away the majority of the story-tellers of Ireland, unless new interest in the ancient language and lore of the country is roused
+> All the tales in my collection, of which those printed in this volume form but a part, were taken down from the mouths of men who, with one or two exceptions, spoke only Gaelic, or but little English, and that imperfectly. These men belong to a group of persons, all of whom are well advanced in years, and some very old ; with them will pass away the majority of the story-tellers of Ireland, unless new interest in the ancient language and lore of the country is roused
 
 ```{admonition} "Birth of Fin MacCumhail", in *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
 :class: dropdown
