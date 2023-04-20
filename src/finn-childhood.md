@@ -326,6 +326,9 @@ Fionn went on his travels again.
 Steven's tale then continues with Fionn apprenticing himself to the poet Finegas, and eating the Salmon of Knowledge, but that is a tale for a later chapter.
 
 For now, let us turn to a version of Fionn's boyhood that appears as translation by Lady Gregory in her collection "Gods and Fighting Men", published in 1904:
+## Further Tellings
+
+Let us now turn to another version of Fionn's boyhood, this time as it appears in translation by Lady Gregory in her collection "Gods and Fighting Men", published in 1904:
 
 ```{admonition} The Coming of Fionn, Lady Gregory, in "Gods and Fighting Men", 1904
 :class: dropdown
