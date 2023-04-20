@@ -9,6 +9,10 @@ So what, then, was the childhood of this mighty warrior like?
 
 The story begins with the death of Uail (Cumhall, "Cool"), Fionn's father, and the actions of his mother, Muirne, to keep Fionn safe by placing him into the care of two women. Fionn's early upbringing by them is also described.
 
+## Fionn's Childhood, As Told By James Stephens
+
+On of the most readable versions of the tale is given by James Stephens, in *Irish Fairy Tales*.
+
 ```{admonition} Boyhood of Fion, Chapters I-IV, Stephens, 1920
 :class: dropdown
 https://archive.org/details/irishfairytales00stepgoog/page/n56/mode/2up
