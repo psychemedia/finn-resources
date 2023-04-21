@@ -2,7 +2,7 @@
 
 The tale I tend to refer to as *The Cottage, the cat and the goat* (based on the variant I first heard), but which is perhaps better known as *How Dermot Got His Love-Spot*, as described elsewhere, provides a great frame for describing some of the characteristics of several of the Fenian heroes.
 
-So let's meet some of them, starting with various accounts given by Thomas Rolleston in the chapter XI, "*Finn's Chief Men*" of [*The High Deeds Of Finn*](https://archive.org/details/in.ernet.dli.2015.178478/page/n131/mode/2up), published in 1910.
+But before meet that tale in the next chapter, let's introduce some of the heroes, starting with various accounts given by Thomas Rolleston in the chapter XI, "*Finn's Chief Men*" of [*The High Deeds Of Finn*](https://archive.org/details/in.ernet.dli.2015.178478/page/n131/mode/2up), published in 1910.
 
 ## Conán mac Lia
 
