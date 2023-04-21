@@ -185,7 +185,7 @@ Fionn looked.
 
 Fionn leaped for delight.
 
-"I am glad for you, master," he .cried. "Indeed I am glad for you."
+"I am glad for you, master," he cried. "Indeed I am glad for you."
 
 "And I am glad, my dear soul," the master rejoined.
 
@@ -348,7 +348,7 @@ p210-213
 
 Fin and Bran went on till they came to a great cave, in which they found a herd of goats. At the further end of the cave was a smouldering fire. The two lay down to rest.
 
-A couple of hours later, in came a giant with a salmon in his hand. This giant was of awful height, he had but one eye, and that in the mid- dle of his forehead, as large as the sun in heaven.
+A couple of hours later, in came a giant with a salmon in his hand. This giant was of awful height, he had but one eye, and that in the middle of his forehead, as large as the sun in heaven.
 
 When he saw Fin, he called out: " Here, take this salmon and roast it ; but be careful, for if you raise a single blister on it I '11 cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world."
 The giant lay down to sleep in the middle of the cave. Fin spitted the salmon, and held it over the fire.
