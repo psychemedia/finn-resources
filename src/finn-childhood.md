@@ -11,7 +11,7 @@ The story begins with the death of Uail (Cumhall, "Cool"), Fionn's father, and t
 
 ## Fionn's Childhood, As Told By James Stephens
 
-On of the most readable versions of the tale is given by James Stephens, in *Irish Fairy Tales*.
+One of the most readable versions of the tale is given by James Stephens, in *Irish Fairy Tales*.
 
 ```{admonition} Boyhood of Fion, Chapters I-IV, Stephens, 1920
 :class: dropdown
@@ -160,7 +160,7 @@ The sons of Morna came, but there were only two grim women living in a lonely hu
 
 ```
 
-Fionn joins a band of poets, and thn a band of robbers, led by one who was in the Fianna under Fionn's father.
+Fionn joins a band of poets, and then a band of robbers, led by one who was in the Fianna under Fionn's father.
 
 ```{admonition} Boyhood of Fion, Chapters VI-VII, Stephens, 1920
 :class: dropdown
