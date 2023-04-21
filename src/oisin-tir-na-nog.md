@@ -173,7 +173,7 @@ CHAPTER XV
 
 Oisin in the Land of Youth
 
-It happened that on a misty summer morning as Finn and Ojisin with many companions were hunting on the shores of Loch Lena they saw coming towards them a maiden, beautiful exceedingly, riding on a snow-white steed. She wore the garb of a queen; a crown of gold was on her head, and a dark brown mantle of silk, set with stars of red gold, fell around her and trailed on the ground. Silver shoes were on her horse's hoofs, and a crest of gold nodded on his head. When she came near she said to Finn, 'From very far away I have come, and now at last I have found thee, Finn, son of Cumhal.'
+It happened that on a misty summer morning as Finn and Oisin with many companions were hunting on the shores of Loch Lena they saw coming towards them a maiden, beautiful exceedingly, riding on a snow-white steed. She wore the garb of a queen; a crown of gold was on her head, and a dark brown mantle of silk, set with stars of red gold, fell around her and trailed on the ground. Silver shoes were on her horse's hoofs, and a crest of gold nodded on his head. When she came near she said to Finn, 'From very far away I have come, and now at last I have found thee, Finn, son of Cumhal.'
 
 Then Finn said, 'What is thy land and race, maiden, and what dost thou seek from me?'
 
