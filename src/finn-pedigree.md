@@ -20,7 +20,7 @@ But just in case there is some colour we can add to our tale in accounts that de
 
 The gist of the story is this:
 
-> Cumhall fell in love with Muirna of the fair neck, daughter of Tadhg, and elopes with her. Tadgh appeals to Conn of the Hundred Battles, who tells Cumhall to leave Ireland or return Muirne. Conn sent Urgriu and Morna Wryneck (along with Morna's sone, Aed) into batlle at Cnuchna. Luchet wounded Aed, blinding him in one eye, from which he gets his name, Goll (one-eyed). Goll then killed Cumhall. But Muirne was pregnant with Cumhall's child...
+> Cumhall fell in love with Muirna of the fair neck, daughter of Tadhg, and elopes with her. Tadgh appeals to Conn of the Hundred Battles, who tells Cumhall to leave Ireland or return Muirne. Conn sent Urgriu and Morna Wryneck (along with Morna's sone, Aed) into battle at Cnuchna. Luchet wounded Aed, blinding him in one eye, from which he gets his name, Goll (one-eyed). Goll then killed Cumhall. But Muirne was pregnant with Cumhall's child...
 
 Let's see what rather more literal translations of the source material — the *Saltair of Cashael* — have to say. We begin with a translation by Kuno Meyer from 1904, around the time that Lady Gregory published _"Gods and fighting men"_. Several footnotes cite `O'D.`, which refers to an earlier translation of the same source material by John O'Donovan, which we shall also meet below.
 
