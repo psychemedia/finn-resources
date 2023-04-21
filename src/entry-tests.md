@@ -8,8 +8,6 @@ The entry requirements for joining the Fianna are offered by Standish O'Grady in
 
 In *Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places*, [Vol II translation and notes](https://archive.org/details/silvagadelicaix02gragoog/page/98/mode/2up), Standish O'Grady, 1892, p99-100.
 
-.
-
 This is the enumeration [and description] of Finn's people : their strength was seven score and ten officers, each man of these having thrice nine warriors, every one bound (as was the way with Cuchullin in the time when he was there) to certain conditions of service, which were: that in satisfaction of their guarantee violated they must not accept material compensation ; in the matter of valuables or of meat must not deny any ; no single individual of them to fly before nine warriors.
 
 Of such not a man was taken into the Fianna ; nor admitted whether to the great Gathering of Usnach, to the Convention of Taillté or to Tara's Feast; until both his paternal and his maternal correlatives, his tuatha and kindreds, had given securities for them to the effect that, though at the present instant they were slain, yet should no claim be urged in lieu of them : and this in order that to none other but to themselves alone they should look to avenge them. On the other hand: in case it were they that inflicted great mischiefs upon others, reprisals not to be made upon their several people.
