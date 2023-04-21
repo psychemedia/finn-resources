@@ -1,26 +1,14 @@
 # Entry Tests for the Fianna
 
+The Fianna were an elite band of warriors, with a strong ethic and a rigorous selection process.
 
+The entry requirements for joining the Fianna are offered by Standish O'Grady in the *Silva Gadelica*:
 
-TO DO
+```{admonition} The Enumeration of Finn's People 
 
-The entry requirements for joining the Fianna are offered by Standish O'Grady in the *Silva Gadelica* where he describes the structure and make-up of the Finn's band of warriors:
+In *Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places*, [Vol II translation and notes](https://archive.org/details/silvagadelicaix02gragoog/page/98/mode/2up), Standish O'Grady, 1892, p99-100.
 
-```{admonition} The Enumeration of Finn's People.
-:class: dropdown
-
-https://archive.org/details/silvagadelicaix02gragoog/page/98/mode/2up
-
-Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places
-by O'Grady, Standish Hayes, 1832-1915 ed. and tr
-
-Publication date 1892
-
-Vol II translation and notes
-
-p99-100
-
-The Enumeration of Finn's People.
+.
 
 This is the enumeration [and description] of Finn's people : their strength was seven score and ten officers, each man of these having thrice nine warriors, every one bound (as was the way with Cuchullin in the time when he was there) to certain conditions of service, which were: that in satisfaction of their guarantee violated they must not accept material compensation ; in the matter of valuables or of meat must not deny any ; no single individual of them to fly before nine warriors.
 
@@ -32,22 +20,27 @@ Not a man of them was taken till his hair had been interwoven into braids on him
 
 A good man verily was he that had those Fianna, for he was the seventh king ruling Ireland : that is to say there were five kings of the provinces, and the king of Ireland ; he being himself the seventh, conjointly with the king of all Ireland.
 
+```
+
+O'Grady's translation also summarises some of the roles available with the Fianna:
+
+```{admonition} Job Opportunities in the Fianna
+:class: dropdown
+
+In *Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places*, [Vol II translation and notes](https://archive.org/details/silvagadelicaix02gragoog/page/100/mode/2up), Standish O'Grady, 1892, p100.
+
 Finn's two poll-wards were Noenalach, and Raer grandson of Garb ; the two stewards of his hounds : Crimthann and Connla Cas ; his dispenser : Cathluan son of Crimthann ; his master of the banquet : Core son of Suan ; his three cupbearers : Dermot grandson of Duibhne, and Faillin, and Colla son of Caeilte ; the two overseers of his hearth : Caeilte and Glanna ; his two makers of the bed: AdmoU and mac Neri; his twelve musicians: Fergus True-mouth, Fianu, Bran, two Reidhes, Nuada, and Aithime Aghmar, and  .  ,  ,  .   Flann and Aedh, Cobthach o the high strains, and Cethern ; his physician : Lerthuile ; his two keepers of the vessels : Braen and Cellach Mael ; his barber : Scannal ; his comber : Daelgus ; his charioteer : Rinnchu ; his two masters of the horse : Aena and Becan ; his strong man : Urchraide grandson of Bregaide; his six door-keepers: Cuchaire and Bresal Borr, Fianchad and Mac-dd-fer^ Imchad and Aithech son of Aithech-bal ; his carpenter: Donngus; his smith: Collan; his worker in metal : Congaran ; his horn-players : Culaing and Cuchuailgne ; his two soothsayers : Dirinn and Mac-reith ; his carver : Cuinnscleo ; his candle-holder : Cudam ; his two spear* bearers : .   .   .  and Uadgarb ; his shield-bearer : Railbhe, and so on.
 
 ```
 
+A summary of the qualifications and duties of the Fianna is also provided in Kennedy's *Legendary fictions of the Irish Celts*:
+
 ```{admonition} Qualifications and Duties of the Fianna
 :class: dropdown
 
-https://archive.org/details/legendaryfictio01kenngoog
-Legendary fictions of the Irish Celts
-by Kennedy, Patrick, 1801-1873
-Publication date 1866
-esp PART IV.— OSSIANIC AND OTHER EARLY LEGENDS
+In [*Legendary fictions of the Irish Celts*](https://archive.org/details/legendaryfictio01kenngoog/page/n228/mode/2up), Patrick Kennedy, 1866, pp. 209-212
 
-[pp. 209-212](https://archive.org/details/legendaryfictio01kenngoog/page/n228/mode/2up)
-
-Ossianic and other Early Legends, 209
+PART IV.— OSSIANIC AND OTHER EARLY LEGENDS,
 
 QUALIFICATIONS AND DUTIES OF THE FIANNA EIRIONN.
 
@@ -56,6 +49,15 @@ With the name and opinions of modern Fenians every one's ears have been dinned. 
 As to the derivation of the word we are not so much embarrassed by the poverty as the abundance of the materials. *Fine* means tribe, family, kindred, nation, soldier, vineyard ; *Finne*, whiteness, fairness ; *Fion*, wine, truth, ancient ; *Fionn*, a head, chief, troops, sincere, true, fine, fair, pleasant. The term *Fianna*, giants or soldiers, was applied to the warriors of Albanach (Scotland) and Britain, as well as to those of Ireland.
 
 This standing army, if the bardic chronicles are reliable, consisted of men of good birth, and what would in later times be called knightly rank. They were not distinguished by any name of the same signification as *Knight*, which in its parent language, the Teutonic, simply meant *Valet*. They were *Laochs*, heroes (the German *Helden*) and when associated to a military order they were *Curai*, companions. A postulant for admission among the Fians should be a free man in every respect, and so expert that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half a dozen men darting spears at him from a distance of nine ridges. If he escaped unwounded, he was required to run through a tangled wood with his long hair hanging loose, and get out at the other side, uncaught by the same or another half dozen warriors. If an ill-conditioned bough as low as his knee crossed his path, he should run under it ; if it were no higher than his shoulder, he should bound over it. Having passed this bodily ordeal he was obliged to swear fealty to the *Ard Righ* (head king), to promise on his word as Curadh to be charitable to the poor and to respect women. His near relations were also engaged never to seek *eric* (blood-fine) for his death, but to leave that care and the defence of his honour to his brothers-in-arms.
+
+```
+
+Kennedy also describes something f the domestic arrangements of the Fianna, including a mention of their ovens (the "ovens of the Feine").
+
+```{admonition}
+:class: dropdown
+
+In [*Legendary fictions of the Irish Celts*](https://archive.org/details/legendaryfictio01kenngoog/page/n228/mode/2up), Patrick Kennedy, 1866, pp. 209-212
 
 During the winter half year, the Fians were entertained at the expense of the kings and chiefs. In the other they spent most of their time fishing and hunting, when not watching for invaders. They took their principal meal in the evening, and this was the programme of mealtime and bedtime : — Through the forest, and on the plains, and on the hillsides, were small circular cavities, paved with stones, and surrounded with low stone walls `[TH: i.e. a cooking pit ]`. A party of hunters arriving here in the afternoon made a strong fire of brushwood in this pit, and disposed therein several loose stones, of which there was a large provision lying about. The fire having burned down, and the embers being cleared away, a layer of venison or wild boar's flesh, as it might be, wrapped in grass or rushes, was laid on the hot bottom, and a layer of the red hot stones on this. Then succeeded another layer of meat similarly garnished, and crowned by hot stones No. 2, the process being again repeated if necessary.
 
@@ -70,7 +72,7 @@ The institution was not long-lived. No records are left of it of longer extent t
 
 ```
 
-Here's how Rolleston described the challenges faced by men wanting to join the Fianna:
+In Rolleston's description of the trials faced by men wanting to join the Fianna, he begins by reviewing some of the virtues of Finn himself:
 
 ```{admonition} The Virtues of Finn and the Fianna
 :class: dropdown
