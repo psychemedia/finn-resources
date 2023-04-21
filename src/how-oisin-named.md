@@ -45,7 +45,7 @@ And the name the Fianna gave him was Oisin, and it is he was their maker of poem
 
 ```
 
-```{admonition} "Oisín's Mother", James Stephnes, 1920
+```{admonition} "Oisín's Mother", James Stephens, 1920
 :class: dropdown
 
 Irish Fairy Tales
