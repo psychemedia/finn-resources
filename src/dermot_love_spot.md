@@ -30,7 +30,7 @@ Now, it was Youth the young girl was, and when she saw Conan coming to her : " G
 
 " Go back again, Osgar," she said ; " I belonged to you once, and I will never belong to you again."
 
-Then Diarmuid rose up to go to her : " Where are you going, Diarmuid ? " she said. " I am going over to your- self for a while," said he. " O Diarmuid," she said, " that cannot be ; I belonged to you once, and I can never belong to you again; but come over here to me, Diarmuid," she said, " and I will put a love-spot on you, that no woman will ever see without giving you her love." So Diarmuid went over to her, and she put her hand on his forehead, and she left the love-spot there, and no woman that ever saw him after that was able to refuse him her love.
+Then Diarmuid rose up to go to her : " Where are you going, Diarmuid ? " she said. " I am going over to yourself for a while," said he. " O Diarmuid," she said, " that cannot be ; I belonged to you once, and I can never belong to you again; but come over here to me, Diarmuid," she said, " and I will put a love-spot on you, that no woman will ever see without giving you her love." So Diarmuid went over to her, and she put her hand on his forehead, and she left the love-spot there, and no woman that ever saw him after that was able to refuse him her love.
 
 ```
 

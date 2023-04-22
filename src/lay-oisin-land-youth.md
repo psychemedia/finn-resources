@@ -56,7 +56,7 @@ Reading through the "unworthy" metrical translation by the member of the Ossiani
 
 As Flannery noted, the translation that appeared to get things going appeared in volume IV (1856) of the Transactions of the Ossianic Society, published in 1859. It was prefaced with the following *caveat*:
 
-> The Council of the Ossianic Society do not hold themselves responsible for the authenticity or antiquity of the following poem ; but print it as an interesting specimen of the most recent of the Fenian Stories. In the tract which follows it will be found one of the most ancient of the re- cords that describe the exploits of Finn Mac Gumhaill.
+> The Council of the Ossianic Society do not hold themselves responsible for the authenticity or antiquity of the following poem ; but print it as an interesting specimen of the most recent of the Fenian Stories. In the tract which follows it will be found one of the most ancient of the records that describe the exploits of Finn Mac Gumhaill.
 
 The translator, Brian O'Looney, provided the following introduction to his translation:
 
@@ -110,7 +110,7 @@ p232-3
 > 9, Anglesea-st., Dublin Jan. 20th, 1859.
 > 
 > Sir,  
-> There is a similar legend to that related in the following poem told of Oisin's descent, and living for three hundred years in UAftb ija Caojiac 5lAffe (the cavern of the grey sheep), a large cave which is situated at C'oolagarronroe, Kilbenny, near Mitchelstown, in the county of Cork. After the printing of this poem had been decided upon, I wrote to Mr. William Williams of Dungarvan, who is a native of the district, for in- formation respecting any legendary lore connected with this cave, from whom I received the following answer, as being current among the peasantry.
+> There is a similar legend to that related in the following poem told of Oisin's descent, and living for three hundred years in UAftb ija Caojiac 5lAffe (the cavern of the grey sheep), a large cave which is situated at C'oolagarronroe, Kilbenny, near Mitchelstown, in the county of Cork. After the printing of this poem had been decided upon, I wrote to Mr. William Williams of Dungarvan, who is a native of the district, for information respecting any legendary lore connected with this cave, from whom I received the following answer, as being current among the peasantry.
 >
 > J. O'D.
 
