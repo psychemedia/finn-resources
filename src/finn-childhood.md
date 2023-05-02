@@ -329,6 +329,148 @@ Fionn went on his travels again.
 
 Steven's tale then continues with Fionn apprenticing himself to the poet Finegas, and eating the Salmon of Knowledge, but that is a tale for a later chapter.
 
+## The Youthful Exploits of Fionn
+
+The history of Fionn's childhood derives from an original Gaelic text — *The Saltair of Cashel*—  that we can read in a translation by David Comyn published by the Gaelic Union in 1881.
+
+```{admonition} The youthful exploits of Fionn
+:class: dropdown
+
+https://archive.org/details/youthfulexploits00comy/page/n2/mode/1up
+
+The youthful exploits of Fionn. The original text, from the "Saltair of Cashel," with modern Irish version, new literal translation, vocabulary, notes, and map.
+
+pp.18-45
+
+1. There took place a meeting of valor and a contention of disputation concerning the (chief) Fiannship and concerning the high-stewardship of Eire, between Cumhall, son of Treunmhor, and Uirgreann, son of Lughaidh Corr of the Luaighne; i.e. (one) of the Corca-oiche (a tribe of) Cuilchontuinn that Cumhall (was) : for it was from these (the) Ui Tairsigh his tribe [that is the tribe of Cumhall] (branched).
+
+2. Torba, daughter of Eochaman of (the) Ernaans [it is she] was wife to Cumhall until he took Muireann Múnchaomh (to wife). (The) battle of Cnucha was given (*fought*) afterwards between them, i.e., between Cumhall and Uirgreann.
+
+3. Daire (the) red, son of Eochaidh (the) fair, son of Cairbre (the) valiant, son of Muireadhach, and his son [i.e.] Aodh, (were) giving (*fighting*) of the battle in (the) company of (*on the side of*) Uirgreann. Another name for that Daire (was) Morna (of the) fair-neck.
+
+4. The battle [indeed] is fought after that ; (a single fight) took place between Luichet and Aodh, son of Morna, in the battle ; Luichet wounds Aodh, so (that he) destroyed one of his eyes, [*lit.* his half-eye,] so from it his name Goll followed him from that forth.
+
+
+
+TO DO 
+
+5. Luichet fell by Goll. The keeper of his own round-bag of jewels (treasure-hag) wounds Cumhall [then,] in the battle. Cumhall fell by Goll, son of Morna in the battle : and (Goll) brings his arms and his head with him, so from that there was a settled hatred between Fionn (son of Cum-hall) and (Goll) son of Morna. So from that sang the historian : —
+
+6. Goll (was) son of Daire (the) red of fame, (famous) (who was) son of Eochaidh (the) fair, fair (was) his valour, son of Cairbre (the) valiant (famous) of prowess, son of Muireadhach from Fionnmhagh.
+
+7. Goll slew Luichet of hundreds, in the battle of Cnucha, no lie (is this) ; Luichet the fair of the pure valour, by (the) son of Morna was slain.
+
+8. It is by him fell Cumhall (the) great, in the battle of Cnucha of the battle-hosts ; the cause
+
+(for which) they fought the vigorous battle (was) concerning the Fiannship of Eire. >'
+
+9. The children of Morna were in the battle, and the Luaighne of Teamhair; for it was with them {theirs was) the Fiannship of (the) men of (Inis) Fail by the hand of each king of great power.
+
+10. (There) was a son to Cumhall of victories (the victorious) — the^lood-shedding Fionn of hard weapons. Fionn an^'Gfoll, great (was) their fame, brave (ly) they made war.
+
+11. After that they made peace — Fionn and GoU of the hundreds of exploits — till was slain Banbh Sionna (in consequence) of that (peace) under (on) the plain at Teamhair Luachra.
+
+12. Aodh was (the) name to (the) son of Daire, till Luichet wounded him with agility ; since (the) bold son of Luaighne wounded (him) Goll was given him (as a name).
+
+13. Cumhall left pregnant his wife [i.e.] Muireann, and she bears a son, and she gives a name to him [i.e.] Deimne. Fiacail son of Cucheann and Bodhmhall the Druidess, and [the] Liath Luachra come to visit Muireann, and they take
+
+(away) with them the son, for his mother dared not (risk) him to be with her. Muireann marries wbth Gleoir of the red hands, [with] king of Lamhraighe afterwards, so from that the saying, Fionn son of Gleoir.
+
+14. lifeantime Bodhmhall and [the] Liath and the son with them, go into the wilds of Sliabh Bladhma. The son was reared there in concealment. Necessity, indeed (was for this), for (there) was many a sturdy strong-ribbed fellow, and venomous hostile warrior, and angry, morose hero of (the) warriors of Luaighne, and of (the)
+
+sons of Morna on design of (m wait for) that son, (hoi/) and Tulcha, son of Cumhall (likewise seeking" to destroy him.) However, [they] those two heroines reared him during a long time under (after) that manner.
+
+15. His mother comes at (the) head {end) of six years after that to knowledge of (to visit) her son, for (it) was told [to] her his being in that place (that hewaSy ^c,)^ and there was fear with her (the) son of Morna for him. (She feared the son of Morna on his account,)
+
+16. What narration (is needed further) — she went out of each desert into its fellow (from one to the other), till" (she) readied (the) wilds of Sliabh Bladhma : (she) found the hunting-booth, and the son in his sleep (asleep) in it (therein) ; and she lifts the son in her bosom afterwards, and (she) gathers him to her (presses Mm to her bosom), and she heavy (she heing pregnant) then (at the time).
+
+17. So then (she) made (composed) the (these) verses caressing [afeout] her son —
+" Sleep with (the) slumber of pleasure," et reliqua : (qui desunt).
+
+18. The daughter (woman) bids farewell to the heroines after that, and speaks with them (ask them) would they not take (charge of) the son (ho^) till lie should be fit for the Fiann (of age fit to take rank among the Fiann) ; and the son was reared after that (by them) till he was fit for chase (fitted to conduct the chase),
+
+19. The son (Fionn) came in his oneship (i.e. alone, hy himself) forth in another day there (a certain day), and saw the duck with the (young) ducks upon the lake. (He) threw a cast under (at) them, and cut her feathers and her wings off her till there came a death-trance on her (so that she died) ; and he took (her) after, and (he) brought (her) with him unto the hunting-booth. So that is (the) first chase of Fionn.
+
+20. He went with folk of trade (certain artificers) afterwards in flight (because) of (the) sons of Morna ; so he was under (about) the Crotta ( Gailte, Galtees) with them (in concealment). It is (these are) their names: EutJbu-and-JB^ith and Eegna of Magh Feadha, and Teimle, and OJJjdo and Ed^ein.
+
+21. Blisters came over him there, so that (there) was made of him a bald-head (or one affected with cutaneous disease), so from that Deimne (the) bald used to be called to him. \i^ If l- }
+
+22. (There) was a plunderer in Leinster (at) that time, namely, Fiagail son of Codna [was he]. Then Fiagail chanced (to come) in Fiodh Gaibhle upon the artificers, and slew all but Deimne in his oneship (alone) : he was (remained) with Fiagail son of Codna in his house in a cold marsh.
+
+23. The two heroines come southward to (the) house of Fiagail, son of Codna, in search (of) Deimne, and he is given to them ; and they take with them from the south him, afterwards, to the same place (as before).
+
+24. He went another day in his oneship (alone) forth, till he reached (the) plain of Life (Liffey) to another (certain) fortress there till lie saw the [young] youth (of the place) hurling on the lawn of the fortress. He conies to exercise or to huii with them.
+
+25. He comes after (on) the morrow, and they send a fourth (of their number) in his face (against him) : they come again, the third (of their number once more) against him. What (need of further) discourse, — they go all against him at last, and he gives (wins) a half game on them all.
+
+26. What name is on thee ? said they. Deimne, said he. The youths tell the man (owner) of the fortress that thing. Kill ye him if he comes (again) if ye can, said he. We cannot (do) anything to him, said they : Deimne is his name. "What manner (is) his appearance ? said he. A fair, shapely lad, said they. It is a name for Deimne Fionn, like that (Deimne shall he called Fionn, fair, on that account), said he. So from that the youths used to say with him (name him) Fionn.
+
+27. He comes (again) after the morrow (i.e., the next day) to their meeting (to them) and went towards them in their game : they aimed their staves on him together. S^e aims at them, and slaughters (a big six) seven of them. (He) went from them (then) in the wilds of Sliabh Bladhma.
+
+28. (He) comes, indeed, at (the) head (end) of a week after that to the same place. It is thus were the youths (then engaged) — swimming on the lake (which) was in their neighbourhood. The youths defy him (to) come to swim with them.
+
+29. He plunges in the lake towards them after that, and (he) drowns nine of them under the lake, and goes himself under (towards) Sliabh Bladhma after that. Who drowned the youths ? said all. Fionn, said they (who survived.) So from that (the name) Fionn followed him.
+
+30. He came a time then over Sliabh Eladhma out, and the two heroines in company with him : they saw a very nimble drove of wild deer \_or colas'] (of the) forest of the mountain.
+
+31. My woe indeed ! (or alas I) said the two old people (women), it comes not oi(with) us (we ca?mot) retain one of these yonder with us. It comes of (with) myself, (/ can) said Fionn, and (he) runs on them, and retains two deer of them, and brings them, with him to his hunting-booth. He used to make chase constantly for them after that.
+
+32. Go from us henceforth, youth, said the heroines with (to) him ; for the sons of Morna are on watch (for) thy killing, (to kill thee),
+
+33. He went in his oneship (alone) from them till (he) reached Loch Lein, over Luachair, till he gave up (hired) his (military) services to (the) King of Beanntraighe then : they surnamed him not in that place, howbeit (there) was not in that time a hunter of his like (his equal).
+
+34. It is thus says the king to him : if Cumhall (had) left a son, quoth he, it seems with thee (me) (methinks) thou shouldst be he ; but, howbeit, wo heard not a son to leave by him (that he left a son) but Tulcha, son of Cumhall, and that (son) is with (the) king of Scotland in (military) service.
+
+35. He (Fionn) bids farewell to the king after that, and goes from him to Cairbrighe (i.e., Ciarraighe [^Kerry'] to-day [noiv']), and abides with that king in (military) service. The king comes afterwards a chess-playing a certain day. He plays with him and wins seven games after each other.
+
+36. Who (art) thou ? quoth the king. Son of a peasant of (the) Luaighni of Teamhair, says he. Not so, said the king ; but thou art the son whom Muireann bore to Cumhall, and be (stay) not here longer, that (thou) mayest not be slain (whilst trusting) on my hospitality.
+
+37. (Fionn) went out after that to Cuillean [0 g-Ouanach] to (the) house of Loehan, a chief-smith: (there was) an exceeding-beautiful daughter with him: i.e., Cruithne, her name : she gave love to the youth.
+
+38. I will give my daughter to thee, says the smith, though I know not who thou (art). The daughter then marries with the youth.
+
+39. Make spears for me, said the youth to the smith. Lochan made then two spears for him. (Fionn) takes leave then of Lochan, and went before him (^oes Ms way),
+
+40. son, said Lochan, go not in the way on which is (usually to be seen) the pig to which is name (which is called) Beo (the Living) ; it is she devastated (all) middle Munster.
+
+41. But it is it, just, that happened to the youth (to) go on the way on (which) was the pig. The pig after that went towards him (made at him). He put (made) then a cast of his spear on her, so (that it) went through, her, so (that he) left her without life.
+
+42. He brings then (the) head of the pig with him to the smith, in (as) dower of his daughter. It is from that is (called) the pig's mountain in Munster.
+
+43. The youth went before him (forward) after that into Connacht, to seek Crimall, son of Treunmor (his father's brother).
+
+44. 80 (he) was on his road till (he) heard (the) cry of [the] one woman. He goes towards her till he saw the woman, and (there) were tears of blood every [with] time (at one time), and (there) was a vomiting of blood the other time (i.e., everi/ second turn) J till her mouth was red.
+
+45. Thou art red-mouthed, woman, says he. There is a cause with me (for it), says she ; my one son to be slain (i.e., that my only son was slain) by a very-large hideous warrior who happened (to come) towards me. What (was the) name of thy son ? said he. Grlonda (was) his name, said she.
+
+46. [It is from him are (called) Glonda's ford and Glonda's causeway on Maonmhagh ; and it is from that red mouth is (called) Ford of rod-mouth from that (time) forth {ever since) ]
+
+47. Fionn then went in (the) wake of the warrior, and they give combat, and he fell by him (Fionn). It is thus, moreover, was (he) [that], (this is the way he was), and (having) a round-bag of jewels with him, i.e. (the bag of) Cumhall's jewels. [It is he] (the) person who was killed there, i.e., Liath Luachra ; it is he first wounded Cumhall in (the) battle of Cnucha.
+
+48. (Fionn) goes into Connacht after that, and finds Crimall (in his) old man in a hermitage of a wood there, and a company of the old Fiann along with him, and it is they who used to make chases ((/o a hunting) for him.
+
+49. He gives the round-bag then to him, and relates his stories (news) from beginning to end — and thus (how) (he) killed the man of the jewels (Mm who had the Jewels),
+
+50. Fionn takes leave of Crimall, and went before him {forward) to learn literature with Finneigeas, who was (dwelling) on (the) Boinn. (He) dared not even be in Eire anywhere until he went with (i.e., to learn the art of) poetry, for fear (of the) sons of Uirgreann, and (the) sons of Morna.
+
+51. Seven years (had been passed) by Finneigeas on (the) Boinn, watebing (for tbe) salmon of (the) pool of Feic ; for it was in prophecy to him (the) salmon of Feic to eat, and without a thing in his ignorance at all (that he should know everything) then.
+
+52. The salmon was found (caught) and (it) was assigned to Deimne moreover the salmon to bake (or roast) f and the poet said to him without (not) a thing (portion) of the salmon to eat (that he should eat none of it). The youth brought to him the salmon after [its] cooking.
+
+53. Didst thou eat a thing (any part) of the salmon, O youth? says the poet. No — says the youth ; but my thumb I burned, and I put (it) in my mouth after that. What name is on thee, youth ? says he. Deimne, says the youth. Fionn (fair) (is) thy name, says he, youth, and it is to thee (it) was given (appointed) (in prophecy) the salmon to eat (and not to me), and it is thou ( who art) the Fionn trul3^
+
+54. The youth eats the salmon afterwards. It is that, by-the-way, that brought the knowledge to Fionn, i.e., the time he used to bear (put) his thumb in his mouth, (and not through Teinm laogha) ; and the thing which was (used to he) in his ignorance (unknown to him previously) afterwards used to be manifested to him.
+
+55. He learned the three (things) which distinguish poets: i.e., Teinm laogha, and Imus for Osna, and Dicheadal d(hcheannaihh. It is then Fionn made this lay testing his (knowledge of) literature.
+
+56. May ! pleasing time ! most excellent the colour ! Blackbirds sing a full lay ; (0)if Laigh- ^ aigh could be there ! the cuckoos cry strong (and)
+
+violent ; it is welcome, noble summer ! (the) bril-^^ ft « ^ ''^^ liance of the weather always. . [On] the margin^ ^^^ ' fringe of (the) wood^ (of) boughs (hrajiching) the summer swallows skim the stream ; the swift steeds approach (the) pool ; (the) long hair of (the) heath spreads (out); the fair weak bog-down flourishes: sudden consternation attacks [the feigns ;] the planets running in smooth course play; (the) sea is put fto) rest, flowers cover the world.
+
+THEN includes useful notes. Eg another version of thumb of knowledge on p49
+
+```
+
 ## Further Tellings
 
 Let us now turn to another version of Fionn's boyhood, this time as it appears in translation by Lady Gregory in her collection "Gods and Fighting Men", published in 1904:
@@ -422,7 +564,7 @@ Who is that *Fin cumhal* `[Cumhal, the name of Fin's father. Denotes also a cap 
 
 " Ah, that is it ; Fin will be his name, and Fin MacCumhail he is," said the old woman.
 
-The king ordered his people to seize and put the young man to death, on the spot. The old woman hurried to the side of her grandson. They slipped from the crowd and away they went, a hill at a leap, a glen at a step, and thirty-two miles at a running-leap. They ran a long distance, till Fin grew tired ; then the old grandmother took him on her back, putting his feet into two pockets which were in her dress, one on each side, and ran on with the same swiftness as before, a hill at a leap, a glen at a step, and thirty-two miles at a running- leap.
+The king ordered his people to seize and put the young man to death, on the spot. The old woman hurried to the side of her grandson. They slipped from the crowd and away they went, a hill at a leap, a glen at a step, and thirty-two miles at a running-leap. They ran a long distance, till Fin grew tired ; then the old grandmother took him on her back, putting his feet into two pockets which were in her dress, one on each side, and ran on with the same swiftness as before, a hill at a leap, a glen at a step, and thirty-two miles at a running-leap.
 
 After a time, the old woman felt the approach of pursuit, and said to Fin: "Look behind, and tell me what you see."
 
