@@ -50,9 +50,9 @@ This standing army, if the bardic chronicles are reliable, consisted of men of g
 
 ```
 
-Kennedy also describes something f the domestic arrangements of the Fianna, including a mention of their ovens (the "ovens of the Feine").
+Kennedy also describes something of the domestic arrangements of the Fianna, including a mention of their ovens (the "ovens of the Feine").
 
-```{admonition}
+```{admonition} Domestic Situauation of the Fianna
 :class: dropdown
 
 In [*Legendary fictions of the Irish Celts*](https://archive.org/details/legendaryfictio01kenngoog/page/n228/mode/2up), Patrick Kennedy, 1866, pp. 209-212
