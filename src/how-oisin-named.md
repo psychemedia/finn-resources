@@ -190,7 +190,7 @@ It was a hard fight, but a short one. The Lochlannachs were driven back to their
 
 That finished, he left the victorious Fianna and returned swiftly to the plain of Allen, for he could not bear to be one unnecessary day parted from Saeve.
 
-"You are not leaving us !" exclaimed Goll mac Moma.
+"You are not leaving us !" exclaimed Goll mac Morna.
 
 "I must go," Fionn replied.
 
