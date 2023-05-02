@@ -14,6 +14,7 @@ parts:
   - file: finn-pedigree
   - file: salmon-of-knowledge
   - file: finn_leadership_fianna
+  - file: birth_bran
 - caption: The Fianna
   chapters:
   - file: entry-tests
