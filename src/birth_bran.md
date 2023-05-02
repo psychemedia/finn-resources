@@ -15,6 +15,7 @@ The following telling comes from James Stephens' *Irish Fairy Tales*. It contain
 > Iollan had a past. He was not ashamed of it; he merely thought it was finished, although in truth it was only beginning, for it is that perpetual beginning of the past that we call the future.
 
 ```{admonition} The Birth of Bran and Sceolan, James Stephens, 1920
+:class: dropdown
 
 *In [Irish Fairy Tales](https://archive.org/details/irishfairytales00stepgoog/page/n124/mode/2up), James Stephens, 1920, pp102-121.*
 
