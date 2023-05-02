@@ -6,9 +6,15 @@ The trigger for me was a Ladybird style book, [Irish Legends for Children](https
 
 The gist of the story is this:
 
-> *Fionn and his band saw a fair lady — Niamh of the Goden Hair — riding towards them on a white horse with a silver bridle. The maiden was fair indeed and asked if there was one among them called Oisín. Indeed there was, and she bade him come with her to the land of eternal youth — Tír Na Nóg. He got on the horse and they road over the waves to a beautiful land. After a time, Oisín grew homesick, and pleaded to go home. He could return on the horse that brought him, as long as he did not place his foot on the earth of Ireland. He rode back, and came to where hs father's house had been; but there was nothing there. In the ditance, some men were working, struggling to move a rock. Oisín asked after hs father, Fionn, to hear he had been dead 300 years. Oisín leant to help the men but the strap on the bridle broke and Oisín fell to the floor, aging 300 years at once. The men were aghast, but helped him and took him to St Patrick. Whereupon Oisín told him the tales of Fionn and the Fianna.*
+> *Fionn and his band saw a fair lady — Niamh of the Goden Hair — riding towards them on a white horse with a silver bridle. The maiden was fair indeed and asked if there was one among them called Oisín. Indeed there was, and she bade him come with her to the land of eternal youth — Tír Na Nóg. He got on the horse and they road over the waves to a beautiful land. After a time, Oisín grew homesick, and pleaded to go home. He could return on the horse that brought him, as long as he did not place his foot on the earth of Ireland. He rode back, and came to where hs father's house had been; but there was nothing there. In the distance, some men were working, struggling to move a rock. Oisín asked after hs father, Fionn, to hear he had been dead 300 years. Oisín leant to help the men but the strap on the bridle broke and Oisín fell to the floor, aging 300 years at once. The men were aghast, but helped him and took him to St Patrick. Whereupon Oisín told him the tales of Fionn and the Fianna.*
 
-That telling I first came across is still very much in copyright, but there are many versions from the late eighteenth and early nineteenth centuries that tell the tale that we can use to derive our own understanding of the story.
+```{note}
+
+In my recent tellings, I colour the story with Oísin lifting the stone with a side reference to stones of strength, as describd in the *Blúiríní Béaloidis* podcast series, [no.38](https://soundcloud.com/folklore_podcast/bluirini-bealoidis-38-stones-of-strength-in-irish-tradition-with-david-keohan).
+
+```
+
+That telling that I first came across is still very much in copyright, but there are many versions from the late eighteenth and early nineteenth centuries that tell the tale that we can use to derive our own understanding of the story.
 
 For example, this concise version from 1866, which captures the key points:
 
@@ -394,7 +400,7 @@ This battle is the subject of a poem which the bards ascribe to Oisin, and which
 
 ```
 
-In this next version, the fairy princess Niamh is unnamed, and sets out find and marry Oisin in order to remove a curse placed on her by her own father. When the time comes to leave the Land of Youth, Oisin is warned explicitly that the time he has spent there is much longer than he may have thought. In this variant, the stone that is to be Oisín's undoing also has a story attached to it.
+In this next version, the fairy princess Niamh is unnamed, and sets out to find and marry Oisin in order to remove a curse placed on her by her own father. When the time comes to leave the Land of Youth, Oisin is warned explicitly that the time he has spent there is much longer than he may have thought. In this variant, the stone that is to be Oisín's undoing also has a story attached to it.
 
 ```{admonition} In *Myths and folk-lore of Ireland*, Jeremiah Curtin, 1890
 :class: dropdown
