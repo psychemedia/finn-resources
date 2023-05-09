@@ -14,9 +14,9 @@ kernelspec:
 
 # Fionn's Pedigree
 
-The legend of Fionn Mac Cumhaill typically seems to start with Fionn, orphaned by the loss of his father at the Battle of Cnuchna, being taken by his mother to a place a safety, lest the members of the clann Morna, who killed Fionn's father, Uiall / Cumhaill, sought also to put paid to any claim Fionn might have on the leadership.
+The legend of Fionn Mac Cumhaill typically seems to start with Fionn, orphaned by the loss of his father at the Battle of Cnuchna, being taken by his mother to a place a safety, lest the members of the clan Morna, who killed Fionn's father, Uiall / Cumhaill, son of Baiscne ("Bash-k-nuh") sought also to put paid to any claim Fionn might have on the leadership.
 
-But just in case there is some colour we can add to our tale in accounts that describe the death of Fionn's father, Uail (Cumhaill, "Cool"), or perhaps his mother, Muirne's, backstory.
+But just in case there is some colour we can add to our tale in accounts that describe the death of Fionn's father, Uail (Cumhaill, "Cool"), or perhaps his mother, Muirne's, backstory (Muirne, daughtwe of Tadgh ("Tye-gh") / Teigue ("Taygh"))).
 
 The gist of the story is this:
 
@@ -79,7 +79,7 @@ The celebrated Irish antiquary, Duald Mac Firbis, in his genealogical work, pp. 
 
 By the mother's side, Finn Mac Cumhaill was descended from Tadhg, son of Nuadhat, son of Aice, son of Daite, son of Brocan, son of Fintan of Tuath-Daite in Bregia. This Mac Firbis believes to be his true maternal descent, though others state that his mother was Torba, daughter of Echuman of the Ernaans of Dun-Cearmna (the old head of Kinsale, in the county of Cork), and that he had a half-brother by the mother's side, who was called Finn Mac Gleoir.
 
-Mac Firbis adds that Finn Mac Camhaill possessed, in right of his office of leader of the Fians, seven hallys, or townlands, out of every tricha-ched, or hundred, in Ireland ; that he was bom in the third year of the reign of Conn of the Hundred Battles, and died in the year 283.
+Mac Firbis adds that Finn Mac Camhaill possessed, in right of his office of leader of the Fians, seven hallys, or townlands, out of every tricha-ched, or hundred, in Ireland ; that he was born in the third year of the reign of Conn of the Hundred Battles, and died in the year 283.
 
 Some genealogical books give the pedigree of our hero thus : — Finn, son of Cumhall, son of Trénmor, son of Subalt, son of Ealtan, son of Baiscne, son of Nuada Necht : others, Finn, son of Cumhall, son of Baiscne, son of Trénmor, son of Ferdarath, son of Goll, son of Forgall, son of Daire, son of Deaghaidh, son of Sin ; but of the yarious pedigrees of our hero which Mac Firbis has copied from Irish authorities, the following is the only one that can be considered authentic : —
 
@@ -343,6 +343,7 @@ NOW that you are sufficiently acquainted with Finn as he appeared in the fulness
 In the heart of Connaught, a deep trackless forest, and in the heart of the forest a rude booth of timber, rudely roofed with rushes and heather. Brushwood grew above it and around it, so that one might pass many times and almost touch the house without discovering it. In this booth, one wild December evening, half a dozen old men — very old men — sat crouched around a small fire of sticks. They were clad in ancient rags, and in skins ; their faces were thin and hunger-bitten ; their fingers long, lean, and crooked. The meanest of them looked a king. Fate had pressed very hard on these old men, but had not conquered them, and their eyes shone under most rigid brows. Who were these noble old men clad in rags and skins, nourishing here in poverty and famine some unconquerable resolution ? I shall tell you.
 
 The captain of the Fians in his time was Cool, son of Trenmor, the mightiest of the Fian captains down to his time, and Cool, remember, was the father of Finn. Then the sons of Morna evolted against him, saying that Gaul mac Morna, their brother, was the better man, and should be captain. Each party drew together an army, and the battle for the Fian leadership was fought on the banks of the Liffey. There Cool was defeated and slain ; the sons of Morna triumphed and raised their brother Gaul to the leadership. Luchat Mael was the champion who slew Cool and took from him his satchel, which contained the jewels of sovereignty and right leadership. He slung it to his own girdle. While he kept that bag, the tyranny of the sons of Morna was secure, and it was supposed that there was not a champion in the world who could conquer Luchat Mael. What these jewels were is not rightly known, but there was great power and virtue in them.
+
 After the battle, the sons of Morna went through Ireland exterminating all the breed and seed of the overthrown family. Nearly all the warriors of Cool who escaped from the battle were obliged to make terms with the new tyranny, and swear allegiance to Gaul mac Morna. A very few did not. These were the old men whom we saw, clad in rags and skins, crouching around their feeble fire in the booth in the forest.
 
 At first they lived by hunting, poaching it might be called, for all the forests and all the game belonged now to Gaul mac Morna. They shifted from mountain to mountain and forest to forest, from lake to river and river to lake, for the trackers and searchers of the sons of Morna were on their traces. Finally they were pressed into greater confinement, so that they could only hunt by night and by stealth, and while one man speared a salmon, there was another who kept watch, and oftentimes they were acquainted with the soreness of famine. Yet even thus they refused to make terms with the new tyranny.
