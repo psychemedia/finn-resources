@@ -1,15 +1,16 @@
 # The Passing of the Fianna
 
+The tales of Fionn Mac Cumhail's Fianna come to an end in the reign of Cairbre, som of Art, son of Conn of the Hundre
 ## Battle of Ghabhra
 
 Gavra
 
-Cairbre is son of Cormac, son of Conn
+Cairbre is son of Cormac (Cormac mac Airt), son of Art, son of Conn of the Hundred Battles
 
 
 TH: THe story seems to be this:
 
-> Cairbre (son of Cormac, son of Conn of the Hundred Battles) is King; his daughter is to be married, but Fionn asserts the right to a dowry to be paid to the Fianna. Cairbre takes insult, things Fionn has too much power, and summons clan Morna to battle agianst Fionn. The battle — at Cath Gabhra — is terrible. Cairbre kills the six sons of Caoilte. Oscar beheads the somes of Cairbre. Cairbre engages Oscar, and throws the spear that kills Oscar; but even in his death throes, Oscar hurls a spear in return, and kills Cairbre.
+> Cairbre, descended from the line of Conn of the Hundred Battles, is King; his daughter is to be married, but Fionn asserts the right to a dowry to be paid to the Fianna. Cairbre takes insult, things Fionn has too much power, and summons clan Morna to battle agianst Fionn. The battle — at Cath Gabhra — is terrible. Cairbre kills the six sons of Caoilte. Oscar beheads the somes of Cairbre. Cairbre engages Oscar, and throws the spear that kills Oscar; but even in his death throes, Oscar hurls a spear in return, and kills Cairbre.
 
 
 
