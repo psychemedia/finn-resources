@@ -95,9 +95,9 @@ All desires save one are fleeting, but that one lasts for ever. Fionn, with all 
 
 We get wise by asking questions, and even if these are not answered we get wise, for a well-packed question carries its answer on its back as a snail carries its shell. Fionn asked every question he could think of, and his master, who was a poet, and so an honourable man, answered them all, not to the limit of his patience, for it was limitless, but to the limit of his ability.
 
-**Why do you live on the bank of a river?" was one of these questions.
+"Why do you live on the bank of a river?" was one of these questions.
 
-"Because a poem is a revelation, and it is by the brink of nmning water that poetry is revealed to the mind."
+"Because a poem is a revelation, and it is by the brink of running water that poetry is revealed to the mind."
 
 "How long have you been here?" was the next query.
 
@@ -111,7 +111,7 @@ We get wise by asking questions, and even if these are not answered we get wise,
 
 "The poems I am fit for," said the mild master. "No person can get more than that, foj a man's readiness is his limit."
 
-**Would you have got as good poems by the Shannon or the Suir or by sweet Ana Life?"
+"Would you have got as good poems by the Shannon or the Suir or by sweet Ana Life?"
 
 "They are good rivers," was the answer. "They all belong to good gods."
 
@@ -141,7 +141,7 @@ Fionn sat at the kindly man's feet, his hands absent among tall grasses, and lis
 
 "I think too," said the poet, "that that is what would be done."
 
-In return for instraction Fionn had taken over the service of his master's hut, and as he went about the household duties, drawing the water, lighting the fire, and carrying rushes for the floor and the beds, he thought over all the poet had taught him, and his mind dwelt on the rules of metre, the cunningness of words, and the need for a clean, brave mind. But in his thousand thoughts he yet remembered the Salmon of Knowledge as eagerly as his master did. He already venerated Finegas for his great learning, his poetic skill, for an hundred reasons; but, looking on him as the ordained eater of the Salmon of Knowledge, he venerated him to the edge of measure. Indeed, he loved as well as venerated this master because of his unfailing kindness, his patience, his readiness to teach, and his skill in teaching.
+In return for instruction Fionn had taken over the service of his master's hut, and as he went about the household duties, drawing the water, lighting the fire, and carrying rushes for the floor and the beds, he thought over all the poet had taught him, and his mind dwelt on the rules of metre, the cunningness of words, and the need for a clean, brave mind. But in his thousand thoughts he yet remembered the Salmon of Knowledge as eagerly as his master did. He already venerated Finegas for his great learning, his poetic skill, for an hundred reasons; but, looking on him as the ordained eater of the Salmon of Knowledge, he venerated him to the edge of measure. Indeed, he loved as well as venerated this master because of his unfailing kindness, his patience, his readiness to teach, and his skill in teaching.
 
 "I have learned much from you, dear master," said Fiomi gratefully.
 
@@ -163,7 +163,7 @@ Here is a question," Fionn continued. How does this salmon get wisdom into his f
 
 CHAPTER X
 
-Life continued for him in a roimd of timeless time, wherein days and nights were uneventful and were yet filled with interest. As the day packed its load of strength into his frame, so it added its store of knowledge to his mind, and each night sealed the twain, for it is in the night that we make secure what we have gathered in the day.
+Life continued for him in a round of timeless time, wherein days and nights were uneventful and were yet filled with interest. As the day packed its load of strength into his frame, so it added its store of knowledge to his mind, and each night sealed the twain, for it is in the night that we make secure what we have gathered in the day.
 
 If he had told of these days he would have told of a succession of meals and sleeps, and of an endless conversation, from which his mind would now and again slip away to a solitude of its own, where, in large hazy atmospheres, it swung and drifted and reposed. Then he would be back again, and it was a pleasure for him to catch up on the thought that was forward and re-create for it all the matter he had missed. But he could not often make these sleepy sallies; his master was too experienced a teacher to allow any such bright-faced, eager-eyed abstractions, and as the druid women had switched his legs around a tree, so Finegas chased his mind, demanding sense in his questions and understanding in his replies.
 

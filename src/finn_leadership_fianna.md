@@ -82,7 +82,7 @@ Therefore, when the feast was over and the banquet had commenced, the Hundred Fi
 
 The Chain of Silence was shaken by the attendant whose duty and honour was the Silver Chain, and at that delicate chime the hall went silent, and a general wonder ensued as to what matter the High King would submit to his people.
 
-"Friends and heroes," said Conn, "Aillen, the son of Midna, will come to-night from Slieve Fuaid with occult, terrible fire against our city. Is there among you one who loves Tara and the king, and who will imdertake our defence against that being?"
+"Friends and heroes," said Conn, "Aillen, the son of Midna, will come to-night from Slieve Fuaid with occult, terrible fire against our city. Is there among you one who loves Tara and the king, and who will undertake our defence against that being?"
 
 He spoke in silence, and when he had finished he listened to the same silence, but it was now deep, ominous, agonised. Each man glanced uneasily on his neighbour and then stared at his wine-cup or his fingers. The hearts of young men went hot for a gallant moment and were chilled in the succeeding one, for they had all heard of Allien out of Shi Fmnachy in the north. The lesser gentlemen looked under their brows at the greater champions, and these peered furtively at the greatest of all. Art Og mac Morna of the Hard Strokes fell to biting his fingers, Conan the Swearer and Garra mac Morna grumbled irritably to each other and at their neighbours, even Caelte, the son of Ronan, looked down into his own lap, and Goll Mor sipped at his wine wihout any twinkle in his eye. A horrid embarrassment came into the great hall, and as the High King stood in that palpitating silence his noble face changed from kindly to grave and from that to a terrible sternness. In another moment, to the undying shame of every person present, he would have been compelled to lift his own challenge and declare himself the champion of Tara for that night, but the shame that was on the faces of his people would remain in the heart of their king. Goll's merry mind would help him to forget, but even his heart would be wrung by a memory that he would not dare to face. It was at that terrible moment that Fionn stood up.
 
@@ -94,7 +94,7 @@ He spoke in silence, and when he had finished he listened to the same silence, b
 
 "The kings of Ireland, and Red Cith with his magicians."
 
-"I will imdertake the defence," said Fionn.
+"I will undertake the defence," said Fionn.
 
 And on that, the kings and magicians who were present bound themselves to the fulfilment of the bargain.
 
@@ -104,17 +104,17 @@ It is likely that Fionn looked for help to the people of the Shi themselves, for
 
 Fionn's way of discovering whatever was happening and hidden was always the same and is many times referred to. A shallow, oblong dish of pure, pale gold was brought to him. This dish was filled with clear water. Then Fionn would bend his head and stare into the water, and as he stared he would place his thumb in his mouth under his "Tooth of Knowledge," his "wisdom tooth."
 
-Knowledge, may it be said, is higher than magic and is more to be sought. It is quite possible to see what is happening and yet not know what is forward, for while seeing is believing it does not follow that either seeing or believing is knowing. Many a person can see a thing and believe a thing and know just as little about it as the person who does neither. But Fionn would see and know, or he would imderstand a decent ratio of his visions. That he was versed in magic is true, for he was ever known as the Knowledgeable man, and later he had two magicians in his household named Dirim and mac-Reith to do the rough work of knowledge for their busy master.
+Knowledge, may it be said, is higher than magic and is more to be sought. It is quite possible to see what is happening and yet not know what is forward, for while seeing is believing it does not follow that either seeing or believing is knowing. Many a person can see a thing and believe a thing and know just as little about it as the person who does neither. But Fionn would see and know, or he would understand a decent ratio of his visions. That he was versed in magic is true, for he was ever known as the Knowledgeable man, and later he had two magicians in his household named Dirim and mac-Reith to do the rough work of knowledge for their busy master.
 
 It was not from the Shi, however, that assistance came to Fionn.
 
 CHAPTER XIII
 
-He marched through the successive fortifications imtil he came to the outer, great wall, the boimdary of the city, and when he had passed this he was on the wide plain of Tara.
+He marched through the successive fortifications imtil he came to the outer, great wall, the boundary of the city, and when he had passed this he was on the wide plain of Tara.
 
 Other than himself no person was abroad, for on the night of the Feast of Samhain none but a madman would quit the shelter of a house even if it were on fire ; for whatever disasters might be within a house would be as nothing to the calamities without it.
 
-The noise of the banquet was not now audible to Fionn — it is possible, however, that there was a shamefaced silence in the great hall — and the lights of the city were hidden by the successive great ramparts. The sky was over him ; the earth imder him ; and than these there was nothing, or there was but the darkness and the wind.
+The noise of the banquet was not now audible to Fionn — it is possible, however, that there was a shamefaced silence in the great hall — and the lights of the city were hidden by the successive great ramparts. The sky was over him ; the earth under him ; and than these there was nothing, or there was but the darkness and the wind.
 
 But darkness was not a thing to terrify him, bred in the nightness of a wood and the very fosterling of gloom ; nor could the wind af&ict his ear or his heart. There was no note in its orchestra that he had not brooded on and become, which becoming is magic. The long-drawn moan of it; the thrilling whisper and hush; the shrill, sweet whistle, so thin it can scarcely be heard, and is taken more by the nerves than by the ear; the screech, sudden as a devil's yell and loud as ten thunders ; the cry as of one who flies with backward look to the shelter of leaves and darkness ; and the sob as of one stricken with an age-long misery, only at times remembered, but remembered then with what a pang! His ear knew by what successions they arrived, and by what stages they grew and diminished. Listening in the dark to the bundle of noises which make a noise he could disentangle them and assign a place and a reason to each gradation of sound that formed the chorus : there was the patter of a rabbit, and there the scurrying of a hare; a bush rustled yonder, but that brief rustle was a bird; that pressure was a wolf, and this hesitation a fox; the scraping yonder was but a rough leaf against bark, and the scratchmg beyond it was a ferret's claw.
 
@@ -192,7 +192,7 @@ He continued: "Aillen mac Midna will be oflF his guard when he stops playing and
 
 "I will be frightened of nothing," said Fionn, "and the only person I will be sorry for is that Aillen mac Midna, who is going to get his own spear back."
 
-"I will go away now," his companion whispered, "for it is growing darker where you would have thought there was no more room for darkness, and there is an eerie feeling abroad which I do not like. That man from the Shi may come any minute, and if I catch one soimd of his music I am done for."
+"I will go away now," his companion whispered, "for it is growing darker where you would have thought there was no more room for darkness, and there is an eerie feeling abroad which I do not like. That man from the Shi may come any minute, and if I catch one sound of his music I am done for."
 
 The robber went away and again Fionn was alone.
 
@@ -210,7 +210,7 @@ But Fionn's eye was the eye of a wild creature that spies on darkness and moves 
 
 Fionn bent to his spear and unloosed its coverings.
 
-Then from the darkness there came another sound; a low, sweet soimd; thrillingly joyous, thrillingly low; so low the ear could scarcely note it, so sweet the ear wished to catch nothing else and would strive to hear ' it rather than all sounds that may be heard by man: the music of another world! the unearthly, dear melody of the Shi! So sweet it was that the sense strained to it, and having reached must follow drowsily in its wake, and would merge in it, and could not return again to its own place imtil that strange harmony was finished and the ear restored to freedom.
+Then from the darkness there came another sound; a low, sweet sound; thrillingly joyous, thrillingly low; so low the ear could scarcely note it, so sweet the ear wished to catch nothing else and would strive to hear ' it rather than all sounds that may be heard by man: the music of another world! the unearthly, dear melody of the Shi! So sweet it was that the sense strained to it, and having reached must follow drowsily in its wake, and would merge in it, and could not return again to its own place imtil that strange harmony was finished and the ear restored to freedom.
 
 But Fionn had taken the covering from his spear, and with his brow pressed close to it he kept his mind and all his senses engaged on that sizzling, murderous point.
 
