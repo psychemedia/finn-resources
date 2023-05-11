@@ -30,7 +30,7 @@ Here a gay band went carrying rich treasure to decorate the pavilion of a Münst
 
 On such a journey all people spoke together, for all were friends, and no person regarded the weapon in another man's hand other than as an implement to poke a reluctant cow with, or to pacify with loud wallops some hoof-proud colt.
 
-Into this teem and profusion of jolly humanity Fionn, slipped, and if his mood had been as bellicose as a wounded boar he would yet have found no man to quarrel with, and if his eye had been as sharp as a jealous husband's he would have foimd no eye to meet it with calculation or menace or fear; for the Peace of Ireland was in being, and for six weeks man was neighbour to man, and the nation was the guest of the High King.
+Into this teem and profusion of jolly humanity Fionn, slipped, and if his mood had been as bellicose as a wounded boar he would yet have found no man to quarrel with, and if his eye had been as sharp as a jealous husband's he would have found no eye to meet it with calculation or menace or fear; for the Peace of Ireland was in being, and for six weeks man was neighbour to man, and the nation was the guest of the High King.
 
 Fionn went in with the notables.
 

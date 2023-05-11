@@ -33,7 +33,7 @@ It will be wondered why his own mother did not train him in the first natural sa
 
 Fionn's mother was beautiful, long-haired Muirne: so she is always referred to. She was the daughter of Teigue, the son of Nuada from Faery, and her mother was Ethlinn. That is, her brother was Lugh of the Long Hand himself, and with a god, and such a god, for brother we may marvel that she could have been in dread of Morna or his sons, or of any one. But women have strange loves, strange fears, and these are so bound up with one another that the thing which is presented to us is not often the thing that is to be seen.
 
-However it may be, when Uail died, Muirne got married again to the King of Kerry. She gave the child to Bovmall and Lia Luachra to rear, and we may be sure that she gave injunctions with him, and many of them. The yoougster was brought to the woods of Slieve Bloom and was nursed there in secret.
+However it may be, when Uail died, Muirne got married again to the King of Kerry. She gave the child to Bovmall and Lia Luachra to rear, and we may be sure that she gave injunctions with him, and many of them. The youngster was brought to the woods of Slieve Bloom and was nursed there in secret.
 
 It is likely the women were fond of him, for other than Fionn there was no life about them. He would be their life; and their eyes may have seemed as twin benedictions resting on the small fair head. He was fair-haired, and it was for his fairness that he was afterwards called Fionn; but at this period he was known as Deimne. They saw the food they put into his little frame reproduce itself lengthways and sideways in tough inches, and in springs and energies that crawled at first, and then toddled, and then ran. He had birds for playmates, but all the creatures that live in a wood must have been his comrades. There would have been for little Fionn long hours of lonely sunshine, when the world seemed just sunshine and a sky. There would have been hours as long, when existence passed like a shade among shadows, in the multitudinous tappings of rain that dripped from leaf to leaf in the wood, and slipped so to the ground. He would have known little snaky paths, narrow enough to be filled by his own small feet, or a goat's; and he would have wondered where they went, and have marvelled again to find that, wherever they went, they came at last, through loops and twists of the branchy wood, to his own door. He may have thought of his own door as the beginning and end of the world, whence all things went, and whither all things came.
 
@@ -209,7 +209,7 @@ There are coiling weeds down there, the robber counselled him ; there are thin, 
 
 "Watch these and this and that/' Fionn would have been told, "and always swim with a knife in your teeth."
 
-He lived there until his guardians foimd out where he was and came after him. Fiacuil gave him up to them, and he was brought home again to the woods of Slieve Bloom, but he had gathered great knowledge and new supplenesses.
+He lived there until his guardians found out where he was and came after him. Fiacuil gave him up to them, and he was brought home again to the woods of Slieve Bloom, but he had gathered great knowledge and new supplenesses.
 
 The sons of Morna left him alone for a long time. Having made their essay they grew careless.
 
