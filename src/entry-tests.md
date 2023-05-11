@@ -52,7 +52,7 @@ This standing army, if the bardic chronicles are reliable, consisted of men of g
 
 Kennedy also describes something of the domestic arrangements of the Fianna, including a mention of their ovens (the "ovens of the Feine").
 
-```{admonition} Domestic Situauation of the Fianna
+```{admonition} Domestic Situation of the Fianna
 :class: dropdown
 
 In [*Legendary fictions of the Irish Celts*](https://archive.org/details/legendaryfictio01kenngoog/page/n228/mode/2up), Patrick Kennedy, 1866, pp. 209-212
@@ -87,10 +87,11 @@ Sang the poet Oisin of him once to St Patrick : —
 The din of battle, the banquet's glee,  
 The bay of his hounds through the rough glen ringing.  
 And the blackbird singing in Letter Lee,  
-The shingle grinding along the shore When they dragged his war-boats down to sea.
+The shingle grinding along the shore  
+When they dragged his war-boats down to sea.
 The dawn-wind whistling his spears among.  
 And the magic song of his minstrels three."
 
-In the time of Finn no one was ever admitted to be one of the Fianna of Erinn unless he could pass through many severe tests of his worthiness. He must be versed in the Twelve Books of Poetry and must himself be skilled to make verse in the rime and metre of the masters of Gaelic poesy. Then he was buried to his middle in the earth, and must, with a shield and a hazel stick, there defend himself against nine warriors casting spears at him. and if he were wounded he was not accepted. Then his hair was woven into braids and he was chased through the forest by the Fians. If he were overtaken, or if a braid of his hair were disturbed, or if a dry stick cracked under his foot, he was not accepted. He must be able to leap over a lath level with his brow and to run at full speed under one level with his knee, and he must be able while running to draw out a thorn from his foot and never slacken speed. He must take no dowry with a wife.
+In the time of Finn no one was ever admitted to be one of the Fianna of Erinn unless he could pass through many severe tests of his worthiness. He must be versed in the Twelve Books of Poetry and must himself be skilled to make verse in the rime and metre of the masters of Gaelic poesy. Then he was buried to his middle in the earth, and must, with a shield and a hazel stick, there defend himself against nine warriors casting spears at him; and if he were wounded he was not accepted. Then his hair was woven into braids and he was chased through the forest by the Fians. If he were overtaken, or if a braid of his hair were disturbed, or if a dry stick cracked under his foot, he was not accepted. He must be able to leap over a lath level with his brow and to run at full speed under one level with his knee, and he must be able while running to draw out a thorn from his foot and never slacken speed. He must take no dowry with a wife.
 
 ```
