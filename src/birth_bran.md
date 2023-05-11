@@ -1,6 +1,6 @@
 # Birth of Bran and Sceolan
 
-Bran and Sceolan, Fionn's trusty hounds, make regular appearances throughout the tales, perhaps most notably in the tale of Fionn's first meeting with Saeve, and the later discovery of their child, Oísin. For example, in Stephens' telling, we have *"some of those who remembered Bran's parentage thought that as Bran herself had come from the Shi so this fawn [Saeve, before her transformation] might have come out of the Shi also"*. And in Lady Gregory's telling, Saeve remarks Bran an Sceolan *"have human wits ; and I was safe with them, for they knew my nature to be like their own"*.
+Bran and Sceolan, Fionn's trusty hounds, make regular appearances throughout the tales, perhaps most notably in the tale of Fionn's first meeting with Saeve, and the later discovery of their child, Oísin. For example, in Stephens' telling, we have *"some of those who remembered Bran's parentage thought that as Bran herself had come from the Shi so this fawn [Saeve, before her transformation] might have come out of the Shi also"*. And in Lady Gregory's telling, Saeve remarks on how Bran and Sceolan *"have human wits ; and I was safe with them, for they knew my nature to be like their own"*.
 
 So what then are the origins of Bran and Sceolan?
 
