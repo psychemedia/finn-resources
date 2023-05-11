@@ -217,7 +217,7 @@ Fionn cooked the salmon. It was beautiful and tempting and savoury as it smoked 
 
 "Why should I want another man's fish?" said proud Fionn.
 
-"Because yoimg people have strong desires. I thought you might have tasted it, and then you would have eaten it on me.
+"Because young people have strong desires. I thought you might have tasted it, and then you would have eaten it on me.
 
 "I did taste it by chance," Fionn laughed, "for while the fish was roasting a great blister rose on its skin. I did not like the look of that blister, and I pressed it down with my thumb. That burned my thumb, so I popped it in my mouth to heal the smart. If your salmon tastes as nice as my thumb did," he laughed, "it will taste very nice."
 
