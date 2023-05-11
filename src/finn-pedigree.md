@@ -16,7 +16,7 @@ kernelspec:
 
 The legend of Fionn Mac Cumhaill typically seems to start with Fionn, orphaned by the loss of his father at the Battle of Cnuchna, being taken by his mother to a place a safety, lest the members of the clan Morna, who killed Fionn's father, Uiall / Cumhaill, son of Baiscne ("Bash-k-nuh") sought also to put paid to any claim Fionn might have on the leadership.
 
-But just in case there is some colour we can add to our tale in accounts that describe the death of Fionn's father, Uail (Cumhaill, "Cool"), or perhaps his mother, Muirne's, backstory (Muirne, daughtwe of Tadgh ("Tye-gh") / Teigue ("Taygh"))).
+But just in case there is some colour we can add to our tale in accounts that describe the death of Fionn's father, Uail (Cumhaill, "Cool"), or perhaps his mother, Muirne's, backstory (Muirne, daughter of Tadgh ("Tye-guh") / Teigue ("Taygh")).
 
 The gist of the story is this:
 
