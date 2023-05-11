@@ -207,7 +207,7 @@ But where Fionn would venture his toes his ears would follow.
 
 There are coiling weeds down there, the robber counselled him ; there are thin, tough, snaky binders that will trip you and grip you, that will pull you and will not let you go again imtil you are drowned; until you are swaying and swinging away below, with outstretched arms, with outstretched legs, with a face all stares and smiles and jockeying, gripped in those leathery arms, until there is no more to be gripped of you even by them.
 
-"Watch these and this and that/' Fionn would have been told, "and always swim with a knife in your teeth."
+"Watch these and this and that," Fionn would have been told, "and always swim with a knife in your teeth."
 
 He lived there until his guardians found out where he was and came after him. Fiacuil gave him up to them, and he was brought home again to the woods of Slieve Bloom, but he had gathered great knowledge and new supplenesses.
 
