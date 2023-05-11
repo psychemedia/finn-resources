@@ -255,7 +255,7 @@ own.
 
 "Who was the fish given to?" his companion wondered.
 
-"It was given to you," Finegas answered. "It was given to Fionn, the son of Uail, the son of Baiscne, and it will be given to him.'*
+"It was given to you," Finegas answered. "It was given to Fionn, the son of Uail, the son of Baiscne, and it will be given to him."
 
 "You shall have a half of the fish," cried Fionn.
 
