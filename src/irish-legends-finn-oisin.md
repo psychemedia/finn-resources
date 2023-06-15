@@ -11,6 +11,19 @@ by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William B
 Publication date 1904
 Summary of legends of Finn Mac Cumhail, Oisin etc
 
+
+---
+
+Heroic romances of Ireland;
+by Leahy, Arthur Herbert, 1857-1928
+
+Publication date 1905
+2 vols
+
+https://archive.org/details/heroicromancesi00leahgoog/page/n5/mode/2up
+
+https://archive.org/details/heroicromancesof02leah/page/n3/mode/2up vol II versified romances
+
 ---
 
 https://archive.org/details/finnhiscompanio00ogra/page/n205/mode/2up
@@ -163,46 +176,6 @@ Incl lay of oisin on the land of youth, dialogue between oisin and St Patrick, b
 
 ---
 
-https://archive.org/details/waifsstraysofcel00lond/page/82/mode/2up
-Waifs and strays of Celtic tradition
-Publication date 1889
-TO DO - The Questions put by Finn to the Maiden,
-AND HER Answers. pp82-3 fascinating not riddles
-82
-The Questions put by Finn to the Maiden,
-AND HER Answers.
-1. " What is more numerous than the grass?" said Finn (Fionn).
-" The dew-drops," said the maiden.
-2. " What is whiter than the snow ?'' said Finn.
-" Truth," said the maiden.
-3. " What is lovehest of hue ?" said Finn.
-" The bloom of childhood," said the maiden.
-4. " What is hotter than fire ?" said Finn.
-" The hospitable man's face when a stranger Cometh and there is nothing to offer him," said the maiden.
-5. " What is swifter than the wind ?" said Finn.
-" The mind of a woman," said the maiden.
-6. " What is sharper than a sword ?" said Finn.
-" A woman's wit between two men," said the maiden.
-7. " What is bitterer than poison ?" said Finn. " The reproach of an enemy," said the
-maiden.
-8. "What is blacker than the raven ?" said Finn.
-" Death," said the maiden.
-9. " What is best for a hero ?" said Finn.
-" High deeds and humble pride," said the maiden.
-10. "What is best for a woman ?"said Finn. " Generous tenderness," said the maiden.
-11. "What is softer than down ?" said Finn. " The palm* of the cheek," said the maiden.
-12. " What is best of jewels ?" said Finn. " A knife," said the maiden.
-Finns Qnesiions. 83
-" Death," said the maiden.
-9. " What is best for a hero ?" said Finn.
-" High deeds and humble pride," said the maiden.
-10. "What is best for a woman ?"said Finn. " Generous tenderness," said the maiden.
-11. "What is softer than down ?" said Finn. " The palm* of the cheek," said the maiden.
-12. " What is best of jewels ?" said Finn. " A knife," said the maiden.
-Note.— Compare Campbell, Popular Tales, vol. iii, pp. 36-37. There are instructive variations between the two versions. Nos. 3 and 10 are not in Campbell. In No. 4 the question in Campbell runs : " What is redder than blood ?" whilst Campbell gives as the answer to " What is hotter than fire ? — A woman's reasoning betwixt two men," which certainly does not seem right. On the other hand, Campbell gives : "A woman's thought between two men," as the answer to our No. 5. I am inclined to think this is more correct than our version. See the tale of Michael Scott, and my note, supra, pp. 52-3. Our No. 9 runs thus in Campbell: "What deed is the best of deeds? — A high deed and low conceit," which may be more morale but is not as delightfully characteristic of the Highland temperament as our version. Campbell has about half as many riddles again as our ver- sion, but only one is of great interest : "What is it will not bide lock and chain ? — The eye of a man about his friend ; it will not brook shutting or holding, but looking on him." In Campbell the maiden is Graine, Finn's wife, and Mr. Hector MacLean cites the tradition that he married her, as she was the only woman who could answer all his questions.
-Alfred Nutt.
-[Waifs and strays was a series with mutliple parts - TO DO - links ofr other parts]
-
 ---
 
 https://archive.org/details/besidefirecollec00hydeuoft/page/16/mode/2up
@@ -220,7 +193,7 @@ Publication date 1859
 
 ---
 
-Legends - summary of a dozen or so tales; possibly useful for stroy selection
+Legends - summary of a dozen or so tales; possibly useful for story selection
 https://emeraldisle.ie/fenian-cycle
 
 
@@ -240,12 +213,18 @@ by Hyde, Douglas, 1860-1949
 Publication date 1901
 
 Proceeding of Ossianic Society
-Vol https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up
-VOl II https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up
-VOl III https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up
-Vol IV https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up
-VOl V https://archive.org/details/transactionsofos05ossi/
-Vol VI https://archive.org/details/transactionsofos06ossi/
+
+Vol https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up BATTLE OF GABHRA. 1854, GARRISTOWN IN THE COUNTY OF DUBLIN, FOUGHT A.D. 283.
+
+VOl II https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up THE FESTIVITIES AT THE CURT OF CONN OF CEANN-SLEIBHE, 1854
+
+VOl III https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up DIARMUID O'DUIBHNE, AND GRAINNE, Standish Hayes o'Grady, 1855
+
+Vol IV https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up FENIAN POEMS 1856
+
+VOl V https://archive.org/details/transactionsofos05ossi/ The Great Bardic Institution 1860
+
+Vol VI https://archive.org/details/transactionsofos06ossi/ FENIAN POEMS 1861
 
 
 ---
@@ -516,6 +495,8 @@ https://archive.org/details/oldcelticromance00joyciala
 Old Celtic romances
 by Joyce, P. W. (Patrick Weston), 1827-1914
 Publication date 1920 [pref. 1907]
+
+
 
 ---
 
