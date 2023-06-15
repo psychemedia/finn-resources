@@ -1,5 +1,100 @@
 # Unused - additional notes
 
+https://celt.ucc.ie/publishd.html#eorig
+
+---
+
+Alternative origin thumb knowledge
+trapped in door: Review Celtique 25 1904 344-6
+Silva gadelica 1892 I p 91
+
+Also original review Celtique 5 1881 p201
+
+
+---
+https://www.jstor.org/stable/20522287?read-now=1&seq=31#page_scan_tab_contents
+Magic Attributes of the Hero in Fenian Lore
+Dáithí Ó hÓgáin
+Béaloideas, Iml. 54/55 (1986/1987), pp. 207-242 (36 pages)
+
+
+---
+
+https://archive.org/details/fianaigechtbeing00meye
+Fianaigecht : being a collection of hitherto inedited Irish poems and tales relating to Finn and his Fiana
+by Meyer, Kuno, 1858-1919
+
+Publication date 1910
+
+
+
+--
+
+https://archive.org/details/fictionsofourfor01kenn
+Fictions of our forefathers : Fion Mac Cumhail and his warriors (Reprinted from the Irish Quarterly Review, No. XXXV., October 1859)
+by Kennedy, Patrick, 1801-1873; Ossianic Society
+
+Publication date 1859
+
+https://archive.org/details/heroesofdawn00russ
+Heroes of the Dawn
+by Russell, Violet; Elvery, Beatrice
+Publication date 1914
+NOTE
+THESE stories are founded on legends mainly derived from Silva Gadelica and the Transactions of the Ossianic Society. For some details and one or two legends I am indebted to Mr. Standish O'Grady's Critical and Philosophical History.
+THE ANCIENT GODS 1
+FIONN 9
+THE ENCHANTMENT OF TARA 23
+THE FAERY HARPER 37
+THE CHASE OF GLEANN-NA-SMOL 46
+SCATHACH OF THE SIIADOAVS 63
+THE LAKE OF SORROW 72
+THE MYSTERIOUS HOUND 85
+THE PURSUIT OF THE GILLA DECAIR 99
+THE FAERY WOMAN 127
+THE ENCHANTED CAVE 139
+THE HOUSE OF THE PHANTOMS 150
+THE COMING OF THE CARLE 159
+THE HOSTING OF SLIEVE-NA-MAN 187
+THE DEATH OF OSCUR 202
+OLSIN GOES TO TIR-NA-NOGE 212
+THE PASSING OF THE FIANNA 219
+THE RETURN OF OISIN 227
+THE SHIELD OF MANANNAN 241
+THE SLUMBER OF FIONN 248
+
+https://archive.org/details/historyofireland00ogra
+History of Ireland: : critical and philosophical.
+by O'Grady, Standish
+Publication date 1881
+PART IX.
+Tara and her Kings.
+I.— The Atticottic Revolution . . . .245
+II.— Conn of the Hundred Fights . . . .271
+III. — Wars of Conn with the South of Ireland . . 275
+IV.— Caledonia Invaded by the Dal Riada . . . 290
+V.— Battle of Mah Mucreema . . . . .295
+VI. — Lewy mac-Con Fergus ..... 298
+VII. — Cormac mac- Art Ua Conn, Rex Hibemiae, a.d. 227 . 300
+VIII. — Reign of Cormac mac-Art— continued . . . 311
+IX. — Battle of Gabra— Extermination of the Fians . . 318
+Ossian and the Ossianic Heroes
+I. — Earlier Allusions to the Fianna Eireen . • . 326
+II.— Finn mac Cool . . . . . .329
+III. — Historical and Literary Features of the Ossianic Cycle 335
+IV.— Diarmid and Graney ..... 340
+V. — Ossian, Warrior and Bard . .... 344
+VI.— The Burden of Ossian 346
+VII.— Oscur 350
+VII [.— Coelte, Son of Ronan, and other Fenian Heroes . . 353
+
+
+https://archive.org/details/truieatiarmudaa01langgoog/
+Tóruiġeaċt Ḋiarmuda agus Ġráinne =: The pursuit of Diarmuid and Grainne
+by Society for the Preservation of the Irish Language
+
+Publication date 1880
+
 
 Counterpoint - Scottish tals
 
@@ -7,8 +102,37 @@ https://youtu.be/ceMwvbLXrYc?t=686
 
 fi-un
 
+---
+
+https://archive.org/details/IrishFolkLoreTraditions/
+
+Irish folk lore : traditions and superstitions of the country, with humorous tales
+by O'Hanlon, John, 1821-1905
+
+Publication date 1870
 
 ------
+
+
+---
+
+https://archive.org/details/taliesinorbards00nashgoog/page/n6/mode/2up
+Taliesin, Or, The Bards and Druids of Britain: a translation of the remains of the earliest ...
+by David William Nash
+
+Publication date 1858
+
+---
+
+https://celt.ucc.ie/
+
+---
+https://archive.org/details/zeitschriftfrc04meyeuoft/page/338/mode/2up?q=finn
+Zeitschrift für celtische Philologie IV, 1903
+WHERE WAS THE DUN OF FINN MAC CUMHAILL?
+
+
+---
 
 Tara and Fionn https://www.youtube.com/watch?v=zKuLDDPe_Cw
 
@@ -42,7 +166,7 @@ There is hardly a trace of his Gaelic even in coIIections made shortly before, a
 
 AFTER the general Irish war of the Tain bo Cuailgne, in which Cuchullin of Dundalk nas the chief hero, in the time of Conn of the Hundred Fights, from whom many Scotch tribes claim descent, the army quarrelled. The tribe of Morna slew Cumhal, the chief of the tribe of Baoiscne (variously spelt). Scandinavians were concerned in the slaying, and they took possession in Ireland. Cumhal's posthumous son, Fionn, was saved, grew up, aud fled to the wilds. Art, son of Conn, High King of Ireland, was slain ; and his posthumous illegitimate son Connac grow up in obscurity. After many adventures, Fionn Mac Cumhail returaed, gathered his scattered tribe, and made peace witb the riva! tribe of Morna. Cormac appeared, fought the usurpers, recovered Conn's seat as High King at Teamhra. Fionn commanded tha Feinne at Almhuin, which now is the Hill of Allen, near Tara. They expelled the usurping Danes, and guarded the Irish coast. Like all popular heroes, Fionn had mythical properties, of which the chiof was ' Bran,' a hound, who, in some strange fashion, was his near relative. The Northern Sea rovers continued to persecute Fionn, and demand Bran, till they were conquered. All sorts of people from Spain, Sorcha, Italy, Greece, Britain, and elsewhere attacked the Feinne, and were defeated; all sorts of mythical magical people schemed their destruction, but in vain. They made raids in all directions, upon Italy and Greece, and Lochlan and Britain, and conquered everybody everywhere.
 
-People from distant lands joined them, and served as Feinne. At last they quarrelled. Caoilte had to rescue Fionn from the King, and Cormac slips out of the story. Fionn is called ' King of Teamhra ' sometimes, and the story probably was that he dethroned Cormac. Then the blood-feud between Fionn and Goll broke out. Goll slew Fionn's son, and the tribe of Baoiscne slew him. Then jealousy broke out. Diarmaid, Fionn;s twin sister's son, ran away with his uncle's bride, Graidhne, Comiac's daughter. The tribe pursued, and quarrelled and fought, to the joy of Conan. Diarmaid was slain at last by the wiles of Fionn. Next, Oscar, the son of Oisein, the son of Fionn, the son of Cumhal, quarrelled with Cairbre, the son of Cormac, the son of Art, the son of Conn of the Hundred Fights. They fell out at a feast at Teamhra, now Tara, and fought the battlc of Gabhra, not far from Dublin. There Oscar and Cairbre slew each other, and Fionn arrived from the sea in time to see his grandson die, and carry him to Almhuin, tha Hìll of Allen. Long afterwards, Oisein, who had been enchanted by his mother, who lived in the shape of a deer, came back from the Isle of Youth at an impossible age, and told the story to St. Patrick. The old Pagan is made to complain of jangling bells and howling clerics, to sit upon the Fenians Mound — that is, upon the Hill of Allen — and point to the graves of his comrades, and tell their story to the priest, who wrote it down. In this form of dialogue between Reciter and Scribe, Pagan and Christian, blind old ballad-singing warrior and audience, this Story is told over winter fires, in fragments which are now crumbling fast. In this very form the story was told in fragments to Dean Mac GrEGor, in 1512- 26. I have done nothing to these. I have simply gathered them and sorted them. Samples of the Gaelic poems which tell the tale in metre follow, with references to the manuscripts from which they were copied. The prose tales which I have gathered I will place when I translate.
+People from distant lands joined them, and served as Feinne. At last they quarrelled. Caoilte had to rescue Fionn from the King, and Cormac slips out of the story. Fionn is called ' King of Teamhra ' sometimes, and the story probably was that he dethroned Cormac. Then the blood-feud between Fionn and Goll broke out. Goll slew Fionn's son, and the tribe of Baoiscne slew him. Then jealousy broke out. Diarmaid, Fionn's twin sister's son, ran away with his uncle's bride, Graidhne, Comiac's daughter. The tribe pursued, and quarrelled and fought, to the joy of Conan. Diarmaid was slain at last by the wiles of Fionn. Next, Oscar, the son of Oisein, the son of Fionn, the son of Cumhal, quarrelled with Cairbre, the son of Cormac, the son of Art, the son of Conn of the Hundred Fights. They fell out at a feast at Teamhra, now Tara, and fought the battle of Gabhra, not far from Dublin. There Oscar and Cairbre slew each other, and Fionn arrived from the sea in time to see his grandson die, and carry him to Almhuin, tha Hìll of Allen. Long afterwards, Oisein, who had been enchanted by his mother, who lived in the shape of a deer, came back from the Isle of Youth at an impossible age, and told the story to St. Patrick. The old Pagan is made to complain of jangling bells and howling clerics, to sit upon the Fenians Mound — that is, upon the Hill of Allen — and point to the graves of his comrades, and tell their story to the priest, who wrote it down. In this form of dialogue between Reciter and Scribe, Pagan and Christian, blind old ballad-singing warrior and audience, this Story is told over winter fires, in fragments which are now crumbling fast. In this very form the story was told in fragments to Dean Mac Gregor, in 1512- 26. I have done nothing to these. I have simply gathered them and sorted them. Samples of the Gaelic poems which tell the tale in metre follow, with references to the manuscripts from which they were copied. The prose tales which I have gathered I will place when I translate.
 
 The Heroes of Ballads seem all to have been rèlated. ' Iodhlan ' was ' Camhals ' brother. Goll, Conan, and Garaidh wore chiefs of the Clanna Morna. Fionn, Oìsein hìs son, Oscar his grandson. Diarmaid his nephew, Faolan, Feargus, Roidhne, and Caireall, his younger ones, Caoilte, his relative, make eloven chief characters who fìgure in the Ballads which follow. The Pedigrees speak for themselves.
 
@@ -62,7 +186,7 @@ This Introduction is a sample of a dialect of English *that never has been prìn
 J. F. C.
 
 
-... this son of Comhal was afraid that his own wife would do some mischief to this son, and for that reason he ordered the midwife to take him away. She went with him unto the wood and she got a wright and made a hole in the Trunk of a large oak tree, in the same manner as a Canoe would be made, and door to it, so that nobody would find her, and she nourished him their by fat and marrow, when he was coming to age, she was learaing him how to fight and wrestle, when she would get the better of him, she would heartily beat him, when he came to the age of eighteen years or there about, he was going out of the woods and one day boys met him Shinnying, the play pleased him, he went ard got a rung and began with them, he was seeing that the boys was afraid of him, he would take the ball from them all ; since he gained on them he began to beat them with the Shinney, and left  them half dead, others he broke their hand or feet (according to his nurse's regulation, for he thought that they had the same,) when the men have seen their children abused by such a person, they call'd after him saying who is this fellow that is Fionn-é that have done this harm to our sons, his nurse heard them, and she said let bruke his name Fingal the son of Comhal, this is the way Pedigree. that he was baptized ; for Fionn-Gheal is a Galic word, its signification is fair and white. ...
+... this son of Comhal was afraid that his own wife would do some mischief to this son, and for that reason he ordered the midwife to take him away. She went with him unto the wood and she got a wright and made a hole in the Trunk of a large oak tree, in the same manner as a Canoe would be made, and door to it, so that nobody would find her, and she nourished him their by fat and marrow, when he was coming to age, she was learaing him how to fight and wrestle, when she would get the better of him, she would heartily beat him, when he came to the age of eighteen years or there about, he was going out of the woods and one day boys met him Shinnying, the play pleased him, he went ard got a rung and began with them, he was seeing that the boys was afraid of him, he would take the ball from them all ; since he gained on them he began to beat them with the Shinney, and left them half dead, others he broke their hand or feet (according to his nurse's regulation, for he thought that they had the same,) when the men have seen their children abused by such a person, they call'd after him saying who is this fellow that is Fionn-é that have done this harm to our sons, his nurse heard them, and she said let bruke his name Fingal the son of Comhal, this is the way Pedigree. that he was baptized ; for Fionn-Gheal is a Galic word, its signification is fair and white. ...
 
 ...
 
@@ -96,17 +220,17 @@ Fingal says likewise, 'My arm was the support of the injured ; the weak rested b
 
 TO DO FROM HERE
 
-Fingal and his heroes combined in strength, wealth, and n>|mtation till decripit old age was coming upon them, tlion they were decreasing daily. Fingal in his latter days had his dwelling-placo in the Isle of Sky (which was called at that time the Isle of Mist), and the house was built on a hill above the place where Mac Kinivin's old castle licB, the north-west side of Caol reth, and they wcre still hunting through Sky since it was the best place for hunting at that tinie, for vanis«»n was very scarce then for a while in both Scotland and Ireland, and they begun to tiU the top of the mountains where it was bare without wood to support them ; then the Heroes became lean and i)oor, but the women were not so, thoy wondered how comely and fair the wonien looked besides themselves. The women were always making their drink of the dccoction of Southeni wood, raspberries, and the like, and supposed that drink was the reason of their complexion being so fair, and besides thoy were keeping the f)C8t pieces of the venison and dressing it for themselves unknown to the Heroes when they would be absent. One day they went to the continent opi>o8Ìte to them to hunf, and they left Garbh unknown to their women in the house for to see what entertainments they would have, bcsides themselves. Garbh was in his bed after the
+Fingal and his heroes combined in strength, wealth, and n>|mtation till decripit old age was coming upon them, tlion they were decreasing daily. Fingal in his latter days had his dwelling-placo in the Isle of Sky (which was called at that time the Isle of Mist), and the house was built on a hill above the place where Mac Kinivin's old castle licB, the north-west side of Caol reth, and they wcre still hunting through Sky since it was the best place for hunting at that tinie, for vanis«»n was very scarce then for a while in both Scotland and Ireland, and they begun to tiU the top of the mountains where it was bare without wood to support them ; then the Heroes became lean and i)oor, but the women were not so, thoy wondered how comely and fair the wonien looked besides themselves. The women were always making their drink of the dccoction of Southeni wood, raspberries, and the like, and supposed that drink was the reason of their complexion being so fair, and besides thoy were keeping the f)C8t pieces of the venison and dressing it for themselves unknown to the Heroes when they would be absent. One day they went to the continent opi>o8Ìte to them to hunt, and they left Garbh unknown to their women in the house for to see what entertainments they would have, bcsides themselves. Garbh was in his bed after the
 
 
 
-rest went off for to watch the women, he fell into a deep sleep, and snored, the women heard him and immedÌiately camo to him, and tied his hair on both sides of his heiidy and wove it again into three plaits, and fastened it to wooden pins, and put it in the ground ; they went ont of the house, then every one of them cried, * Huza, huMM^ huza,' wìth a loud voice, then Garbh wakened suddenly out of his sleep (for he thought that the enemy waa at hand) and left all his hair of his head with the Bkin to the pins, and came out in that pitiful condition, and Bome of the women were laughing at him. Wben he had seen how he was with their contrivance, and how heartily they were laughing at his calamity, he went immediately to the wood, pulled trees out of their roott and made faggots of them, and brought them home with all speed. VVheu he came he found the women in the hoiue, he locked them in and put a faggot burning in every conieE of the house till he set it on fire and all the women within it. Afterwards Garbh ran away into a cave to hide himself from the Heroes ; Fingal had seen the houae on fire, he called all his men together, and they ran in hope that they would quench it, and jumped over the smidl Soand (that is betwixt Sky and the Und) on their shiolda (acoept one of them who was cilled Mac Reth, he was dròwned there, and they callod that sound Caolreth since thai day). When the house could not be quenched but destroved with the fìre, and all their women, children, and furniture ruined, they searched all places about for Garbh (when Fingal told them by soutlisaying who was the destroyer), and found him in a cave, they conjured him to come out, and examined him about the matter, he told them the truth how all things happened. Then Fingal condemned him to be put to death. Garhh asked a petition of Fingal before he would be baniahed, that was granted him (for Fingal nevor refused a petition to any person, and particularly the distressed). Garbh's petition was that he would be beheaded on Fingal's thigh by Fingal's own sword, by the hand of Oacar (the strongest man), then they were all afraid that Finsal would loose his leg, theu they thought proper to let Garbh away than to kill him uiK>n Fingal's thigh ; then some of them ordered Fingars thigh to be buried seven feet deep in the earth, and to laid lùs head above Fingal's thigh upon the earth (since it would not break Fingal's promise) then Oscar cut his head off, and with the force of the struke Fingal's leg was cut above the knee. Then he went to Rome with his attendance for to cure his leg, and left Oscar in his stead. Before he came home the battle of Cathcabhara was fought between Oscar and Cairdaidh, the King of Ireland. Oscar and almost all his men were slain ; a few days after the battle was fought Fingal came home and found a few number of his famous champions alive lamenting Oscar ; and we hear no more of their deeds afterwards.
+rest went off for to watch the women, he fell into a deep sleep, and snored, the women heard him and immedÌiately came to him, and tied his hair on both sides of his heiidy and wove it again into three plaits, and fastened it to wooden pins, and put it in the ground ; they went ont of the house, then every one of them cried, * Huza, huMM^ huza,' wìth a loud voice, then Garbh wakened suddenly out of his sleep (for he thought that the enemy waa at hand) and left all his hair of his head with the Bkin to the pins, and came out in that pitiful condition, and Bome of the women were laughing at him. Wben he had seen how he was with their contrivance, and how heartily they were laughing at his calamity, he went immediately to the wood, pulled trees out of their roott and made faggots of them, and brought them home with all speed. When he came he found the women in the house, he locked them in and put a faggot burning in every con??? of the house till he set it on fire and all the women within it. Afterwards Garbh ran away into a cave to hide himself from the Heroes ; Fingal had seen the houae on fire, he called all his men together, and they ran in hope that they would quench it, and jumped over the smidl Soand (that is betwixt Sky and the Und) on their shiolda (acoept one of them who was cilled Mac Reth, he was dròwned there, and they callod that sound Caolreth since thai day). When the house could not be quenched but destroved with the fìre, and all their women, children, and furniture ruined, they searched all places about for Garbh (when Fingal told them by soutlisaying who was the destroyer), and found him in a cave, they conjured him to come out, and examined him about the matter, he told them the truth how all things happened. Then Fingal condemned him to be put to death. Garhh asked a petition of Fingal before he would be baniahed, that was granted him (for Fingal nevor refused a petition to any person, and particularly the distressed). Garbh's petition was that he would be beheaded on Fingal's thigh by Fingal's own sword, by the hand of Oscar (the strongest man), then they were all afraid that Finsal would loose his leg, theu they thought proper to let Garbh away than to kill him uiK>n Fingal's thigh ; then some of them ordered Fingars thigh to be buried seven feet deep in the earth, and to laid lùs head above Fingal's thigh upon the earth (since it would not break Fingal's promise) then Oscar cut his head off, and with the force of the struke Fingal's leg was cut above the knee. Then he went to Rome with his attendance for to cure his leg, and left Oscar in his stead. Before he came home the battle of Cathcabhara was fought between Oscar and Cairdaidh, the King of Ireland. Oscar and almost all his men were slain ; a few days after the battle was fought Fingal came home and found a few number of his famous champions alive lamenting Oscar ; and we hear no more of their deeds afterwards.
 
 After so particular examination of Fingal, I procced to make some observations on Ossian.
 
-Ossiau lived after them all in Ireland, in the house of his daughter, who was married to Peter Mac Alpin, a man that came from Ilome to instruct them in the principles of Keligion there. It was that man that waa writing all histories and poenis of the Heroes which Ossian told him in his latter days, but never published till this age, when there is but few fragments of them to be got. The following is collectcd from the oldest men, who lives at present in this wcster side of Scotland.
+Ossian lived after them all in Ireland, in the house of his daughter, who was married to Peter Mac Alpin, a man that came from Ilome to instruct them in the principles of Keligion there. It was that man that waa writing all histories and poenis of the Heroes which Ossian told him in his latter days, but never published till this age, when there is but few fragments of them to be got. The following is collectcd from the oldest men, who lives at present in this wcster side of Scotland.
 
-[Here follows a mauifest quotation.]
+[Here follows a manifest?? quotation.]
 
 Ossian had all the art and skill of pure poetry. He had the spirit, the fire, the inspiration of a poet.
 
@@ -167,7 +291,7 @@ December 9, 1871. Copied by Malcolm Macphail. Note. — ^December 17, 1871, Dubl
 nessy in Irish manuscripts ; not known to me orally
 preserved. — J. F. C
 
-A MUSiciAN came to the Heroes, whom they called Claigean Mac Choin a chinn chruaidh, (that is, Hard Head or Hard Scul,) to sing a timbrel to them ; and he would play so hard and loud that none of them could stay to hear it. Caoilte was watching ; he came where he was and asked of him, how many Heroes had Fingal ; he told him that they were dÌTÌded into seven Cathaims, (that is, into sevcn Regiments or Companies, but it is not known how many were in each, but supposed to be 500,) and that every one had a wife, a servant-man, and two dogs ; he went then to the house and played on the Timbrel. Since they coidd not stay to hear it, Fingal excused him- self, saying that their women were . . . sorrowful, and that they do not like any music at present ; but he would not give over playing unless he would get his own dog, named Bran, his two spears, and his sword ; but Fing^ refused that, sa^òng that his music was not pleasant, and that he would not get his request, since he do not deserve it ; then hc gave three sounds, and the Heroes were deaf a long while afterward. They sent all their dogs after him, but in vain till they loosed Bran, who overtook him at a cave in Beinn Eùdain, and kiUed him. Though the Heroes did not ever get victory by human strength over any sort of evil spirits, sorcerers, and the like ; yet Fingal was inchanted and happy among mortals, so that he would get the better of any sort of spirits, conspirators, inchauters, aud brutal force.
+A MUSiciAN came to the Heroes, whom they called Claigean Mac Choin a chinn chruaidh, (that is, Hard Head or Hard Scul,) to sing a timbrel to them ; and he would play so hard and loud that none of them could stay to hear it. Caoilte was watching ; he came where he was and asked of him, how many Heroes had Fingal ; he told him that they were divided into seven Cathaims, (that is, into seven Regiments or Companies, but it is not known how many were in each, but supposed to be 500,) and that every one had a wife, a servant-man, and two dogs ; he went then to the house and played on the Timbrel. Since they coul d not stay to hear it, Fingal excused himself, saying that their women were . . . sorrowful, and that they do not like any music at present ; but he would not give over playing unless he would get his own dog, named Bran, his two spears, and his sword ; but Fingal refused that, saying that his music was not pleasant, and that he would not get his request, since he do not deserve it ; then he gave three sounds, and the Heroes were deaf a long while afterward. They sent all their dogs after him, but in vain till they loosed Bran, who overtook him at a cave in Beinn Eùdain, and killed him. Though the Heroes did not ever get victory by human strength over any sort of evil spirits, sorcerers, and the like ; yet Fingal was inchanted and happy among mortals, so that he would get the better of any sort of spirits, conspirators, inchauters, aud brutal force.
 
 ```
 
@@ -229,6 +353,13 @@ The complete history of Ireland, from the earliest times: being compiled from a 
 by O'Halloran, Sylvester, 1728-1807; Dolby, William
 Publication date [1845?]
 
+--
+ Acallam
+
+ https://iso.ucc.ie/Acallamh-senorach/Acallamh-senorach-background.html
+
+
+---
 
 
 https://archive.org/details/irishmiscellany00onei/page/132/mode/1up?q=%22mac+morna%22
@@ -237,6 +368,35 @@ by O'Neill, Thomas
 Publication date 1858
 p132
 LEGEND OF OSSHEEN, THE SON OF FIONN
+
+
+https://archive.org/details/silvagadelicaix02gragoog/
+Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places [Translation and notes]
+by O'Grady, Standish Hayes, 1832-1915 ed. and tr
+Publication date 1892
+Includes Acallam - Colloquy chapter XII - 
+
+eg https://en.wikipedia.org/wiki/Acallam_na_Sen%C3%B3rach
+
+https://archive.org/details/transactionsofos03ossiuoft/page/53/mode/1up?q=oscar
+Transactions of the Ossianic society, 1855 vol III
+p53
+Grainne and Diarmuid
+
+
+Excellent resource on Fiannaidheacht texts —  The Fenian Cycle: https://www.ancienttexts.org/library/celtic/ctexts/index_irish.html
+
+Prose and Poetical Account of the Battle of Gabhra (Garristown), in the county of Dublin, fought A.D., 283, be- tween Cairbre Liffeachair, king of Leinster, and the Fenian forces of Ireland, in which the latter were conquered, and their ranks finally broken up. Edited by NICHOLAS O'KEAHNEY, ESQ. Kearney ?
+
+
+https://archive.org/details/lecturesonmanus00ocur/page/n7/mode/2up
+Lectures on the MS. Materials of Ancient Irish History, by Professor O’Curry, 8vo, Dublin, 1861. 
+Ghabhra https://archive.org/details/lecturesonmanus00ocur/page/304/mode/1up
+
+https://archive.org/details/fisherchapbook518/page/n3/mode/2up
+Popular Irish stories; a collection of the most interesting tales and legend of Ireland 
+by Crawhall, Joseph, 1821-1896 (association); Zaehnsdorf Limited (binder)
+Publication date 1850
 
 https://archive.org/details/fictionsofourfor01kenn/
 Fictions of our forefathers : Fion Mac Cumhail and his warriors (Reprinted from the Irish Quarterly Review, No. XXXV., October 1859)
