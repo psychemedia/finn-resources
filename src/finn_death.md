@@ -1,5 +1,7 @@
 # The Death of Fionn Mac Cumhail
 
+LOTS TO DO - EDIT THE FILE
+
 https://archive.org/details/zeitschriftfrc01meyeuoft/page/462/mode/1up?q=finn
 Zeitschrift für celtische Philologie
 by Meyer, Kuno, 1858-1919; Stern, Ludwig Christian, 1846-1911
