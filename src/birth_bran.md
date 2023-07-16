@@ -2,7 +2,7 @@
 
 Bran and Sceolan, Fionn's trusty hounds, make regular appearances throughout the tales, perhaps most notably in the tale of Fionn's first meeting with Saeve, and the later discovery of their child, Oísin. For example, in Stephens' telling, we have *"some of those who remembered Bran's parentage thought that as Bran herself had come from the Shi so this fawn [Saeve, before her transformation] might have come out of the Shi also"*. And in Lady Gregory's telling, Saeve remarks on how Bran and Sceolan *"have human wits ; and I was safe with them, for they knew my nature to be like their own"*.
 
-So what then are the origins of Bran and Sceolan?
+So what, then, are the origins of Bran and Sceolan?
 
 In brief, the tale is as follows:
 
@@ -280,5 +280,28 @@ Uct Dealv went then to the house of Fergus Fionnliath, and she broke the enchant
 And a thousand merry people learned it after him.
 
 But as to Fergus Fionnliath, he took to his bed, and he stayed there for a year and a day suffering from blighted affection, and he would have died in the bed only that Fionn sent him a special pup, and in a week that young hound became the Star of Fortune and the very Pulse of his Heart, so that he got well again, and he also lived happily ever after.
+
+```
+
+A shorter telling appears in Lady Gregory's *Gods and fighting men*:
+
+```{admonition} Th Birth of Bran, Lady Gregory, 1902
+In Lady Gregory, *Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland*, pp](https://archive.org/details/godsandfighting01yeatgoog/page/172/mode/2up), 1904, pp 172-174:
+
+This, now, is the story of the birth of Bran.
+
+Finn's mother, Muime, came one time to Almhuin, and she brought with her Tuiren, her sister. And Iollan Eachtach, a chief man of the Fianna of Ulster, was at Almhuin at the time, and he gave his love to Tuiren, and asked her in marriage, and brought her to his own house. But before they went, Finn made him gave his word he would bring her back safe and sound if ever he asked for her, and he bade him find sureties for himself among the chief men of the Fianna. And Iollan did that, and the sureties he got were Caoilte and Goll and Lugaidh Lamha, and it was Lugaidh gave her into the hand of Iollan Eachtach.
+
+But before Iollan made that marriage, he had a sweetheart of The Sidhe, Uchtdealbof the Fair Breast; and there came great jealousy on her when she knew he had taken a wife. And she took the appearance of Finn's woman-messenger, and she came to the house where Tuiren was, and she said: "Finn sends health and long life to you, queen, and he bids you to make a great feast; and come with me now," she said, " till I speak a few words with you, for there is hurry on me."
+
+So Tuiren went out with her, and when they were away from tliie house the woman of the Sidles took out her dark Druid rod from under her cloak and gave her a blow of it that changed her into a hound, the most beautiful that was ever seen. And then she went on, bringing the hound with her, to the house of Fergus Fionnliath, king of the harbour of Gallimh. And it is the way Fergus was, he was the most unfriendly man to dogs in the whole world, and he would not let one stop in the same house with him. But it is what Uchtdealb said to him : " Finn wishes you life and health, Fergus, and he says to you to take good care of his hound till he comes himself; and mind her well," she said, " for she is with young, and do not let her go hunting when her time is near, or Finn will be no way thankful to you." "I wonder at that message," said Fergus, "for Finn knows well there is not in the world a man has less liking for dogs than myself. But for all that," he said, " I will not refuse Finn the first time he sent a hound to me."
+
+And when he brought the hound out to try her, she was the best he ever knew, and she never saw the wild creature she would not run down ; and Fergus took a great liking for hounds from that out
+
+And when her time came near, they did not let her go hunting any more, and she gave birth to two whelps.
+
+And as to Finn, when he heard his mother's sister was not living with Iollan Eachtach, he called to him for the fulfilment of the pledge that was given to the Fianna. And Iollan asked time to go looking for Tuiren, and he gave his word that if he did not find her, he would give himself up in satisfaction for her. So they agreed to that, and Iollan went to the hill where Uchtdealb was, his sweetheart of the Sidhe, and told her the way things were with him, and the promise he had made to give himself up to the Fianna. " If that is so," said she, " and if you will give me your pledge to keep me as your sweetheart to the end of your life, I will free you from that danger." So Iollan gave her his promise, and she went to the house of Fergus Fionnliath, and she brought Tuiren away and put her own shape on her again, and gave her up to Finn. And Finn gfave her to Lugaidh Lamha that asked her in marriage.
+
+And as to the two whelps, they stopped always with Finn, and the names he gave them were Bran and Sceolan.
 
 ```
