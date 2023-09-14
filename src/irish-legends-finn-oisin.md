@@ -316,6 +316,8 @@ by Croker, Thomas Crofton, 1798-1854
 Part I
 Publication date 1834
 
+Incl. mabiniogion tales, opens with a translated essay by Grimm https://archive.org/details/fairylegendstrad03crok/page/n37/mode/2up
+
 ---
 
 https://archive.org/details/fairylegendsand04crokgoog
