@@ -9,6 +9,7 @@ So what, then, was the childhood of this mighty warrior like?
 
 The story begins with the death of Uail (Cumhall, "Cool"), Fionn's father, and the actions of his mother, Muirne, to keep Fionn safe by placing him into the care of two women. Fionn's early upbringing by them is also described.
 
+
 ## Fionn's Childhood, As Told By James Stephens
 
 One of the most readable versions of the tale is given by James Stephens, in *Irish Fairy Tales*.
@@ -273,7 +274,7 @@ That was Fionn.
 
 ```
 
-The narrative then diverges from the main thread, with a description of an example of Fionn's character from later in his life:
+The narrative then diverges from the main thread, with a compelling aside from another time where Fionn asks his men what the finest music is to their ears; as Sorcha Hegarty of [Candleit Tales](https://candlelittales.ie/) characterises it, for Fionn, it is the sound "of now":
 
 ```{admonition} The Character of Fionn
 :class: dropdown
@@ -468,14 +469,9 @@ Let us now turn to another version of Fionn's boyhood, this time as it appears i
 ```{admonition} The Coming of Fionn, Lady Gregory, in "Gods and Fighting Men", 1904
 :class: dropdown
 
-https://archive.org/details/godsfightingmens00gregrich/page/158/mode/2up?q=cat
 
-Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland
-by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William Butler), 1865-1939
 
-Publication date 1904
-
-p159-162
+In *Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland*, Lady Gregory, 1904, [p159-162](https://archive.org/details/godsfightingmens00gregrich/page/158/mode/2up)
 
 PART TWO: THE FIANNA.
 
@@ -576,4 +572,9 @@ Fin slipped down, took farewell of his grandmother, and hurried on with Bran. Th
 
 As the horsemen could not find Fin, and thought the old woman's head would do to carry back, they cut it off, and took it with them, saying : "This will satisfy the king."
 
+```
+
+A telling by Sorcha Hegarty of Candleit Tales podcast, episode 15, *Fionn Birth & Boyhood*, includes a nice set-up I haven't found elsewhere of Liath Luachra, a powerful female warrior from one of the Fianna bands, hunting down Bodhmall before swearing to protect the young baby Fionn/Deimne:
+
+```{youtube} PmxZywVwhP8
 ```
