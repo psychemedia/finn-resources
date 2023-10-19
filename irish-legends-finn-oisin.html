@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
 
   
-  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=ac02cc09edc035673794" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,8 +38,9 @@
     <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=ac02cc09edc035673794" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=ac02cc09edc035673794"></script>
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -76,6 +77,15 @@ const thebe_selector_output = ".output, .cell_output"
   
   
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -285,10 +295,10 @@ const thebe_selector_output = ".output, .cell_output"
 
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script>
@@ -296,7 +306,7 @@ document.write(`
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
   </button>
 `);
 </script>
@@ -345,6 +355,13 @@ Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ir
 by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William Butler), 1865-1939
 Publication date 1904
 Summary of legends of Finn Mac Cumhail, Oisin etc</p>
+<hr class="docutils" />
+<p>Heroic romances of Ireland;
+by Leahy, Arthur Herbert, 1857-1928</p>
+<p>Publication date 1905
+2 vols</p>
+<p><a class="reference external" href="https://archive.org/details/heroicromancesi00leahgoog/page/n5/mode/2up">https://archive.org/details/heroicromancesi00leahgoog/page/n5/mode/2up</a></p>
+<p><a class="reference external" href="https://archive.org/details/heroicromancesof02leah/page/n3/mode/2up">https://archive.org/details/heroicromancesof02leah/page/n3/mode/2up</a> vol II versified romances</p>
 <hr class="docutils" />
 <p><a class="reference external" href="https://archive.org/details/finnhiscompanio00ogra/page/n205/mode/2up">https://archive.org/details/finnhiscompanio00ogra/page/n205/mode/2up</a>
 Finn and his companions
@@ -456,47 +473,6 @@ Transactions of the Ossianic Society: for the years 1853-1858, 1860 p156</p>
 Transactions of the Ossianic society (for t)he year 1856 vol 4)
 Incl lay of oisin on the land of youth, dialogue between oisin and St Patrick, boyish exploits of finn mac cumhuill</p>
 <hr class="docutils" />
-<p><a class="reference external" href="https://archive.org/details/waifsstraysofcel00lond/page/82/mode/2up">https://archive.org/details/waifsstraysofcel00lond/page/82/mode/2up</a>
-Waifs and strays of Celtic tradition
-Publication date 1889
-TO DO - The Questions put by Finn to the Maiden,
-AND HER Answers. pp82-3 fascinating not riddles
-82
-The Questions put by Finn to the Maiden,
-AND HER Answers.</p>
-<ol class="arabic simple">
-<li><p>” What is more numerous than the grass?” said Finn (Fionn).
-” The dew-drops,” said the maiden.</p></li>
-<li><p>” What is whiter than the snow ?’’ said Finn.
-” Truth,” said the maiden.</p></li>
-<li><p>” What is lovehest of hue ?” said Finn.
-” The bloom of childhood,” said the maiden.</p></li>
-<li><p>” What is hotter than fire ?” said Finn.
-” The hospitable man’s face when a stranger Cometh and there is nothing to offer him,” said the maiden.</p></li>
-<li><p>” What is swifter than the wind ?” said Finn.
-” The mind of a woman,” said the maiden.</p></li>
-<li><p>” What is sharper than a sword ?” said Finn.
-” A woman’s wit between two men,” said the maiden.</p></li>
-<li><p>” What is bitterer than poison ?” said Finn. ” The reproach of an enemy,” said the
-maiden.</p></li>
-<li><p>“What is blacker than the raven ?” said Finn.
-” Death,” said the maiden.</p></li>
-<li><p>” What is best for a hero ?” said Finn.
-” High deeds and humble pride,” said the maiden.</p></li>
-<li><p>“What is best for a woman ?”said Finn. ” Generous tenderness,” said the maiden.</p></li>
-<li><p>“What is softer than down ?” said Finn. ” The palm* of the cheek,” said the maiden.</p></li>
-<li><p>” What is best of jewels ?” said Finn. ” A knife,” said the maiden.
-Finns Qnesiions. 83
-” Death,” said the maiden.</p></li>
-<li><p>” What is best for a hero ?” said Finn.
-” High deeds and humble pride,” said the maiden.</p></li>
-<li><p>“What is best for a woman ?”said Finn. ” Generous tenderness,” said the maiden.</p></li>
-<li><p>“What is softer than down ?” said Finn. ” The palm* of the cheek,” said the maiden.</p></li>
-<li><p>” What is best of jewels ?” said Finn. ” A knife,” said the maiden.
-Note.— Compare Campbell, Popular Tales, vol. iii, pp. 36-37. There are instructive variations between the two versions. Nos. 3 and 10 are not in Campbell. In No. 4 the question in Campbell runs : ” What is redder than blood ?” whilst Campbell gives as the answer to ” What is hotter than fire ? — A woman’s reasoning betwixt two men,” which certainly does not seem right. On the other hand, Campbell gives : “A woman’s thought between two men,” as the answer to our No. 5. I am inclined to think this is more correct than our version. See the tale of Michael Scott, and my note, supra, pp. 52-3. Our No. 9 runs thus in Campbell: “What deed is the best of deeds? — A high deed and low conceit,” which may be more morale but is not as delightfully characteristic of the Highland temperament as our version. Campbell has about half as many riddles again as our ver- sion, but only one is of great interest : “What is it will not bide lock and chain ? — The eye of a man about his friend ; it will not brook shutting or holding, but looking on him.” In Campbell the maiden is Graine, Finn’s wife, and Mr. Hector MacLean cites the tradition that he married her, as she was the only woman who could answer all his questions.
-Alfred Nutt.
-[Waifs and strays was a series with mutliple parts - TO DO - links ofr other parts]</p></li>
-</ol>
 <hr class="docutils" />
 <p><a class="reference external" href="https://archive.org/details/besidefirecollec00hydeuoft/page/16/mode/2up">https://archive.org/details/besidefirecollec00hydeuoft/page/16/mode/2up</a>
 Beside the fire : a collection of Irish Gaelic folk stories
@@ -509,7 +485,7 @@ Fictions of our forefathers : Fion Mac Cumhail and his warriors (Reprinted from 
 by Kennedy, Patrick, 1801-1873; Ossianic Society
 Publication date 1859</p>
 <hr class="docutils" />
-<p>Legends - summary of a dozen or so tales; possibly useful for stroy selection
+<p>Legends - summary of a dozen or so tales; possibly useful for story selection
 <a class="reference external" href="https://emeraldisle.ie/fenian-cycle">https://emeraldisle.ie/fenian-cycle</a></p>
 <hr class="docutils" />
 <p><a class="reference external" href="https://www.theirishroadtrip.com/the-fianna/">https://www.theirishroadtrip.com/the-fianna/</a>
@@ -521,13 +497,13 @@ Key legends: <a class="reference external" href="https://www.theirishroadtrip.co
 <p>? from  <a class="reference external" href="https://archive.org/details/ansgealuidhegae00hydegoog">https://archive.org/details/ansgealuidhegae00hydegoog</a> An sgʹealuidhe gaedhealach
 by Hyde, Douglas, 1860-1949
 Publication date 1901</p>
-<p>Proceeding of Ossianic Society
-Vol <a class="reference external" href="https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up</a>
-VOl II <a class="reference external" href="https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up</a>
-VOl III <a class="reference external" href="https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up</a>
-Vol IV <a class="reference external" href="https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up</a>
-VOl V <a class="reference external" href="https://archive.org/details/transactionsofos05ossi/">https://archive.org/details/transactionsofos05ossi/</a>
-Vol VI <a class="reference external" href="https://archive.org/details/transactionsofos06ossi/">https://archive.org/details/transactionsofos06ossi/</a></p>
+<p>Proceeding of Ossianic Society</p>
+<p>Vol <a class="reference external" href="https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos01ossi/page/n5/mode/2up</a> BATTLE OF GABHRA. 1854, GARRISTOWN IN THE COUNTY OF DUBLIN, FOUGHT A.D. 283.</p>
+<p>VOl II <a class="reference external" href="https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos02ossi/page/n5/mode/2up</a> THE FESTIVITIES AT THE CURT OF CONN OF CEANN-SLEIBHE, 1854</p>
+<p>VOl III <a class="reference external" href="https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos03ossi/page/n5/mode/2up</a> DIARMUID O’DUIBHNE, AND GRAINNE, Standish Hayes o’Grady, 1855</p>
+<p>Vol IV <a class="reference external" href="https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up">https://archive.org/details/transactionsofos04ossi/page/n5/mode/2up</a> FENIAN POEMS 1856</p>
+<p>VOl V <a class="reference external" href="https://archive.org/details/transactionsofos05ossi/">https://archive.org/details/transactionsofos05ossi/</a> The Great Bardic Institution 1860</p>
+<p>Vol VI <a class="reference external" href="https://archive.org/details/transactionsofos06ossi/">https://archive.org/details/transactionsofos06ossi/</a> FENIAN POEMS 1861</p>
 <hr class="docutils" />
 <p><a class="reference external" href="https://archive.org/details/ossianossianicli00nuttiala/">https://archive.org/details/ossianossianicli00nuttiala/</a>
 Ossian and the Ossianic literature
@@ -590,6 +566,7 @@ Fairy legends and traditions of the South of Ireland
 by Croker, Thomas Crofton, 1798-1854
 Part I
 Publication date 1834</p>
+<p>Incl. mabiniogion tales, opens with a translated essay by Grimm <a class="reference external" href="https://archive.org/details/fairylegendstrad03crok/page/n37/mode/2up">https://archive.org/details/fairylegendstrad03crok/page/n37/mode/2up</a></p>
 <hr class="docutils" />
 <p><a class="reference external" href="https://archive.org/details/fairylegendsand04crokgoog">https://archive.org/details/fairylegendsand04crokgoog</a>
 Fairy legends and traditions of the south of Ireland [by T.C. Croker].
@@ -835,11 +812,10 @@ Biddy Early</p>
 
               
               
-                <footer class="bd-footer-article">
-                  
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="dermot_love_spot.html"
@@ -859,10 +835,7 @@ Biddy Early</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -925,8 +898,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
 
   <footer class="bd-footer">
   </footer>
