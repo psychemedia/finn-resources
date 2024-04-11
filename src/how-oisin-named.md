@@ -64,7 +64,7 @@ Evening was drawing nigh, and the Fianna— Finn had decided to hunt no more tha
 
 They were pacing so, through the golden-shafted, tender-coloured eve, when a fawn leaped suddenly from covert, and, with that leap, all quietness vanished: the men shouted, the dogs gave tongue, and a furious chase commenced.
 
-Fionn loved a chase at any hour, and, with Bran and Sceolan, he outstripped the men and dogs of his troop, until nothing remained in the limpid world but Fionn, the two hoimds, and the nimble, beautiful fawn.
+Fionn loved a chase at any hour, and, with Bran and Sceolan, he outstripped the men and dogs of his troop, until nothing remained in the limpid world but Fionn, the two hounds, and the nimble, beautiful fawn.
 
 These, and the occasional boulders, round which they raced, or over which they scrambled ; the solitary tree which dozed aloof and beautiful in the path, the occasional clump of trees that hived sweet shadow as a hive hoards honey, and the rustling grass that stretched to infinity, and that moved and crept and swung under the breeze in endless, rhythmic billowings.
 
@@ -98,7 +98,7 @@ But Bran and Sceolan did not stop; they added another inch to their long-stretch
 
 But he was again astonished, for the dogs did not kill. They leaped and played about the fawn, licking its face, and rubbing delighted noses against its neck.
 
-Fionn came up then. His long spear was lowered in his fist at the thrust, and his sharp knife was in its sheath, but he did not use them, for the fawn and the two hounds began to play aroimd him, and the fawn was as affectionate towards him as the hounds were; so that when a velvet nose was thrust in his palm, it was as often a fawn's muzzle as a hoimd's.
+Fionn came up then. His long spear was lowered in his fist at the thrust, and his sharp knife was in its sheath, but he did not use them, for the fawn and the two hounds began to play around him, and the fawn was as affectionate towards him as the hounds were; so that when a velvet nose was thrust in his palm, it was as often a fawn's muzzle as a hound's.
 
 In that joyous company he came to wide Allen of Leinster, where the people were surprised to see the hounds and the fawn and the Chief and none other of the hunters that' had set out with them.
 
@@ -196,9 +196,9 @@ That finished, he left the victorious Fianna and returned swiftly to the plain o
 
 "You will not desert the victory feast," Conan reproached him.
 
-"Stay with us. Chief," Caelte be^ed.
+"Stay with us. Chief," Caelte begged.
 
-"What is a feast without Fiomi?" they ccxnplained.
+"What is a feast without Fionn?" they ccxnplained.
 
 But he would not stay.
 
@@ -238,7 +238,7 @@ When Fionn came in sight of the great keep his blood and his feet quickened, and
 
 But his mind was troubled, for he thought also, or he felt without thinking, that had the positions been changed he would have seen her at twice the distance.
 
-"She thinks I have been imable to get away from the battle, or that I was forced to remain for the feast."
+"She thinks I have been unable to get away from the battle, or that I was forced to remain for the feast."
 
 And, without thinking it, he thought that had the positions been changed he would have known that nothing could retain the one that was absent.
 
@@ -282,11 +282,11 @@ CHAPTER IV
 
 "It was good urging," Fionn assented.
 
-"She would not be advised," the servant wailed. "She cried to us, *Let me go to meet my love.' "
+"She would not be advised," the servant wailed. "She cried to us, 'Let me go to meet my love.' "
 
 "Alas !" said Fionn.
 
-"She cried on us, *Let me go to meet my husband, the father of the child that is not born.' "
+"She cried on us, 'Let me go to meet my husband, the father of the child that is not born.' "
 
 "Alas !" groaned deep-wounded Fionn.
 
@@ -300,9 +300,7 @@ At that wise Fionn put his hand before his eyes, seeing all that happened.
 
 Fionn stared on him like a lost man.
 
-"They took her by the throat " the
-
-shivering servant whispered.
+"They took her by the throat " the shivering servant whispered.
 
 "Ah!" cried Fionn in a terrible voice.
 
@@ -320,22 +318,21 @@ CHAPTER V
 
 For many years after that time, when he was not fighting against the enemies of Ireland, Fionn was searching and hunting through the length and breadth of the country in the hope that he might again chance on his lovely lady from the Shi.
 
-Through all that time he slept in misery each night and he rose each day to grief. Whenever he hunted he brought only the hoimds that he trusted, Brau and Sceolan, Lomaire, Brod, and Lomlu; for if a fawn was chased each of these five great dogs would know if that was a fawn to be killed or one to be protected, and so there was small danger to Saeve and a small hope of finding her.
+Through all that time he slept in misery each night and he rose each day to grief. Whenever he hunted he brought only the hounds that he trusted, Brau and Sceolan, Lomaire, Brod, and Lomlu; for if a fawn was chased each of these five great dogs would know if that was a fawn to be killed or one to be protected, and so there was small danger to Saeve and a small hope of finding her.
 
-Once, when seven years had passed in fruitless search, Fionn and the chief nobles of the Fianna were hunting Ben Gulbain. All the hounds of the Fianna were out, for Fionn had now given up hope of encountering the Flower of Allen. As the himt swept along the sides of the hill there arose a great outcry of hounds from a narrow place high on the slope, and over all that uproar there came the savage baying of Fionn' s own dogs.
+Once, when seven years had passed in fruitless search, Fionn and the chief nobles of the Fianna were hunting Ben Gulbain. All the hounds of the Fianna were out, for Fionn had now given up hope of encountering the Flower of Allen. As the hunt swept along the sides of the hill there arose a great outcry of hounds from a narrow place high on the slope, and over all that uproar there came the savage baying of Fionn's own dogs.
 
 "What is this for?" said Fionn, and with his companions he pressed to the spot whence the noise came.
 
 "They are fighting all the hounds of the Fianna," cried a champion.
 
-And they were. The five wise hounds were in a circle and were giving battle to an
-hundred dogs at once. They were bristling and terrible, and each bite from those great, keen jaws was woe to the beast that received it. Nor did they fight in silence as was their custom and training, but between each onslaught the great heads were uplifted, and they pealed loudly, mournfully, urgently, for their master.
+And they were. The five wise hounds were in a circle and were giving battle to an hundred dogs at once. They were bristling and terrible, and each bite from those great, keen jaws was woe to the beast that received it. Nor did they fight in silence as was their custom and training, but between each onslaught the great heads were uplifted, and they pealed loudly, mournfully, urgently, for their master.
 
 "They are calling on me," he roared.
 
 And with that he ran, as he had only once before run, and the men who were nigh to him went racing as they would not have run for their lives.
 
-They came to the narrow place on the slope of the moimtain, and they saw the five great hounds in a circle keeping off the other dogs, and in the middle of the ring a little/ boy was standing. He had long, beautiful hair, and he was naked. He was not daimted by the terrible combat and clamour of the hounds. He did not look at the hounds, but he stared like a young prince at Fionn and the champions as they rushed towards him scattering the pack with the butts of their spears. When the fight was over, Bran and Sceolan ran whining to the little boy and licked his hands.
+They came to the narrow place on the slope of the moimtain, and they saw the five great hounds in a circle keeping off the other dogs, and in the middle of the ring a little/ boy was standing. He had long, beautiful hair, and he was naked. He was not daunted by the terrible combat and clamour of the hounds. He did not look at the hounds, but he stared like a young prince at Fionn and the champions as they rushed towards him scattering the pack with the butts of their spears. When the fight was over, Bran and Sceolan ran whining to the little boy and licked his hands.
 
 "They do that to no one," said a by-stander. "What new master is this they have found?"
 
@@ -385,7 +382,7 @@ CHAPTER VII
 
 "No one, but a deer that loved me, and that I loved."
 
-"Ah me !" cried Fionn in anguish, "tell mc your tale, my son."
+"Ah me !" cried Fionn in anguish, "tell me your tale, my son."
 
 "A dark stern man came often after us, and he used to speak with the deer. Sometimes he talked gently and softly and coaxingly, but at times again he would shout loudly and in a harsh, angry voice. But whatever way he talked the deer would draw away from him in dread, and he always left her at last furiously."
 
