@@ -12,7 +12,7 @@ Briefly told, the story is as follows:
 :class: dropdown
 https://archive.org/details/godsfightingmens00gregrich/page/174/mode/1up?q=oisin
 
-Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland
+Gods and fighting men: the story of the Tuatha de Danaan and of the Fiana of Ireland
 by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William Butler), 1865-1939
 
 Publication date 1904
@@ -23,13 +23,13 @@ CHAPTER  IV. OISIN'S MOTHER.
 
 It happened one time Finn and his men were coming back from the hunting, a beautiful fawn started up before them, and they followed after it, men and dogs, till at last they were all tired and fell back, all but Finn himself and Bran and Sceolan. And suddenly as they were going through a valley, the fawn stopped and lay down on the smooth grass, and Bran and Sceolan came up with it, and they did not harm it at all, but went playing about it, licking its neck and its face.
 
-There was wonder on Finn when he saw that, and he went on home to Almhuin, and the fawn followed after him playing with the hounds, and it came with them into the house at Almhuin. And when Finn was alone late that evening, a beautiful young woman having a rich dress came before him, and she told him it was she herself was the fawn he was after hunting that day. " And it is for refusing the love of Fear Doirche, the Dark Druid of the Men of Dea," she said, " I was put in this shape. And through the length of three years," she said, " I have lived the life of a wild deer in a far part of Ireland, and I am hunted like a wild deer. And a serving-man of the Dark Druid took pity on me," she said, " and he said that if I was once within the dun of the Fianna of Ireland, the Druid would have no more power over me. So I made away, and I never stopped through the whole length of a day till I came into the district of Almhuin. And I never stopped then till there was no one after me but only Bran and Sceolan, that have human wits ; and I was safe with them, for they knew my nature to be like their own."
+There was wonder on Finn when he saw that, and he went on home to Almhuin, and the fawn followed after him playing with the hounds, and it came with them into the house at Almhuin. And when Finn was alone late that evening, a beautiful young woman having a rich dress came before him, and she told him it was she herself was the fawn he was after hunting that day. "And it is for refusing the love of Fear Doirche, the Dark Druid of the Men of Dea," she said, "I was put in this shape. And through the length of three years," she said, "I have lived the life of a wild deer in a far part of Ireland, and I am hunted like a wild deer. And a serving-man of the Dark Druid took pity on me," she said, "and he said that if I was once within the dun of the Fianna of Ireland, the Druid would have no more power over me. So I made away, and I never stopped through the whole length of a day till I came into the district of Almhuin. And I never stopped then till there was no one after me but only Bran and Sceolan, that have human wits; and I was safe with them, for they knew my nature to be like their own."
 
 Then Finn gave her his love, and took her as his wife, and she stopped in Almhuin. And so great was his love for her, he gave up his hunting and all the things he used to take pleasure in, and gave his mind to no other thing but herself.
 
 But at last the men of Lochlann came against Ireland, and their ships were in the bay below Beinn Edair, and they landed there.
 
-And Finn and the battalions of the Fianna went out against them, and drove them back. And at the end of seven days Finn came back home, and he went quickly over the plain of Almhuin, thinking to see Sadbh his wife looking out from the dun, but there was no sign of her. And when he came to the dun, all his people came out to meet him, but they had a very downcast look. " Where is the flower of Almhuin, beautiful gentle Sadbh ? " he asked them. And it is what they said : " While you were away righting, your likeness, and the likeness of Bran and of Sceolan appeared before the dun, and we thought we heard the sweet call of the Dord Fiann. And Sadbh, that was so good and so beautiful, came out of the house," they said, " and she went out of the gates, and she would not listen to us, and we could not stop her." " Let me go meet my love," she said, " my husband, the father of the child that is not born." And with that she went running out towards the shadow of yourself that was before her, and that had its arms stretched out to her. But no sooner did she touch it than she gave a great cry, and the shadow lifted up a hazel rod, and on the moment it was a fawn was standing on the grass. Three times she turned and made for the gate of the dun, but the two hounds the shadow had with him went after her and took her by the throat and dragged her back to him. " And by your hand of valour, Finn," they said, " we ourselves made no delay till we went out on the plain after her. But it is our grief, they had all vanished, and there was not to be seen woman, or fawn or Druid, but we could hear the quick tread of feet on the hard plain, and the howling of dogs. And if you would ask every one of us in what quarter he heard those sounds, he would tell you a different one."
+And Finn and the battalions of the Fianna went out against them, and drove them back. And at the end of seven days Finn came back home, and he went quickly over the plain of Almhuin, thinking to see Sadbh his wife looking out from the dun, but there was no sign of her. And when he came to the dun, all his people came out to meet him, but they had a very downcast look. "Where is the flower of Almhuin, beautiful gentle Sadbh?" he asked them. And it is what they said: "While you were away righting, your likeness, and the likeness of Bran and of Sceolan appeared before the dun, and we thought we heard the sweet call of the Dord Fiann. And Sadbh, that was so good and so beautiful, came out of the house," they said, "and she went out of the gates, and she would not listen to us, and we could not stop her." "Let me go meet my love," she said, "my husband, the father of the child that is not born." And with that she went running out towards the shadow of yourself that was before her, and that had its arms stretched out to her. But no sooner did she touch it than she gave a great cry, and the shadow lifted up a hazel rod, and on the moment it was a fawn was standing on the grass. Three times she turned and made for the gate of the dun, but the two hounds the shadow had with him went after her and took her by the throat and dragged her back to him. "And by your hand of valour, Finn," they said, "we ourselves made no delay till we went out on the plain after her. But it is our grief, they had all vanished, and there was not to be seen woman, or fawn or Druid, but we could hear the quick tread of feet on the hard plain, and the howling of dogs. And if you would ask every one of us in what quarter he heard those sounds, he would tell you a different one."
 
 When Finn heard that, he said no word at all, but he struck his breast over and over again with his shut hands. And he went then to his own inside room, and his people saw him no more for that day, or till the sun rose over Magh Life on the morrow.
 
@@ -66,7 +66,7 @@ They were pacing so, through the golden-shafted, tender-coloured eve, when a faw
 
 Fionn loved a chase at any hour, and, with Bran and Sceolan, he outstripped the men and dogs of his troop, until nothing remained in the limpid world but Fionn, the two hounds, and the nimble, beautiful fawn.
 
-These, and the occasional boulders, round which they raced, or over which they scrambled ; the solitary tree which dozed aloof and beautiful in the path, the occasional clump of trees that hived sweet shadow as a hive hoards honey, and the rustling grass that stretched to infinity, and that moved and crept and swung under the breeze in endless, rhythmic billowings.
+These, and the occasional boulders, round which they raced, or over which they scrambled; the solitary tree which dozed aloof and beautiful in the path, the occasional clump of trees that hived sweet shadow as a hive hoards honey, and the rustling grass that stretched to infinity, and that moved and crept and swung under the breeze in endless, rhythmic billowings.
 
 In his wildest moment Fionn was thoughtful, and now, although running hard, he was thoughtful. There was no movement of his beloved hounds that he did not know; not a twitch or fling of the head, not a cock of the ears or tail that was not significant to him. But on this chase whatever signs the dogs gave were not understood by their master.
 
@@ -84,7 +84,7 @@ Fionn marvelled.
 
 "They do not want the other dogs to hear or to come on this chase," he murmured, and he wondered what might be passing within those slender heads.
 
-"The fawn runs well," his thought continued. 'What is it, a Vran, my heart? After her, a Heolan! Hist and away, my loves !"
+"The fawn runs well," his thought continued. 'What is it, a Bran, my heart? After her, a Sceolan! Hist and away, my loves!"
 
 "There is going and to spare in that beast yet," his mind went on. "She is not stretched to the full, nor half stretched. She may outrun even Bran," he thought ragingly.
 
@@ -100,7 +100,7 @@ But he was again astonished, for the dogs did not kill. They leaped and played a
 
 Fionn came up then. His long spear was lowered in his fist at the thrust, and his sharp knife was in its sheath, but he did not use them, for the fawn and the two hounds began to play around him, and the fawn was as affectionate towards him as the hounds were; so that when a velvet nose was thrust in his palm, it was as often a fawn's muzzle as a hound's.
 
-In that joyous company he came to wide Allen of Leinster, where the people were surprised to see the hounds and the fawn and the Chief and none other of the hunters that' had set out with them.
+In that joyous company he came to wide Allen of Leinster, where the people were surprised to see the hounds and the fawn and the Chief and none other of the hunters that had set out with them.
 
 When the others reached home, the Chief told of his chase, and it was agreed that such a fawn must not be killed, but that it should be kept and well treated, and that it should be the pet fawn of the Fianna. But some of those who remembered Bran's parentage thought that as Bran herself had come from the Shi so this fawn might have come out of the Shi also.
 
@@ -142,7 +142,7 @@ He spoke to her then, mastering his heart to do it.
 
 "I was contented," she replied, "and what we do not want we do not lack. But if my love went anywhere it went to a mortal, a man of the men of Ireland."
 
-"By my hand," said Fionn in mortal distress, "I marvel who that man can be !"
+"By my hand," said Fionn in mortal distress, "I marvel who that man can be!"
 
 "He is known to you," she murmured. "I lived thus in the peace of Faery, hearing often of my mortal champion, for the rumour of his great deeds had gone through the Shi, until a day came when the Black Magician of the Men of God put his eye on me, and, after that day, in whatever direction I looked I saw his eye."
 
@@ -174,7 +174,7 @@ The Chief frowned thoughtfully.
 
 "This is good news," Fionn cried joyfully, "for the moment you came through the door I loved and desired you, and the thought that you wished for another man went into my heart like a sword."
 
-Indeed, Fionn loved Saeve as he had not loved a woman before and would never love one again. He loved her as he had never loved anything before. He could not bear to be away from her. When he saw her he did not see the world, and when he saw the world without her it was as though he saw nothing, or as if he looked on a prospect that was bleak and depressing. The belling of a stag had been music to Fionn, but when Saeve spoke that was sound enough for him. He had loved to hear the cuckoo calling in the spring from the tree that is highest in the hedge, or the blackbird's jolly whistle in an autumn bush, or the thin, sweet enchantment that comes to the mind when a lark thrills out of sight m the air and the hushed fields listen to the song. But his wife's voice was sweeter to Fionn than the singing of a lark. She filled him with wonder and surmise. There was magic in the tips of her fingers. Her thin palm ravished him. Her slender foot set his heart beating; and whatever way her head moved there came a new shape of beauty to her face.
+Indeed, Fionn loved Saeve as he had not loved a woman before and would never love one again. He loved her as he had never loved anything before. He could not bear to be away from her. When he saw her he did not see the world, and when he saw the world without her it was as though he saw nothing, or as if he looked on a prospect that was bleak and depressing. The belling of a stag had been music to Fionn, but when Saeve spoke that was sound enough for him. He had loved to hear the cuckoo calling in the spring from the tree that is highest in the hedge, or the blackbird's jolly whistle in an autumn bush, or the thin, sweet enchantment that comes to the mind when a lark thrills out of sight in the air and the hushed fields listen to the song. But his wife's voice was sweeter to Fionn than the singing of a lark. She filled him with wonder and surmise. There was magic in the tips of her fingers. Her thin palm ravished him. Her slender foot set his heart beating; and whatever way her head moved there came a new shape of beauty to her face.
 
 "She is always new," said Fionn. "She is always better than any other woman; she is always better than herself."
 
@@ -190,7 +190,7 @@ It was a hard fight, but a short one. The Lochlannachs were driven back to their
 
 That finished, he left the victorious Fianna and returned swiftly to the plain of Allen, for he could not bear to be one unnecessary day parted from Saeve.
 
-"You are not leaving us !" exclaimed Goll mac Morna.
+"You are not leaving us!" exclaimed Goll mac Morna.
 
 "I must go," Fionn replied.
 
@@ -198,7 +198,7 @@ That finished, he left the victorious Fianna and returned swiftly to the plain o
 
 "Stay with us. Chief," Caelte begged.
 
-"What is a feast without Fionn?" they ccxnplained.
+"What is a feast without Fionn?" they complained.
 
 But he would not stay.
 
@@ -210,7 +210,7 @@ But he would not stay.
 
 "It would be the queer wife would neglect that run," Conan growled.
 
-"I shall hold her hand again," Fionn entrusted to Cache's ear.
+"I shall hold her hand again," Fionn entrusted to Caelte's ear.
 
 "You will do that, surely."
 
@@ -222,7 +222,7 @@ But he saw that not even beloved Caelte understood the meaning of that, and he k
 
 "In love he is," Conan grumbled. "A cordial for women, a disease for men, a state of wretchedness."
 
-"Wretched in truth," the Chief murmured. "Love makes us poor. We have not eyes enough to see all that is to be seen, nor hands enough to seize the tenth of all we want. When I look in her eyes I am tormented because I am not looking at her lips, and when I see her lips my soul cries out, 'Look at her eyes, look at her eyes.' "
+"Wretched in truth," the Chief murmured. "Love makes us poor. We have not eyes enough to see all that is to be seen, nor hands enough to seize the tenth of all we want. When I look in her eyes I am tormented because I am not looking at her lips, and when I see her lips my soul cries out, 'Look at her eyes, look at her eyes.'"
 
 "That is how it happens," said Goll rememberingly.
 
@@ -260,7 +260,7 @@ And the Rough Buzzer came to him without a single buzz in his body.
 
 "I do not know, master," the terrified servant replied.
 
-"You do not know !" said Fionn. "Tell what you do know."
+"You do not know!" said Fionn. "Tell what you do know."
 
 And the man told him this story.
 
@@ -282,13 +282,13 @@ CHAPTER IV
 
 "It was good urging," Fionn assented.
 
-"She would not be advised," the servant wailed. "She cried to us, 'Let me go to meet my love.' "
+"She would not be advised," the servant wailed. "She cried to us, 'Let me go to meet my love.'"
 
-"Alas !" said Fionn.
+"Alas!" said Fionn.
 
-"She cried on us, 'Let me go to meet my husband, the father of the child that is not born.' "
+"She cried on us, 'Let me go to meet my husband, the father of the child that is not born.'"
 
-"Alas !" groaned deep-wounded Fionn.
+"Alas!" groaned deep-wounded Fionn.
 
 "She ran towards your appearance that had your arms stretched out to her."
 
@@ -300,7 +300,7 @@ At that wise Fionn put his hand before his eyes, seeing all that happened.
 
 Fionn stared on him like a lost man.
 
-"They took her by the throat " the shivering servant whispered.
+"They took her by the throat," the shivering servant whispered.
 
 "Ah!" cried Fionn in a terrible voice.
 
@@ -318,7 +318,7 @@ CHAPTER V
 
 For many years after that time, when he was not fighting against the enemies of Ireland, Fionn was searching and hunting through the length and breadth of the country in the hope that he might again chance on his lovely lady from the Shi.
 
-Through all that time he slept in misery each night and he rose each day to grief. Whenever he hunted he brought only the hounds that he trusted, Brau and Sceolan, Lomaire, Brod, and Lomlu; for if a fawn was chased each of these five great dogs would know if that was a fawn to be killed or one to be protected, and so there was small danger to Saeve and a small hope of finding her.
+Through all that time he slept in misery each night and he rose each day to grief. Whenever he hunted he brought only the hounds that he trusted, Bran and Sceolan, Lomaire, Brod, and Lomlu; for if a fawn was chased each of these five great dogs would know if that was a fawn to be killed or one to be protected, and so there was small danger to Saeve and a small hope of finding her.
 
 Once, when seven years had passed in fruitless search, Fionn and the chief nobles of the Fianna were hunting Ben Gulbain. All the hounds of the Fianna were out, for Fionn had now given up hope of encountering the Flower of Allen. As the hunt swept along the sides of the hill there arose a great outcry of hounds from a narrow place high on the slope, and over all that uproar there came the savage baying of Fionn's own dogs.
 
@@ -346,7 +346,7 @@ But the boy did not understand the language of the men of Ireland. He put his ha
 
 The boy looked down on him, and in the noble trust and fearlessness of that regard Fionn's heart melted away.
 
-"My little fawn !" he said.
+"My little fawn!" he said.
 
 And he remembered that other fawn. He set the boy between his knees and stared at him earnestly and long.
 
@@ -356,11 +356,11 @@ The grief flooded out of his heart as at a stroke, and joy foamed into it in one
 
 CHAPTER VI
 
-Just as at one time he could not be parted from Saeve, so now he could not be separated from this boy. He had a thousand names for him, each one more tender than the last : "My Fawn, My Pulse, My Secret Little Treasure," or he would call him "My Music, My Blossoming Branch, My Store in the Heart, My Soul." And the dogs were as wild for the boy as Fionn was. He could sit in safety among a pack that would have torn any man to pieces, and the reason was that Bran and Sceolan, with their three whelps, followed him about like shadows. When he was with the pack these five were with him, and woeful indeed was the eye they turned on their comrades when these pushed too closely or were not properly humble. They thrashed the pack severally and collectively until every hound in Fionn's kennels knew that the little lad was their master, and that there was nothing in the world so sacred as he was.
+Just as at one time he could not be parted from Saeve, so now he could not be separated from this boy. He had a thousand names for him, each one more tender than the last: "My Fawn, My Pulse, My Secret Little Treasure," or he would call him "My Music, My Blossoming Branch, My Store in the Heart, My Soul." And the dogs were as wild for the boy as Fionn was. He could sit in safety among a pack that would have torn any man to pieces, and the reason was that Bran and Sceolan, with their three whelps, followed him about like shadows. When he was with the pack these five were with him, and woeful indeed was the eye they turned on their comrades when these pushed too closely or were not properly humble. They thrashed the pack severally and collectively until every hound in Fionn's kennels knew that the little lad was their master, and that there was nothing in the world so sacred as he was.
 
 In no long time the five wise hounds could have given over their guardianship, so complete was the recognition of their young lord. But they did not so give over, for it was not love they gave the lad but adoration.
 
-Fionn even may have been embarrassed by their too close attendance. If he had been able to do so he might have spoken harshly to his dogs, but he could not; it was unthinkable that he should ; and the boy might have spoken harshly to him if he had dared to do it. For this was the order of Fionn's affection : first there was the boy ; next. Bran and Sceolan with their three whelps; then Caelte mac Ronan, and from him down through the champions. He loved them all, but it was along that precedence his affections ran. The thorn that went into Bran's foot ran into Fionn's also. The world knew it, and there was not a champion but admitted sorrowfully that there was reason for his love.
+Fionn even may have been embarrassed by their too close attendance. If he had been able to do so he might have spoken harshly to his dogs, but he could not; it was unthinkable that he should; and the boy might have spoken harshly to him if he had dared to do it. For this was the order of Fionn's affection: first there was the boy; next. Bran and Sceolan with their three whelps; then Caelte mac Ronan, and from him down through the champions. He loved them all, but it was along that precedence his affections ran. The thorn that went into Bran's foot ran into Fionn's also. The world knew it, and there was not a champion but admitted sorrowfully that there was reason for his love.
 
 Little by little the boy came to understand their speech and to speak it himself, and at last he was able to tell his story to Fionn.
 
@@ -376,13 +376,13 @@ CHAPTER VII
 
 "There is in truth," said Fionn.
 
-"I used to eat fruits and roots in the summer," the boy continued, "but in the winter food was left for me in a cave/'
+"I used to eat fruits and roots in the summer," the boy continued, "but in the winter food was left for me in a cave."
 
 "Was there no one with you?" Fionn asked.
 
 "No one, but a deer that loved me, and that I loved."
 
-"Ah me !" cried Fionn in anguish, "tell me your tale, my son."
+"Ah me!" cried Fionn in anguish, "tell me your tale, my son."
 
 "A dark stern man came often after us, and he used to speak with the deer. Sometimes he talked gently and softly and coaxingly, but at times again he would shout loudly and in a harsh, angry voice. But whatever way he talked the deer would draw away from him in dread, and he always left her at last furiously."
 
@@ -403,24 +403,24 @@ Oisín's origin tale is also given by Rolleston in *The High Deeds of Finn*, 191
 
 *In [The High Deeds Of Finn](https://archive.org/details/in.ernet.dli.2015.178478/page/n161/mode/2up), T.W. Rolleston, 1910, pp.149-154.*
 
-ONE day as Finn and his companions and dogs were returning from the chase to their Dun on the Hill of Allen, a beautiful fawn started up on their path and the chase swept after her, she taking the way which led to their home. Soon, all the pursuers were left far behind save only Finn himself and his two hounds Bran and Sceolaun. Now these hounds were of strange breed, for Tyren, sister to Murna, the mother of Finn, had been changed into a hound by the enchantment of a woman of the Fairy Folk, who loved Tyren’s husband Ullan ; and the two hounds of Finn were the children of Tyren, born to her in that shape. Of all hounds in Ireland they were the best, and Finn loved them much, so that it was said he wept but twice in his life, and once was for the death of Bran.
+ONE day as Finn and his companions and dogs were returning from the chase to their Dun on the Hill of Allen, a beautiful fawn started up on their path and the chase swept after her, she taking the way which led to their home. Soon, all the pursuers were left far behind save only Finn himself and his two hounds Bran and Sceolaun. Now these hounds were of strange breed, for Tyren, sister to Murna, the mother of Finn, had been changed into a hound by the enchantment of a woman of the Fairy Folk, who loved Tyren’s husband Ullan; and the two hounds of Finn were the children of Tyren, born to her in that shape. Of all hounds in Ireland they were the best, and Finn loved them much, so that it was said he wept but twice in his life, and once was for the death of Bran.
 
 At last, as the chase went on down a valley side, Finn saw the fawn stop and lie down, while the two hounds began to play round her and to lick her face and limbs. So he gave commandment that none should hurt her, and she followed them to the Dun of Allen, playing with the hounds as she went.
 
 The same night Finn awoke and saw standing by his bed the fairest woman his eyes had ever beheld.
 
-" I am Saba, O Finn," she said, "and I was the fawn ye chased to-day. Because I would not give my love to the Druid of the Fairy Folk, who is named the Dark, he put that shape upon me by his sorceries, and I have borne it these three years. But a slave of his, pitying me, once revealed to me that if I could win to thy great Dun of Allen, O Finn, I should be safe from all enchantments and my natural shape would come to me again. But I feared to be torn in pieces by thy dogs, or wounded by thy hunters, till at last I let myself be overtaken by thee alone and by Bran and Sceolaun, who have the nature of man and would do me no hurt." " Have no fear, maiden," said Finn, " we the Fianna, are free and our guest-friends are free ; there is none who shall put compulsion on you here."
+"I am Saba, O Finn," she said, "and I was the fawn ye chased to-day. Because I would not give my love to the Druid of the Fairy Folk, who is named the Dark, he put that shape upon me by his sorceries, and I have borne it these three years. But a slave of his, pitying me, once revealed to me that if I could win to thy great Dun of Allen, O Finn, I should be safe from all enchantments and my natural shape would come to me again. But I feared to be torn in pieces by thy dogs, or wounded by thy hunters, till at last I let myself be overtaken by thee alone and by Bran and Sceolaun, who have the nature of man and would do me no hurt." "Have no fear, maiden," said Finn, "we the Fianna, are free and our guest-friends are free; there is none who shall put compulsion on you here."
 
-So Saba dwelt with Finn, and he made her his wife ; and so deep was his love for her that neither the battle nor the chase had any delight for him, and for months he never left her side. She also loved him as deeply, and their joy in each other was like that of the Immortals in the Land of Youth. But at last word came to Finn that the warships of the Northmen were in the bay of Dublin, and he summoned his heroes to the fight, " for," said he to Saba, " the men of Erinn give us tribute and hospitality to defend them from the foreigner, and it were shame to take it from them and not to give that to which we, on our side, are pledged." And he called to mind that great saying of Goll mac Morna when they were once sore bested by a mighty host — "a man," said Goll, "lives after his life but not after his honour."
+So Saba dwelt with Finn, and he made her his wife; and so deep was his love for her that neither the battle nor the chase had any delight for him, and for months he never left her side. She also loved him as deeply, and their joy in each other was like that of the Immortals in the Land of Youth. But at last word came to Finn that the warships of the Northmen were in the bay of Dublin, and he summoned his heroes to the fight, "for," said he to Saba, "the men of Erinn give us tribute and hospitality to defend them from the foreigner, and it were shame to take it from them and not to give that to which we, on our side, are pledged." And he called to mind that great saying of Goll mac Morna when they were once sore bested by a mighty host — "a man," said Goll, "lives after his life but not after his honour."
 
 Seven days was Finn absent, and he drove the Northmen from the shores of Erinn. But on the eighth day he returned, and when he entered his Dun he saw trouble in the eyes of his men and of their fair womenfolk, and Saba was not on the rampart expecting his return. So he bade them tell him what had chanced, and they said —
 
-"Whilst thou, our father and lord, wert afar off smiting the foreigner, and Saba looking ever down the pass for thy return, we saw one day as it were the likeness of thee approaching, and Bran and Sceolaun at thy heels. And we seemed also to hear the notes of the Fian hunting call blown on the wind. Then Saba hastened to the great gate, and we could not stay her, so eager was she to rush to the phantom. But when she came near, she halted and gave a loud and bitter cry, and the shape of thee smote her with a hazel wand, and lo, there was no woman there any more, but a deer. Then those hounds chased it, and ever as it strove to reach again the gate of the Dun they turned it back. We all now seized what arms we could and ran out to drive away the enchanter, but when we reached the place there was nothing to be seen, only still we heard the rushing of flying feet and the baying of dogs, and one thought it came from here, and another from there, till at last the uproar died away and all was still. What we could do, O Finn, we did ; Saba is gone."
+"Whilst thou, our father and lord, wert afar off smiting the foreigner, and Saba looking ever down the pass for thy return, we saw one day as it were the likeness of thee approaching, and Bran and Sceolaun at thy heels. And we seemed also to hear the notes of the Fian hunting call blown on the wind. Then Saba hastened to the great gate, and we could not stay her, so eager was she to rush to the phantom. But when she came near, she halted and gave a loud and bitter cry, and the shape of thee smote her with a hazel wand, and lo, there was no woman there any more, but a deer. Then those hounds chased it, and ever as it strove to reach again the gate of the Dun they turned it back. We all now seized what arms we could and ran out to drive away the enchanter, but when we reached the place there was nothing to be seen, only still we heard the rushing of flying feet and the baying of dogs, and one thought it came from here, and another from there, till at last the uproar died away and all was still. What we could do, O Finn, we did; Saba is gone."
 
-Finn then struck his hand on his breast but spoke no word, and he went to his own chamber. No man saw him for the rest of that day, nor for the day after. Then he came forth, and ordered the matters of the Fianna as of old, but for seven years thereafter he went searching for Saba through every remote glen and dark forest and cavern of Ireland, and he would take no hounds with him save Bran and Sceolaun. But at last he renounced all hope of finding her again, and went hunting as of old. One day as he was following the chase on Ben Gulban in Sligo, he heard the musical bay of the dogs change of a sudden to a fierce growling and yelping as though they were in combat with some beast, and running hastily up he and his men beheld, under a great tree, a naked boy with long hair, and around him the hounds struggling to seize him, but Bran and Sceolaun fighting with them and keeping them off. And the lad was tall and shapely, and as the heroes gathered round he gazed undauntedly on them, never heeding the rout of dogs at his feet. The Fians beat off the dogs and brought the lad home with them, and Finn was very silent and continually searched the lad's countenance with his eyes. In time, the use of speech came to him, and the story that he told was this : —
+Finn then struck his hand on his breast but spoke no word, and he went to his own chamber. No man saw him for the rest of that day, nor for the day after. Then he came forth, and ordered the matters of the Fianna as of old, but for seven years thereafter he went searching for Saba through every remote glen and dark forest and cavern of Ireland, and he would take no hounds with him save Bran and Sceolaun. But at last he renounced all hope of finding her again, and went hunting as of old. One day as he was following the chase on Ben Gulban in Sligo, he heard the musical bay of the dogs change of a sudden to a fierce growling and yelping as though they were in combat with some beast, and running hastily up he and his men beheld, under a great tree, a naked boy with long hair, and around him the hounds struggling to seize him, but Bran and Sceolaun fighting with them and keeping them off. And the lad was tall and shapely, and as the heroes gathered round he gazed undauntedly on them, never heeding the rout of dogs at his feet. The Fians beat off the dogs and brought the lad home with them, and Finn was very silent and continually searched the lad's countenance with his eyes. In time, the use of speech came to him, and the story that he told was this:—
 
-He had known no father, and no mother save a gentle hind with whom he lived in a most green and pleasant valley shut in on every side by towering cliffs that could not be scaled, or by deep chasms in the earth. In the summer he lived on fruits and such-like, and in the winter, store of provisions was laid for him in a cave. And there came to them sometimes a tall dark-visaged man, who spoke to his mother, now tenderly, and now in loud menace, but she always shrunk away in fear, and the man departed in anger. At last there came a day when the Dark Man spoke very long with his mother in all tones of entreaty and of tenderness and of rage, but she would still keep aloof and give no sign save of fear and abhorrence. Then at length the Dark Man drew near and smote her with a hazel wand ; and with that he turned and went his way, but she, this time, followed him, still looking back at her son and piteously complaining. And he, when he strove to follow, found himself unable to move a limb ; and crying out with rage and desolation he fell to the earth and his senses left him. When he came to himself he was on the mountain side, on Ben Gulban, where he remained some days, searching for that green and hidden valley, which he never found again. And after a while the dogs found him ; but of the hind his mother and of the Dark Druid, there is no man knows the end.
+He had known no father, and no mother save a gentle hind with whom he lived in a most green and pleasant valley shut in on every side by towering cliffs that could not be scaled, or by deep chasms in the earth. In the summer he lived on fruits and such-like, and in the winter, store of provisions was laid for him in a cave. And there came to them sometimes a tall dark-visaged man, who spoke to his mother, now tenderly, and now in loud menace, but she always shrunk away in fear, and the man departed in anger. At last there came a day when the Dark Man spoke very long with his mother in all tones of entreaty and of tenderness and of rage, but she would still keep aloof and give no sign save of fear and abhorrence. Then at length the Dark Man drew near and smote her with a hazel wand; and with that he turned and went his way, but she, this time, followed him, still looking back at her son and piteously complaining. And he, when he strove to follow, found himself unable to move a limb; and crying out with rage and desolation he fell to the earth and his senses left him. When he came to himself he was on the mountain side, on Ben Gulban, where he remained some days, searching for that green and hidden valley, which he never found again. And after a while the dogs found him; but of the hind his mother and of the Dark Druid, there is no man knows the end.
 
-Finn called his name Oisín, and he became a warrior of fame, but far more famous for the songs and tales that he made ; so that of all things to this day that are told of the Fianna of Erinn, men are wont to say, " So sang the bard, Oisín, son of Finn."
+Finn called his name Oisín, and he became a warrior of fame, but far more famous for the songs and tales that he made; so that of all things to this day that are told of the Fianna of Erinn, men are wont to say, "So sang the bard, Oisín, son of Finn."
 
 ```
