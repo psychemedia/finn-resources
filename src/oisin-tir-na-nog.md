@@ -14,6 +14,10 @@ In my recent tellings, I colour the story with Oísin lifting the stone with a s
 
 ```
 
+```{warning}
+Via Richard, who can throw a wobbly in to any tale: *What happened to the horse?*
+```
+
 That telling that I first came across is still very much in copyright, but there are many versions from the late eighteenth and early nineteenth centuries that tell the tale that we can use to derive our own understanding of the story.
 
 For example, this concise version from 1866, which captures the key points:
