@@ -286,6 +286,8 @@ But as to Fergus Fionnliath, he took to his bed, and he stayed there for a year 
 A shorter telling appears in Lady Gregory's *Gods and fighting men*:
 
 ```{admonition} Th Birth of Bran, Lady Gregory, 1902
+:class: dropdown
+
 In Lady Gregory, *Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland*, pp](https://archive.org/details/godsandfighting01yeatgoog/page/172/mode/2up), 1904, pp 172-174:
 
 This, now, is the story of the birth of Bran.
