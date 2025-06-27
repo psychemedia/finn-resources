@@ -20,47 +20,47 @@ by T. W. Rolleston
 Publication date 1910
 p113-
 
-Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he had been used to have the eye of a young man but now he had the eye of a sage. Finegas said, "Hast thou eaten of the salmon ? "
+Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he had been used to have the eye of a young man but now he had the eye of a sage. Finegas said, "Hast thou eaten of the salmon?"
 
-" Nay," said Finn, " but it burnt me as I turned it upon the spit and I put my thumb in my mouth." 
+" Nay," said Finn, "but it burnt me as I turned it upon the spit and I put my thumb in my mouth." 
 
 And Finegas smote his hands together and was silent for a while. Then he said to the lad who stood by obediently, "Take the salmon and eat it, Finn, son of Cumhal, for to thee the prophecy is come. And now go hence, for I can teach thee no more, and blessing and victory be thine."
 
-With Finegas, Finn learned the three things that make a poet, and they are Fire of Song, and Light of Knowledge, and the Art of Extempore Recitation. Before he departed he made this lay to prove his art, and it is called " The Song of Finn in Praise of May "
+With Finegas, Finn learned the three things that make a poet, and they are Fire of Song, and Light of Knowledge, and the Art of Extempore Recitation. Before he departed he made this lay to prove his art, and it is called "The Song of Finn in Praise of May."
 
-May Day ! delightful day !  
+May Day ! delightful day!  
 Bright colours play the vales along.  
 Now wakes at morning’s slender ray,  
 Wild and gay, the blackbird’s song.
 
 Now comes the bird of dusty hue.  
-The loud cuckoo, the summer-lover ;  
+The loud cuckoo, the summer-lover;  
 Branching trees are thick with leaves  
 The bitter, evil time is over.
 
 Swift horses gather nigh  
-Where half dry the river goes ;  
-Tufted heather crowns the height ;  
+Where half dry the river goes;  
+Tufted heather crowns the height;  
 Weak and white the bogdown blows.
 
 Corncrake sings from eve till morn,  
-Deep in corn, a strenuous bard !  
+Deep in corn, a strenuous bard!  
 Sings the virgin waterfall,  
 White and tall, her one sweet word.
 
 Loaded bees of little power  
-Goodly flower-harvest win ;  
-Cattle roam with muddy flanks ;  
+Goodly flower-harvest win;  
+Cattle roam with muddy flanks;  
 Busy ants go out and in.
 
 Through the wild harp of the wood  
-Making music roars the gale —  
+Making music roars the gale—  
 Now it slumbers without motion,  
 On the ocean sleeps the sail.
 
 Men grow mighty in the May,  
-Proud and gay the maidens grow ;  
-Fair is every wooded height ;  
+Proud and gay the maidens grow;  
+Fair is every wooded height;  
 Fair and bright the plain below.
 
 A bright shaft has smit the streams,  
@@ -117,7 +117,7 @@ We get wise by asking questions, and even if these are not answered we get wise,
 
 "But why did you choose this river out of all the rivers?"
 
-Finegas beamed on his pupil :
+Finegas beamed on his pupil:
 
 "I would tell you anything," said he, "and I will tell you that."
 
@@ -299,37 +299,37 @@ CHAPTER I. THE COMING OF FINN
 
 cont.
 
-And then he said farewell to Crimall, and went on to learn poetry from Finegas, a poet that was living at the Boinn, for the poets thought it was always on the brink of water poetry was revealed to them. And he did not give him his own name, but he took the name of Deimne. Seven years, now, Finegas had stopped at the Boinn, watching the salmon, for it was in the prophecy that he would eat the salmon of knowledge that would come there, and that he would have all knowledge after. And when at the last the salmon of knowledge came, he brought it to where Finn was, and bade him to roast it, but he bade him not to eat any of it. And when Finn brought him the salmon after a while he said : " Did you eat any of it at all, boy ? " " I did not," said Finn ; " but I burned my thumb putting down a blister that rose on the skin, and after doing that, I put my thumb in my mouth." " What is your name, boy ? " said Finegas. " Deimne," said he. " It is not, but it is Finn your name is, and it is to you and not to myself the salmon was given in the prophecy." With that he gave Finn the whole of the salmon, and from that time Finn had the knowledge that came from the nuts of the nine hazels of wisdom that grow beside the well that is below the sea.
+And then he said farewell to Crimall, and went on to learn poetry from Finegas, a poet that was living at the Boinn, for the poets thought it was always on the brink of water poetry was revealed to them. And he did not give him his own name, but he took the name of Deimne. Seven years, now, Finegas had stopped at the Boinn, watching the salmon, for it was in the prophecy that he would eat the salmon of knowledge that would come there, and that he would have all knowledge after. And when at the last the salmon of knowledge came, he brought it to where Finn was, and bade him to roast it, but he bade him not to eat any of it. And when Finn brought him the salmon after a while he said: "Did you eat any of it at all, boy?" "I did not," said Finn; "but I burned my thumb putting down a blister that rose on the skin, and after doing that, I put my thumb in my mouth." "What is your name, boy?" said Finegas. "Deimne," said he. "It is not, but it is Finn your name is, and it is to you and not to myself the salmon was given in the prophecy." With that he gave Finn the whole of the salmon, and from that time Finn had the knowledge that came from the nuts of the nine hazels of wisdom that grow beside the well that is below the sea.
 
 And besides the wisdom he got then, there was a second wisdom came to him another time, and this is the way it happened. There was a well of the moon belonging to Beag, son of Buan, of the Tuatha de Danaan, and whoever would drink out of it would get wisdom, and after a second drink he would get the gift of foretelling. And the three daughters of Beag, son of Buan, had charge of the well, and they would not part with a vessel of it for anything less than red gold. And one day Finn chanced to be hunting in the rushes near the well, and the three women ran out to hinder him from coming to it, and one of them that had a vessel of the water in her hand, threw it at him to stop him, and a share of the water went into his mouth. And from that out he had all the knowledge that the water of that well could give.
 
-And he learned the three ways of poetry ; and this is the poem he made to show he had got his learning well : —
+And he learned the three ways of poetry; and this is the poem he made to show he had got his learning well:—
 
-" It is the month of May is the pleasant time ; its face is beautiful ; the blackbird sings his full song, the living wood is his holding, the cuckoos are singing and ever singing ; there is a welcome before the brightness of the summer.
+"It is the month of May is the pleasant time; its face is beautiful; the blackbird sings his full song, the living wood is his holding, the cuckoos are singing and ever singing; there is a welcome before the brightness of the summer.
 
-" Summer is lessening the rivers, the swift horses are looking for the pool ; the heath spreads out its long hair, the weak white bog-down grows. A wildness comes on the heart of the deer ; the sad restless sea is asleep.
+"Summer is lessening the rivers, the swift horses are looking for the pool; the heath spreads out its long hair, the weak white bog-down grows. A wildness comes on the heart of the deer; the sad restless sea is asleep.
 
-" Bees with their little strength carry a load reaped from the flowers ; the cattle go up muddy to the mountains ; the ant has a good full feast.
+"Bees with their little strength carry a load reaped from the flowers; the cattle go up muddy to the mountains; the ant has a good full feast.
 
-" The harp of the woods is playing music ; there is colour on the hills, and a haze on the full lakes, and entire peace upon every sail.
+"The harp of the woods is playing music; there is colour on the hills, and a haze on the full lakes, and entire peace upon every sail.
 
-" The corncrake is speaking, a loud-voiced poet ; the high lonely waterfall is singing a welcome to the warm pool, the talking of the rushes has begun.
+"The corncrake is speaking, a loud-voiced poet; the high lonely waterfall is singing a welcome to the warm pool, the talking of the rushes has begun.
 
-"The light swallows are darting; the loudness of music is around the hill ; the fat soft mast is budding ; there is grass on the trembling bogs.
+"The light swallows are darting; the loudness of music is around the hill; the fat soft mast is budding; there is grass on the trembling bogs.
 
-" The bog is as dark as the feathers of the raven ; the cuckoo makes a loud welcome ; the speckled salmon is leaping ; as strong is the leaping of the swift fighting man.
+"The bog is as dark as the feathers of the raven; the cuckoo makes a loud welcome; the speckled salmon is leaping; as strong is the leaping of the swift fighting man.
 
-" The man is gaining ; the girl is in her comely growing power ; every wood is without fault from the top to the ground, and every wide good plain.
+"The man is gaining; the girl is in her comely growing power; every wood is without fault from the top to the ground, and every wide good plain.
 
-" It is pleasant is the colour of the time ; rough winter is gone ; every plentiful wood is white ; summer is a joyful peace.
+"It is pleasant is the colour of the time; rough winter is gone; every plentiful wood is white; summer is a joyful peace.
 
-" A flock of birds pitches in the meadow ; there are sounds in the green fields, there is in them a clear rushing stream.
+"A flock of birds pitches in the meadow; there are sounds in the green fields, there is in them a clear rushing stream.
 
-" There is a hot desire on you for the racing of horses ; twisted holly makes a leash for the hound ; a bright spear has been shot into the earth, and the flag-flower is golden under it.
+"There is a hot desire on you for the racing of horses; twisted holly makes a leash for the hound; a bright spear has been shot into the earth, and the flag-flower is golden under it.
 
-" A weak lasting little bird is singing at the top of his voice ; the lark is singing clear tidings ; May without fault, of beautiful colours.
+"A weak lasting little bird is singing at the top of his voice; the lark is singing clear tidings; May without fault, of beautiful colours.
 
-" I have another story for you ; the ox is lowing, the winter is creeping in, the summer is gone. High and cold the wind, low the sun, cries are about us ; the sea is quarrelling.
+"I have another story for you; the ox is lowing, the winter is creeping in, the summer is gone. High and cold the wind, low the sun, cries are about us; the sea is quarrelling.
 
 " The ferns are reddened and their shape is hidden ; the cry of the wild goose is heard ; the cold has caught the wings of the birds; it is the time of ice-frost, hard, unhappy."
 
@@ -350,7 +350,7 @@ Fin and Bran went on till they came to a great cave, in which they found a herd 
 
 A couple of hours later, in came a giant with a salmon in his hand. This giant was of awful height, he had but one eye, and that in the middle of his forehead, as large as the sun in heaven.
 
-When he saw Fin, he called out: " Here, take this salmon and roast it ; but be careful, for if you raise a single blister on it I '11 cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world."
+When he saw Fin, he called out: "Here, take this salmon and roast it; but be careful, for if you raise a single blister on it I'll cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world."
 The giant lay down to sleep in the middle of the cave. Fin spitted the salmon, and held it over the fire.
 
 The minute the giant closed the one eye in his head, he began to snore. Every time he drew breath into his body, he dragged Fin, the spit, the salmon, Bran, and all the goats to his mouth ; and every time he drove a breath out of himself, he threw them back to the places they were in before. Fin was drawn time after time to the mouth of the giant with such force, that he was in dread of going down his throat.
@@ -359,27 +359,27 @@ When partly cooked, a blister rose on the salmon. Fin pressed the place with his
 
 That instant the giant with a single bound was at the low entrance of the cave, and, standing with his back to the wall and a foot on each side of the opening, roared out: "You'll not leave this place alive."
 
-Now Fin killed the largest goat, skinned him as quickly as he could, then putting the skin on himself he drove the herd to where the giant stood ; the goats passed out one by one between his legs. When the great goat came the giant took him by the horns. Fin slipped from the skin, and ran out.
+Now Fin killed the largest goat, skinned him as quickly as he could, then putting the skin on himself he drove the herd to where the giant stood; the goats passed out one by one between his legs. When the great goat came the giant took him by the horns. Fin slipped from the skin, and ran out.
 
-" Oh, you've escaped, " said the giant, " but before we part let me make you a present."
+"Oh, you've escaped," said the giant, "but before we part let me make you a present."
 
-" I 'm afraid to go near you," said Fin ; " if you wish to give me a present, put it out this way, and then go back."
+"I'm afraid to go near you," said Fin; "if you wish to give me a present, put it out this way, and then go back."
 
 The giant placed a ring on the ground, then went back. Fin took up the ring and put it on the end of his little finger above the first joint. It clung so firmly that no man in the world could have taken it off.
 
-The giant then called out, " Where are you?"
+The giant then called out, "Where are you?"
 
-" On Fin's finger, " cried the ring. That instant the giant sprang at Fin and almost came down on his head, thinking in this way to crush him to bits. Fin sprang to a distance. Again the giant asked, " Where are you? "
+"On Fin's finger," cried the ring. That instant the giant sprang at Fin and almost came down on his head, thinking in this way to crush him to bits. Fin sprang to a distance. Again the giant asked, "Where are you?"
 
-" On Fin's finger," answered the ring.
+"On Fin's finger," answered the ring.
 
-Again the giant made a leap, coming down just in front of Fin. Many times he called and many times almost caught Fin, who could not escape with the ring on his finger. While in this terrible struggle, not knowing how to escape, Bran ran up and asked :
+Again the giant made a leap, coming down just in front of Fin. Many times he called and many times almost caught Fin, who could not escape with the ring on his finger. While in this terrible struggle, not knowing how to escape, Bran ran up and asked:
 
-" Why don't you chew your thumb? "
+"Why don't you chew your thumb?"
 
 Fin bit his thumb to the marrow, and then knew what to do. He took the knife with which he had skinned the goat, cut off his finger at the first joint, and threw it, with the ring still on, into a deep bog near by.
 
-Again the giant called out, " Where are you?" and the ring answered, " On Fin's finger."
+Again the giant called out, "Where are you?" and the ring answered, "On Fin's finger."
 
 Straightway the giant sprang towards the voice, sank to his shoulders in the bog, and stayed there.
 
