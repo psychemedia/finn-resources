@@ -9,12 +9,12 @@ poem p24-40
 
 LAY OF OISIN ON THE LAND OF THE YOUNG, AS HE NARRATED IT TO HOLY PATRICK.  
 
-1\. P.— O noble Oisin ! O son of the king !  
+1\. P.— O noble Oisin! O son of the king!  
 The best in exploit, prowess, and strife,  
 Narrate to us now without grief  
 How thou didst survive after the Fiann.  
 
-2\. O.— I shall tell that [to] thee, O new (-come) Patrick !  
+2\. O.— I shall tell that [to] thee, O new (-come) Patrick!  
 Though sad (it seems) to me, its mentioning aloud.  
 After the severe battle of Gabhra,  
 In which was slain, alas ! the valiant Oscar.  
@@ -30,7 +30,7 @@ Where (there) were fragrant trees most sweet (of) blossom,
 And music every time melodiously at birds, (*birds were always singing melodiously.*)  
 
 5\. The hornless deer was awakened by us,  
-(Which) was the best (in) spring, course and nimbleness ;  
+(Which) was the best (in) spring, course and nimbleness;  
 Our hounds and our hunting-dogs were all (together)  
 Close in her wake in full chase.  
 
@@ -50,7 +50,7 @@ Studded with stars of red gold,
 Covering her shoes down to the grass.  
 
 9\. (There) was a ring of gold hanging down  
-From each yellow curl of her hair like gold ;  
+From each yellow curl of her hair like gold;  
 Her blue eyes (were) clear without a cloud,  
 Like a drop of dew on (the) top of the grass.  
 
@@ -60,7 +60,7 @@ More sweet yet was (the) taste of her balsam (lips)
 Than honey which would be mixed through red wine.  
 
 11\. There was a wide, long, smooth garment  
-Covering the white [steed] horse ;  
+Covering the white [steed] horse;  
 A carved saddle of red gold,  
 And (she had) a bridle (with a) mouth (-bit) of gold in her right hand.  
 
@@ -71,15 +71,15 @@ And there was not in the world a steed (which) was better.
 
 13\. She came to the presence of Fionn,  
 And spoke gently (and) modestly in sound,  
-And she said, " O king of the Fiann,  
+And she said, "O king of the Fiann,  
 It is long (and) distant now my journey."  
 
-14\. F.— " Who (art thou) thyself O young queen?  
+14\. F.— "Who (art thou) thyself O young queen?  
 Most excellent (in) form, beauty, and countenance,  
 Narrate to us (the) cause of thy story,  
 Thine own name and thy country."  
 
-15\. N.— " Niamh of (the) head of gold (*golden hair*) [it] is my name,  
+15\. N.— "Niamh of (the) head of gold (*golden hair*) [it] is my name,  
 O clever Fionn of the great hosts,  
 Above (the) women of the world I received a calling, (esteem)  
 I am (the) fair daughter of (the) king of the young."  
@@ -89,17 +89,17 @@ What (was the) cause (of) thy coming across the sea afar.
 Whether (is) it thy companion (who) went from thee,  
 Or what (is) the trouble that is upon thyself?'  
 
-17\. N.— " It is not my companion who went from me  
+17\. N.— "It is not my companion who went from me  
 And as yet I was not spoken of (*bethrothed*) with any man,  
 O king of the Fiann of highest repute—  
 But affection and love I gave to thy son !"  
 
-18\. F.— " Which [of them] of my children, O blooming virgin,  
+18\. F.— "Which [of them] of my children, O blooming virgin,  
 (Is he) in whom thou gavest love, or yet fondness,—  
-Conceal not on (*from*) us now (thej cause  
+Conceal not on (*from*) us now (the) cause  
 And narrate to us thy case, O woman!"  
 
-19\. N.— " I myself shall tell that to thee, O Fionn,  
+19\. N.— "I myself shall tell that to thee, O Fionn,  
 To thy beautiful son, of firm arms,  
 Magnanimous Oisin of the strong hands,  
 (He is) the hero, I am now speaking (of).''  
@@ -114,10 +114,10 @@ I came (from) afar for his sake, (*for him*)
 But an account to get (*because of an account which I had got*) of his prowess.  
 The goodness of his person, and of his mind.  
 
-22\. " 'Tis many a king's son and high prince.  
+22\. "'Tis many a king's son and high prince.  
 Gave me affection and lasting love,  
 I never consented to any man,  
-Until I gave love to the valiant Oisin ! "  
+Until I gave love to the valiant Oisin !"  
 
 23\. O.— By that hand upon thee, O Patrick 1  
 Though ('twas) not shameful to me (it seemed) as a story  
@@ -129,7 +129,7 @@ Apd said in sweet-voiced speech,—
 "A true gentle welcome before thee  
 O young queen to the (this) country.  
 
-25\. " 'Tis thou (who) art the brightest and fairest (in) form,  
+25\. "'Tis thou (who) art the brightest and fairest (in) form,  
 Tis thou (whom) I would prefer as a wife,  
 'Tis thou (art) my choice beyond (the) women of the world,  
 O gentle star, most fair (of) countenance."  
@@ -149,7 +149,7 @@ And all things [of what] eye hath seen,
 Decline shall not come on thee with (*during*) thy existence  
 Death or decay thou shalt not see.  
 
-29\. " Thou wilt get feasts, play and drinking,  
+29\. "Thou wilt get feasts, play and drinking,  
 Thou wilt get sweet music on strings,—  
 Thou wilt get silver and gold,  
 Thou wilt get also many jewels.  
@@ -159,32 +159,32 @@ Thou wilt get a hundred satin garments of costly silk,
 Thou wilt get a hundred steeds most active in tumult,  
 And thou wilt get a hundred with them of keen hounds.  
 
-31\. " Thou wilt get the royal coronet of (the) "king of the young."  
+31\. "Thou wilt get the royal coronet of (the) "king of the young."  
 Which (he) never yet gave to any one under the sun,  
 Which will make a protection for thee by night and day,  
 In battle, in strife, and in rough conflict.  
 
-32\. " Thou wilt get a fitting armour of defence.  
+32\. "Thou wilt get a fitting armour of defence.  
 And a gold-headed sword most active for stroke,  
 From which never escaped any one alive,  
 Who beheld yet the sharp weapon.  
 
-33\. " Thou wilt get a hundred suits of mail, and shirts of satin.  
+33\. "Thou wilt get a hundred suits of mail, and shirts of satin.  
 Thou wilt get a hundred cows; and yet a hundred calves,  
 Thou wilt get a hundred sheep with their fleeces of gold,  
 Thou wilt get a hundred jewels which are not in the world.  
 
-34\. " Thou wilt get a hundred maidens merry (and) young.  
+34\. "Thou wilt get a hundred maidens merry (and) young.  
 Radiant, shining like the sun,  
 Most excellent in shape, form and visage,  
 And sweeter of mouth than (the) music of the birds.  
 
-35\. " Thou wilt get a hundred heroes most brave in strife.  
-Also most active in exercises of agility ;  
+35\. "Thou wilt get a hundred heroes most brave in strife.  
+Also most active in exercises of agility;  
 Armed, accoutred, in thy presence,  
 In (the) Land of the young, if thou comest with me.  
 
-35a\. " Thou will get everything of what I have said to thee,  
+35a\. "Thou will get everything of what I have said to thee,  
 And happiness moreover which is not clear to me to mention  
 Thou wilt get beauty, strength and vigour,  
 And I myself will be with thee as wife."  
@@ -205,12 +205,12 @@ He shook himself then for travelling,
 And let t hree neighs out of him aloud.  
 
 39\. When Fionn and the Fiann saw  
-The steed hastily in the journey ,  
+The steed hastily in the journey,  
 Turning his) face on the mighty sea  
 They let three shouts of weeping and grief.  
 
-40\. F.— " O Oisin," says Fionn slowly, weakly,  
-" It is) my [own] grief thou (to be) going from me,  
+40\. F.— "O Oisin," says Fionn slowly, weakly,  
+"It is) my [own] grief thou (to be) going from me,  
 And without expectation with me again of thy coming,  
 Back to me under (*in*) full victory."  
 
@@ -225,7 +225,7 @@ Our separating from each other there,—
 'Tis melancholy, weak and faint to be at its narrating, (*telling it*).  
 
 43\. I kissed my father gently (and) kindly.  
-And the same (mark of) aifection I received from him,  
+And the same (mark of) affection I received from him,  
 I left safety (*bade farewell*) all to the Fiann  
 And the tears dropped down by my cheeks.  
 
@@ -272,7 +272,7 @@ And a gold-headed sword in his right hand.
 51\. Who (are) they, the pair yonder, whom I see,  
 O gentle queen, tell to me (the) reason,—  
 That woman most beautiful (of) countenance,  
-And (the) sleek rider of the white steed " ?  
+And (the) sleek rider of the white steed "?  
 
 52\. N.— Put not regard in what thou wilt see,  
 O humble Oisin, (nor) in what thou sawest yet.  
@@ -284,17 +284,17 @@ A sunny palace (of) polished front,
 [Was] fairest (in) form and appearance.  
 Of (all) which were in the world to be found.  
 
-54\. " What (is) the royal fortress exceeding fair,  
+54\. "What (is) the royal fortress exceeding fair,  
 And also the loveliest [of what] eye hath seen,—  
 In (*towards*) which we are proceeding ia its meeting (*approaching towards it*),  
-Or who is high-prince there ? "  
+Or who is high-prince there?"  
 
 55\. N.— "(The) daughter of (the) king of (the) Land of the living,  
 Is queen yet in the fortress,  
 (Whom) Fomhor Builleach of Dromloghach took  
 With him by violence of arms and activity.  
 
-56\. " Obligations she put on the brave.  
+56\. "Obligations she put on the brave.  
 Without (not) a wife to make of her for ever,  
 Till she should find a champion or a true hero  
 Who would stand (in) strife with him hand on (*to*) hand."  
@@ -304,7 +304,7 @@ I never heard (anything) of music better
 Than the gentle melodious voice of thy sweet mouth,  
 And great is the sorrow with us (*we feel for*) a woman of her condition.  
 
-58\. " Let us go now to her knowing (*to make her acquaintance*) to the fortress,  
+58\. "Let us go now to her knowing (*to make her acquaintance*) to the fortress,  
 And (it) may be possible that for us it is in destiny  
 That mighty hero to fall by me  
 In feats of activity as was (the) custom" (with me).  
@@ -349,7 +349,7 @@ Though bravest in repute under the sun,
 Who would give single-fight, hand on (*to*) hand,  
 To the bold giant of the hard strokes."  
 
-67\. O.— " I tell to thee, O kind queen  
+67\. O.— "I tell to thee, O kind queen  
 That (it is) not fearful with me (*in my estimation*) his coming in my meeting (*to meet me*)  
 (And) if he shall not fall from the vigour of my arms,—  
 That I myself shall fall for thy protection."  
@@ -410,7 +410,7 @@ From the day we both parted with her
 Or whether she (herself) returned to (the) Land of the living.  
 
 78a\. P — Thou told'st not to us, O pleasant Oisin,  
-What the country (was) in which thou wast thyself ;  
+What the country (was) in which thou wast thyself;  
 Show to us now its name—  
 And follow again (the) course of thy story.  
 
@@ -421,7 +421,7 @@ To God, with good-will I would give invocation (*praise*).
 
 79\. We gave (*turned*) our back to the fortress,  
 And our horse under us under (*in*) full course.  
-And [that] it was swifter with the whiie steed, (*the white steed was swifter*)  
+And [that] it was swifter with the white steed, (*the white steed was swifter*)  
 Than the wind of March on (the) ridge of a mountain.  
 
 80\. 'Twas not long till the sky darkened,  
@@ -445,7 +445,7 @@ Of purple, crimson, and of yellow.
 That was not in this royal mansion I am saying (*speaking of*)  
 
 84\. There were on the other side of the fortress  
-Radiant royal-seats and palaces ;  
+Radiant royal-seats and palaces;  
 Made all of precious stones,  
 By the hands of sages and free (*clever*) artists.  
 
@@ -457,9 +457,9 @@ Elegance, fame and highest (in) repute.
 86\. O.— What (is) the beautiful country [it] yonder,  
 O meek daughter of the clusters (*ringlets*) of gold,  
 Fairest (of) aspect of what eye hath seen  
-Or whether (is) [it] that (the) Land of the young ?"  
+Or whether (is) [it] that (the) Land of the young?"  
 
-87\. N.— " It is indeed, O generous Oisin,  
+87\. N.— "It is indeed, O generous Oisin,  
 I told not to thee a lie to its side, (*concerning it*)  
 There is not a thing of what I promised to thyself  
 That is not manifest to thee perpetually."  
@@ -491,8 +491,8 @@ The gentle spouse of Niamh of (the) head of gold."
 
 93\. He took [on] me then by (the) hand,  
 And said aloud for the host,—  
-R.— " O brave Oisin ! O son of the King !  
-A hundred thousand welcomes before thee !  
+R.— "O brave Oisin! O son of the King!  
+A hundred thousand welcomes before thee!  
 
 94\. This country into which thou camest,  
 I will not conceal (its) tidings on thee, without deceit.  
@@ -511,8 +511,8 @@ To be as a spouse to her for ever."
 
 97\. O.— I gave thanks with (*unto*) the king,  
 And I bowed down to the good queen,  
-(It) was not stopped there, quickly with us (*We went our way* quickly )  
-Till we reached (thej royal mansion of (the) King of the young.  
+(It) was not stopped there, quickly with us (*We went our way* quickly)  
+Till we reached (the) royal mansion of (the) King of the young.  
 
 98\. (There) came (the) nobles of the fine city  
 Both man and woman in our meeting (*to meet us*)  
@@ -579,7 +579,7 @@ And the white steed to be under my will,
 He will teach the knowledge (*way*) [to] me with ease,  
 And (I) will return safe back unto thyself."  
 
-108\. N.— " Remember, O Oisin ! what I am saying,  
+108\. N.— "Remember, O Oisin! what I am saying,  
 If thou layest foot on level ground.  
 That (there is) not a coming for thee [ever] again for ever,  
 To this beautiful country in which I am [my] self.  
@@ -670,7 +670,7 @@ On seeing (of the) size of my [own] person.
 (Of) my form, my appearance, and my countenance.  
 
 125\. I inquired myself then of them [there]  
-Whether they heard Fionn to be alive, (*if Finn was living*) ?  
+Whether they heard Fionn to be alive, (*if Finn was living*)?  
 Or whether lived any other of the Fiann,  
 Or what it (was) the calamity which touched (*happened*) [to] them?  
 
@@ -751,7 +751,7 @@ Were before me in the valley.
 
 141\. A man of the crowd spoke.  
 And he said of (*with*) a voice, aloud,  
-D.— " Come to our assistance O kingly hero,  
+D.— "Come to our assistance O kingly hero,  
 And deliver us from [the] hardship."  
 
 142\. O.— I came then (in) to (their) presence.  
@@ -765,7 +765,7 @@ With (the) weight of the great load,—
 Many of them lost their memory (*senses*).  
 
 144\. D.— A man of the stewards spoke,  
-And said, " O kingly young champion^  
+And said, "O kingly young champion^  
 Forthwith deliver [on] my host,  
 Or a man of them will not be alive" !  
 
@@ -796,7 +796,7 @@ And I under hurt (*disabled*) weakly and faint.
 
 150\. I lost (the) sight of my eyes.  
 My form, my countenance, and my brightness,  
-I was [in my] (an) old man, poor (and) bhnd,  
+I was [in my] (an) old man, poor (and) blind,  
 Without vigour, without memory, without regards  
 
 151\. O Patrick, that (*there*) (is) to thee my story.  

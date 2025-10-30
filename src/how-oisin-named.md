@@ -108,7 +108,7 @@ CHAPTER II
 
 Late that night, when he was preparing for rest, the door of Fionn's chamber opened gently and a young woman came into the room. The captain stared at her, as he well might, for he had never seen or imagined to see a woman so beautiful as this was. Indeed, she was not a woman, but a young girl and her bearing was so gently noble, her look so modestly high, that the champion dared scarcely look at her, although he could not by any means have looked away.
 
-As she stood within the doorway, smiling, and shy as a flower, beautifully timid as a fawn, the Chief communed with his heart :
+As she stood within the doorway, smiling, and shy as a flower, beautifully timid as a fawn, the Chief communed with his heart:
 
 "She is the Sky-woman of the Dawn," he said. "She is the light on the foam. She is white and odorous as an apple-blossom. She smells of spice and honey. She is my beloved beyond the women of the world. She shall never be taken from me."
 

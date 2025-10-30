@@ -70,10 +70,10 @@ Of breathing steeds is he the rarest.
 
 O. Full soon to Finn she did repair,  
 In accents gentle graceful speaking,  
-" Brave Fenian king," thus spoke the fair,  
-"Afar I've come thy heroes seeking. "  
+"Brave Fenian king," thus spoke the fair,  
+"Afar I've come thy heroes seeking."  
 
-F. " Lady, from us conceal not now,  
+F. "Lady, from us conceal not now,  
 (Of loveliest countenance and meekest,)  
 Whence thou hast come and who art thou,  
 And what it is thou lonely seekest."  
@@ -81,34 +81,34 @@ And what it is thou lonely seekest."
 "Gold-head Niamh is my name,  
 O sagest Finn of far famed legions,  
 Beyond all women is my fame,  
-The Princess of the Youthful Regions. "  
+The Princess of the Youthful Regions."  
 
 "Then, Princess bright, relate to us,  
 What afiliction thy bosom presses,  
 That thy own home thou leavest thus  
-Has consort thine fled thy caresses ? "  
+Has consort thine fled thy caresses?"  
 
-" Not husband mine from me did go,  
+"Not husband mine from me did go,  
 Nor am I yet to man bespoken;  
 But famous king of Fenians know  
-Of love to thy son, this the token. "  
+Of love to thy son, this the token."  
 
 "Which of my sons is he whom thou  
-Hast loved so well, O daughter blooming ?  
+Hast loved so well, O daughter blooming?  
 Let thy narration freely flow  
 And true concealing nought, sweet woman.  
 
 "To thee, brave Finn, I'll truly tell,  
 Thy noble son of spirits cheering,  
 Oisin — of arms high tempered well,  
-The cause of this my speech thou’rt hearing. "  
+The cause of this my speech thou’rt hearing."  
 
 F. "What is the reason thou'lt assign,  
 O'er lords that live — of scores the many,  
 My son thou lov'st — of ringlets fine,  
-Daughter more beautiful than any ? "  
+Daughter more beautiful than any?"  
 
-L. " Brave Fenian king, not without cause  
+L. "Brave Fenian king, not without cause  
 From lands afar I'm thus a roving,  
 For of his might I've heard applause,  
 And of himself accounts approving.  
@@ -116,7 +116,7 @@ And of himself accounts approving.
 "Full many a Prince and Chieftain high,  
 Are there that loved me with affection,  
 But none to love consented I  
-Till now Oisin of noblest action. "  
+Till now Oisin of noblest action."  
 
 O. O Patrick by that hand on thee,  
 Nor shameful do I deem the telling,  
@@ -124,16 +124,16 @@ In love was every limb of me,
 With that sweet maid of ringlets swelling.  
 
 O. In mine I took her lovely hand  
-And said in tones of speech so sweet, " thee  
+And said in tones of speech so sweet, "thee  
 I gladly welcome to this land,  
 And gentle, truly, do I greet thee.  
 
 "I bless the happy gladsome hour  
 On which I met thee, lovely creature,  
 All living maids, I prize thee o'er,  
-Thou gentle star of radiant feature. "  
+Thou gentle star of radiant feature."  
 
-L. " Gen'rous Oisin I bind on thee  
+L. "Gen'rous Oisin I bind on thee  
 By ties no bero true resisteth,  
 Now on my steed to come with me,  
 To th' land where youth for ever existeth.  
@@ -186,17 +186,17 @@ If the Land of Youth thou'lt make thy dwelling.
 "All I have promised thou'lt receive,  
 Besides delights I may not mention;  
 A life of happiness believe,  
-With me thy wife of sweet attention. "  
+With me thy wife of sweet attention."  
 
 "Refusal none from me thou'lt get,  
 Bright queen of amber ringlets flowing,  
 The choice of all I ever met,  
-To the Land of Youth let us be going. "  
+To the Land of Youth let us be going."  
 
 On the steed's back before me still,  
 The virgin sate, without emotion,  
-" Behave thyself, " she said " until  
-We reach the shore of yonder ocean. "  
+"Behave thyself," she said "until  
+We reach the shore of yonder ocean."  
 
 At once arose the swiftest steed,  
 When we the ocean's shore had bordered,  
@@ -208,7 +208,7 @@ The sturdy steed so swiftly journeying.
 And close upon the ocean draw  
 They raised three shouts of grief and mourning.  
 
-"Alas, " said Finn, " woe is to me,  
+"Alas," said Finn, "woe is to me,  
 That thou art thus me lonely leaving,  
 Whom bravely I ne'er hope to see,  
 Returning," spoke Finn slow and grieving.  
@@ -216,7 +216,7 @@ Returning," spoke Finn slow and grieving.
 This form and beauty changed at sight,  
 And tears ran down in showers flowing,  
 And wet his breast and visage bright,  
-"My woe ! " said he,"Oisin is going ! " '  
+"My woe!" said he,"Oisin is going!" '  
 
 Our parting from each other then,  
 Patrick, the son and father hoary—  
@@ -284,7 +284,7 @@ A shining front on high it reared,
 More beautiful were not set eyes on.  
 
 What royal mansion grand is this  
-Great lasting wonder architectural ?  
+Great lasting wonder architectural?  
 Say also who its ruler is,  
 Say I pray thee leave me not conjectural.  
 
@@ -335,23 +335,23 @@ And bade us to her story hearken.
 
 The secrets of her tale she told Us,  
 and the tears came freely flowing,  
-She said, " while livest the giant bold,  
-To my own home I can't be going. "  
+She said, "while livest the giant bold,  
+To my own home I can't be going."  
 
-" Be silent, fair young Princess, and  
+"Be silent, fair young Princess, and  
 Give up thy mourning and thy grieving;  
 For here I pledge to thee my hand,  
-The giant shall not long be living. "  
+The giant shall not long be living."  
 
-" There is not a champion in the land,  
+"There is not a champion in the land,  
 Of best repute the bright sun under,  
 That could give battle hand to hand,  
-To th' giant of the blows of thunder. "  
+To th' giant of the blows of thunder."  
 
-O. " Assure thyself, I promise thee  
+O. "Assure thyself, I promise thee  
 That I am not in dread to try him,  
 And if that he fall not by me,  
-In thy defence I will fall by him. "  
+In thy defence I will fall by him."  
 
 Ere long we saw approaching near,  
 The hideous giant, him did environ,  
@@ -453,12 +453,12 @@ And welcomed us a deputation,
 One hundred and fifty champions strong,  
 Of greatest speed and reputation.  
 
-O. " What beautiful country, speak the truth,  
+O. "What beautiful country, speak the truth,  
 That eyes have any-where beholden—  
 O say, is that the Land of Youth,  
-Thou gentle maid of ringlets golden ? "  
+Thou gentle maid of ringlets golden?"  
 
-" Generous Oisin, it is truly—  
+"Generous Oisin, it is truly—  
 A lie of it I told you never,  
 Nor aught I promised e'er to thee,  
 But certainly is thine for ever. '  
@@ -484,17 +484,17 @@ Of nature's sweetest mould I ween,
 In whom the rose and lily blended.  
 
 And being arrived where we were in,  
-Thus spoke the King of Youths delighted :
-" Behold, Oisin, brave son of Finn,  
-To Niav his troth will soon be plighted. "  
+Thus spoke the King of Youths delighted:
+"Behold, Oisin, brave son of Finn,  
+To Niav his troth will soon be plighted."  
 
 O. He said, and loud his voice did ring,  
 And clasped my hand,  
 O friendship thro' thee,  
-" O brave Oisin, son of the King,  
-An hundred thousand welcomes to thee. "  
+"O brave Oisin, son of the King,  
+An hundred thousand welcomes to thee."  
 
-" Here in this Land where thou hast come,  
+"Here in this Land where thou hast come,  
 Solace thine heart with the happy tiding  
 Thy life shall be a life of bloom,  
 Long durable in youth abiding.  
@@ -502,12 +502,12 @@ Long durable in youth abiding.
 "For in this golden Land of Youth,  
 All pleasures unconceived await thee,  
 As thou shalt *know* in very sooth,  
-Although these joys will never *sate* thee. "  
+Although these joys will never *sate* thee."  
 
 And more, I now present to thee,  
 Gold-headed Niav my own daughter,  
 Who that her consort thou wouldst be,  
-For thee afar sped over the water. "  
+For thee afar sped over the water."  
 
 My thanks I tendered to the King,  
 And to the Princess fair bowed loyal  
@@ -549,8 +549,7 @@ And tell thy children's situation,
 Their names give us, and tell us too,  
 The land which is their present station.  
 
-O. The Lands of " Virtue," " Life,  
-" and " Youth,"  
+O. The Lands of "Virtue," "Life," and "Youth,"  
 And countless riches them awaited,  
 Of kingly gold a crown and wreath,  
 And jewels that misers might have sated.  
@@ -570,13 +569,13 @@ And Niav's too — the golden headed,
 To visit Erin sweet again,  
 His hosts and Finn to see, —once dreaded.  
 
-" My leave thou'lt get," the princess said,  
-" Though grievous that we should have parted,  
+"My leave thou'lt get," the princess said,  
+"Though grievous that we should have parted,  
 Lest home indeed when once thou’rt sped,  
-Thou'lt not return, Oisin kindhearted. "  
+Thou'lt not return, Oisin kindhearted."  
 
 My blooming wife, what dost thou dread,  
-Whilst I the white steed am commanding ?  
+Whilst I the white steed am commanding?  
 Him back to thee, I'll safely lead,  
 And here again thou’lt see me landing.  
 
@@ -590,7 +589,7 @@ If thou off th' white steed once alightest.
 Thou'lt never see the Land of Youth,  
 Golden Oisin, of arms the brightest.  
 
-" And this third time I caution thee,  
+"And this third time I caution thee,  
 If thou off th' white steed take'st thy pressure,  
 Blind, old, and feeble thou shalt be,  
 *Sans* strength, activity or pleasure.  
@@ -603,7 +602,7 @@ His hosts and Finn thou ne'er shalt see more.
 "In Erin now thou'lt all things miss,  
 But hosts of saints — thou'lt see *them* ever,  
 Loving Oisin — one parting kiss !  
-To the Land of Youth thou'lt comeback never ! "  
+To the Land of Youth thou'lt comeback never !"  
 
 I looked with pity in her face,  
 And down my cheeks ran tears thick-streaming,  
@@ -650,10 +649,10 @@ As Finn at all times would have given—
 Over it safe to strengthen thee,  
 I'd pray unto thy King of Heaven.  
 
-P. " Not cause of one complaint thou'lt get,  
+P. "Not cause of one complaint thou'lt get,  
 But meat and drink unto thy filling,  
 So continue thy story yet,  
-For thy sweet voice, what music thrilling. "  
+For thy sweet voice, what music thrilling."  
 
 O. When I arrived in Erin green,  
 Close search I made in all directions,  
@@ -673,22 +672,22 @@ My form with deepest penetration.
 Any account if they could give  
 Of Finn, I asked them at last, or  
 Did any of the Fenians live,  
-Or what their final great disaster. "  
+Or what their final great disaster."  
 
 "We often have heard tell of Finn—  
 That he surpassed in strength full many,  
 In person, character and mien,  
-Was never equalled yet by any. "  
+Was never equalled yet by any."  
 
 "In many a book is written down,  
 By sweetest bards, green Erin's sages,  
 What we're unable to make known  
 The deeds of Finn and former ages.  
 
-" And we have heard he had a son,  
+"And we have heard he had a son,  
 In strength surpassing now-a-day legions;  
 Who to the Land of Youth had gone,  
-With the Young Princess of those regions. "  
+With the Young Princess of those regions."  
 
 O. Nor Finn, nor one brave hero lived  
 Oh ! when I heard that story fully,  
@@ -718,7 +717,7 @@ And joy their sorrow ne'er replaces.
 O. A greater pity could not be,  
 Than Finn in agony for ever,  
 Who over him gained such victory,  
-That slaying heroes was most clever ?  
+That slaying heroes was most clever?  
 
 P. Tis God that gained the victory,  
 On whom tis useless to resent it,  
@@ -752,8 +751,8 @@ Appearing busy on the heather.
 
 And one of the assembly said,  
 And in a lusty voice he said it  
-" O princely hero lend us aid,  
-And save us from great dangers dreaded. "  
+"O princely hero lend us aid,  
+And save us from great dangers dreaded."  
 
 In coming forward I did lag  
 Not — and they had a flag of marble,  
@@ -766,9 +765,9 @@ And by its weight were sore distressed,
 And senseless many it did render.  
 
 Thus did a steward me accost,  
-" O princely stout and youthful hero,  
+"O princely stout and youthful hero,  
 Forthwith relieve my struggling host,  
-Or shortly they're not worth a Zero. "  
+Or shortly they're not worth a Zero."  
 
 O. How strange it is, and shameful that,  
 ( And the great number that if you are,  
@@ -809,14 +808,14 @@ FINIS.
 
 ERRATA.  
 
-Page 11, *line* 9,  for " Gold-head " *read* " Gold-headed. "  
+Page 11, *line* 9,  for "Gold-head" *read* "Gold-headed."  
 
-15, 18, "I'll" twill. "  
+15, 18, "I'll" twill."  
 
-17, 24, " face " "race"  
+17, 24, "face" "race"  
 
-19, 5, "This " " His. "  
+19, 5, "This" "His."  
 
-21, 10, " harmless " " hornless. "  
+21, 10, "harmless" "hornless."  
 
-21, 20 "Gold-hilt " "A gold-hilt. "
+21, 20 "Gold-hilt" "A gold-hilt."

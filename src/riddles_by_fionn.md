@@ -12,7 +12,7 @@ Publication date 1889
 I. Argyllshire Series
 
 p1
-"The following traditions are connected chiefly with the " House of Craignish" (Tigh Chreiginnis). This house was one of the oldest branches of the House of Lochow, which afterwards become that of Argyll."
+"The following traditions are connected chiefly with the "House of Craignish" (Tigh Chreiginnis). This house was one of the oldest branches of the House of Lochow, which afterwards become that of Argyll."
 
 p2
 "... owing to a variety of causes, including the change in the tastes and habits of the present generation, traditions and tales of all sorts are no longer told, and are consequently forgotten. The following are only a very few remembered out of the many current in the parish upwards of forty years ago."
@@ -23,43 +23,43 @@ AND HER Answers. pp82-3 fascinating not riddles
 The Questions put by Finn to the Maiden,
 AND HER Answers.
 
-1. " What is more numerous than the grass?" said Finn (Fionn).  
-" The dew-drops," said the maiden.
+1. "What is more numerous than the grass?" said Finn (Fionn).  
+"The dew-drops," said the maiden.
 
-2. " What is whiter than the snow ?'' said Finn.  
-" Truth," said the maiden.
+2. "What is whiter than the snow?'' said Finn.  
+"Truth," said the maiden.
 
-3. " What is loveliest of hue ?" said Finn.  
-" The bloom of childhood," said the maiden.
+3. "What is loveliest of hue?" said Finn.  
+"The bloom of childhood," said the maiden.
 
-4. " What is hotter than fire ?" said Finn.  
-" The hospitable man's face when a stranger cometh and there is nothing to offer him," said the maiden.
+4. "What is hotter than fire?" said Finn.  
+"The hospitable man's face when a stranger cometh and there is nothing to offer him," said the maiden.
 
-5. " What is swifter than the wind ?" said Finn.  
-" The mind of a woman," said the maiden.
+5. "What is swifter than the wind?" said Finn.  
+"The mind of a woman," said the maiden.
 
-6. " What is sharper than a sword ?" said Finn.  
-" A woman's wit between two men," said the maiden.
+6. "What is sharper than a sword?" said Finn.  
+"A woman's wit between two men," said the maiden.
 
-7. " What is bitterer than poison ?" said Finn.  
-" The reproach of an enemy," said the maiden.
+7. "What is bitterer than poison?" said Finn.  
+"The reproach of an enemy," said the maiden.
 
-8. "What is blacker than the raven ?" said Finn.  
-" Death," said the maiden.
+8. "What is blacker than the raven?" said Finn.  
+"Death," said the maiden.
 
-9. " What is best for a hero ?" said Finn.  
-" High deeds and humble pride," said the maiden.
+9. "What is best for a hero?" said Finn.  
+"High deeds and humble pride," said the maiden.
 
-10. "What is best for a woman ?" said Finn.  
-" Generous tenderness," said the maiden.
+10. "What is best for a woman?" said Finn.  
+"Generous tenderness," said the maiden.
 
-11. "What is softer than down ?" said Finn.  
-" The palm `[" Palm" is here used as the down on the cheek.]` of the cheek," said the maiden.
+11. "What is softer than down?" said Finn.  
+"The palm `[" Palm" is here used as the down on the cheek.]` of the cheek," said the maiden.
 
-12. " What is best of jewels ?" said Finn.  
-" A knife," said the maiden.
+12. "What is best of jewels?" said Finn.  
+"A knife," said the maiden.
 
-Note.— Compare Campbell, Popular Tales, vol. iii, pp. 36-37. There are instructive variations between the two versions. Nos. 3 and 10 are not in Campbell. In No. 4 the question in Campbell runs : " What is redder than blood ?" whilst Campbell gives as the answer to " What is hotter than fire ?" .. On the other hand, Campbell gives : "A woman's thought between two men," as the answer to our No. 5. I am inclined to think this is more correct than our version ["A woman's reasoning betwixt two men"]. See the tale of Michael Scott, and my note, supra, pp. 52-3. Our No. 9 runs thus in Campbell: "What deed is the best of deeds? — A high deed and low conceit," which may be more morale but is not as delightfully characteristic of the Highland temperament as our version. Campbell has about half as many riddles again as our version, but only one is of great interest : "What is it will not bide lock and chain ? — The eye of a man about his friend ; it will not brook shutting or holding, but looking on him." In Campbell the maiden is Graine, Finn's wife, and Mr. Hector MacLean cites the tradition that he married her, as she was the only woman who could answer all his questions.
+Note.— Compare Campbell, Popular Tales, vol. iii, pp. 36-37. There are instructive variations between the two versions. Nos. 3 and 10 are not in Campbell. In No. 4 the question in Campbell runs: "What is redder than blood?" whilst Campbell gives as the answer to "What is hotter than fire?" .. On the other hand, Campbell gives: "A woman's thought between two men," as the answer to our No. 5. I am inclined to think this is more correct than our version ["A woman's reasoning betwixt two men"]. See the tale of Michael Scott, and my note, supra, pp. 52-3. Our No. 9 runs thus in Campbell: "What deed is the best of deeds? — A high deed and low conceit," which may be more morale but is not as delightfully characteristic of the Highland temperament as our version. Campbell has about half as many riddles again as our version, but only one is of great interest: "What is it will not bide lock and chain? — The eye of a man about his friend; it will not brook shutting or holding, but looking on him." In Campbell the maiden is Graine, Finn's wife, and Mr. Hector MacLean cites the tradition that he married her, as she was the only woman who could answer all his questions.
 
 Alfred Nutt.
 
@@ -68,7 +68,7 @@ Alfred Nutt.
 
 
 https://archive.org/details/populartalesofwe13camp/page/n57/mode/2up
-Popular tales of the West Highlands : orally collected
+Popular tales of the West Highlands: orally collected
 by Campbell, J. F. (John Francis), 1822-1885
 
 Publication date 1860
@@ -78,50 +78,50 @@ p36-9
 FIONN'S QUESTIONS.
 From Donald MacPhie (smith), Breubhaig, Barra, 1860.
 
-" Fionn would not marry any lady but one who could answer all his questions, and it appears that this was rather difficult to find. Graidhne, daughter of the King of the fifth of Ullin, answered them all, and proved herself the wisest as well as the handsomest of women. Fionn married Graidhne because she answered the questions. The reciter told me that there were a great many more, but that these were all that he could remember at the time."
+"Fionn would not marry any lady but one who could answer all his questions, and it appears that this was rather difficult to find. Graidhne, daughter of the King of the fifth of Ullin, answered them all, and proved herself the wisest as well as the handsomest of women. Fionn married Graidhne because she answered the questions. The reciter told me that there were a great many more, but that these were all that he could remember at the time."
 
 H[ector] MacLean, October 20, 1860.
 
-Fionn. What is more plenteous than the grass ?
-Graidhne. The dew ; there will be many drops of it on one grass blade.
+Fionn. What is more plenteous than the grass?
+Graidhne. The dew; there will be many drops of it on one grass blade.
 
-What is swifter than the wind ?
+What is swifter than the wind?
 A woman's thought betwixt two men.
 
-What is blacker than the raven ?
+What is blacker than the raven?
 There is death.
 
-What is whiter than the snow ?
+What is whiter than the snow?
 There is the truth.
 
-What is a ship for every cargo ?
-A smith's tongs ; it will hold hot and cold.
+What is a ship for every cargo?
+A smith's tongs; it will hold hot and cold.
 
-What is it will not bide lock or chain ?
-The eye of a man about his friend ; it will not brook shutting or holding, but looking on him.
+What is it will not bide lock or chain?
+The eye of a man about his friend; it will not brook shutting or holding, but looking on him.
 
-What is redder than blood ?
+What is redder than blood?
 The face of a worthy man when strangers might come the way, and no meat by him to give to them.
 
-What is sharper than a sword ?
+What is sharper than a sword?
 The reproach of a foe.
 
-What is the best of food ?
-Milk ; many a change comes out of it ; butter and cheese are made of it, and it will feed a little child and an old man.
+What is the best of food?
+Milk; many a change comes out of it; butter and cheese are made of it, and it will feed a little child and an old man.
 
 What is the worst of meat '?
 Lean flesh.
 
-What is the best jewel ?
+What is the best jewel?
 A knife.
 
-What is more brittle than the sow thistle ?
+What is more brittle than the sow thistle?
 The words of a boar pig.
 
-What is softer than down ?
+What is softer than down?
 The palm on the cheek.
 
-What deed is the best of deeds ?
+What deed is the best of deeds?
 A high deed and low conceit.
 
 From this then it appears that Graidlme represents quick wit and beauty, and her name seems to mean Grádh — love.
@@ -172,10 +172,10 @@ Courting Ailbe.
 3. Two men on his right with exalted sayings, white as the swan or the cotton-grass, poured out about a man as black as a raven or (like one) on which the dung-beetle is poured.
 4. Two men are on his left, black as charcoal, around a warrior, who is now like a young Sprols, to whom many bracelets (?) are given.
 5. To his right are worthy four, as red as a druimnln ('little rib'?) of red-gold, by two dark-brown—a dear gift—; that is an entourage of excellent people.
-6. Three fours to the left hand at the front of the . . Area : four brown, four dark, four shaped like red fire.
-7. Three squads are then there - that belongs to the excellent treasures - ; Twenty-three, who are not fools, fill every gang,
-8. A company from the sons of mighty kings - equally young is every band of them - ; a band of the sons of great briuga^s; fifty boys with light curly hair.i)
-9. Young men under crimson helmets sing to them from the tops of seven gas (' flutes ' ? ?) young men; 2) ... in estuaries.
+6. Three fours to the left hand at the front of the . . Area: four brown, four dark, four shaped like red fire.
+7. Three squads are then there - that belongs to the excellent treasures -; Twenty-three, who are not fools, fill every gang,
+8. A company from the sons of mighty kings - equally young is every band of them -; a band of the sons of great briuga^s; fifty boys with light curly hair.i)
+9. Young men under crimson helmets sing to them from the tops of seven gas (' flutes '??) young men; 2) ... in estuaries.
 10 3) of the birds on the swaying rods drier
 Root; dark blackbirds play for them next to the beautiful, soft tune of the 'Men of Epheus'.*)
 11. So suis is the mead in clearer vessels, served at Tailtiu's feasts: I would — a word^) with splendor — exchange some (of it) for roast wild boar.
@@ -205,12 +205,12 @@ looking for an old Rofs.
 14. (Cormac:) 'Does duirmel{?) send the pretty branch under the side of the oak? Because without warmth the plants wither under the fruit-rich oaks.
 15. May your condition not become sorrowful like that of the bird around which the snare was closed. You can't undo it afterwards if your camp regrets you too.'
 16. (Ailbe:) 'Why do you trap the bird 4) in its spotless down? I would not put my foot in a sling to await my final death.'
-17. (Cormac:) 'I do not dislike negotiating at your side - ugly is a gray face for a warrior - ; that will make you perfect, it will bring all the best to the daughter.'
-18. (Ailbe :) 'I'm sure, even if I did it, that a gray-headed warrior would be rejected: my little father wouldn't sue me for it ^), because of going to the loud Fian.'
+17. (Cormac:) 'I do not dislike negotiating at your side - ugly is a gray face for a warrior -; that will make you perfect, it will bring all the best to the daughter.'
+18. (Ailbe:) 'I'm sure, even if I did it, that a gray-headed warrior would be rejected: my little father wouldn't sue me for it ^), because of going to the loud Fian.'
 19. (Cormac:) 'Even if I tell you: 'Love no old man; that is what a good woman will do', so I was not in the habit of turning away valor debts ... for a good person ß).'20. ...1)
 21. (Ailbe:) 'Why shouldn't you and I have a chat when it can't be a bother? If a woman's deeds can be good, what I have heard is good.'
 9. Then someone came from Cormac to ask Find what art he had he would bring to Temair. 'I'm well versed in ancient sayings and the challenge of cross-talk,' said Find. — 'That's the art of tots and girls with us,' said Cormac. — 'That's how I address tots,' said Find, 'and that doesn't stop me. 2) I will bring Scenb Scuile^); whose art will be(?) to free women and girls.' — 'Come into the city,' said Cormac, 'no king without queen, no fian-member without warrior wife, no Briuga without mate, no peacemaker without lover, no youth without lover, no maiden without lover, no man without art' — 'I I have' said Find 'till now thrice fifty election placards to the daughters of rulers of Ireland and Scots, and they all made the fianae of Ireland their own, so that there is no half-crooked 4) yoke and no half-empty camp than only my own. Now if you have a fine wife who is not a false fine, give her to me.' — 'Ask yourself,' said Cormac, 'in the circle of fine women, whether there is one among them who will answer you and play the word game with you.' - Then Find himself went into the city and came to the homestead where the daughters of Cormac were in a splendid grianän (actually 'Söller'), weaving braids and embroidery threads of gold and silver on robes of all colors.
-10. Then Find spoke the following 'Schnitzel of Elegance': 'Girls', said Find, 'is there anyone among you who because ?
+10. Then Find spoke the following 'Schnitzel of Elegance': 'Girls', said Find, 'is there anyone among you who because?
 1. Which nafs is more spread out than all the seas i)?' — 'The dew is spread further 2)', said Ailbe Gruadbrec, Cormac's daughter. She answered because there was no wiser woman in the house, and also because the speech was addressed to her.
 2. 'What is sweeter than mead?' said Find. — 'Familiar conversation*)' said the girl.
 3. 'What is redder than blood^?' said Find. — 'The blush of noble children 6)' said the girl.
@@ -239,7 +239,7 @@ looking for an old Rofs.
 26. 'What's best for the eyes?' said Find. — 'Cold, fat, dark' said the girl.
 27. 'What's the worst thing for the eyes?' said Find. — 'Blaze, irritation, hunger' said the girl.
 28. 'What is more bitter than poison?' said Find. — 'The insult by the enemy' said the girl.
-29. 'What is more unsteady than the weasel 3) ? ' said Find. — 'The advice of a foolish man' said the girl.
+29. 'What is more unsteady than the weasel 3)? ' said Find. — 'The advice of a foolish man' said the girl.
 30. 'What is softer than down? ' said Find. — 'The palm of the hand on the cheek' said the girl.
 [2' 8a. 'What makes you happier than drunkenness?' said Find. — 'A woman's tenderness towards a young lad,' said the girl.
 18a. 'What is thinner than water?' said Find. — 'The smoke' said the girl.
@@ -252,14 +252,14 @@ looking for an old Rofs.
 of the vessels^) at the meal.
 3. Every morning you will receive . . .3), the game of Mag Muirtheimni that roams the forest near Bregia Field.
 4. To play you will have . . ., green whistles (whistle?); the singing of the seat (?) of the Met-course*), against which the Fiana ...
-5. The ambols under fist-blows next to the cooking stove, the branched (?) fian-surface ; the Bratspiefs in his .. wheel tricks 5j, the speckled fawns jumping through the thorns^).
-6. The Glory of Nuts - Gathering by swift blow (?')); the challenge of the brown stag through the hazel (? s)) ; the hooky-nosed, worm-skinned tairnill{?y, the company of weasels along the leafy oak.
+5. The ambols under fist-blows next to the cooking stove, the branched (?) fian-surface; the Bratspiefs in his .. wheel tricks 5j, the speckled fawns jumping through the thorns^).
+6. The Glory of Nuts - Gathering by swift blow (?')); the challenge of the brown stag through the hazel (? s)); the hooky-nosed, worm-skinned tairnill{?y, the company of weasels along the leafy oak.
 7. Cranberries, tender (?) blackberries, raspberries on branches, honeycomb, sloes on thornbushes, blueberries, the beautiful badgers, the woodcock.
 8. Apples, brown-round acorns, a good load(?) by the whirlwind, the dark wild duck, the lower part of the orchard i), the tuft of cowslip, duilesc (eatable seaweed), collected from cliffs.
 9, throwing stones with slingshots, slinging at flocks of birds, catching creams, strawberries, eggs, buttercups, . ^ who wash the gravel.
 10. Speckled jumping salmon; the slender (?) seal, the blaring 2), striped; the seals (?) of the bright green ocean; the meat of the lively, bridled foals 3).
 11. The cushion of the green-downy forest; sitting on watch-hills; listening to the voice of the black brook; the louder wind through the leafy oak forest.
-12. Fidchell, Brandub with speckles, Buanbach ^), as seductive as tiaras (?) ; the common drink of friends with red swords, our servant apportions it wisely.^)
+12. Fidchell, Brandub with speckles, Buanbach ^), as seductive as tiaras (?); the common drink of friends with red swords, our servant apportions it wisely.^)
 13. Fine living together in love (?); Sport«) without blushing; warm, intimate conversations; the foot walks no more after sunset.
 14. Thou shalt not be brought into a bad marriage, not separated from rulers; there will be no whining over gloomy days; you will have fine, excellent young people.'
 18. 'This offer suits me,' said the girl, 'and to receive it from you seems better to me than a greater good from any other.' — 'Well, girl,' said Find, 'we would accept your banishment (from the court) if there were no violation of Cormac's law.' — 'You true warrior,' she said, 'what you say is not in vain. Let's roam forest after forest. Let us wear robes without purple. Let's drink beer without honey (Met C). Let's let horses jump without reins. Let's do the Tailtiu-

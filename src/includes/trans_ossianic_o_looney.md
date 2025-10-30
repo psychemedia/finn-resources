@@ -6,22 +6,22 @@ Volume IV
 Publication date 1859
 pp.227-279
 
-LAY OF OISIN ON THE LAND OF YOUTHS ;  
+LAY OF OISIN ON THE LAND OF YOUTHS;  
 
 AS HE RELATED IT TO SAINT PATRICK.  
 
 P. O ! Noble Oisin, O ! son of the king !  
 Of greatest actions, valor, and conflicts,  
 Belate to us now without despondency,  
-How thou livedst after the Fians ?  
+How thou livedst after the Fians?  
 
 O. I will tell it thee, O Patrick ! lately arrived,  
-Though mournful to me to say it aloud :—  
-" After the hard battle of Gabhra,  
+Though mournful to me to say it aloud:—  
+"After the hard battle of Gabhra,  
 In which was killed, alas ! the noble Oscar.  
 
 One day we, the Fianna, were all assembled,  
-Generous Fionn and all of us that lived were there ;  
+Generous Fionn and all of us that lived were there;  
 Tho' dark and mournful was our story,  
 After our heroes being overcome.  
 
@@ -31,7 +31,7 @@ Where thro' fragrant trees of sweetest blossoms,
 And the mellow music of birds at all times.  
 
 We aroused the hornless deer  
-Of the best bounding, course, and agility ;  
+Of the best bounding, course, and agility;  
 Our hounds and all our dogs  
 Were close after in full chase.  
 
@@ -44,17 +44,17 @@ A young maiden of most beautiful appearance.
 On a slender white steed of swiftest power.  
 
 We all ceased firom the chase,  
-On seeing the form of the royal maid ;  
+On seeing the form of the royal maid;  
 'Twas a surprise to Fionn and the Fianns,  
 They never beheld a woman equal in beauty.  
 
-A royal crown was on her head ;  
+A royal crown was on her head;  
 And a brown mantle of precious silk.  
 Spangled with stars of red gold,  
 Covering her shoes down to the grass.  
 
 A gold ring was hanging down  
-From each yellow curl `[Perhaps flguratitvely meaning that snch curl was like a loop of gold.]` of her golden hair ;  
+From each yellow curl `[Perhaps flguratitvely meaning that snch curl was like a loop of gold.]` of her golden hair;  
 Her eyes blue, clear, and cloudless,  
 Like a dew drop on the top of the grass.  
 
@@ -64,41 +64,41 @@ And more sweet was the taste of her balsam lips
 Than honey mingled thro' red wine.  
 
 A garment wide, long, and smooth.  
-Covered the white steed ;  
+Covered the white steed;  
 There was a comely saddle of red gold,  
 And her right hand held a bridle with a golden bit.  
 
 Four shoes well shaped were under him,  
-Of the yellow gold of the purest quality ;  
+Of the yellow gold of the purest quality;  
 A silver wreath was on the back of his head.  
 And there was not in the world a steed better.  
 
 O. She came to the presence of Fionn,  
 And spoke with a voice sweet and gentle,  
-And she said, " O, king of the Fianna,  
+And she said, "O, king of the Fianna,  
 Long and distant is my journey, now."  
 
-F. " Who art thou, thyself, O youthful princess !  
+F. "Who art thou, thyself, O youthful princess !  
 Of fairest form, beauty, and countenance,  
 Relate to us the cause of thy story,  
 Thine own name and thy country."  
 
-" Golden-headed Niamh is my name,  
+"Golden-headed Niamh is my name,  
 0, sage Fionn of the great hosts.  
 Beyond the women of the world I have won esteem,  
 I am the fair daughter of the King of Youth."  
 
-F. " Relate to us O amiable princess  
+F. "Relate to us O amiable princess  
 What caused thee to come afar across the sea—  
 Is it thy consort has forsaken thee,  
 Or what is the affliction that is on thyself."  
 
-N. " 'Tis not my husband that went from me,  
+N. "'Tis not my husband that went from me,  
 And as yet I have not been spoken of with any man, `[i.e. I have not been betrothed to any man]`  
 O ! king of the Fianna of highest repute,  
 But affection and love I have given to thy son."  
 
-" Which of my children [is he] O blooming daughter.  
+"Which of my children [is he] O blooming daughter.  
 To whom thou hast given love, or yet affection—  
 Do not conceal from us now the cause,  
 And relate to us thy case, O woman."  
@@ -108,100 +108,100 @@ Thy noble son of the well-tempered arms,
 High-spirited Oisin of the powerfdl bands,  
 Is the champion that I am now speaking of."  
 
-O. " What is the reason that thou gavest love.  
+O. "What is the reason that thou gavest love.  
 O ! beautiful daughter of the glossy hair,  
 To my own son beyond all,  
 And multitudes of high lords under the sun."  
 
-" 'Tis not without cause, O, king of the Fianna !  
+"'Tis not without cause, O, king of the Fianna !  
 I came afar for him—  
 But reports I heard of his prowess,  
 The goodness of his person and his mien."  
 
-" Many a son of a king and a high chief  
-Gave me affection and perpetual love ;  
+"Many a son of a king and a high chief  
+Gave me affection and perpetual love;  
 I never consented to any man  
 'Till I gave love to noble Oisin."  
 
-" By that hand on thee, O Patrick,  
+"By that hand on thee, O Patrick,  
 Though it is not shameful to me as a story.  
 There was not a limb of me but was in love  
 With the beautiful daughter of the glossy hair."  
 
 I took her hand in mine.  
 And said in speech of sweetest tone,  
-" A true, gentle, welcome before thee,  
+"A true, gentle, welcome before thee,  
 O young princess to this country !"  
 
-" 'Tis thou that art the brightest and the fairest of form,  
+"'Tis thou that art the brightest and the fairest of form,  
 'Tis thee I prefer as wife  
 Thou art my choice beyond the women of the world  
 O mild star of loveliest countenance !"  
 
-" Obligations unresisted by true heroes  
+"Obligations unresisted by true heroes  
 O generous Oisin I put upon thee  
 To come with myself now upon my steed  
 Till we arrive at the ' Land of Youth.'  
 
-O. " It is the most delightful country to be found,  
+O. "It is the most delightful country to be found,  
 Of greatest repute under the sun  
 Trees drooping with fruit and blossom  
 And foliage growing on the tops of boughs.  
 
-" Abundant, there, are honey and wine  
+"Abundant, there, are honey and wine  
 And everything that eye has beheld,  
 There will not come decline on thee with lapse of time,  
 Death or decay thou wilt not see.  
 
-" Thou wilt get feasts, playing, and drink,  
+"Thou wilt get feasts, playing, and drink,  
 Thou wilt get melodious music on the harp strings,  
 Thou wilt get silver and gold,  
 Thou wilt get also many jewels.  
 
-" Thou wilt get, without falsehood, a hundred swords ;  
+"Thou wilt get, without falsehood, a hundred swords;  
 Thou wilt get a hundred satin garments of precious silk,  
 Thou wilt get a hundred horses the swiftest in conflict.  
 And thou wilt get a hundred with them of keen hounds.  
 
-" Thou wilt get the royal diadem of the ' King of Youth,'  
+"Thou wilt get the royal diadem of the ' King of Youth,'  
 Which he never yet gave to any person under the sun,  
 'Twill protect thee both night and day,  
 In battle, in tumult, and in rough conflict.  
 
-" Thou wilt get a fitting coat of protecting mail  
+"Thou wilt get a fitting coat of protecting mail  
 And a gold headed sword apt for strokes,  
 From which no person ever escaped alive  
 Who, once, saw the sharp weapon.  
 
-" Thou wilt get a hundred coats of armour and shirts of satin,  
+"Thou wilt get a hundred coats of armour and shirts of satin,  
 Thou wilt get a hundred cows and, also, an hundred calves,  
 Thou wilt get a hundred sheep, with their golden fleeces,  
 Thou wilt get a hundred jewels not in this world.  
 
-O. " Thou wilt get a hundred virgins gay and young  
+O. "Thou wilt get a hundred virgins gay and young  
 Blight, refulgent, like the sun.  
 Of best fonn, shape, and appearance,  
 Whose voices are sweeter than the music of birds.  
 
-" Thou wilt get a hundred heroes most powerful in conflict,  
+"Thou wilt get a hundred heroes most powerful in conflict,  
 And also most expert in feats of agility,  
 In arms and armour waiting on thee  
 In the ' Land of Youth' if thou wilt come with me.  
 
-" Thou will get everything I promised thee `[+ Every verse with this mark (+) is taken from a MS. which I lately got, and was not in the MS. transcribed for the president or in Mr. Griffin's copy.]`  
+"Thou will get everything I promised thee `[+ Every verse with this mark (+) is taken from a MS. which I lately got, and was not in the MS. transcribed for the president or in Mr. Griffin's copy.]`  
 And delights, also, which I may not mention.  
 Thou wilt get beauty, strength, and power,  
 And I myself will be thy wife."  
 
-" No refusal will I give from me,  
+"No refusal will I give from me,  
 charming queen of the golden curls !  
 Thou art my choice above the women of the world,  
 And I will go, with willingness, to the 'Land of  
-Youth.' "  
+Youth.'"  
 
 On the back of the steed we went together,  
-Before me sat the virgin ;  
-. She said: " Oisin let us remain quiet,  
+Before me sat the virgin;  
+. She said: "Oisin let us remain quiet,  
 Till we reach the mouth of the great sea."  
 
 Then arose the steed swiftly,  
@@ -215,14 +215,14 @@ Facing against the great tide.
 They raised three shouts of mourning and grief.  
 
 O. "O Oisin!" said Fionn slowly and sorrowfully,  
-" Woe it is to me that thou art going from me,  
+"Woe it is to me that thou art going from me,  
 I have not a hope that thou wilt ever again.  
 Come back to me victorious."  
 
 His form and beauty changed,  
 And showers of tears flowed down,  
 Till they wet his breast and his bright visage  
-And he said, " My woe art thou, O, Oisin ! in going  
+And he said, "My woe art thou, O, Oisin! in going  
 from me."  
 
 O Patrick, 'twas a melancholy story  
@@ -231,7 +231,7 @@ The parting of the father from his own son—
 'Tis mournful, weak, and faint to be relating it !  
 
 I kissed my father sweetly and gently,  
-And the same affection I got from him ;  
+And the same affection I got from him;  
 I bade adieu to all the Fianna,  
 And the Tears flowed down my cheeks.  
 
@@ -241,13 +241,13 @@ Been chess-playing and drinking,
 And hearing music—the host that was powerful !  
 
 A hunting in smooth valleys.  
-And our sweet-mouthed dogs with us there ;  
-At other times, in the rough conflicf,  
+And our sweet-mouthed dogs with us there;  
+At other times, in the rough conflict,  
 Slaughtering heroes with great vigour.  
 
 P. O ! foolish Oisin, forego a while  
 Thy great actions of the Fenians,  
-How didst thou go to the " Land of Youth,"  
+How didst thou go to the "Land of Youth,"  
 Proceed, faithfully, with thy tale to us.  
 
 O. We turned our backs to the land  
@@ -275,48 +275,48 @@ A young rider on a white steed.
 Under a purple, crimson mantle of satin.  
 And a gold-headed sword in his right hand,  
 
-" Who are yon two whom I see,  
+"Who are yon two whom I see,  
 O gentle princess, tell me the meaning,  
 That woman of most beautiful countenance,  
 And the comely rider of the white steed."  
 
-" Heed not what thou wilt see,  
+"Heed not what thou wilt see,  
 O gentle Oisin, nor what thou hast yet seen.  
 There is in them but nothing,  
-Till we reach tiie land of the ' King of Youth.' "  
+Till we reach the land of the 'King of Youth.'"  
 
 O. We saw from us afar  
-A sunny palace of beantiful front,  
+A sunny palace of beautiful front,  
 Its form and appearance were the most beauteous  
-That were to be found in the world "  
+That were to be found in the world"  
 
-" What exceeding—fine, royal mansion,  
+"What exceeding—fine, royal mansion,  
 And also, the best that eye hath seen,  
 Is this, that we are travelling near to.  
-Or who is high-chief of that place ? "  
+Or who is high-chief of that place?"  
 
 "The daughter of the king of the ' Land of Life,'  
 Is queen, yet, in that fortress  
-She was taken by Fomhor Builleach `[Fomhor Builleach, i.e. the striking Giant, was the despotic ruler of the " Land of Virtues," — a country not mentioned in any other copy of this poem that I have seen.]`, of Dromloghach,  
+She was taken by Fomhor Builleach `[Fomhor Builleach, i.e. the striking Giant, was the despotic ruler of the "Land of Virtues," — a country not mentioned in any other copy of this poem that I have seen.]`, of Dromloghach,  
 With violent strength of arms and activity.  
 
-" Obligation she put upon the brave,  
+"Obligation she put upon the brave,  
 Never to make her a wife,  
 Till she got a champion or true hero.  
 To stand battle with him hand to hand."  
 
-" Take success and blessings, O golden-headed Niamh,  
+"Take success and blessings, O golden-headed Niamh,  
 I have never heard better music  
 Than the gentle voice of thy sweet mouth,  
 Great grief to us is a woman of her condition.  
 
-" I will go now to visit her to the fortress.  
+"I will go now to visit her to the fortress.  
 And it may be for us it is fated  
 That that great hero should fall by me.  
 In feats of activity as is wont to me."  
 
 We went then into the fortress.  
-To us came the youthful queeui  
+To us came the youthful queen.  
 Equal in splendor was she to the sun.  
 And she bade us a hundred welcomes.  
 
@@ -326,36 +326,36 @@ Her chalk-white skin was like the swan on the wave,
 And her cheeks were of the colour of the rose.  
 
 Her hair was of a golden hue.  
-Her blue eyes clear and cloudless ;  
+Her blue eyes clear and cloudless;  
 Her honey lips of the colour of the berries,  
 And her slender brows of loveliest form.  
 
 Then we there sat down,  
 Each of us on a chair of gold,  
 There was laid out for us abundance of food  
-And drinking-horns filled with beoir [`Although this word resemble the word " beer," the liquors were very different]`.  
+And drinking-horns filled with beoir [`Although this word resemble the word "beer," the liquors were very different]`.  
 
 When we had taken a sufficiency of food,  
 And much sweet drinking wines,  
 Then spoke the mild young princess.  
-And thus said she, " harken to me awhile."  
+And thus said she, "harken to me awhile."  
 
 She told us the knowledge and cause of her tale.  
-And the tears flowed down her cheeks ;  
-She said, " my return is not to my own country.  
+And the tears flowed down her cheeks;  
+She said, "my return is not to my own country.  
 Whilst the great giant shall be alive."  
 
-" Be silent, O young princess !  
+"Be silent, O young princess !  
 Give o'er thy grief and do not mourn,  
 And I give to thee my hand  
 That the giant of slaughter shall fall by me !"  
 
-" There's not a champion now to be found  
+"There's not a champion now to be found  
 Of greatest repute under the sun,  
 To give battle hand to hand  
 To the bold giant of the bard blows."  
 
-O. " I tell to thee, O gentle queen,  
+O. "I tell to thee, O gentle queen,  
 I am not daunted at his coming to meet me.  
 Unless he fall by me, by the strength of my arms,  
 I will fall myself in thy defence."  
@@ -385,7 +385,7 @@ And I was bruised, weak and feeble,
 Shedding blood in great abundance.  
 Coming closely out of my wounds.  
 
-The daughter of the " King of the Living" came  
+The daughter of the "King of the Living" came  
 In truth to relieve myself;  
 She put balm and balsam, in my wounds,  
 And I was whole after her.  
@@ -402,8 +402,8 @@ And I wrote his name in Ogham Craobh.
 
 On the morrow, at the appearance of day.  
 We awoke out of our slumbers,  
-" It is time for us," said the daughter of the king,  
-" To go without delay to our own land."  
+"It is time for us," said the daughter of the king,  
+"To go without delay to our own land."  
 
 We prepared ourselves without a stay.  
 And we took our leave of the virgin.  
@@ -420,7 +420,7 @@ What country it is in which thou wast thyself;
 Reveal to us now its name.  
 And continue again the track of thy story.  
 
-O. That country is the " Land of Virtues,"  
+O. That country is the "Land of Virtues,"  
 And certainly the name is not miscalled,  
 If heaven hath glories as were there,  
 To God, with love, I would give praise.  
@@ -460,12 +460,12 @@ From the fortress to meet us.
 Three fifties of champions of best agility,  
 Appearance, fame and of highest repute.  
 
-O. " What beauteous country is that  
+O. "What beauteous country is that  
 O gentle daughter of the golden locks !  
 Of best aspect that the eye has seen,  
-Or is it the ' Land of Youth ? "  
+Or is it the ' Land of Youth?"  
 
-" It is, truly, O generous Oisin !  
+"It is, truly, O generous Oisin !  
 I have not told a lie to you concerning it,  
 There is nothing I promised thyself  
 But is manifest to thee for ever."  
@@ -491,26 +491,26 @@ And fifty virgins sweet and mild,
 Of most beautiftil form in her company.  
 
 When all arrived in one spot.  
-Then courteously spoke the " King of Youth,"  
-And said, " This is Oisin the son of Fionn,  
-The gentle consort of ' Golden-headed Niamh !' "  
+Then courteously spoke the "King of Youth,"  
+And said, "This is Oisin the son of Fionn,  
+The gentle consort of 'Golden-headed Niamh!'"  
 
 O. He took me then by the hand,  
 And said, [aloud to the hearing of] the host,  
-" O, brave Oisin ! O, son of the king !  
+"O, brave Oisin ! O, son of the king !  
 A hundred thousand welcomes to you !"  
 
-" This country into which thou comest,  
+"This country into which thou comest,  
 I'll not conceal its tidings from you, in truth,  
 Long and durable is your life.  
 And thou thyself shalt be ever young."  
 
 There's not a delight on which the heart hath mused  
-But is in this land awaiting thee ;  
+But is in this land awaiting thee;  
 O ! Oisin believe me in truth,  
 For I am king of the ' Land of Youth !'  
 
-" This is the gentle Queen,  
+"This is the gentle Queen,  
 And my own daughter the Golden-headed Niamh,  
 Who went over the smooth seas for thee  
 To be her consort for ever."  
@@ -518,26 +518,26 @@ To be her consort for ever."
 I gave thanks to the King,  
 And I bowed down to the gentle Queen,  
 Nor staid we there, [but proceeded] soon,  
-Till we reached the royal mansion of the " King of Youth."  
+Till we reached the royal mansion of the "King of Youth."  
 
 There came the nobles of the fine fortress.  
-Both men and women to meet us ;  
+Both men and women to meet us;  
 There was a feast and banquet continuously there.  
 For ten nighta and ten days.  
 
-I espoused " Golden-headed Niamh,"  
-O ! Patrick from Rome of white croziers !  
-That is how I went to the " Land of Youth,"  
+I espoused "Golden-headed Niamh,"  
+O ! Patrick from Rome of white croziers!  
+That is how I went to the "Land of Youth,"  
 Tho' woeful and grievous to me to relate.  
 
 P. Continue for us further thy tale,  
-O golden Oisin of the slaying arms !  
-How didst thou leave the " Land of youth,"  
+O golden Oisin of the slaying arms!  
+How didst thou leave the "Land of youth,"  
 I, yet, think it long till you reveal the cause.  
 
 Tell to us now with great pleasure,  
 Hadst thou any children by Niamh,  
-Or how long wert thou in the " Land of Youth,'  
+Or how long wert thou in the "Land of Youth,'  
 Relate to us, without grief, thy story,  
 
 O. I had by Golden-headed Niamh,  
@@ -551,12 +551,12 @@ Until I thought 'twould be my desire
 To see Fionn and the Fianna alive.  
 
 P. pleasant Oisin continue thy story.  
-And tell us where are thy children ;  
+And tell us where are thy children;  
 Give us, without delay, their names.  
 And the land in which they are.  
 
 O. Niamh had awaiting them.  
-The Land of Youth— the Land of Life, and the land of Virtues :  
+The Land of Youth— the Land of Life, and the land of Virtues:  
 A wreath and crown of the kingly gold.  
 And many jewels I do not mention.  
 
@@ -576,41 +576,41 @@ And of my kind spouse — golden-headed Niamh,
 To go to Erinn back again,  
 To see Fionn and his great host.  
 
-" Thou wilt get leave from me,' said the gentle daughter,  
-" Though 'tis a sorrowftil tale to me to hear you mention it,  
+"Thou wilt get leave from me,' said the gentle daughter,  
+"Though 'tis a sorrowftil tale to me to hear you mention it,  
 Lest thou mayest not come again in your life  
-To my own land, victorious Oisin !"  
+To my own land, victorious Oisin!"  
 
-" What do we dread, blooming Queen !  
+"What do we dread, blooming Queen!  
 Whilst the white steed is at my service,  
 He'll teach me the way with ease,  
 And will return safe back to thyself."  
 
-" Remember Oisin ! what I am saying,  
+"Remember Oisin ! what I am saying,  
 If thou layest feot on level ground,  
 Thou shalt not come again for ever  
 To this fine land in which I am myself.  
 
-" I say to thee again without guile,  
+"I say to thee again without guile,  
 If thou alightest once off the white steed.  
 Thou wilt never more come to the ' Land of Youth,'  
 golden Oisin of the warlike arms !  
 
-" I say to thee for the third time,  
+"I say to thee for the third time,  
 If thou alightest off the steed thyself.  
 That thou wilt be an old man, withered, and blind.  
 Without activity, without pleasure, without run,  
 without leap.  
 
-O. " 'Tis a woe to me, loving Oisin,  
-That thou ever goest to green Erinn ;  
-'Tis not now as it has been ;  
+O. "'Tis a woe to me, loving Oisin,  
+That thou ever goest to green Erinn;  
+'Tis not now as it has been;  
 And thou never shalt see Fionn of the hosts.  
 
-" There is not now in all Erin,  
-But a father of orders and hosts of saints ;  
+"There is not now in all Erin,  
+But a father of orders and hosts of saints;  
 O loving Oisin ! here is my kiss,  
-Thou wilt never return to the ' Land of Youth !' "  
+Thou wilt never return to the ' Land of Youth !'"  
 
 I looked up into her countenance with compassion,  
 And streams of tears ran from my eyes,  
@@ -620,10 +620,10 @@ Tearing the hair off the golden head.
 She put me under strict injunctions  
 To go and come without touching the lea,  
 And said to me by virtue of their power,  
-If I broke them that I'd never returu safe ;  
+If I broke them that I'd never return safe;  
 
 I promised her each thing, without a lie,  
-That I would fulfil what she said to me ;  
+That I would fulfil what she said to me;  
 I went on the back of the white steed  
 And bade farewell to the people of the fortress.  
 
@@ -633,9 +633,9 @@ My two sons, and my young daughter
 Were under grief, shedding tears.  
 
 I prepared myself for travelling.  
-And I turned my back on the " Land of Youth,"  
-The steed ran swifUy under me,  
-As he had done with me and " golden-headed Niamh."  
+And I turned my back on the "Land of Youth,"  
+The steed ran swiftly under me,  
+As he had done with me and "golden-headed Niamh."  
 
 O. Our story is not told in full,  
 Of every thing that occurred to myself,  
@@ -645,7 +645,7 @@ To green Erin of the many jewels.
 O Patrick of the orders and of the saints,  
 I never yet told you a falsehood.  
 There is to thee the reason of my story.  
-And how I left the " Land of Youth."  
+And how I left the "Land of Youth."  
 
 If I myself had been, O Patrick !  
 As I was, that self-same day,  
@@ -680,9 +680,9 @@ My form, my appearance, and my countenance.
 I myself asked then of them,  
 Did they hear if Fionn was alive,  
 Or did any one else of the Fianna live,  
-Or what disaster had swept them away ?  
+Or what disaster had swept them away?  
 
-" We have heard tell of Fionn,  
+"We have heard tell of Fionn,  
 For strength, for activity, and for prowess,  
 That there never was an equal for him  
 In person, in character, and in mien.  
@@ -695,7 +695,7 @@ Of the deeds of Fioim and of the Fianna."
 We heard that Fionn had  
 A son of brightest beauty and form,  
 That there came a young maiden for him  
-And that he went with her to the " Land of Youth."  
+And that he went with her to the "Land of Youth."  
 
 When I myself heard that announcement,  
 That Fionn did not live or any of the Fianna,  
@@ -708,13 +708,13 @@ Till I set my face straightforward
 To Almhuin of great exploits in broad Leinster.  
 
 O. Great was my surprise there,  
-That I did not not see the court of Fionn of the hosts ;  
+That I did not not see the court of Fionn of the hosts;  
 There was not in its place in truth  
 But weeds, chick-weeds, and nettles.  
 
-Alas, Patrick ! and alas, my grief !  
+Alas, Patrick ! and alas, my grief!  
 A miserable journey it was to me,  
-Without the tidings of Fionn or the Fianna ;  
+Without the tidings of Fionn or the Fianna;  
 It left me through life under pain.  
 
 P. O Oisin ! now desist from thy grief,  
@@ -722,8 +722,8 @@ Shed thy tears to the God of Grace,
 Fionn and the Fianna are weak enough,  
 And relief is not theirs for ever.  
 
-O. That would be a great pity, O Patrick !  
-That Fionn should be in pain, for ever ; .  
+O. That would be a great pity, O Patrick!  
+That Fionn should be in pain, for ever;  
 Or what pursuers gained victory over him.  
 Since many a hardy hero fell by himself.  
 
@@ -742,24 +742,24 @@ The hero that was bravest in heavy conflict,
 There is not created in hell, or in the Heaven of God  
 A host tho' great, that he would not destroy.  
 
-P. Let us leave off our coatroversy on each side  
-And continue thy story, O valiant Oisin !  
+P. Let us leave off our controversy on each side  
+And continue thy story, O valiant Oisin!  
 What occurred to thee after that,  
 Subsequently to the Fianna being low.  
 
-O. I, myself will tell thee that, O Patrick !—  
+O. I, myself will tell thee that, O Patrick!—  
 After I left Almhuin of Leinster,  
 There was not a residence where the Fianna had been,  
 But I searched accurately without any delay.  
 
-On my passing thro' the glen of the thrushes `[the valiey of the thrush, now anglicized Glenasmole.]`,  
+On my passing thro' the glen of the thrushes `[the valley of the thrush, now anglicized Glenasmole.]`,  
 I saw a great assembly there,  
 Three hundred men and more  
 Were before me in the glen.  
 
 One of the assembly spoke,  
-And he said with a loud voice :  
-" Come to our relief, kingly champion ;  
+And he said with a loud voice:  
+"Come to our relief, kingly champion;  
 And deliver us from difficulty !"  
 
 I, then came forward.  
@@ -773,7 +773,7 @@ By the weight of the great load
 Many of them lost their senses.  
 
 One of the stewards spoke  
-And said : — " O princely young hero !  
+And said:— "O princely young hero!  
 Forthwith relieve my host,  
 Or not one of them will be alive."  
 
@@ -782,7 +782,7 @@ And the number of men that is there,
 That the strength of the host is unable  
 To lift the flag with great power.  
 
-If Oscur the son of Oisin lived,  
+If Oscar the son of Oisin lived,  
 He would take this flag in his right hand,  
 He would fling it in a throw over the host—  
 It is not my custom to speak falsehood.  
@@ -793,7 +793,7 @@ With the strength and activity of my limbs
 I sent it seven perches `[1 perch = 16 1/2 feet]` from its place !  
 
 With the force of the very large flag,  
-The golden girth broke on the white steed ;  
+The golden girth broke on the white steed;  
 I came down full suddenly,  
 On the soles of my two feet on the lea.  
 
@@ -810,4 +810,4 @@ Without strength, understanding, or esteem.
 Patrick I there is to thee my story,  
 As it occurred to myself without a lie,  
 My going and my adventures in certain.  
-And my returning from the " Land of Youth."  
+And my returning from the "Land of Youth."  

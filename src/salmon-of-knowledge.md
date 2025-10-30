@@ -22,7 +22,7 @@ p113-
 
 Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he had been used to have the eye of a young man but now he had the eye of a sage. Finegas said, "Hast thou eaten of the salmon?"
 
-" Nay," said Finn, "but it burnt me as I turned it upon the spit and I put my thumb in my mouth." 
+"Nay," said Finn, "but it burnt me as I turned it upon the spit and I put my thumb in my mouth." 
 
 And Finegas smote his hands together and was silent for a while. Then he said to the lad who stood by obediently, "Take the salmon and eat it, Finn, son of Cumhal, for to thee the prophecy is come. And now go hence, for I can teach thee no more, and blessing and victory be thine."
 
@@ -64,7 +64,7 @@ Fair is every wooded height;
 Fair and bright the plain below.
 
 A bright shaft has smit the streams,  
-With gold gleams the water-flag ;  
+With gold gleams the water-flag;  
 Leaps the fish, and on the hills  
 Ardour thrills the flying stag.
 
@@ -91,7 +91,7 @@ In Section THE BOYHOOD OF FIONN
 
 CHAPTER IX
 
-All desires save one are fleeting, but that one lasts for ever. Fionn, with all desires, had the lasting one, for he would go anywhere and forsake anything for wisdom ; and it was in search of this that he went to the place where Finegas lived on a bank of the Boyne Water. But for dread of the clann-Morna he did not go as Fionn. He called himself Deimne on that journey.
+All desires save one are fleeting, but that one lasts for ever. Fionn, with all desires, had the lasting one, for he would go anywhere and forsake anything for wisdom; and it was in search of this that he went to the place where Finegas lived on a bank of the Boyne Water. But for dread of the clann-Morna he did not go as Fionn. He called himself Deimne on that journey.
 
 We get wise by asking questions, and even if these are not answered we get wise, for a well-packed question carries its answer on its back as a snail carries its shell. Fionn asked every question he could think of, and his master, who was a poet, and so an honourable man, answered them all, not to the limit of his patience, for it was limitless, but to the limit of his ability.
 
@@ -207,9 +207,9 @@ The poet gazed long and earnestly on him.
 
 "I am sure you will not," the other murmured, as he turned and walked slowly across the grass and behind the sheltering bushes on the ridge.
 
-Fionn cooked the salmon. It was beautiful and tempting and savoury as it smoked on a wooden platter among cool green leaves ; and it looked all these to Finegas when he came from behind the fringing bushes and sat in the grass outside his door. He gazed on the fish with more than his eyes. He looked on it with his heart, with his soul in his eyes, and when he turned to look on Fionn the boy did not know whether the love that was in his eyes was for the fish or for himself. Yet he did know that a great moment had arrived for the poet.
+Fionn cooked the salmon. It was beautiful and tempting and savoury as it smoked on a wooden platter among cool green leaves; and it looked all these to Finegas when he came from behind the fringing bushes and sat in the grass outside his door. He gazed on the fish with more than his eyes. He looked on it with his heart, with his soul in his eyes, and when he turned to look on Fionn the boy did not know whether the love that was in his eyes was for the fish or for himself. Yet he did know that a great moment had arrived for the poet.
 
-"So," said Finegas, "you did not eat it on me after all ?"
+"So," said Finegas, "you did not eat it on me after all?"
 
 "Did I not promise?" Fionn replied.
 
@@ -284,7 +284,7 @@ Here also is Lady Gregory's telling:
 
 https://archive.org/details/godsfightingmens00gregrich/page/158/mode/2up?q=cat
 
-Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland
+Gods and fighting men: the story of the Tuatha de Danaan and of the Fiana of Ireland
 by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William Butler), 1865-1939
 
 Publication date 1904
@@ -293,7 +293,7 @@ p162-164
 
 PART TWO: THE FIANNA.
 
-BOOK ONE : FINN, SON OF CUMHAL.
+BOOK ONE: FINN, SON OF CUMHAL.
 
 CHAPTER I. THE COMING OF FINN
 
@@ -331,7 +331,7 @@ And he learned the three ways of poetry; and this is the poem he made to show he
 
 "I have another story for you; the ox is lowing, the winter is creeping in, the summer is gone. High and cold the wind, low the sun, cries are about us; the sea is quarrelling.
 
-" The ferns are reddened and their shape is hidden ; the cry of the wild goose is heard ; the cold has caught the wings of the birds; it is the time of ice-frost, hard, unhappy."
+"The ferns are reddened and their shape is hidden; the cry of the wild goose is heard; the cold has caught the wings of the birds; it is the time of ice-frost, hard, unhappy."
 
 ```
 
@@ -353,7 +353,7 @@ A couple of hours later, in came a giant with a salmon in his hand. This giant w
 When he saw Fin, he called out: "Here, take this salmon and roast it; but be careful, for if you raise a single blister on it I'll cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world."
 The giant lay down to sleep in the middle of the cave. Fin spitted the salmon, and held it over the fire.
 
-The minute the giant closed the one eye in his head, he began to snore. Every time he drew breath into his body, he dragged Fin, the spit, the salmon, Bran, and all the goats to his mouth ; and every time he drove a breath out of himself, he threw them back to the places they were in before. Fin was drawn time after time to the mouth of the giant with such force, that he was in dread of going down his throat.
+The minute the giant closed the one eye in his head, he began to snore. Every time he drew breath into his body, he dragged Fin, the spit, the salmon, Bran, and all the goats to his mouth; and every time he drove a breath out of himself, he threw them back to the places they were in before. Fin was drawn time after time to the mouth of the giant with such force, that he was in dread of going down his throat.
 
 When partly cooked, a blister rose on the salmon. Fin pressed the place with his thumb, to know could he break the blister, and hide from the giant the harm that was done. But he burned his thumb, and, to ease the pain, put it between his teeth, and gnawed the skin to the flesh, the flesh to the bone, the bone to the marrow; and when he had tasted the marrow, he received the knowledge of all things. Next moment, he was drawn by the breath of the giant right up to his face, and, knowing from his thumb what to do, he plunged the hot spit into the sleeping eye of the giant and destroyed it.
 

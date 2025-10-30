@@ -6,7 +6,7 @@ Fionn mac Cumhaill
 ---
 
 https://archive.org/details/godsfightingmens00gregrich/page/436/mode/2up
-Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland
+Gods and fighting men: the story of the Tuatha de Danaan and of the Fiana of Ireland
 by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William Butler), 1865-1939
 Publication date 1904
 Summary of legends of Finn Mac Cumhail, Oisin etc
@@ -95,7 +95,7 @@ Publication date 1880
 https://archive.org/details/riujournalschoo01acadgoog/page/n44/mode/2up?q=finn
 Boyish Exploits of Finn
 Ériu: The Journal of the School of Irish Learning, Dublin
-by School of Irish Learning (Dublin , Ireland), Royal Irish Academy
+by School of Irish Learning (Dublin, Ireland), Royal Irish Academy
 Publication date 1904
 
 ---
@@ -179,7 +179,7 @@ Incl lay of oisin on the land of youth, dialogue between oisin and St Patrick, b
 ---
 
 https://archive.org/details/besidefirecollec00hydeuoft/page/16/mode/2up
-Beside the fire : a collection of Irish Gaelic folk stories
+Beside the fire: a collection of Irish Gaelic folk stories
 by Hyde, Douglas, 1860-1949; Nutt, Alfred, 1856-1910
 Publication date 1890
 eg tale of Bran
@@ -187,7 +187,7 @@ eg tale of Bran
 ---
 
 https://archive.org/details/fictionsofourfor01kenn
-Fictions of our forefathers : Fion Mac Cumhail and his warriors (Reprinted from the Irish Quarterly Review, No. XXXV., October 1859)
+Fictions of our forefathers: Fion Mac Cumhail and his warriors (Reprinted from the Irish Quarterly Review, No. XXXV., October 1859)
 by Kennedy, Patrick, 1801-1873; Ossianic Society
 Publication date 1859
 
@@ -252,21 +252,21 @@ Publication date 1891
 ---
 
 https://archive.org/details/duanairefinnbook07macnuoft
-Duanaire Finn = The Book of the lays of Fionn : Part I : Irish text
+Duanaire Finn = The Book of the lays of Fionn: Part I: Irish text
 by Mac Neill, John, 1867-1945
 Publication date 1908
 
 ---
 
 https://archive.org/details/duanairefinnbook02murpuoft
-Duanaire Finn = The Book of the lays of Fionn : Part II : Irish text
+Duanaire Finn = The Book of the lays of Fionn: Part II: Irish text
 by Murphy, Gerard, 1901-1959
 Publication date 1933
 
 ---
 
 https://archive.org/details/duanairefinnbook03murpuoft
-Duanaire Finn : The book of the Lays of Fionn, part III
+Duanaire Finn: The book of the Lays of Fionn, part III
 by Murphy, Gerard, 1901-1959
 Publication date 1953
 
@@ -344,7 +344,7 @@ Publisher Henry G. Bohn, 1853
 ---
 
 https://archive.org/details/IrishFolkLoreTraditions/page/n25/mode/2up
-Irish folk lore : traditions and superstitions of the country, with humorous tales
+Irish folk lore: traditions and superstitions of the country, with humorous tales
 by O'Hanlon, John, 1821-1905
 Publication date 1870
 
@@ -358,7 +358,7 @@ Publication date 1896
 ---
 
 https://archive.org/details/irishpoemslegend00irwirich/page/viii/mode/2up
-Irish poems and legends; : historical and traditionary, with illustrative notes.
+Irish poems and legends;: historical and traditionary, with illustrative notes.
 by Irwin, Thomas Caulfield, 1823-1892
 Publication date [1869]
 
@@ -386,7 +386,7 @@ Publication date 1918
 ---
 
 https://archive.org/details/idyllsirelandso00cowagoog/page/n10/mode/2up
-Idylls of Ireland : some Celtic legends done into metre
+Idylls of Ireland: some Celtic legends done into metre
 by Cowan, Samuel Kennedy
 Publication date 1896
 
@@ -422,7 +422,7 @@ Publication date 1837
 ---
 
 https://archive.org/details/cuchulainofmuirt00gregrich/page/n21/mode/2up
-Cuchulain of Muirthemne : the story of the men of the Red Branch of Ulster
+Cuchulain of Muirthemne: the story of the men of the Red Branch of Ulster
 by Gregory, Lady, 1852-1932; Yeats, W. B. (William Butler), 1865-1939
 Publication date 1903
 
@@ -443,7 +443,7 @@ Publication date [1890?]
 ---
 
 https://archive.org/details/ancientlegendsmy00wild
-Ancient legends, mystic charms & superstitions of Ireland : with sketches of the Irish past
+Ancient legends, mystic charms & superstitions of Ireland: with sketches of the Irish past
 by Wilde, Lady, 1821-1896; Wilde, W. R. (William Robert), 1815-1876
 Publication date 1919
 
@@ -525,7 +525,7 @@ Publication date 1866
 ---
 
 https://archive.org/details/gpl_2116123_1/page/160/mode/2up
-Ancient legends, mystic charms, and superstitions of Ireland : With sketches of the Irish past
+Ancient legends, mystic charms, and superstitions of Ireland: With sketches of the Irish past
 by Wilde, Lady, 1826-1896.
 Publication date 1888
 

@@ -10,16 +10,16 @@ As he told it to St. Patrick.
 PROLOGUE.
 
 I.  
-Patrick : O noble Oisín, son of the king,  
+Patrick: O noble Oisín, son of the king,  
 Whose deeds men sing this day in song !  
 Thy grief abate and to us relate  
-By what strange fate thou hast lived so long !
+By what strange fate thou hast lived so long!
 
 II.  
-Oisín : O Patrick, here's the tale for thee,  
+Oisín: O Patrick, here's the tale for thee,  
 Tho' sad to me its memories old —  
 'Twas after Gavra — I mind me well,  
-The field where fell my Oscar bold !
+The field where fell my Oscar bold!
 
 THE LAY:
 
@@ -47,13 +47,13 @@ VI.
 When lo ! into sight came a figure bright,  
 In a blaze of light from the west it rushed—  
 A lady fair of radiance rare  
-Whom a white steed bare to our band, now hush'd !
+Whom a white steed bare to our band, now hush'd!
 
 VII.  
 Amazed we halt, though hot the chase,  
 To gaze on the face of the fair young queen—  
 A marvel to Finn and his Fenian band  
-Who ne'er in the land such beauty had seen !
+Who ne'er in the land such beauty had seen!
 
 VIII.  
 A golden crown on her brow she bore,  
@@ -88,62 +88,62 @@ Such steed was unknown on the earth's fair face.
 XIII.  
 To Finn's great presence drew the maid  
 This bright array'd and softly spake —  
-" King of the Fenian host, " she cried  
-" Far have I hied for sweet love's sake ! "
+"King of the Fenian host," she cried  
+"Far have I hied for sweet love's sake!"
 
 XIV.  
-" Who art thou, pray, O princess rare,  
-Of form most fair, of face divine ?  
+"Who art thou, pray, O princess rare,  
+Of form most fair, of face divine?  
 Gently thy errand to us make known —  
-What land's thine own, what name is thine ? "
+What land's thine own, what name is thine? "
 
 XV.  
-" Niamh the Golden-haired I'm named,  
+"Niamh the Golden-haired I'm named,  
 — O Finn far-famed for wisdom and truth ! —  
 My praise harps ring, and bards e'er sing,  
-And my sire's the King of the Land of Youth ! "
+And my sire's the King of the Land of Youth!"
 
 XVI.  
-" Then tell us most lovely lady now,  
-Why comest thou o'er seas so far ?  
+"Then tell us most lovely lady now,  
+Why comest thou o'er seas so far?  
 Has heartless husband left thee to weep  
 With grief most deep, thy mind to mar !"
 
 XVII.  
-" No husband has left me, O lordly Finn,  
+"No husband has left me, O lordly Finn,  
 — My heart within ne'er man did gain,  
 Till hero of Erin, thy famous son,  
-Its young love won, for aye to reign ! "
+Its young love won, for aye to reign!"
 
 XVIII.  
-" On which of my gallant sons, O maid,  
-Is thy heart's love laid, so frankly free ?  
+"On which of my gallant sons, O maid,  
+Is thy heart's love laid, so frankly free?  
 Now hide not from us, O princess dear,  
-The causes clear of thy visit to me ! "
+The causes clear of thy visit to me!"
 
 XIX.  
-" His name, O Finn, then I'll declare —  
+"His name, O Finn, then I'll declare —  
 'Tis thy famed son, so fair, so brave,  
 Oisín the warrior, Erin's bard,  
-My fair reward for crossing the wave ! "
+My fair reward for crossing the wave!"
 
 XX.  
-" Then why hast thou hastened to give thy love  
+"Then why hast thou hastened to give thy love  
 O maiden above all maids most fair —  
 To Oisín my own beyond all known  
-Of princes high both rich and rare ? "
+Of princes high both rich and rare? "
 
 XI.  
-" Good cause I ween for my course 'he &ecn,  
-O king of tbe Fiann when I tell thee truth,  
+"Good cause I ween for my course 'he &ecn,  
+O king of the Fiann when I tell thee truth,  
 Oisín's high deeds and noble name  
 Have won him fame in the Land of Youth.
 
 XXII.  
-" Full many a prince of high degree  
+"Full many a prince of high degree  
 Hath offered me both heart and hand  
 But whoso appealed I ne'er did yield  
-But my heart kept sealed for my hero grand ! "
+But my heart kept sealed for my hero grand!"
 
 XXIII.  
 Oisín: O Patrick stern, how my soul did yearn  
@@ -154,19 +154,19 @@ That bound me well past mortal aid.
 XXIV.  
 I took her gentle hand in mine  
 And with every sign of love I said,  
-" Welcome a hundred thousand times,  
-From fairy climes, O royal maid ! "
+"Welcome a hundred thousand times,  
+From fairy climes, O royal maid!"
 
 XXY.  
-" Of women the rarest, fairest seen,  
+"Of women the rarest, fairest seen,  
 Thou art O queen, without compeer !  
 My soul, my life, my chosen wife,  
-Star of my way of ray most clear ! "
+Star of my way of ray most clear!"
 
 II. THE DELIGHTS OF THE LAND OF YOUTH.
 
 XXVI.  
-" Request refused by no true knight  
+"Request refused by no true knight  
 Who knoweth aright the knightly vogue,  
 I make of thee now — 'tis hence to speed  
 With me on my steed to *Tír na n-Óg*.
@@ -181,43 +181,43 @@ XXVIII.
 Unfailing there the honey and wine  
 And draughts divine of mead there be,  
 No ache nor ailing night or day —  
-Death or decay thou ne'er shalt see !
+Death or decay thou ne'er shalt see!
 
 XXIX.  
-" The mirthful feast and joyous play  
+"The mirthful feast and joyous play  
 And musíc's sway all blest, benign—  
 Silver untold and store of gold  
-Undreamt by the old shall all be thine !
+Undreamt by the old shall all be thine!
 
 XXX.  
-" A hundred swords of steel refined  
+"A hundred swords of steel refined  
 A hundred cloaks of kind full rare,  
 A hundred steeds of proudest breed  
-A hundred hounds — thy meed when there !
+A hundred hounds — thy meed when there!
 
 XXXI.  
-" A hundred coats of mail shall be thine  
+"A hundred coats of mail shall be thine  
 A hundred kine of sleekest skin,  
 A hundred sheep with fleece of gold  
 And gems none hold these shores within.
 
 XXXII.  
-" A hundred maidens young and fair  
+"A hundred maidens young and fair  
 Of blithesome air shall tend on thee,  
 Of form most meet, as fairies fleet  
-And of song more sweet than the wild thrush free !
+And of song more sweet than the wild thrush free!
 
 XXXIII,  
-" A hundred knights in fights most bold  
+"A hundred knights in fights most bold  
 Of skill untold in all chivalrie,  
 Full-armed, bedight in mail of gold  
 Shall in *Tír na n-Óg* thy comrades be.
 
 XXXIV.  
-" A corslet charmed for thee shall be made  
+"A corslet charmed for thee shall be made  
 And a matchless blade of magic power,  
 Worth a hundred blades in a hero's hands,  
-Most blest of brands in battle's hour !
+Most blest of brands in battle's hour!
 
 XXXV.  
 "The royal crown of the King of Youth  
@@ -226,13 +226,13 @@ All brilliant with gems of lustre bright
 Whose worth aright none might declare.
 
 XXXVI.  
-" All things I've named thou shalt enjoy  
+"All things I've named thou shalt enjoy  
 And none shall cloy — to endless life —  
 Beauty and strength and power thou'lt see  
-And I'll e'er be thy own true wife ! "
+And I'll e'er be thy own true wife!"
 
 XXXVII.  
-" Refusal of mine thou ne'er shalt hear  
+"Refusal of mine thou ne'er shalt hear  
 O maid without peer, of the locks of gold !  
 My chosen wife for life I know  
 And gladly I'll go to *Tír na n-Óg*!"
@@ -242,8 +242,8 @@ III. THE DEPARTURE TO Tír NA N-ÓG.
 XXXVIII.  
 Forthwith the steed I then bestrode  
 Before me rode my royal queen  
-Who said " O Oisín with caution ride  
-Till side of dividing sea we've seen ! "
+Who said "O Oisín with caution ride  
+Till side of dividing sea we've seen!"
 
 XXXIX.  
 Then up rose that steed with a mighty bound  
@@ -258,16 +258,16 @@ There burst from the chief a cry of grief
 A wail of grief not brief nor low.
 
 XLI.  
-" Oh Oisín " cried Finn with faltering voice —  
-" My son most choice must I then lose,  
-With never a hope to see thee again ?  
+"Oh Oisín" cried Finn with faltering voice —  
+"My son most choice must I then lose,  
+With never a hope to see thee again?  
 — My heart in twain 'twill break and bruise!"
 
 XLII.  
 His noble features now clouded o'er  
 And tears did pour in showers free  
 Till breast and beard in tears were drowned —  
-" My grief ! he e'er found this maid from the Sea ! "
+"My grief ! he e'er found this maid from the Sea!"
 
 XLIII.  
 Oh Patrick I grieve to tell thee the tale  
@@ -291,16 +291,16 @@ XLVI.
 Full oft our race held a royal chase  
 While at boldest pace ran our sweet-voiced hounds —  
 Anon in battle our javelins rattle  
-And men like cattle fall in heaps and mounds !
+And men like cattle fall in heaps and mounds!
 
 XLVII.  
-Patrick : O vain old Oisín, dwell no more  
+Patrick: O vain old Oisín, dwell no more  
 On thy deeds of yore in the Fenian ranks,  
-How didst thou go to *Tír na n-Óg* ?  
+How didst thou go to *Tír na n-Óg*?  
 Come let me know and I'll owe much thanks.
 
 XLVIII.  
-Oisín : We turned away as I truly said  
+Oisín: We turned away as I truly said  
 And our horse's head we gave to the west,  
 When lo ! the deep sea opened before  
 While behind us bore the billows that pressed.
@@ -330,13 +330,13 @@ The rider in purple and crimson array'd
 Whilst a glittering blade in his hand he showed.
 
 LIII.  
-" Yon youthful pair bothlcnight and maid —  
-" Pray tell " I said " who they may be—  
+"Yon youthful pair bothlcnight and maid —  
+"Pray tell" I said "who they may be—  
 The lady mild as a summer's morn  
 And knight high-born that fares so free."
 
 LIV.  
-" In all thy sight may light on here  
+"In all thy sight may light on here  
 O Oisín dear, I say with truth,  
 There's nought of beauty, nought of strength,  
 Till we reach at length the Land of Youth!"
@@ -350,34 +350,34 @@ Shapely its hall and lofty its wall
 Far beyond all e'er famed in song.
 
 LVI.  
-" What royal *Dún* is yon, O queen,  
+"What royal *Dún* is yon, O queen,  
 That stands serene on yon hill-side,  
 Whose towers and columns so stately spring —  
-What prince or king doth there abide ? "
+What prince or king doth there abide? "
 
 LVII.  
-" In yonder *Dún* a sad queen dwells  
+"In yonder *Dún* a sad queen dwells  
 Whom force compels her life to mourn —  
 Whom Fovor fierce of the Mighty Blows  
 Doth there enclose from friends' arms torn.
 
 LVIII.  
-" But captive though to that pirate proud  
+"But captive though to that pirate proud  
 She yet hath vowed by geasa grave,  
 Never for life to be his wife  
-Till won in strife 'gainst champion brave ! "
+Till won in strife 'gainst champion brave!"
 
 LIX.  
-"Blessing and bliss be thine " I cried  
-" O maid bright eyed, for thy welcome word,  
+"Blessing and bliss be thine" I cried  
+"O maid bright eyed, for thy welcome word,  
 Tho' grieved that woman such fate should meet  
-Music more sweet I ne'er have heard !
+Music more sweet I ne'er have heard!
 
 LX.  
-" For now we'll go to that high-placed *Dún*  
+"For now we'll go to that high-placed *Dún*  
 And help full soon that maid distressed,  
 A champion's steel shall Fovor feel  
-And 'neath my heel shall his neck be pressed ! "
+And 'neath my heel shall his neck be pressed!"
 
 LXI.  
 To Fovor's stronghold then we rode-—  
@@ -395,7 +395,7 @@ LXIII.
 Of golden hue was her hair, 'tis true,  
 Of heavenly blue her bright eyes clear,  
 Her lips were red as berries on bough,  
-Shapely each brow with rare compeer !
+Shapely each brow with rare compeer!
 
 LXIV.  
 To seat ourselves we then were told —  
@@ -407,7 +407,7 @@ LXV.
 Now when of food we had had our fill  
 And of wine as will might fancy e'en,  
 Thus spoke the queen, her face now pale,  
-Now list my tale, with ears all keen !
+Now list my tale, with ears all keen!
 
 LXVI.  
 From first to last she told her tale  
@@ -416,19 +416,19 @@ How kith and kin ne'er more she'd see
 Whilst Fovor free provoked her fears.
 
 LXVII.  
-" Then weep no more, O fair young queen,  
+"Then weep no more, O fair young queen,  
 Henceforth I ween, thou needst not mourn,  
 Fovor shall pay with his life this day  
 In mortal fray for the wrongs thou'st borne!"
 
 LXVIII.  
-" Alas ! no champion can be found  
+"Alas ! no champion can be found  
 On earth's great round, I fear me much,  
 Could hand to hand such foe withstand  
 Or free me from this tyrant's clutch. "
 
 LXIX.  
-" I tell thee truly lady fair  
+"I tell thee truly lady fair  
 I'll boldly dare him to the field  
 Resolved to save thee or in strife  
 Never while life doth last to yield !"
@@ -484,7 +484,7 @@ On couches such as poets praise.
 LXXVIII.  
 When morning fair the sun did greet  
 From slumbers sweet we fresh awoke —  
-" Dear friends from hence I now depart—  
+"Dear friends from hence I now depart—  
 'Twas thus the parting princess spoke.
 
 LXXIX,  
@@ -511,13 +511,13 @@ LXXXII.
 But now the sky began to lower,  
 The wind in power increased full fast —  
 Red lightning lights the mad sea-waves  
-And madly raves the thunder past !
+And madly raves the thunder past!
 
 LXXXIII.  
 A while we cowered 'neath the storm,  
 — All nature's form in darkness dread —  
 When lo ! the winds' fierce course was run,  
-And bright the sun appear'd o'erhead !
+And bright the sun appear'd o'erhead!
 
 LXXXIV.  
 And now there spread before our sight  
@@ -538,16 +538,16 @@ All built of brilliant gems and stones
 By hands one owns of wondrous power.
 
 LXXXVII.  
-" What lovely land is that we see ?  
+"What lovely land is that we see?  
 Pray answer me with maiden's truth—  
 Is't penned in page that man may read,  
-Or is it indeed the Land of Youth ?
+Or is it indeed the Land of Youth?
 
 LXXXVIII.  
-" It is indeed the Land of Youth —  
+"It is indeed the Land of Youth —  
 And maiden's truth I've ever told —  
 No joy or bliss I've promised thee  
-But thou shalt see this land doth hold ! "
+But thou shalt see this land doth hold!"
 
 XXXIX.  
 And now there rode frorn the king's abode  
@@ -581,15 +581,15 @@ Who sang a strain divinely sweet,
 
 XCIV.  
 Then spoke the king in kindly voice,  
-" O friends rejoice, for here you see  
+"O friends rejoice, for here you see  
 Oisín the famous son of Finn,  
-Who spouse of winsome Niamh shall be ! "
+Who spouse of winsome Niamh shall be!"
 
 XCV.  
 He takes me warnly by the hand  
 Then as we stand he speaks anew —  
-" Welcome " he cries " I give thee now,  
-A hundred thousand welcomes true !
+"Welcome" he cries "I give thee now,  
+A hundred thousand welcomes true!
 
 XCVI.  
 This kingdom which o'er seas and lands  
@@ -604,10 +604,10 @@ This is the land thy bards e'er sing
 And I am the King of this Land of Joy.
 
 XCVIII.  
-" Here is our gentle, fair young queen,  
+"Here is our gentle, fair young queen,  
 Mother of Niamh the Golden-baired  
 Who crossed for thee the stormy sea  
-And thine to be all dangers dared ! "
+And thine to be all dangers dared!"
 
 XCIX.  
 I thanked the king with grateful heart  
@@ -628,31 +628,31 @@ Thus did I go to Tír-na-n-Og
 Though grief and woe 'tis now to tell.
 
 CII.  
-Patrick : Come finish the charming tale thou'st told,  
+Patrick: Come finish the charming tale thou'st told,  
 O Oisín of gold, of the weapons of war—  
-Why from such land didst thou e'er return ?  
+Why from such land didst thou e'er return?  
 I fain would learn what the causes are.
 
 CIII.  
 And say whilst there thou didst abide  
 If thee thy bride any children bore,  
-Or wast thou for long in the Land of Youth ? —  
-I long in truth to list such lore !
+Or wast thou for long in the Land of Youth? —  
+I long in truth to list such lore!
 
 CIV.  
-Oisín : I had by Niamh of the Golden Hair  
+Oisín: I had by Niamh of the Golden Hair  
 Three children fair as ever smiled  
 Whose sweetness gave us daily joys—  
 Two gallant boys and a maiden mild.
 
 CV.  
-Patrick : O sweet-voiced Oisín, do not grieve, —  
+Patrick: O sweet-voiced Oisín, do not grieve, —  
 Where didst thou leave those children sweet?  
 Tell me the names of thy offspring fair,  
 And tell me where they mirthful meet.
 
 CVI.  
-Oisín : Those children three rich heirs would be  
+Oisín: Those children three rich heirs would be  
 To kingdoms free and fair and great,  
 To roval sceptre, crown of gold  
 And wealth untold, no tongue could state.
@@ -684,22 +684,22 @@ To visit dear Erin once again
 My native plain, my native isle.
 
 CXI.  
-" I will not hinder thee, " she cried,  
-" From crossing the tide for duty dear,  
+"I will not hinder thee," she cried,  
+"From crossing the tide for duty dear,  
 Tho' it bodes me ill and my heart doth fill  
-With doubts that chill and deadly fear ! "
+With doubts that chill and deadly fear!"
 
 CXII.  
-" Why shouldst thou fear, O queen my own,  
+"Why shouldst thou fear, O queen my own,  
 When the way shall be shown by the magic steed  
 The steed that bore us o'er the sea —  
-And home to thee I'll safely speed ? "
+And home to thee I'll safely speed? "
 
 CXIII.  
-" Remember then what now I say —  
+"Remember then what now I say —  
 If thou shouldst lay a foot to ground  
 There's no return for thee e'ermore  
-To this fair shore where home thou'st found !
+To this fair shore where home thou'st found!
 
 CXIV.  
 I tell thee truly vain's thy might  
@@ -708,13 +708,13 @@ For never again shouldst thou in truth
 See Land of Youth or hither speed.
 
 CXV.  
-" A third time now I thee implore  
+"A third time now I thee implore  
 And beg thee sore thy seat to hold,  
 Or else at once thy strength shall go,  
-And thou shalt grow both blind and old !
+And thou shalt grow both blind and old!
 
 CXVI.  
-" 'Tis woe to me, Oisín, to see  
+"'Tis woe to me, Oisín, to see  
 How thou canst be so anxious-soul'd  
 About green Erin, changed for aye —  
 For past's the day of the Fenians bold.
@@ -723,13 +723,13 @@ CXVII.
 In Erin green there's now nought seen  
 But priests full lean and troops of saints —  
 Then Oisín, here's my kiss to thee,  
-Our last, may be — my heart — now faints ! "
+Our last, may be — my heart — now faints!"
 
 CXVIII.  
 I gazed into her soft sad eyes  
 Whilst the tears did rise and well in my own —  
 O saint severe, thou'dst weep a tear  
-To hear that dear wife's hopeless moan !
+To hear that dear wife's hopeless moan!
 
 CXIX.  
 By solemn vow I then was bound,  
@@ -768,7 +768,7 @@ Each day I'd pray to the King of Grace
 That Heaven might be thy place of rest.
 
 CXXV.  
-Patrick : Thou shalt of bread have quite thy fill  
+Patrick: Thou shalt of bread have quite thy fill  
 And drink at will, O ancient bard !  
 Dear to me thy pleasant tale !  
 It ne'er can fail to win regard.
@@ -776,7 +776,7 @@ It ne'er can fail to win regard.
 VII. Oisín in Erin.
 
 CXXVI.  
-Oisín : I need not tell each thing befell  
+Oisín: I need not tell each thing befell  
 Me and my spell-borne steed each day,  
 But at length green Erin's isle we reach,  
 And up the beach we bend our way.
@@ -806,19 +806,19 @@ Or if his hosts that kept the coasts
 Of Erin safe, did yet survive.
 
 CXXXI.  
-" Of Finn, " they said, " we oft have heard —  
+"Of Finn," they said, "we oft have heard —  
 His name and fame are now world-wide,  
 But full three hundred years have passed  
 Since Finn and the last of the Fenians died.
 
 CXXXII.  
-" Many a book and many a tale  
+"Many a book and many a tale  
 Have bards of the Gael that treat of Finn —  
 Of his strength and valour and wisdom bright  
 Of his race of might and mighty kin.
 
 CXXXIII.  
-" We've also heard of Finn's great son—  
+"We've also heard of Finn's great son—  
 A youth of wondrous mien and mould,  
 That a lady came hither from over the sea  
 And with her went he to *Tír na n-Óg* "
@@ -845,7 +845,7 @@ CXXXVIl.
 I found alas, 'twas a vain pursuít,  
 A bootless, fruitless, visit mine !  
 Great Finn was dead and the hosts he led  
-For this I'd sped thro' ocean's brine !
+For this I'd sped thro' ocean's brine!
 
 CXXXVIIX.  
 But let me tell my story all—  
@@ -862,8 +862,8 @@ At toil full sore awaited me.
 CXL.  
 Then forth there spoke a man of that herd  
 With suppliant word to me address'd —  
-" Come to our help, O champion brave,  
-Come quick to save us thus distress'd ! "
+"Come to our help, O champion brave,  
+Come quick to save us thus distress'd!"
 
 CXLI.  
 I rode up briskly to the crowd  
@@ -875,43 +875,43 @@ CXLII.
 Now all who tried to lift that stone  
 Did pant and groan most piteously —  
 Till some its crushing weight drove mad  
-And some fell dead, most sad to see !
+And some fell dead, most sad to see!
 
 CXLIII.  
 Then cried a steward of that crowd  
-And said aloud, " O haste and hie,  
+And said aloud, "O haste and hie,  
 O gallant knight to our relief  
-Or else 'tis brief ere all shall die ! "
+Or else 'tis brief ere all shall die!"
 
 CXLIV.  
 "A shameful thing it is to say —  
 For such array of men these days —  
 They're powerless of blood and bone  
-Full easily that stone to raise ! "
+Full easily that stone to raise!"
 
 CXLV.  
-" If Oscar, Oisín's valiant son  
+"If Oscar, Oisín's valiant son  
 Laid hold upon that marble stone  
 With right hand bare he'd hurl't in air  
-Flinging it fair, with ne'er a groan ! "
+Flinging it fair, with ne'er a groan!"
 
 CXLVI.  
 Asked thus for help I did not lag  
 Bur 'neath the flag I placed one hand —  
 Full perches seven that stone I hurl  
-And scare each churl in all that band !
+And scare each churl in all that band!
 
 CXLVII.  
 But scarce alas ! that stone had passed  
 With that fair cast when ah ! the strain —  
 The strain it broke the white steed's girth,  
-I fell to earth, doomed now to pain !
+I fell to earth, doomed now to pain!
 
 CXLVIII.  
 No sooner had I touched the ground  
 Than with abound my steed took fright —  
 Away, away, to the west he rushed !  
-Whilst all stood hush'd at such strange sight !
+Whilst all stood hush'd at such strange sight!
 
 CXLIX.  
 At once I lose the sight of my eyes,  
