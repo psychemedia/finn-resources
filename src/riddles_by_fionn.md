@@ -152,7 +152,7 @@ sem-linkLawrence Eson
 ---
 
 https://archive.org/details/zeitschriftfrc1314meyeuoft/page/n261/mode/2up
-[ed.] [tr.] Thurneysen, Rudolf [ed. and tr.], “Tochmarc Ailbe (Das Werben um Ailbe)”, Zeitschrift für celtische Philologie 13 (1921): 251–282.
+[ed.] [tr.] Thurneysen, Rudolf [ed. and tr.], "Tochmarc Ailbe (Das Werben um Ailbe)”, Zeitschrift für celtische Philologie 13 (1921): 251–282.
 
 Google translate
 
