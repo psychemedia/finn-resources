@@ -98,9 +98,9 @@ These are the events that brought about the tellinng of "Mongan's Frenzy."
 
 rindtigemd,^ Mongan's wife, besought Mongin to tell her the simple truth of his adventures. He asked of her a respite of seven years. It was granted. Then that period arrived. The 15 men of Ireland had a great gathering at Usnech in Meath, the year of the death of Ciardn the son of the Carpenter, and of the slaying of Tiiathal Maelgarb,^ and of the taking of the kingship by Diarmait.* The hosts were on (the hill of) Usnech. A great hail-storm came upon them there. Such was its great- 20 ness that the one shower left twelve chief streams in Ireland for ever. Mongin with seven men arose and went from the cairn aside, and his queen and his shanachie Cairthide, son of Marcdn. Then they saw something, a prominent stronghold
 
-1 lit. The occasion of Mongan's 'Frenzy' this here. Baile Mongdin or Mongan's ' Frenzy ' or ' Vision ' was the title of a tale which is now lost; though one MS. (H) gives this title to the present tale. As to other tales called Baile, see O'Curry, MS. Materials, p. 385.
+1 lit. The occasion of Mongan's 'Frenzy' this here. Baile Mongdin or Mongan's 'Frenzy' or 'Vision' was the title of a tale which is now lost; though one MS. (H) gives this title to the present tale. As to other tales called Baile, see O'Curry, MS. Materials, p. 385.
 
-2 i.e. ' Fair Lady.' In the tale printed above, p. 46, 14, she is called Breotigernd ' Flame-Lady.'
+2 i.e. 'Fair Lady.' In the tale printed above, p. 46, 14, she is called Breotigernd 'Flame-Lady.'
 
 ^ According to the Four Masters these two events happened A.D.
 
@@ -124,7 +124,7 @@ https://archive.org/details/cu31924096849629/page/n95/mode/2up
 
 APPENDIX 71
 
-was not long there, when a disease seized the king of Lochlann, who asked of his leeches and physicians what would help him. And they told him there was in the world nothing that would help him, save a red-eared shining-white cow, which was to be boiled for him. And the people of Loch- 5 lann searched for the cow, and there was found the single cow of Caillech Dub (Black Hag). Another cow was offered to her in its stead, but the hag refused. Then four were offered to her, viz., one cow for every foot, and the hag would not accept any other condition but that Fiachna should be- 10 come security. Now this was the hour and the time that messengers came for Fiachna Finn, the son of Baetdn, and he went with those messengers, and took the kingship of Ulster, and was king for one year.
+was not long there, when a disease seized the king of Lochlann, who asked of his leeches and physicians what would help him. And they told him there was in the world nothing that would help him, save a red-eared shining-white cow, which was to be boiled for him. And the people of Lochlann searched for the cow, and there was found the single cow of Caillech Dub (Black Hag). Another cow was offered to her in its stead, but the hag refused. Then four were offered to her, viz., one cow for every foot, and the hag would not accept any other condition but that Fiachna should be- 10 come security. Now this was the hour and the time that messengers came for Fiachna Finn, the son of Baetdn, and he went with those messengers, and took the kingship of Ulster, and was king for one year.
 
 2. One day at the end of a year he heard cries of distress in 15 front of the fort, and he told (his men) to go and see who made those cries, and to let the person that made them into the house. And there was the hag from Lochlann come to demand her security. Fiachna knew her and bade her welcome and asked tidings of her. 'Evil tidings I have,' said the hag. 'The king 20 of Lochlann has deceived me in the matter of the four kine that were promised to me for my cow.' 'I will give thee four kine on his behalf, O hag,' said Fiachna. But the hag said she would not take them. 'I will give twenty kine on his behalf,' said Fiachna. 'I shall not take them,' said the hag. 'I will give 25 four times twenty kine,' said Fiachna, 'twenty kine for each cow.' 'By my word,' said the hag, 'if all the kine of the province of Ulster were given to me, I should not take them, until thou come thyself to make war upon the king of Lochlann. As I have come to thee from the east, so do thou come on 3° a journey with me.'
 
@@ -134,17 +134,17 @@ by Fiachna in the fight. And venomous sheep were let out of the king of Lochlann
 
 5 day. That was grievous to Fiachna, and he said: 'Sad is the journey on which we have come, for the purpose of having our people killed by the sheep. For if they had fallen in battle or in combat by the host of Lochlann, we should not deem their fall a disgrace, for they would avenge themselves. Give me,' saith
 
-10 he, ' my arms and my dress that I may myself go to fight against the sheep.' 'Do not say that, O King,' said they, ' for it is not meet that thou shouldst go to fight against them.' 'By my word,' said Fiachna, 'no more of the men of Ireland shall fall by them, till I myself go to fight against the sheep; and if I
+10 he, 'my arms and my dress that I may myself go to fight against the sheep.' 'Do not say that, O King,' said they, 'for it is not meet that thou shouldst go to fight against them.' 'By my word,' said Fiachna, 'no more of the men of Ireland shall fall by them, till I myself go to fight against the sheep; and if I
 
 15 am destined to find death there, I shall find it, for it is impossible to avoid fate; and if not, the sheep will fall by me.'
 
 4. As they were thus conversing, they saw a single tall warlike man coming towards them. He wore a green cloak of one
 
-20 colour, and a brooch of white silver in the cloak over his breast, and a satin shirt next his white skin. A circlet of gold around his hair, and two sandals of gold under his feet. And the warrior said: 'What reward wouldst thou give to him who would keep the sheep from thee? ' 'By my word,' said Fiachna, ' [whatever
+20 colour, and a brooch of white silver in the cloak over his breast, and a satin shirt next his white skin. A circlet of gold around his hair, and two sandals of gold under his feet. And the warrior said: 'What reward wouldst thou give to him who would keep the sheep from thee?' 'By my word,' said Fiachna, '[whatever
 
-25 thou ask], provided I have it, I should give it.' 'Thou shalt have it (to give),' said the warrior, 'and I will tell thee the reward.' 'Say the sentence,' said Fiachna. ' I shall say it,' said he; 'give me that ring of gold on thy finger as a token for me, when I go to Ireland to thy wife to sleep with her.' 'By my word,'
+25 thou ask], provided I have it, I should give it.' 'Thou shalt have it (to give),' said the warrior, 'and I will tell thee the reward.' 'Say the sentence,' said Fiachna. 'I shall say it,' said he; 'give me that ring of gold on thy finger as a token for me, when I go to Ireland to thy wife to sleep with her.' 'By my word,'
 
-30 said Fiachna, ' I would not let one man of the men of Ireland fall on account of that condition.' 'It shall be none the worse for thee; for a glorious child shall be begotten by me there, and from thee he shall be named, even Mongan the Fr ir (Finn), son of Fiachna the Fair. And I shall go there in thy shape, so
+30 said Fiachna, 'I would not let one man of the men of Ireland fall on account of that condition.' 'It shall be none the worse for thee; for a glorious child shall be begotten by me there, and from thee he shall be named, even Mongan the Fr ir (Finn), son of Fiachna the Fair. And I shall go there in thy shape, so
 
 35 that thy wife shall not be defiled by it. And I am Manannan, son of Ler, and thou shalt seize the kingship of Lochlann and of
 
@@ -169,7 +169,7 @@ Fiachna himself, and seized the kingship of Ulster by force.^ And all the men of
 
 said: 'This inactivity ^ in which thou art, O Mongan, is not an inactivity becoming a king of Ulster, not to go to avenge thy father on Fiachna the Black, son of Deman, though DubhLacha may think it wrong to tell thee so. For he has now but
 
-15 a small host and force with him; and come with me thither, and let us burn the fortress, and let us kill Fiachna.' 'There is no knowing what luck ^ there may be on that saying, O cleric,' said Mongan, ' and we shall go with thee.' And thus it was done, for Fiachna the Black was killed by them.* Mongan seized
+15 a small host and force with him; and come with me thither, and let us burn the fortress, and let us kill Fiachna.' 'There is no knowing what luck ^ there may be on that saying, O cleric,' said Mongan, 'and we shall go with thee.' And thus it was done, for Fiachna the Black was killed by them.* Mongan seized
 
 20 the kingship of Ulster, and the little cleric who had done the treason was Manannan the great and mighty.
 
@@ -194,13 +194,13 @@ APPENDIX
 
 mac Echach. And he gave a hearty welcome to the king of Ulster, and they slept that night in the place, and when Mongan awoke on the morrow, he saw the fifty white red-eared kine, and a white calf by the side of each cow, and as soon as he saw them he was in love with them. And the king of 5 Leinster observed him and said to him: 'Thou art in love with the kine, O king,' saith he. 'By my word,' said Mongan, 'save the kingdom of Ulster, I never saw anything that I would rather have than them.' 'By my word,' said the king of Leinster, 'they are a match for Dubh-Lacha, for she is the one 10 woman that is most beautiful in Ireland, and those kine are the most beautiful cattle in Ireland, and on no condition in the world would I give them except on our making friendship without refusal.'
 
-9. They did so, and each bound the other. And Mongan 15 went home and took his thrice (sic) fifty white kine with him. And Dubh-Lacha asked: 'What are the cattle that are the most beautiful that I ever saw? and he who got them,' saith she, '. . . , for no man got them except for . . . .' And Mongan told her how he had obtained the kine. And they 20 were not long there when they saw hosts approaching the place, and 'tis he that was there, even the king of Leinster. 'What hast thou come to seek?' said Mongan. ' For, by my word, if what thou seekest be in the province of Ulster, thou shalt have it.' 'It is, then,' said the king of Leinster. 'To seek Dubh- 25 Lacha have I come.'
+9. They did so, and each bound the other. And Mongan 15 went home and took his thrice (sic) fifty white kine with him. And Dubh-Lacha asked: 'What are the cattle that are the most beautiful that I ever saw? and he who got them,' saith she, '. . . , for no man got them except for . . . .' And Mongan told her how he had obtained the kine. And they 20 were not long there when they saw hosts approaching the place, and 'tis he that was there, even the king of Leinster. 'What hast thou come to seek?' said Mongan. 'For, by my word, if what thou seekest be in the province of Ulster, thou shalt have it.' 'It is, then,' said the king of Leinster. 'To seek Dubh- 25 Lacha have I come.'
 
 10. Silence fell upon Mongan. And he said: 'I have never heard of any one giving away his wife.' 'Though thou hast not heard of it,' said Dubh-Lacha, 'give her, for honour is more lasting than life.' Anger seized Mongan, and he allowed the king of 30 Leinster to take her with him. Dubh-Lacha called the king of Leinster aside and said to him: 'Dost thou know, O king of Leinster, that the men and one half of Ulster would fall for my sake, except I had already given love to thee? And by my word!
 
 I shall not go with thee until thou grant me the sentence of my 35 own lips.' 'What is the sentence?' said the king of Leinster.
 
-'Thy word to fulfil it!' saith she. The king of Leinster gave his word, with the exception of his being left . . .1 ' Then, said Dubh-Lacha, 'I desire that until the end of one year we be not brought for one night into the same house, and if in the 5 course of a day thou comest into the same house with me, that thou shouldst not sit in the same chair with me, but sit in a chair over against me, for I fear the exceeding great love which I have bestowed upon thee, that thou mayst hate me, and that I may not again be acceptable to my own husband; for if we 10 are a-courting each other during this coming year, our love will not recede.'
+'Thy word to fulfil it!' saith she. The king of Leinster gave his word, with the exception of his being left . . .1 'Then', said Dubh-Lacha, 'I desire that until the end of one year we be not brought for one night into the same house, and if in the 5 course of a day thou comest into the same house with me, that thou shouldst not sit in the same chair with me, but sit in a chair over against me, for I fear the exceeding great love which I have bestowed upon thee, that thou mayst hate me, and that I may not again be acceptable to my own husband; for if we 10 are a-courting each other during this coming year, our love will not recede.'
 
 11. And the king of Leinster granted her that condition, and he took her to his house, and there she was for a while. And for that while Mongan was in a wasting sickness con-
 
@@ -218,21 +218,19 @@ and a sod from Ireland and another from Scotland in it, that I may go with thee 
 
 ask of his wizards news of me, and tJiey will say that I am with one foot in Ireland, and with the other in Scotland, and he will say that as long as I am like that he need not fear me.'
 
-13. And in that way they set out. And that was the hour and time in which the feast of Moy-LifTey was held in Leinster, 5 and they came to the Plain of Cell Chamain in Leinster, and there beheld the hosts and multitudes and the king of Leinster going past them to the feast, and they recognised him. ' That
-
-is sad, O Mac an Daimh,' said Mongan, 'evil is the journey on which we have come.' And they saw the holy cleric going 10 past them, even Tibraide, the priest of Cell Chamain, with his four gospels in his own hand, and the . . . ^ upon the back of a cleric by his side, and they reading their offices. And wonder seized Mac an Daimh as to what the cleric said, and he kept asking Mongan: 'What did he say?' Mongan said 15 it was reading, and he asked Mac an Daimh whether he understood a little of it. ' I do not understand,' said Mac an Daimh, 'except that the man at his back says "Amen, amen."'
+13. And in that way they set out. And that was the hour and time in which the feast of Moy-LifTey was held in Leinster, 5 and they came to the Plain of Cell Chamain in Leinster, and there beheld the hosts and multitudes and the king of Leinster going past them to the feast, and they recognised him. 'That is sad, O Mac an Daimh,' said Mongan, 'evil is the journey on which we have come.' And they saw the holy cleric going 10 past them, even Tibraide, the priest of Cell Chamain, with his four gospels in his own hand, and the . . . ^ upon the back of a cleric by his side, and they reading their offices. And wonder seized Mac an Daimh as to what the cleric said, and he kept asking Mongan: 'What did he say?' Mongan said 15 it was reading, and he asked Mac an Daimh whether he understood a little of it. 'I do not understand,' said Mac an Daimh, 'except that the man at his back says "Amen, amen."'
 
 14. Thereupon Mongan shaped a large river through the midst of the plain in front of Tibraide, and a large bridge 20 across it. And Tibraide marvelled at that and began to bless himself. "Tis here,' he said, 'my father was bom and my grandfather, and never did I see a river here. But as the river has got there, it is well there is a bridge across it.' They proceeded to the bridge, and when they had reached 25 its middle, it fell under them, and Mongan snatched the gospels out of Tibraide's hand, and sent them^ down the river. And he asked Mac an Daimh whether he should drown them.
 
-' Certainly, let them be drowned! ' said Mac an Daimh. ' We will not do it,' said Mongan. ' We will let them down the 30 river the length of a mile, till we have done our task in the fortress.'
+'Certainly, let them be drowned!' said Mac an Daimh. 'We will not do it,' said Mongan. 'We will let them down the 30 river the length of a mile, till we have done our task in the fortress.'
 
 15. Mongan took on himself the shape of Tibraide, and gave Mac an Daimh the shape of the cleric, with a large
 
 ^ I cannot translate sceota na n-aidhbheagh or aidhbkeadh. ^ i.e. Tibraide and his attendant.
 
-tonsure on his head, and the . . . on his back. And they go onward before the king of Leinster, who welcomed Tibraide and gave him a kiss, and "Tis long that I have not seen thee, O Tibraide,' he said, 'and read the gospel to us and 5 proceed before us to the fortress. And let Ceibhin Cochlach, the attendant of my chariot, go with thee. And the queen, the wife of the king of Ulster, is there and would like to confess to thee.' And while Mongan was reading the gospel, Mac an Daimh would say ' Amen, amen.' The hosts said they
+tonsure on his head, and the . . . on his back. And they go onward before the king of Leinster, who welcomed Tibraide and gave him a kiss, and "Tis long that I have not seen thee, O Tibraide,' he said, 'and read the gospel to us and 5 proceed before us to the fortress. And let Ceibhin Cochlach, the attendant of my chariot, go with thee. And the queen, the wife of the king of Ulster, is there and would like to confess to thee.' And while Mongan was reading the gospel, Mac an Daimh would say 'Amen, amen.' The hosts said they
 
-lo had never seen a priest who had but one word except that cleric; for he said nothing but ' amen.'
+lo had never seen a priest who had but one word except that cleric; for he said nothing but 'amen.'
 
 i6. And Mongan went onward to the front of the fortress in which Dubh-Lacha was. And she recognised him. And Mac an Daimh said: 'Leave the house all of ye, so that
 
@@ -240,36 +238,25 @@ i6. And Mongan went onward to the front of the fortress in which Dubh-Lacha was.
 
 20 and put the glazen door to it, and opened the window of glass. And he lifted his own wife into bed with him, but no sooner than Mongan had taken Dubh-Lacha with him. And Mongan sat down by her shoulder and gave her three kisses, and carried her into bed with him, and had his will and pleasure
 
-25 of her. And when that had been done, the hag who guarded the jewels, who was in the corner, began to speak; for they had not noticed her until then. And Mongan sent a swift magical breath at her, so that what she had seen was no longer clear to her. ' That is sad,' said the hag, ' do not rob
+25 of her. And when that had been done, the hag who guarded the jewels, who was in the corner, began to speak; for they had not noticed her until then. And Mongan sent a swift magical breath at her, so that what she had seen was no longer clear to her. 'That is sad,' said the hag, 'do not rob me of Heaven, O holy cleric! For the thought that I have uttered is wrong, and accept my repentance, for a lying vision has appeared to me, and I dearly love my foster-child.' 'Come hither to me, hag!' said Mongan, 'and confess to me.' The hag arose, and Mongan shaped a sharp spike in the chair,
 
-3(j me of Heaven, O holy cleric! For the thought that I have uttered is wrong, and accept my repentance, for a lying vision has appeared to me, and I dearly love my foster-child.' 'Come hither to me, hag! ' said Mongan, ' and confess to me.' The hag arose, and Mongan shaped a sharp spike in the chair,
+35 and the hag fell upon the spike, and found death. 'A blessing on thee, O Mongan,' said the queen, 'it is a good thing for us to have killed the woman, for she would have told what we have done.'
 
-35 and the hag fell upon the spike, and found death. 'A blessing on thee, O Mongan,' said the queen, ' it is a good thing for us
-to have killed the woman, for she would have told what we have done.'
+17. Then they heard a knocking at the door, and 'tis he that was there, even Tibraide, and three times nine men with him. The doorkeepers said: 'We never saw a year in 5 which Tibraides were more plentiful than this year. Ye have a Tibraide within and a Tibraide without.' "Tis true,' said Mongan.^ 'Mongan has come in my shape. Come out,' said he, 'and I will reward you, and let yonder clerics be killed, for they are noblemen of Mongan's that have been 10 put into the shape of clerics.' And the men of the household came out and killed the clerics, and twice nine of them fell. And the king of Leinster came to them and asked them what course they were on. 'Mongan,' said they, 'has come in Tibraide's shape, and Tibraide is in the place.' And the king I5 of Leinster charged them, and Tibraide reached the church of Cell Chamain, and none of the remaining nine escaped without a wound.
 
-17. Then they heard a knocking at the door, and 'tis he that was there, even Tibraide, and three times nine men with him. The doorkeepers said: 'We never saw a year in 5 which Tibraides were more plentiful than this year. Ye have
+18. And the king of Leinster came to his house, and then Mongan departed. And the king asked: 'Where is Tibraide?' 20 saith he. 'It was not Tibraide that was here,' said the woman, 'but Mongan, since you will hear it.' 'Were you with Mongan, girl?' said he. 'I was,' said she, 'for he has the greatest claim on me.' 'Send for Tibraide,' said the king, 'for , . .^ we have chanced to kill his people.' And Tibraide was brought to them, 25 and Mongan went home and did not come again until the end of a quarter, and during that time he was in a wasting sickness.
 
-a Tibraide within and a Tibraide without.' "Tis true,' said Mongan.^ ' Mongan has come in my shape. Come out,' said he, 'and I will reward you, and let yonder clerics be killed, for they are noblemen of Mongan's that have been 10 put into the shape of clerics.' And the men of the household came out and killed the clerics, and twice nine of them fell. And the king of Leinster came to them and asked them what course they were on. 'Mongan,' said they, 'has come in Tibraide's shape, and Tibraide is in the place.' And the king I5 of Leinster charged them, and Tibraide reached the church of Cell Chamain, and none of the remaining nine escaped without a wound.
-
-18. And the king of Leinster came to his house, and then Mongan departed. And the king asked: 'Where is Tibraide?' 20 saith he. ' It was not Tibraide that was here,' said the woman,
-
-' but Mongan, since you will hear it.' 'Were you with Mongan, girl?' said he. 'I was,' said she, 'for he has the greatest claim on me.' 'Send for Tibraide,' said the king, 'for , . .^ we have chanced to kill his people.' And Tibraide was brought to them, 25 and Mongan went home and did not come again until the end of a quarter, and during that time he was in a wasting sickness.
-
-19. And Mac an Daimh came to him and said to him: 'Tis wearisome to me,' said he, ' to be without my wife through a clown like myself, since I have not made "friendship without 3° refusal" with the king of Leinster's attendant.' 'Go thou for me,' said Mongan, 'to get news to R£ith Descirt of Bregia, where Dubh-Lacha of the White Hand is, for I am not myself
+19. And Mac an Daimh came to him and said to him: 'Tis wearisome to me,' said he, 'to be without my wife through a clown like myself, since I have not made "friendship without 3° refusal" with the king of Leinster's attendant.' 'Go thou for me,' said Mongan, 'to get news to R£ith Descirt of Bregia, where Dubh-Lacha of the White Hand is, for I am not myself
 
 1 The MS. has Tibraide.
 
 ^ I do not understand mur aith.
 
-able to go.' ^ Thereafter Dubh-Lacha said: 'Let Mongan come to me,' said she, ' for the king of Leinster is on a journey around Leinster, and Ceibhin Cochlach, the attendant of the king's chariot, is with me and keeps telling me to escape, and
+able to go.' ^ Thereafter Dubh-Lacha said: 'Let Mongan come to me,' said she, 'for the king of Leinster is on a journey around Leinster, and Ceibhin Cochlach, the attendant of the king's chariot, is with me and keeps telling me to escape, and
 
 5 that he himself would come with me. And Mongan behaves in a weak manner,' ^ said she. And Mac an Daimh went to incite Mongan.
 
-20. Thereupon Mongan set out to Raith Descirt of Bregia, and he sat down at the shoulder of the girl, and a gilded chess-
-
-10 board was brought to them, and they played. And DubhLacha bared her breasts to Mongan, and as he looked upon them, he beheld the great paps, which were soft and white, and the middle small and shining-white. And desire of the girl came upon him. And Dubh-Lacha obsei-ved it. Just then the
-
-IS king of Leinster with his hosts was drawing near the fortress, and the fortress was opened before him. And the king of Leinster asked of the girl whether Mongan had been in the house. She said he had been. ' I wish to obtain a request of thee, girl,' said the king of Leinster. ' It shall be granted.
+20. Thereupon Mongan set out to Raith Descirt of Bregia, and he sat down at the shoulder of the girl, and a gilded chess-board was brought to them, and they played. And DubhLacha bared her breasts to Mongan, and as he looked upon them, he beheld the great paps, which were soft and white, and the middle small and shining-white. And desire of the girl came upon him. And Dubh-Lacha obsei-ved it. Just then the king of Leinster with his hosts was drawing near the fortress, and the fortress was opened before him. And the king of Leinster asked of the girl whether Mongan had been in the house. She said he had been. 'I wish to obtain a request of thee, girl,' said the king of Leinster. 'It shall be granted.'
 
 2Q Except thy being with me till the year is ended, there is nothing that thou mayst ask which I will not grant thee.' 'If that be so,' said the king, 'tell me when thou longest for Mongan son of Fiachna; for when Mongan has gone, thou wilt long for him.'
 
@@ -281,11 +268,9 @@ IS king of Leinster with his hosts was drawing near the fortress, and the fortre
 
 her sake in bringing her out, until, through my own craftiness, I myself bring her with me.'
 
-22. And in that way the year passed by, and Mongan and Mac an Daimh set out to the king of Leinster's house. There were the nobles of Leinster going into the place, and a great S feast was being prepared towards the marriage of Dubh-Lacha. And he * vowed he would marry her. And they came to the green outside. 'O Mongan,' said Mac an Daimh, 'in what shape shall we go? ' And as they were there, they see the hag of the mill, to wit, Cuimne. And she was a hag as tall as a lo weaver's beam," and a large chain-dog with her licking the mill-stones, with a twisted rope around his neck, and Brothar was his name. And they saw a hack mare with an old packsaddle upon her, carrying com and flour from the mill.
+22. And in that way the year passed by, and Mongan and Mac an Daimh set out to the king of Leinster's house. There were the nobles of Leinster going into the place, and a great S feast was being prepared towards the marriage of Dubh-Lacha. And he * vowed he would marry her. And they came to the green outside. 'O Mongan,' said Mac an Daimh, 'in what shape shall we go?' And as they were there, they see the hag of the mill, to wit, Cuimne. And she was a hag as tall as a lo weaver's beam," and a large chain-dog with her licking the mill-stones, with a twisted rope around his neck, and Brothar was his name. And they saw a hack mare with an old packsaddle upon her, carrying com and flour from the mill.
 
-23. And when Mongan saw them, he said to Mac an Daimh: 15 'I have the shape in which we will go,' said he, 'and if I am destined ever to obtain my wife, I shall do so this time.' 'That becomes thee, O noble prince,' [said Mac an Daimh]. ' And come, O Mac an Daimh, and call Cuimne of the mill out to me
-
-to converse with me.' 'It is three score years [said Cuimne] 20 since any one has asked me to converse with him.' And she came out, the dog following her, and when Mongan saw them, he laughed and said to her: 'If thou wouldst take my advice, I would put thee into the shape of a young girl, and thou shouldst be as a wife with me or with the King of Leinster.' '1 25 will do that certainly,' said Cuimne. And with the magic wand he gave a stroke to the dog, which became a sleek white lapdog, the fairest that was in the world, with a silver chain around its neck and a little bell of gold on it, so that it' would have fitted into the palm of a man. And he gave a stroke to 30 the hag, who became a young girl, the fairest of form and make of the daughters of theworld,to wit, Ibhell of the Shining Cheeks,
+23. And when Mongan saw them, he said to Mac an Daimh: 15 'I have the shape in which we will go,' said he, 'and if I am destined ever to obtain my wife, I shall do so this time.' 'That becomes thee, O noble prince,' [said Mac an Daimh]. 'And come, O Mac an Daimh, and call Cuimne of the mill out to me to converse with me.' 'It is three score years [said Cuimne] 20 since any one has asked me to converse with him.' And she came out, the dog following her, and when Mongan saw them, he laughed and said to her: 'If thou wouldst take my advice, I would put thee into the shape of a young girl, and thou shouldst be as a wife with me or with the King of Leinster.' '1 25 will do that certainly,' said Cuimne. And with the magic wand he gave a stroke to the dog, which became a sleek white lapdog, the fairest that was in the world, with a silver chain around its neck and a little bell of gold on it, so that it' would have fitted into the palm of a man. And he gave a stroke to 30 the hag, who became a young girl, the fairest of form and make of the daughters of theworld,to wit, Ibhell of the Shining Cheeks,
 
 1 i.e. the king of Leinster.
 
@@ -307,7 +292,7 @@ daughter of the king of Munster. And he himself assumed the shape of Aedh, son o
 
 25 love, so that there was not a bone of his of the size of an inch, but was filled with love of the girl. And he called his attendant to him and said to him: 'Go to where the wife of the king of Connaught's son is, and say to her "the king of Leinster has bestowed great love upon thee, and that a king is better than
 
-30 a king's heir." ' And Mongan understood the whispering, and said to Cuimne: 'There is an attendant coming from the king of Leinster with a message to thee, and I know the secret message which he brings, and if thou wouldst take my advice, thou wouldst not be with a worse man than myself or the king
+30 a king's heir."' And Mongan understood the whispering, and said to Cuimne: 'There is an attendant coming from the king of Leinster with a message to thee, and I know the secret message which he brings, and if thou wouldst take my advice, thou wouldst not be with a worse man than myself or the king
 
 ^ Instead of blickt I read bricht.
 
@@ -315,9 +300,9 @@ of Leinster.' 'I have no choice' of bridegroom, whichever of you will be husband
 
 26. And the king of Leinster's attendant came to converse with her, and said: 'Here is a noble horn brought to thee.' 'We should know him who loves us by gifts and precious things.' And the king of Leinster said to the attendant:
 
-' Give her my horn.' But the king's household said: 'Do not 10 give thy treasures to the wife of the King of Connaught's son.' 'I will give them,' said the king of Leinster, 'for the woman and my treasures will come to me.' And Mac an Daimh takes the horn from her and whatever else she got of treasures till the morning. 15
+'Give her my horn.' But the king's household said: 'Do not 10 give thy treasures to the wife of the King of Connaught's son.' 'I will give them,' said the king of Leinster, 'for the woman and my treasures will come to me.' And Mac an Daimh takes the horn from her and whatever else she got of treasures till the morning. 15
 
-27. And Mongan said to Cuimne: 'Ask the king of Leinster for his girdle.' And the girdle was of such a nature that neither sickness nor trouble would seize the side on which it was. And she demanded the girdle, and the king of Leinster gave it her, and Mac an Daimh forthwith took it from her. 20 ' And now say to the king of Leinster's attendant, if the (whole) world were given thee, thou wouldst not leave thy own husband for him.' And the attendant told that to the king of Leinster, who said: 'What is it you notice?' 'Are you in the house
+27. And Mongan said to Cuimne: 'Ask the king of Leinster for his girdle.' And the girdle was of such a nature that neither sickness nor trouble would seize the side on which it was. And she demanded the girdle, and the king of Leinster gave it her, and Mac an Daimh forthwith took it from her. 20 'And now say to the king of Leinster's attendant, if the (whole) world were given thee, thou wouldst not leave thy own husband for him.' And the attendant told that to the king of Leinster, who said: 'What is it you notice?' 'Are you in the house
 
 . . .?' said they. 'You know this woman by my side, to wit, 25 Dubh-Lacha of the White Hands, daughter of Fiachna Dubh son of Deman. I took her from him on terms of "friendship without refusal," and if thou like, I would exchange with thee.' And great anger and ferocity seized him,^ and he said: 'If I had brought steeds and studs with me, it would be right to ask 30 them of me. However, it is not right to refuse a lord . . ., though I am loath it should be so, take her to thee.' And as they made the exchange, Mongan gave three kisses to the girl,
 
@@ -331,11 +316,7 @@ IS of Leinster, who saw the hag by his side and said: 'Art thou the grey-backed 
 
 
 
-
-
 ??p84 Taliesin ( Taliessin )
-
-
 
 
 ---
@@ -365,8 +346,6 @@ The pale pure morning draws near:
 Moninnin son of Ler
 Is the name of him who came to thee.” '
 
-
-
 p26-7
 
 CMD. The Conception of Mongán and Dub-Lacha's Love for Mongdn. `[Nutt and Meyer, The Voyage of Bran, I, pp. 70-84.]`
@@ -379,7 +358,7 @@ Then Fiachna took the nobles of Ulster to attack Lochlann. The King of Lochlann 
 
 p28-9
 
-Fiachna Finn was King of Ireland and Manannan mac Lir was King of the Other-world or Lochlann. Manannan was in love with Fiachna's wife and this is the ruse by which he was enabled to lie with her with her husband's consent. By a trick he compelled Fiachna to make war upon him, and because he was King of the Other-world and had therefore control of all ' magic and enchantment ', Fiachna was in danger of defeat and death. When things were at their worst, he appeared before Fiachna on the battle-field as a tall warrior marvellously clad. He offered to help Fiachna to defeat his enemy, who was of course Manannan himself, for a consideration, namely that they should change forms and that Manannan should go to Ireland to Fiachna's court in Fiachna's form and sleep with Fiachna's wife. He said ' I shall go there in thy shape so that thy wife shall not be defiled by it.' So it was agreed, and Fiachna in Manannan's form was able to conquer his enemy and seize the kingship of Lochlann. At the same time Fiachna's wife became pregnant by Manannan in Fiachna's form.
+Fiachna Finn was King of Ireland and Manannan mac Lir was King of the Other-world or Lochlann. Manannan was in love with Fiachna's wife and this is the ruse by which he was enabled to lie with her with her husband's consent. By a trick he compelled Fiachna to make war upon him, and because he was King of the Other-world and had therefore control of all 'magic and enchantment', Fiachna was in danger of defeat and death. When things were at their worst, he appeared before Fiachna on the battle-field as a tall warrior marvellously clad. He offered to help Fiachna to defeat his enemy, who was of course Manannan himself, for a consideration, namely that they should change forms and that Manannan should go to Ireland to Fiachna's court in Fiachna's form and sleep with Fiachna's wife. He said 'I shall go there in thy shape so that thy wife shall not be defiled by it.' So it was agreed, and Fiachna in Manannan's form was able to conquer his enemy and seize the kingship of Lochlann. At the same time Fiachna's wife became pregnant by Manannan in Fiachna's form.
 
 Thus the child Mongan born to Fiachna's wife was the son of Manannan though he was also the son of Fiachna, because he was begotten by Manannan in Fiachna's form. Then Manannan came and stole his son Mongan when he was three nights old and took him to the Other-world where he kept him for twelve years.
 
