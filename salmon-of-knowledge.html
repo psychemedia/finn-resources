@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'salmon-of-knowledge';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://fionnmaccumhail.montystoryteller.org/salmon-of-knowledge.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Fionn’s Leadership of the Fianna" href="finn_leadership_fianna.html" />
     <link rel="prev" title="Fionn’s Pedigree" href="finn-pedigree.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,55 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+</div>
+
     </header>
   
 
@@ -124,7 +164,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +195,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -208,9 +245,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -293,7 +335,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -307,24 +349,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -366,40 +400,40 @@ The High Deeds Of Finn</p>
 <p>by T. W. Rolleston</p>
 <p>Publication date 1910
 p113-</p>
-<p>Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he had been used to have the eye of a young man but now he had the eye of a sage. Finegas said, “Hast thou eaten of the salmon ? “</p>
-<p>“ Nay,” said Finn, “ but it burnt me as I turned it upon the spit and I put my thumb in my mouth.”</p>
+<p>Now it is to be told what happened to Finn at the house of Finegas the Bard. Finn did not deem that the time had come for him to seize the captaincy of the Fianna until he had perfected himself in wisdom and learning. So on leaving the shelter of the old men in the wood he went to learn wisdom and the art of poetry from Finegas, who dwelt by the River Boyne, near to where is now the village of Slane. It was a belief among the poets of Ireland that the place of the revealing of poetry is always by the margin of water. But Finegas had another reason for the place where he made his dwelling, for there was an old prophecy that who-ever should first eat of the Salmon of Knowledge that lived in the River Boyne, should become the wisest of men. Now this salmon was called Finntan in ancient times and was one of the Immortals, and he might be eaten and yet live. But in the time of Finegas he was called the Salmon of the Pool of Fee, which is the place where the fair river broadens out into a great still pool, with green banks softly sloping upward from the clear brown water. Seven years was Finegas watching the pool, but not until after Finn had come to be his disciple was the salmon caught. Then Finegas gave it to Finn to cook, and bade him eat none of it. But when Finegas saw him coming with the fish, he knew that something had chanced to the lad, for he had been used to have the eye of a young man but now he had the eye of a sage. Finegas said, “Hast thou eaten of the salmon?”</p>
+<p>“Nay,” said Finn, “but it burnt me as I turned it upon the spit and I put my thumb in my mouth.”</p>
 <p>And Finegas smote his hands together and was silent for a while. Then he said to the lad who stood by obediently, “Take the salmon and eat it, Finn, son of Cumhal, for to thee the prophecy is come. And now go hence, for I can teach thee no more, and blessing and victory be thine.”</p>
-<p>With Finegas, Finn learned the three things that make a poet, and they are Fire of Song, and Light of Knowledge, and the Art of Extempore Recitation. Before he departed he made this lay to prove his art, and it is called “ The Song of Finn in Praise of May “</p>
-<p>May Day ! delightful day !<br />
+<p>With Finegas, Finn learned the three things that make a poet, and they are Fire of Song, and Light of Knowledge, and the Art of Extempore Recitation. Before he departed he made this lay to prove his art, and it is called “The Song of Finn in Praise of May.”</p>
+<p>May Day ! delightful day!<br />
 Bright colours play the vales along.<br />
 Now wakes at morning’s slender ray,<br />
 Wild and gay, the blackbird’s song.</p>
 <p>Now comes the bird of dusty hue.<br />
-The loud cuckoo, the summer-lover ;<br />
+The loud cuckoo, the summer-lover;<br />
 Branching trees are thick with leaves<br />
 The bitter, evil time is over.</p>
 <p>Swift horses gather nigh<br />
-Where half dry the river goes ;<br />
-Tufted heather crowns the height ;<br />
+Where half dry the river goes;<br />
+Tufted heather crowns the height;<br />
 Weak and white the bogdown blows.</p>
 <p>Corncrake sings from eve till morn,<br />
-Deep in corn, a strenuous bard !<br />
+Deep in corn, a strenuous bard!<br />
 Sings the virgin waterfall,<br />
 White and tall, her one sweet word.</p>
 <p>Loaded bees of little power<br />
-Goodly flower-harvest win ;<br />
-Cattle roam with muddy flanks ;<br />
+Goodly flower-harvest win;<br />
+Cattle roam with muddy flanks;<br />
 Busy ants go out and in.</p>
 <p>Through the wild harp of the wood<br />
-Making music roars the gale —<br />
+Making music roars the gale—<br />
 Now it slumbers without motion,<br />
 On the ocean sleeps the sail.</p>
 <p>Men grow mighty in the May,<br />
-Proud and gay the maidens grow ;<br />
-Fair is every wooded height ;<br />
+Proud and gay the maidens grow;<br />
+Fair is every wooded height;<br />
 Fair and bright the plain below.</p>
 <p>A bright shaft has smit the streams,<br />
-With gold gleams the water-flag ;<br />
+With gold gleams the water-flag;<br />
 Leaps the fish, and on the hills<br />
 Ardour thrills the flying stag.</p>
 <p>Carols loud the lark on high,<br />
@@ -416,7 +450,7 @@ by James Stephens</p>
 <p>Publication date 1920</p>
 <p>In Section THE BOYHOOD OF FIONN</p>
 <p>CHAPTER IX</p>
-<p>All desires save one are fleeting, but that one lasts for ever. Fionn, with all desires, had the lasting one, for he would go anywhere and forsake anything for wisdom ; and it was in search of this that he went to the place where Finegas lived on a bank of the Boyne Water. But for dread of the clann-Morna he did not go as Fionn. He called himself Deimne on that journey.</p>
+<p>All desires save one are fleeting, but that one lasts for ever. Fionn, with all desires, had the lasting one, for he would go anywhere and forsake anything for wisdom; and it was in search of this that he went to the place where Finegas lived on a bank of the Boyne Water. But for dread of the clann-Morna he did not go as Fionn. He called himself Deimne on that journey.</p>
 <p>We get wise by asking questions, and even if these are not answered we get wise, for a well-packed question carries its answer on its back as a snail carries its shell. Fionn asked every question he could think of, and his master, who was a poet, and so an honourable man, answered them all, not to the limit of his patience, for it was limitless, but to the limit of his ability.</p>
 <p>“Why do you live on the bank of a river?” was one of these questions.</p>
 <p>“Because a poem is a revelation, and it is by the brink of running water that poetry is revealed to the mind.”</p>
@@ -429,7 +463,7 @@ by James Stephens</p>
 <p>“Would you have got as good poems by the Shannon or the Suir or by sweet Ana Life?”</p>
 <p>“They are good rivers,” was the answer. “They all belong to good gods.”</p>
 <p>“But why did you choose this river out of all the rivers?”</p>
-<p>Finegas beamed on his pupil :</p>
+<p>Finegas beamed on his pupil:</p>
 <p>“I would tell you anything,” said he, “and I will tell you that.”</p>
 <p>Fionn sat at the kindly man’s feet, his hands absent among tall grasses, and listening with all his ears.</p>
 <p>“A prophecy was made to me,” Finegas began. “A man of knowledge foretold that I should catch the Salmon of Knowledge in the Boyne Water.”</p>
@@ -474,8 +508,8 @@ by James Stephens</p>
 <p>“You will not eat any of my salmon while I am away?” he asked.</p>
 <p>“I will not eat the littlest piece,” said Fionn.</p>
 <p>“I am sure you will not,” the other murmured, as he turned and walked slowly across the grass and behind the sheltering bushes on the ridge.</p>
-<p>Fionn cooked the salmon. It was beautiful and tempting and savoury as it smoked on a wooden platter among cool green leaves ; and it looked all these to Finegas when he came from behind the fringing bushes and sat in the grass outside his door. He gazed on the fish with more than his eyes. He looked on it with his heart, with his soul in his eyes, and when he turned to look on Fionn the boy did not know whether the love that was in his eyes was for the fish or for himself. Yet he did know that a great moment had arrived for the poet.</p>
-<p>“So,” said Finegas, “you did not eat it on me after all ?”</p>
+<p>Fionn cooked the salmon. It was beautiful and tempting and savoury as it smoked on a wooden platter among cool green leaves; and it looked all these to Finegas when he came from behind the fringing bushes and sat in the grass outside his door. He gazed on the fish with more than his eyes. He looked on it with his heart, with his soul in his eyes, and when he turned to look on Fionn the boy did not know whether the love that was in his eyes was for the fish or for himself. Yet he did know that a great moment had arrived for the poet.</p>
+<p>“So,” said Finegas, “you did not eat it on me after all?”</p>
 <p>“Did I not promise?” Fionn replied.</p>
 <p>“And yet,” his master continued, “I went away so that you might eat the fish if you felt you had to.”</p>
 <p>“Why should I want another man’s fish?” said proud Fionn.</p>
@@ -514,31 +548,31 @@ own.
 <div class="dropdown admonition">
 <p class="admonition-title">Finn Learns the art of poetry from Finegas, Lady Gregory, in <em>Gods and Fighting Men</em>, 1904</p>
 <p><a class="reference external" href="https://archive.org/details/godsfightingmens00gregrich/page/158/mode/2up?q=cat">https://archive.org/details/godsfightingmens00gregrich/page/158/mode/2up?q=cat</a></p>
-<p>Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland
+<p>Gods and fighting men: the story of the Tuatha de Danaan and of the Fiana of Ireland
 by Gregory, Lady, 1852-1932; Finn, MacCumaill, 3rd cent; Yeats, W. B. (William Butler), 1865-1939</p>
 <p>Publication date 1904</p>
 <p>p162-164</p>
 <p>PART TWO: THE FIANNA.</p>
-<p>BOOK ONE : FINN, SON OF CUMHAL.</p>
+<p>BOOK ONE: FINN, SON OF CUMHAL.</p>
 <p>CHAPTER I. THE COMING OF FINN</p>
 <p>cont.</p>
-<p>And then he said farewell to Crimall, and went on to learn poetry from Finegas, a poet that was living at the Boinn, for the poets thought it was always on the brink of water poetry was revealed to them. And he did not give him his own name, but he took the name of Deimne. Seven years, now, Finegas had stopped at the Boinn, watching the salmon, for it was in the prophecy that he would eat the salmon of knowledge that would come there, and that he would have all knowledge after. And when at the last the salmon of knowledge came, he brought it to where Finn was, and bade him to roast it, but he bade him not to eat any of it. And when Finn brought him the salmon after a while he said : “ Did you eat any of it at all, boy ? “ “ I did not,” said Finn ; “ but I burned my thumb putting down a blister that rose on the skin, and after doing that, I put my thumb in my mouth.” “ What is your name, boy ? “ said Finegas. “ Deimne,” said he. “ It is not, but it is Finn your name is, and it is to you and not to myself the salmon was given in the prophecy.” With that he gave Finn the whole of the salmon, and from that time Finn had the knowledge that came from the nuts of the nine hazels of wisdom that grow beside the well that is below the sea.</p>
+<p>And then he said farewell to Crimall, and went on to learn poetry from Finegas, a poet that was living at the Boinn, for the poets thought it was always on the brink of water poetry was revealed to them. And he did not give him his own name, but he took the name of Deimne. Seven years, now, Finegas had stopped at the Boinn, watching the salmon, for it was in the prophecy that he would eat the salmon of knowledge that would come there, and that he would have all knowledge after. And when at the last the salmon of knowledge came, he brought it to where Finn was, and bade him to roast it, but he bade him not to eat any of it. And when Finn brought him the salmon after a while he said: “Did you eat any of it at all, boy?” “I did not,” said Finn; “but I burned my thumb putting down a blister that rose on the skin, and after doing that, I put my thumb in my mouth.” “What is your name, boy?” said Finegas. “Deimne,” said he. “It is not, but it is Finn your name is, and it is to you and not to myself the salmon was given in the prophecy.” With that he gave Finn the whole of the salmon, and from that time Finn had the knowledge that came from the nuts of the nine hazels of wisdom that grow beside the well that is below the sea.</p>
 <p>And besides the wisdom he got then, there was a second wisdom came to him another time, and this is the way it happened. There was a well of the moon belonging to Beag, son of Buan, of the Tuatha de Danaan, and whoever would drink out of it would get wisdom, and after a second drink he would get the gift of foretelling. And the three daughters of Beag, son of Buan, had charge of the well, and they would not part with a vessel of it for anything less than red gold. And one day Finn chanced to be hunting in the rushes near the well, and the three women ran out to hinder him from coming to it, and one of them that had a vessel of the water in her hand, threw it at him to stop him, and a share of the water went into his mouth. And from that out he had all the knowledge that the water of that well could give.</p>
-<p>And he learned the three ways of poetry ; and this is the poem he made to show he had got his learning well : —</p>
-<p>“ It is the month of May is the pleasant time ; its face is beautiful ; the blackbird sings his full song, the living wood is his holding, the cuckoos are singing and ever singing ; there is a welcome before the brightness of the summer.</p>
-<p>“ Summer is lessening the rivers, the swift horses are looking for the pool ; the heath spreads out its long hair, the weak white bog-down grows. A wildness comes on the heart of the deer ; the sad restless sea is asleep.</p>
-<p>“ Bees with their little strength carry a load reaped from the flowers ; the cattle go up muddy to the mountains ; the ant has a good full feast.</p>
-<p>“ The harp of the woods is playing music ; there is colour on the hills, and a haze on the full lakes, and entire peace upon every sail.</p>
-<p>“ The corncrake is speaking, a loud-voiced poet ; the high lonely waterfall is singing a welcome to the warm pool, the talking of the rushes has begun.</p>
-<p>“The light swallows are darting; the loudness of music is around the hill ; the fat soft mast is budding ; there is grass on the trembling bogs.</p>
-<p>“ The bog is as dark as the feathers of the raven ; the cuckoo makes a loud welcome ; the speckled salmon is leaping ; as strong is the leaping of the swift fighting man.</p>
-<p>“ The man is gaining ; the girl is in her comely growing power ; every wood is without fault from the top to the ground, and every wide good plain.</p>
-<p>“ It is pleasant is the colour of the time ; rough winter is gone ; every plentiful wood is white ; summer is a joyful peace.</p>
-<p>“ A flock of birds pitches in the meadow ; there are sounds in the green fields, there is in them a clear rushing stream.</p>
-<p>“ There is a hot desire on you for the racing of horses ; twisted holly makes a leash for the hound ; a bright spear has been shot into the earth, and the flag-flower is golden under it.</p>
-<p>“ A weak lasting little bird is singing at the top of his voice ; the lark is singing clear tidings ; May without fault, of beautiful colours.</p>
-<p>“ I have another story for you ; the ox is lowing, the winter is creeping in, the summer is gone. High and cold the wind, low the sun, cries are about us ; the sea is quarrelling.</p>
-<p>“ The ferns are reddened and their shape is hidden ; the cry of the wild goose is heard ; the cold has caught the wings of the birds; it is the time of ice-frost, hard, unhappy.”</p>
+<p>And he learned the three ways of poetry; and this is the poem he made to show he had got his learning well:—</p>
+<p>“It is the month of May is the pleasant time; its face is beautiful; the blackbird sings his full song, the living wood is his holding, the cuckoos are singing and ever singing; there is a welcome before the brightness of the summer.</p>
+<p>“Summer is lessening the rivers, the swift horses are looking for the pool; the heath spreads out its long hair, the weak white bog-down grows. A wildness comes on the heart of the deer; the sad restless sea is asleep.</p>
+<p>“Bees with their little strength carry a load reaped from the flowers; the cattle go up muddy to the mountains; the ant has a good full feast.</p>
+<p>“The harp of the woods is playing music; there is colour on the hills, and a haze on the full lakes, and entire peace upon every sail.</p>
+<p>“The corncrake is speaking, a loud-voiced poet; the high lonely waterfall is singing a welcome to the warm pool, the talking of the rushes has begun.</p>
+<p>“The light swallows are darting; the loudness of music is around the hill; the fat soft mast is budding; there is grass on the trembling bogs.</p>
+<p>“The bog is as dark as the feathers of the raven; the cuckoo makes a loud welcome; the speckled salmon is leaping; as strong is the leaping of the swift fighting man.</p>
+<p>“The man is gaining; the girl is in her comely growing power; every wood is without fault from the top to the ground, and every wide good plain.</p>
+<p>“It is pleasant is the colour of the time; rough winter is gone; every plentiful wood is white; summer is a joyful peace.</p>
+<p>“A flock of birds pitches in the meadow; there are sounds in the green fields, there is in them a clear rushing stream.</p>
+<p>“There is a hot desire on you for the racing of horses; twisted holly makes a leash for the hound; a bright spear has been shot into the earth, and the flag-flower is golden under it.</p>
+<p>“A weak lasting little bird is singing at the top of his voice; the lark is singing clear tidings; May without fault, of beautiful colours.</p>
+<p>“I have another story for you; the ox is lowing, the winter is creeping in, the summer is gone. High and cold the wind, low the sun, cries are about us; the sea is quarrelling.</p>
+<p>“The ferns are reddened and their shape is hidden; the cry of the wild goose is heard; the cold has caught the wings of the birds; it is the time of ice-frost, hard, unhappy.”</p>
 </div>
 <p>Jeremiah Curtin’s telling of the Salmon of Knowledge in <em>Myths and folk-lore of Ireland</em> is quite different.</p>
 <div class="dropdown admonition">
@@ -550,22 +584,22 @@ Publication date 1890</p>
 <p>p210-213</p>
 <p>Fin and Bran went on till they came to a great cave, in which they found a herd of goats. At the further end of the cave was a smouldering fire. The two lay down to rest.</p>
 <p>A couple of hours later, in came a giant with a salmon in his hand. This giant was of awful height, he had but one eye, and that in the middle of his forehead, as large as the sun in heaven.</p>
-<p>When he saw Fin, he called out: “ Here, take this salmon and roast it ; but be careful, for if you raise a single blister on it I ‘11 cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world.”
+<p>When he saw Fin, he called out: “Here, take this salmon and roast it; but be careful, for if you raise a single blister on it I’ll cut the head off you. I Ve followed this salmon for three days and three nights without stopping, and I never let it out of my sight, for it is the most wonderful salmon in the world.”
 The giant lay down to sleep in the middle of the cave. Fin spitted the salmon, and held it over the fire.</p>
-<p>The minute the giant closed the one eye in his head, he began to snore. Every time he drew breath into his body, he dragged Fin, the spit, the salmon, Bran, and all the goats to his mouth ; and every time he drove a breath out of himself, he threw them back to the places they were in before. Fin was drawn time after time to the mouth of the giant with such force, that he was in dread of going down his throat.</p>
+<p>The minute the giant closed the one eye in his head, he began to snore. Every time he drew breath into his body, he dragged Fin, the spit, the salmon, Bran, and all the goats to his mouth; and every time he drove a breath out of himself, he threw them back to the places they were in before. Fin was drawn time after time to the mouth of the giant with such force, that he was in dread of going down his throat.</p>
 <p>When partly cooked, a blister rose on the salmon. Fin pressed the place with his thumb, to know could he break the blister, and hide from the giant the harm that was done. But he burned his thumb, and, to ease the pain, put it between his teeth, and gnawed the skin to the flesh, the flesh to the bone, the bone to the marrow; and when he had tasted the marrow, he received the knowledge of all things. Next moment, he was drawn by the breath of the giant right up to his face, and, knowing from his thumb what to do, he plunged the hot spit into the sleeping eye of the giant and destroyed it.</p>
 <p>That instant the giant with a single bound was at the low entrance of the cave, and, standing with his back to the wall and a foot on each side of the opening, roared out: “You’ll not leave this place alive.”</p>
-<p>Now Fin killed the largest goat, skinned him as quickly as he could, then putting the skin on himself he drove the herd to where the giant stood ; the goats passed out one by one between his legs. When the great goat came the giant took him by the horns. Fin slipped from the skin, and ran out.</p>
-<p>“ Oh, you’ve escaped, “ said the giant, “ but before we part let me make you a present.”</p>
-<p>“ I ‘m afraid to go near you,” said Fin ; “ if you wish to give me a present, put it out this way, and then go back.”</p>
+<p>Now Fin killed the largest goat, skinned him as quickly as he could, then putting the skin on himself he drove the herd to where the giant stood; the goats passed out one by one between his legs. When the great goat came the giant took him by the horns. Fin slipped from the skin, and ran out.</p>
+<p>“Oh, you’ve escaped,” said the giant, “but before we part let me make you a present.”</p>
+<p>“I’m afraid to go near you,” said Fin; “if you wish to give me a present, put it out this way, and then go back.”</p>
 <p>The giant placed a ring on the ground, then went back. Fin took up the ring and put it on the end of his little finger above the first joint. It clung so firmly that no man in the world could have taken it off.</p>
-<p>The giant then called out, “ Where are you?”</p>
-<p>“ On Fin’s finger, “ cried the ring. That instant the giant sprang at Fin and almost came down on his head, thinking in this way to crush him to bits. Fin sprang to a distance. Again the giant asked, “ Where are you? “</p>
-<p>“ On Fin’s finger,” answered the ring.</p>
-<p>Again the giant made a leap, coming down just in front of Fin. Many times he called and many times almost caught Fin, who could not escape with the ring on his finger. While in this terrible struggle, not knowing how to escape, Bran ran up and asked :</p>
-<p>“ Why don’t you chew your thumb? “</p>
+<p>The giant then called out, “Where are you?”</p>
+<p>“On Fin’s finger,” cried the ring. That instant the giant sprang at Fin and almost came down on his head, thinking in this way to crush him to bits. Fin sprang to a distance. Again the giant asked, “Where are you?”</p>
+<p>“On Fin’s finger,” answered the ring.</p>
+<p>Again the giant made a leap, coming down just in front of Fin. Many times he called and many times almost caught Fin, who could not escape with the ring on his finger. While in this terrible struggle, not knowing how to escape, Bran ran up and asked:</p>
+<p>“Why don’t you chew your thumb?”</p>
 <p>Fin bit his thumb to the marrow, and then knew what to do. He took the knife with which he had skinned the goat, cut off his finger at the first joint, and threw it, with the ring still on, into a deep bog near by.</p>
-<p>Again the giant called out, “ Where are you?” and the ring answered, “ On Fin’s finger.”</p>
+<p>Again the giant called out, “Where are you?” and the ring answered, “On Fin’s finger.”</p>
 <p>Straightway the giant sprang towards the voice, sank to his shoulders in the bog, and stayed there.</p>
 </div>
 </section>
@@ -668,8 +702,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

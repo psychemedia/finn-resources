@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'entry-tests';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://fionnmaccumhail.montystoryteller.org/entry-tests.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Meet the Heroes" href="meet-the-heroes.html" />
     <link rel="prev" title="Birth of Bran and Sceolan" href="birth_bran.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,55 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+</div>
+
     </header>
   
 
@@ -124,7 +164,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +195,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -208,9 +245,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -293,7 +335,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -307,24 +349,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -356,18 +390,18 @@ document.write(`
 <p>The entry requirements for joining the Fianna are offered by Standish O’Grady in the <em>Silva Gadelica</em>:</p>
 <div class="admonition-the-enumeration-of-finn-s-people admonition">
 <p class="admonition-title">The Enumeration of Finn’s People</p>
-<p>In <em>Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places</em>, <a class="reference external" href="https://archive.org/details/silvagadelicaix02gragoog/page/98/mode/2up">Vol II translation and notes</a>, Standish O’Grady, 1892, p99-100.</p>
-<p>This is the enumeration [and description] of Finn’s people : their strength was seven score and ten officers, each man of these having thrice nine warriors, every one bound (as was the way with Cuchullin in the time when he was there) to certain conditions of service, which were: that in satisfaction of their guarantee violated they must not accept material compensation ; in the matter of valuables or of meat must not deny any ; no single individual of them to fly before nine warriors.</p>
-<p>Of such not a man was taken into the Fianna ; nor admitted whether to the great Gathering of Usnach, to the Convention of Taillté or to Tara’s Feast; until both his paternal and his maternal correlatives, his tuatha and kindreds, had given securities for them to the effect that, though at the present instant they were slain, yet should no claim be urged in lieu of them : and this in order that to none other but to themselves alone they should look to avenge them. On the other hand: in case it were they that inflicted great mischiefs upon others, reprisals not to be made upon their several people.</p>
+<p>In <em>Silva gadelica (I-XXXI): a collection of tales in Irish with extracts illustrating persons and places</em>, <a class="reference external" href="https://archive.org/details/silvagadelicaix02gragoog/page/98/mode/2up">Vol II translation and notes</a>, Standish O’Grady, 1892, p99-100.</p>
+<p>This is the enumeration [and description] of Finn’s people: their strength was seven score and ten officers, each man of these having thrice nine warriors, every one bound (as was the way with Cuchullin in the time when he was there) to certain conditions of service, which were: that in satisfaction of their guarantee violated they must not accept material compensation; in the matter of valuables or of meat must not deny any; no single individual of them to fly before nine warriors.</p>
+<p>Of such not a man was taken into the Fianna; nor admitted whether to the great Gathering of Usnach, to the Convention of Taillté or to Tara’s Feast; until both his paternal and his maternal correlatives, his tuatha and kindreds, had given securities for them to the effect that, though at the present instant they were slain, yet should no claim be urged in lieu of them: and this in order that to none other but to themselves alone they should look to avenge them. On the other hand: in case it were they that inflicted great mischiefs upon others, reprisals not to be made upon their several people.</p>
 <p>Of all these again not a man was taken until he were a prime poet versed in the twelve books of poesy. No man was taken till in the ground a large hole had been made (such as to reach the fold of his belt) and he put into it with his shield and a fore-arm’s length of a hazel stick. Then must nine warriors, having nine spears, with a ten furrows’ width betwixt them and him, assail him and in concert let fly at him. If past that guard of his he were hurt then, he was not received into Fianship.</p>
-<p>Not a man of them was taken till his hair had been interwoven into braids on him and he started at a run through Ireland’s woods ; while they, seeking to wound him, followed in his wake, there having been between him and them but one forest bough by way of interval at first. Should he be overtaken, he was wounded and not received into the Fianna after. If his weapons had quivered in his hand, he was not taken. Should a branch in the wood have disturbed anything of his hair out of its braiding, neither was he taken. If he had cracked a dry stick under his foot [as he ran] he was not accepted. Unless that [at his full speed] he had both jumped a stick level with his brow, and stooped to pass under one even with his knee, he was not taken. Also, unless without slackening his pace he could with his nail extract a thorn from his foot, he was not taken into Fianship : but if he performed all this he was of Finn’s people.</p>
-<p>A good man verily was he that had those Fianna, for he was the seventh king ruling Ireland : that is to say there were five kings of the provinces, and the king of Ireland ; he being himself the seventh, conjointly with the king of all Ireland.</p>
+<p>Not a man of them was taken till his hair had been interwoven into braids on him and he started at a run through Ireland’s woods; while they, seeking to wound him, followed in his wake, there having been between him and them but one forest bough by way of interval at first. Should he be overtaken, he was wounded and not received into the Fianna after. If his weapons had quivered in his hand, he was not taken. Should a branch in the wood have disturbed anything of his hair out of its braiding, neither was he taken. If he had cracked a dry stick under his foot [as he ran] he was not accepted. Unless that [at his full speed] he had both jumped a stick level with his brow, and stooped to pass under one even with his knee, he was not taken. Also, unless without slackening his pace he could with his nail extract a thorn from his foot, he was not taken into Fianship: but if he performed all this he was of Finn’s people.</p>
+<p>A good man verily was he that had those Fianna, for he was the seventh king ruling Ireland: that is to say there were five kings of the provinces, and the king of Ireland; he being himself the seventh, conjointly with the king of all Ireland.</p>
 </div>
 <p>O’Grady’s translation also summarises some of the roles available with the Fianna:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Job Opportunities in the Fianna</p>
-<p>In <em>Silva gadelica (I-XXXI) : a collection of tales in Irish with extracts illustrating persons and places</em>, <a class="reference external" href="https://archive.org/details/silvagadelicaix02gragoog/page/100/mode/2up">Vol II translation and notes</a>, Standish O’Grady, 1892, p100.</p>
-<p>Finn’s two poll-wards were Noenalach, and Raer grandson of Garb ; the two stewards of his hounds : Crimthann and Connla Cas ; his dispenser : Cathluan son of Crimthann ; his master of the banquet : Core son of Suan ; his three cupbearers : Dermot grandson of Duibhne, and Faillin, and Colla son of Caeilte ; the two overseers of his hearth : Caeilte and Glanna ; his two makers of the bed: AdmoU and mac Neri; his twelve musicians: Fergus True-mouth, Fianu, Bran, two Reidhes, Nuada, and Aithime Aghmar, and  .  ,  ,  .   Flann and Aedh, Cobthach o the high strains, and Cethern ; his physician : Lerthuile ; his two keepers of the vessels : Braen and Cellach Mael ; his barber : Scannal ; his comber : Daelgus ; his charioteer : Rinnchu ; his two masters of the horse : Aena and Becan ; his strong man : Urchraide grandson of Bregaide; his six door-keepers: Cuchaire and Bresal Borr, Fianchad and Mac-dd-fer^ Imchad and Aithech son of Aithech-bal ; his carpenter: Donngus; his smith: Collan; his worker in metal : Congaran ; his horn-players : Culaing and Cuchuailgne ; his two soothsayers : Dirinn and Mac-reith ; his carver : Cuinnscleo ; his candle-holder : Cudam ; his two spear* bearers : .   .   .  and Uadgarb ; his shield-bearer : Railbhe, and so on.</p>
+<p>In <em>Silva gadelica (I-XXXI): a collection of tales in Irish with extracts illustrating persons and places</em>, <a class="reference external" href="https://archive.org/details/silvagadelicaix02gragoog/page/100/mode/2up">Vol II translation and notes</a>, Standish O’Grady, 1892, p100.</p>
+<p>Finn’s two poll-wards were Noenalach, and Raer grandson of Garb; the two stewards of his hounds: Crimthann and Connla Cas; his dispenser: Cathluan son of Crimthann; his master of the banquet: Core son of Suan; his three cupbearers: Dermot grandson of Duibhne, and Faillin, and Colla son of Caeilte; the two overseers of his hearth: Caeilte and Glanna; his two makers of the bed: AdmoU and mac Neri; his twelve musicians: Fergus True-mouth, Fianu, Bran, two Reidhes, Nuada, and Aithime Aghmar, and  .  ,  ,  .   Flann and Aedh, Cobthach o the high strains, and Cethern; his physician: Lerthuile; his two keepers of the vessels: Braen and Cellach Mael; his barber: Scannal; his comber: Daelgus; his charioteer: Rinnchu; his two masters of the horse: Aena and Becan; his strong man: Urchraide grandson of Bregaide; his six door-keepers: Cuchaire and Bresal Borr, Fianchad and Mac-dd-fer^ Imchad and Aithech son of Aithech-bal; his carpenter: Donngus; his smith: Collan; his worker in metal: Congaran; his horn-players: Culaing and Cuchuailgne; his two soothsayers: Dirinn and Mac-reith; his carver: Cuinnscleo; his candle-holder: Cudam; his two spear* bearers: .   .   .  and Uadgarb; his shield-bearer: Railbhe, and so on.</p>
 </div>
 <p>A summary of the qualifications and duties of the Fianna is also provided in Kennedy’s <em>Legendary fictions of the Irish Celts</em>:</p>
 <div class="dropdown admonition">
@@ -376,17 +410,17 @@ document.write(`
 <p>PART IV.— OSSIANIC AND OTHER EARLY LEGENDS,</p>
 <p>QUALIFICATIONS AND DUTIES OF THE FIANNA EIRIONN.</p>
 <p>With the name and opinions of modern Fenians every one’s ears have been dinned. For the sake of that portion of our readers who have not devoted much attention to Gaelic archaeology, we devote a few pages to the subject of that body of ancient militia whose title they have appropriated.</p>
-<p>As to the derivation of the word we are not so much embarrassed by the poverty as the abundance of the materials. <em>Fine</em> means tribe, family, kindred, nation, soldier, vineyard ; <em>Finne</em>, whiteness, fairness ; <em>Fion</em>, wine, truth, ancient ; <em>Fionn</em>, a head, chief, troops, sincere, true, fine, fair, pleasant. The term <em>Fianna</em>, giants or soldiers, was applied to the warriors of Albanach (Scotland) and Britain, as well as to those of Ireland.</p>
-<p>This standing army, if the bardic chronicles are reliable, consisted of men of good birth, and what would in later times be called knightly rank. They were not distinguished by any name of the same signification as <em>Knight</em>, which in its parent language, the Teutonic, simply meant <em>Valet</em>. They were <em>Laochs</em>, heroes (the German <em>Helden</em>) and when associated to a military order they were <em>Curai</em>, companions. A postulant for admission among the Fians should be a free man in every respect, and so expert that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half a dozen men darting spears at him from a distance of nine ridges. If he escaped unwounded, he was required to run through a tangled wood with his long hair hanging loose, and get out at the other side, uncaught by the same or another half dozen warriors. If an ill-conditioned bough as low as his knee crossed his path, he should run under it ; if it were no higher than his shoulder, he should bound over it. Having passed this bodily ordeal he was obliged to swear fealty to the <em>Ard Righ</em> (head king), to promise on his word as Curadh to be charitable to the poor and to respect women. His near relations were also engaged never to seek <em>eric</em> (blood-fine) for his death, but to leave that care and the defence of his honour to his brothers-in-arms.</p>
+<p>As to the derivation of the word we are not so much embarrassed by the poverty as the abundance of the materials. <em>Fine</em> means tribe, family, kindred, nation, soldier, vineyard; <em>Finne</em>, whiteness, fairness; <em>Fion</em>, wine, truth, ancient; <em>Fionn</em>, a head, chief, troops, sincere, true, fine, fair, pleasant. The term <em>Fianna</em>, giants or soldiers, was applied to the warriors of Albanach (Scotland) and Britain, as well as to those of Ireland.</p>
+<p>This standing army, if the bardic chronicles are reliable, consisted of men of good birth, and what would in later times be called knightly rank. They were not distinguished by any name of the same signification as <em>Knight</em>, which in its parent language, the Teutonic, simply meant <em>Valet</em>. They were <em>Laochs</em>, heroes (the German <em>Helden</em>) and when associated to a military order they were <em>Curai</em>, companions. A postulant for admission among the Fians should be a free man in every respect, and so expert that, merely armed with a stick and shield, he could defend his otherwise unguarded body from half a dozen men darting spears at him from a distance of nine ridges. If he escaped unwounded, he was required to run through a tangled wood with his long hair hanging loose, and get out at the other side, uncaught by the same or another half dozen warriors. If an ill-conditioned bough as low as his knee crossed his path, he should run under it; if it were no higher than his shoulder, he should bound over it. Having passed this bodily ordeal he was obliged to swear fealty to the <em>Ard Righ</em> (head king), to promise on his word as Curadh to be charitable to the poor and to respect women. His near relations were also engaged never to seek <em>eric</em> (blood-fine) for his death, but to leave that care and the defence of his honour to his brothers-in-arms.</p>
 </div>
 <p>Kennedy also describes something of the domestic arrangements of the Fianna, including a mention of their ovens (the “ovens of the Feine”).</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Domestic Situation of the Fianna</p>
 <p>In <a class="reference external" href="https://archive.org/details/legendaryfictio01kenngoog/page/n228/mode/2up"><em>Legendary fictions of the Irish Celts</em></a>, Patrick Kennedy, 1866, pp. 209-212</p>
-<p>During the winter half year, the Fians were entertained at the expense of the kings and chiefs. In the other they spent most of their time fishing and hunting, when not watching for invaders. They took their principal meal in the evening, and this was the programme of mealtime and bedtime : — Through the forest, and on the plains, and on the hillsides, were small circular cavities, paved with stones, and surrounded with low stone walls <code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">i.e.</span> <span class="pre">a</span> <span class="pre">cooking</span> <span class="pre">pit</span> <span class="pre">]</span></code>. A party of hunters arriving here in the afternoon made a strong fire of brushwood in this pit, and disposed therein several loose stones, of which there was a large provision lying about. The fire having burned down, and the embers being cleared away, a layer of venison or wild boar’s flesh, as it might be, wrapped in grass or rushes, was laid on the hot bottom, and a layer of the red hot stones on this. Then succeeded another layer of meat similarly garnished, and crowned by hot stones No. 2, the process being again repeated if necessary.</p>
-<p>Near these “ Ovens of the Feine,” <code class="docutils literal notranslate"><span class="pre">[the</span> <span class="pre">final</span> <span class="pre">e</span> <span class="pre">is</span> <span class="pre">always</span> <span class="pre">heard</span> <span class="pre">m</span> <span class="pre">Celtic</span> <span class="pre">words.]</span></code> as they are still called by the peasantry, was a bathing tank supplied by some neighbouring stream, and here, while the dinner was cooking, the warlike hunters bathed. A large bothy, built of sods, stones, scraws, and branches, served for dining-hall, and thither the savoury joints were conveyed, and consumed by the men just risen from their refreshing bath. The beds of the Fians were composed of withered grass and heath, with the flowered tops uppermost. The coverlets were the cloaks of the sleepers, or stag and wolf skins.</p>
+<p>During the winter half year, the Fians were entertained at the expense of the kings and chiefs. In the other they spent most of their time fishing and hunting, when not watching for invaders. They took their principal meal in the evening, and this was the programme of mealtime and bedtime:— Through the forest, and on the plains, and on the hillsides, were small circular cavities, paved with stones, and surrounded with low stone walls <code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">i.e.</span> <span class="pre">a</span> <span class="pre">cooking</span> <span class="pre">pit</span> <span class="pre">]</span></code>. A party of hunters arriving here in the afternoon made a strong fire of brushwood in this pit, and disposed therein several loose stones, of which there was a large provision lying about. The fire having burned down, and the embers being cleared away, a layer of venison or wild boar’s flesh, as it might be, wrapped in grass or rushes, was laid on the hot bottom, and a layer of the red hot stones on this. Then succeeded another layer of meat similarly garnished, and crowned by hot stones No. 2, the process being again repeated if necessary.</p>
+<p>Near these “Ovens of the Feine,” <code class="docutils literal notranslate"><span class="pre">[the</span> <span class="pre">final</span> <span class="pre">e</span> <span class="pre">is</span> <span class="pre">always</span> <span class="pre">heard</span> <span class="pre">in</span> <span class="pre">Celtic</span> <span class="pre">words.]</span></code> as they are still called by the peasantry, was a bathing tank supplied by some neighbouring stream, and here, while the dinner was cooking, the warlike hunters bathed. A large bothy, built of sods, stones, scraws, and branches, served for dining-hall, and thither the savoury joints were conveyed, and consumed by the men just risen from their refreshing bath. The beds of the Fians were composed of withered grass and heath, with the flowered tops uppermost. The coverlets were the cloaks of the sleepers, or stag and wolf skins.</p>
 <p>Remains of these primitive ovens are still extant, the soil about them being distinguished by its dark colour. They are also met with in the Scottish Highlands.</p>
-<p>The institution was not long-lived. No records are left of it of longer extent than three generations. Portions of the troops were always in the neighbourhood of harbours ; and if the approaching foe was strong in men and barques, signals sped from hill to hill until a sufficient band of defenders was collected.</p>
+<p>The institution was not long-lived. No records are left of it of longer extent than three generations. Portions of the troops were always in the neighbourhood of harbours; and if the approaching foe was strong in men and barques, signals sped from hill to hill until a sufficient band of defenders was collected.</p>
 <p>…</p>
 </div>
 <p>In Rolleston’s description of the trials faced by men wanting to join the Fianna, he begins by reviewing some of the virtues of Finn himself:</p>
@@ -394,9 +428,9 @@ document.write(`
 <p class="admonition-title">The Virtues of Finn and the Fianna</p>
 <p>In <em>CHAPTER XI: Finn’s Chief Men</em>, of <a class="reference external" href="https://archive.org/details/in.ernet.dli.2015.178478/page/n137/mode/2up"><em>The High Deeds Of Finn</em></a>, T. W. Rolleston, 1910, p126-7.</p>
 <p>Such-like things also Finn taught to all his followers, and the best of them became like himself in valour and gentleness and generosity. Each of them loved the repute of his comrades more than his own, and each would say that for all noble qualities there was no man in the breadth of the world worthy to be thought of beside Finn.</p>
-<p>It was said of him that “ he gave away gold as if it were the leaves of the woodland, and silver as if it were the foam of the sea,” and that whatever he had bestowed upon any man, if he fell out with him afterwards, he was never known to bring it against him.</p>
-<p>Sang the poet Oisin of him once to St Patrick : —</p>
-<p>“ These are the things that were dear to Finn —<br />
+<p>It was said of him that “he gave away gold as if it were the leaves of the woodland, and silver as if it were the foam of the sea,” and that whatever he had bestowed upon any man, if he fell out with him afterwards, he was never known to bring it against him.</p>
+<p>Sang the poet Oisin of him once to St Patrick:—</p>
+<p>“These are the things that were dear to Finn —<br />
 The din of battle, the banquet’s glee,<br />
 The bay of his hounds through the rough glen ringing.<br />
 And the blackbird singing in Letter Lee,<br />
@@ -506,8 +540,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

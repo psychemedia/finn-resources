@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'birth_bran';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://fionnmaccumhail.montystoryteller.org/birth_bran.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Entry Tests for the Fianna" href="entry-tests.html" />
     <link rel="prev" title="Fionn’s Leadership of the Fianna" href="finn_leadership_fianna.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,55 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+</div>
+
     </header>
   
 
@@ -124,7 +164,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +195,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -208,9 +245,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -293,7 +335,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -307,24 +349,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -352,7 +386,7 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="birth-of-bran-and-sceolan">
 <h1>Birth of Bran and Sceolan<a class="headerlink" href="#birth-of-bran-and-sceolan" title="Link to this heading">#</a></h1>
-<p>Bran and Sceolan, Fionn’s trusty hounds, make regular appearances throughout the tales, perhaps most notably in the tale of Fionn’s first meeting with Saeve, and the later discovery of their child, Oísin. For example, in Stephens’ telling, we have <em>“some of those who remembered Bran’s parentage thought that as Bran herself had come from the Shi so this fawn [Saeve, before her transformation] might have come out of the Shi also”</em>. And in Lady Gregory’s telling, Saeve remarks on how Bran and Sceolan <em>“have human wits ; and I was safe with them, for they knew my nature to be like their own”</em>.</p>
+<p>Bran and Sceolan, Fionn’s trusty hounds, make regular appearances throughout the tales, perhaps most notably in the tale of Fionn’s first meeting with Saeve, and the later discovery of their child, Oísin. For example, in Stephens’ telling, we have <em>“some of those who remembered Bran’s parentage thought that as Bran herself had come from the Shi so this fawn [Saeve, before her transformation] might have come out of the Shi also”</em>. And in Lady Gregory’s telling, Saeve remarks on how Bran and Sceolan <em>“have human wits; and I was safe with them, for they knew my nature to be like their own”</em>.</p>
 <p>So what, then, are the origins of Bran and Sceolan?</p>
 <p>In brief, the tale is as follows:</p>
 <blockquote>
@@ -360,7 +394,7 @@ document.write(`
 </div></blockquote>
 <p>The following telling comes from James Stephens’ <em>Irish Fairy Tales</em>. It contains a fantastic sequence that introduces and builds up tension in the supposedly happy relationship between Iollan and Tuiren, based on Iollan’s past:</p>
 <blockquote>
-<div><p>But the law of life is change ; nothing continues in the same way for any length of time; happiness must become unhappiness, and will be succeeded again by the joy it had displaced. The past also must be reckoned with; it is seldom as far behind us as we could wish : it is more often in front, blocking the way, and the future trips over it just when we think that the road is clear and joy our own.</p>
+<div><p>But the law of life is change; nothing continues in the same way for any length of time; happiness must become unhappiness, and will be succeeded again by the joy it had displaced. The past also must be reckoned with; it is seldom as far behind us as we could wish: it is more often in front, blocking the way, and the future trips over it just when we think that the road is clear and joy our own.</p>
 <p>Iollan had a past. He was not ashamed of it; he merely thought it was finished, although in truth it was only beginning, for it is that perpetual beginning of the past that we call the future.</p>
 </div></blockquote>
 <div class="dropdown admonition">
@@ -380,9 +414,9 @@ document.write(`
 <p>There is no more light in the sky —</p>
 <p>And hundreds of sad people learned the poem by heart.</p>
 <p>CHAPTER II</p>
-<p>When Iollan and Tuiren were married they went to Ulster, and they lived together very happily. But the law of life is change ; nothing continues in the same way for any length of time; happiness must become unhappiness, and will be succeeded again by the joy it had displaced. The past also must be reckoned with; it is seldom as far behind us as we could wish : it is more often in front, blocking the way, and the future trips over it just when we think that the road is clear and joy our own.</p>
+<p>When Iollan and Tuiren were married they went to Ulster, and they lived together very happily. But the law of life is change; nothing continues in the same way for any length of time; happiness must become unhappiness, and will be succeeded again by the joy it had displaced. The past also must be reckoned with; it is seldom as far behind us as we could wish: it is more often in front, blocking the way, and the future trips over it just when we think that the road is clear and joy our own.</p>
 <p>Iollan had a past. He was not ashamed of it; he merely thought it was finished, although in truth it was only beginning, for it is that perpetual beginning of the past that we call the future.</p>
-<p>Before he joined the Fianna he had been in love with a lady of the Shi, named Uct Dealv (Fair Breast), and they had been sweethearts for years. How often he had visited his sweetheart in Faery ! With what eagerness and anticipation he had gone there ; the lover’s whistle that he used to give was known to every person in that Shi, and he had been discussed by more than one of the delicate sweet ladies of Faery.</p>
+<p>Before he joined the Fianna he had been in love with a lady of the Shi, named Uct Dealv (Fair Breast), and they had been sweethearts for years. How often he had visited his sweetheart in Faery ! With what eagerness and anticipation he had gone there; the lover’s whistle that he used to give was known to every person in that Shi, and he had been discussed by more than one of the delicate sweet ladies of Faery.</p>
 <p>“That is your whistle, Fair Breast,” her sister of the Shi would say.</p>
 <p>And Uct Dealv would reply:</p>
 <p>“Yes, that is my mortal, my lover, my pulse, and my one treasure.”</p>
@@ -422,7 +456,7 @@ document.write(`
 <p>“You can come in without the dog, or you can stay out with the dog,” said the surly guardian.</p>
 <p>“By my hand,” cried Uct Dealv, “I will come in with this dog, or your master shall answer for it to Fionn.”</p>
 <p>At the name of Fionn the servant almost fell out of his standing. He flew to acquaint his master, and Fergus himself came to the great door of the stronghold.</p>
-<p>“By my faith,” he cried in amazement, “it is a dog/’</p>
+<p>“By my faith,” he cried in amazement, “it is a dog!’</p>
 <p>“A dog it is,” growled the glum servant.</p>
 <p>“Gro you away,” said Fergus to Uct Dealv, “and when you have killed the dog come back to me and I will give you a present.”</p>
 <p>“Life and health, my good master, from Fionn, the son of Uail, the son of Baiscne,” said she to Fergus.</p>
@@ -437,7 +471,7 @@ document.write(`
 <p>“Ah, bad dog!” said she.</p>
 <p>And then she went away well satisfied with her revenge, and returned to her own people in the Shi.</p>
 <p>CHAPTER IV</p>
-<p>On the following day Fergus called his servant :</p>
+<p>On the following day Fergus called his servant:</p>
 <p>“Has that dog stopped shivering yet?” he asked.</p>
 <p>“It has not, sir,” said the servant.</p>
 <p>“Bring the beast here,” said his master, “for whoever else is dissatisfied Fionn must be satisfied.”</p>
@@ -448,7 +482,7 @@ document.write(`
 <p>“There is a way,” said the servant doubtfully.</p>
 <p>“If there is a way, tell it to me,” cried his master angrily.</p>
 <p>“If you were to take the beast up in your arms and hug it and kiss it, the shivers would stop,” said the man.</p>
-<p>“Do you mean ?” his master thundered, and he stretched his hand for a club.</p>
+<p>“Do you mean?” his master thundered, and he stretched his hand for a club.</p>
 <p>“I heard that,” said the servant humbly.</p>
 <p>“Take that dog up,” Fergus commanded, “and hug it and kiss it, and if I find a single shiver left in the beast FU break your head.”</p>
 <p>The man bent to the hound, but it snapped a piece out of his hand, and nearly bit his nose off as well.</p>
@@ -501,16 +535,16 @@ document.write(`
 <p>But as to Fergus Fionnliath, he took to his bed, and he stayed there for a year and a day suffering from blighted affection, and he would have died in the bed only that Fionn sent him a special pup, and in a week that young hound became the Star of Fortune and the very Pulse of his Heart, so that he got well again, and he also lived happily ever after.</p>
 </div>
 <p>A shorter telling appears in Lady Gregory’s <em>Gods and fighting men</em>:</p>
-<div class="admonition-th-birth-of-bran-lady-gregory-1902 admonition">
+<div class="dropdown admonition">
 <p class="admonition-title">Th Birth of Bran, Lady Gregory, 1902</p>
-<p>In Lady Gregory, <em>Gods and fighting men : the story of the Tuatha de Danaan and of the Fiana of Ireland</em>, pp](<a class="reference external" href="https://archive.org/details/godsandfighting01yeatgoog/page/172/mode/2up">https://archive.org/details/godsandfighting01yeatgoog/page/172/mode/2up</a>), 1904, pp 172-174:</p>
+<p>In Lady Gregory, <em>Gods and fighting men: the story of the Tuatha de Danaan and of the Fiana of Ireland</em>, pp](<a class="reference external" href="https://archive.org/details/godsandfighting01yeatgoog/page/172/mode/2up">https://archive.org/details/godsandfighting01yeatgoog/page/172/mode/2up</a>), 1904, pp 172-174:</p>
 <p>This, now, is the story of the birth of Bran.</p>
-<p>Finn’s mother, Muime, came one time to Almhuin, and she brought with her Tuiren, her sister. And Iollan Eachtach, a chief man of the Fianna of Ulster, was at Almhuin at the time, and he gave his love to Tuiren, and asked her in marriage, and brought her to his own house. But before they went, Finn made him gave his word he would bring her back safe and sound if ever he asked for her, and he bade him find sureties for himself among the chief men of the Fianna. And Iollan did that, and the sureties he got were Caoilte and Goll and Lugaidh Lamha, and it was Lugaidh gave her into the hand of Iollan Eachtach.</p>
-<p>But before Iollan made that marriage, he had a sweetheart of The Sidhe, Uchtdealbof the Fair Breast; and there came great jealousy on her when she knew he had taken a wife. And she took the appearance of Finn’s woman-messenger, and she came to the house where Tuiren was, and she said: “Finn sends health and long life to you, queen, and he bids you to make a great feast; and come with me now,” she said, “ till I speak a few words with you, for there is hurry on me.”</p>
-<p>So Tuiren went out with her, and when they were away from tliie house the woman of the Sidles took out her dark Druid rod from under her cloak and gave her a blow of it that changed her into a hound, the most beautiful that was ever seen. And then she went on, bringing the hound with her, to the house of Fergus Fionnliath, king of the harbour of Gallimh. And it is the way Fergus was, he was the most unfriendly man to dogs in the whole world, and he would not let one stop in the same house with him. But it is what Uchtdealb said to him : “ Finn wishes you life and health, Fergus, and he says to you to take good care of his hound till he comes himself; and mind her well,” she said, “ for she is with young, and do not let her go hunting when her time is near, or Finn will be no way thankful to you.” “I wonder at that message,” said Fergus, “for Finn knows well there is not in the world a man has less liking for dogs than myself. But for all that,” he said, “ I will not refuse Finn the first time he sent a hound to me.”</p>
-<p>And when he brought the hound out to try her, she was the best he ever knew, and she never saw the wild creature she would not run down ; and Fergus took a great liking for hounds from that out</p>
+<p>Finn’s mother, Muirne, came one time to Almhuin, and she brought with her Tuiren, her sister. And Iollan Eachtach, a chief man of the Fianna of Ulster, was at Almhuin at the time, and he gave his love to Tuiren, and asked her in marriage, and brought her to his own house. But before they went, Finn made him gave his word he would bring her back safe and sound if ever he asked for her, and he bade him find sureties for himself among the chief men of the Fianna. And Iollan did that, and the sureties he got were Caoilte and Goll and Lugaidh Lamha, and it was Lugaidh gave her into the hand of Iollan Eachtach.</p>
+<p>But before Iollan made that marriage, he had a sweetheart of The Sidhe, Uchtdealbof the Fair Breast; and there came great jealousy on her when she knew he had taken a wife. And she took the appearance of Finn’s woman-messenger, and she came to the house where Tuiren was, and she said: “Finn sends health and long life to you, queen, and he bids you to make a great feast; and come with me now,” she said, “till I speak a few words with you, for there is hurry on me.”</p>
+<p>So Tuiren went out with her, and when they were away from the house the woman of the Sidles took out her dark Druid rod from under her cloak and gave her a blow of it that changed her into a hound, the most beautiful that was ever seen. And then she went on, bringing the hound with her, to the house of Fergus Fionnliath, king of the harbour of Gallimh. And it is the way Fergus was, he was the most unfriendly man to dogs in the whole world, and he would not let one stop in the same house with him. But it is what Uchtdealb said to him: “Finn wishes you life and health, Fergus, and he says to you to take good care of his hound till he comes himself; and mind her well,” she said, “for she is with young, and do not let her go hunting when her time is near, or Finn will be no way thankful to you.” “I wonder at that message,” said Fergus, “for Finn knows well there is not in the world a man has less liking for dogs than myself. But for all that,” he said, “I will not refuse Finn the first time he sent a hound to me.”</p>
+<p>And when he brought the hound out to try her, she was the best he ever knew, and she never saw the wild creature she would not run down; and Fergus took a great liking for hounds from that out</p>
 <p>And when her time came near, they did not let her go hunting any more, and she gave birth to two whelps.</p>
-<p>And as to Finn, when he heard his mother’s sister was not living with Iollan Eachtach, he called to him for the fulfilment of the pledge that was given to the Fianna. And Iollan asked time to go looking for Tuiren, and he gave his word that if he did not find her, he would give himself up in satisfaction for her. So they agreed to that, and Iollan went to the hill where Uchtdealb was, his sweetheart of the Sidhe, and told her the way things were with him, and the promise he had made to give himself up to the Fianna. “ If that is so,” said she, “ and if you will give me your pledge to keep me as your sweetheart to the end of your life, I will free you from that danger.” So Iollan gave her his promise, and she went to the house of Fergus Fionnliath, and she brought Tuiren away and put her own shape on her again, and gave her up to Finn. And Finn gfave her to Lugaidh Lamha that asked her in marriage.</p>
+<p>And as to Finn, when he heard his mother’s sister was not living with Iollan Eachtach, he called to him for the fulfilment of the pledge that was given to the Fianna. And Iollan asked time to go looking for Tuiren, and he gave his word that if he did not find her, he would give himself up in satisfaction for her. So they agreed to that, and Iollan went to the hill where Uchtdealb was, his sweetheart of the Sidhe, and told her the way things were with him, and the promise he had made to give himself up to the Fianna. “If that is so,” said she, “and if you will give me your pledge to keep me as your sweetheart to the end of your life, I will free you from that danger.” So Iollan gave her his promise, and she went to the house of Fergus Fionnliath, and she brought Tuiren away and put her own shape on her again, and gave her up to Finn. And Finn gave her to Lugaidh Lamha that asked her in marriage.</p>
 <p>And as to the two whelps, they stopped always with Finn, and the names he gave them were Bran and Sceolan.</p>
 </div>
 </section>
@@ -613,8 +647,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>
