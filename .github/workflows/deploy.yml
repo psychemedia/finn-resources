@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter-book ou-jupyter-book-tools
+        pip install jupyter-book ou-jupyter-book-tools sphinx-sitemap
         pip install sphinxcontrib-youtube==1.3.0 git+https://github.com/innovationOUtside/ouseful-diff-utils.git
     # Build the book
     - name: Build the book
