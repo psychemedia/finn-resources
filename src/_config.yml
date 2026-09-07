@@ -12,5 +12,9 @@ parse:
 sphinx:
   config:
     html_copy_source: false
+    html_baseurl: https://classics.montystoryteller.org/
+    sitemap_url_scheme: "{link}"
+    sitemap_locales: [null]
   extra_extensions:
     - sphinxcontrib.youtube
+    - sphinx_sitemap
